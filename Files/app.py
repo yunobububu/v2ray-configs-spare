@@ -91,7 +91,6 @@ def main():
         "https://raw.githubusercontent.com/mahsanet/MahsaFreeConfig/refs/heads/main/mtn/sub_4.txt",
         "https://raw.githubusercontent.com/yebekhe/vpn-fail/refs/heads/main/sub-link",
         "https://v2.alicivil.workers.dev",
-        "https://raw.githubusercontent.com/Surfboardv2ray/TGParse/main/splitted/mixed"
     ]
     dir_links = [
         "https://raw.githubusercontent.com/itsyebekhe/PSG/main/lite/subscriptions/xray/normal/mix",
@@ -106,7 +105,6 @@ def main():
         "https://raw.githubusercontent.com/freev2rayconfig/V2RAY_SUBSCRIPTION_LINK/main/v2rayconfigs.txt",
         "https://raw.githubusercontent.com/Everyday-VPN/Everyday-VPN/main/subscription/main.txt",
         "https://raw.githubusercontent.com/C4ssif3r/V2ray-sub/main/all.txt",
-        "https://raw.githubusercontent.com/MahsaNetConfigTopic/config/refs/heads/main/xray_final.txt",
     ]
 
     decoded_links = decode_links(links)
@@ -174,3 +172,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
