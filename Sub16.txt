@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@168.119.245.178:2020?security=none&encryption=none&headerType=none&type=tcp#🛡️ @FreakConfig
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@178.162.241.141:2020?security=none&encryption=none&headerType=none&type=tcp#All@configfu-31
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@178.162.241.141:2087?mode=gun&security=tls&encryption=none&type=grpc#Channel : @Mrsoulb 🏴🏳
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@178.162.241.142:8443?path=/&security=tls&encryption=none&type=ws#@HiByeVPNN
@@ -252,4 +253,3 @@ vless://288cf6f8-9356-4829-b6ad-8aec19683426@172.237.150.176:443?security=none&e
 vless://288cf6f8-9356-4829-b6ad-8aec19683426@172.238.177.23:443?security=none&encryption=none&type=xhttp&path=/&mode=stream-one#Telegram:@king_v2raay
 vless://289a4e03-317f-4bf8-97d3-e33200df6a3b@104.21.80.252:443?path=/1u40Y2pvl82tR3i8/MTk0LjM4LjIwLjc4?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=simowebsitespeedtest.ir&fp=chrome&type=ws&sni=SimoWeBsITesPEEDTEst.ir#
 vless://289a4e03-317f-4bf8-97d3-e33200df6a3b@104.21.80.252:443?path=/1u40Y2pvl82tR3i8/MTk0LjM4LjIwLjc4?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=simowebsitespeedtest.ir&fp=chrome&type=ws&sni=SimoWeBsITesPEEDTEst.ir#@warp_city
-vless://289a4e03-317f-4bf8-97d3-e33200df6a3b@104.21.80.252:443?path=/1u40Y2pvl82tR3i8/MTk0LjM4LjIwLjc4?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=simowebsitespeedtest.ir&fp=chrome&type=ws&sni=SimoWeBsITesPEEDTEst.ir#Bya To @Iran_V2Ray1

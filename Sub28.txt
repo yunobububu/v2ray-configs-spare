@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://609cbb2a-8bd3-4c3d-ad54-220863b5d670@95.38.104.119:1919?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#@CaV2ray ⚡️
 vless://609cbb2a-8bd3-4c3d-ad54-220863b5d670@95.38.104.119:1919?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#@ai_duet @v2rayngsupbot🛡️
 vless://609ceea9-f32a-4573-807b-771a1f3dafaf@tgju.org:80?path=/?ed=2048&security=&encryption=none&host=LONELY-MAP.onEeaT.CO&type=ws#@meli_proxyy
 vless://60bc841c-cfbd-408f-889b-473f90bb4a26@188.245.237.23:443?security=reality&encryption=none&pbk=jH08UU9id-Q8i17ltvHPO3sfGL6YTJIFveAJGgNjNl8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=refersion.com&sid=190d32b118caf07f#@V2RAY_VMESS_free
@@ -252,4 +253,3 @@ vless://6a2bda17-7dd4-450c-83fb-5ae5db27e04d@51.195.119.75:80?type=ws&host=@Evay
 vless://6a2bda17-7dd4-450c-83fb-5ae5db27e04d@51.195.119.75:80?type=ws&host=@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&path=/vless/&security=none#🇩🇪 @Evay_vpn
 vless://6a2db678-6eea-4fd9-aa70-b264008bdd5d@95.216.140.41:44439?security=none&encryption=none&headerType=none&type=tcp#@V2rayNG3
 vless://6a35ed9b-051e-4b76-a470-8bb18a03e4e2@188.114.98.68:80?path=/@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast?ed=2048&security=&encryption=none&host=v2ngfast.nanvrfood.ir.&type=httpupgrade#🇩🇪 @V2ngFast
-vless://6a3d176a-7534-4c1e-beee-644c8f2c86ae@gr.dnszone.top:45500?security=none&encryption=none&headerType=none&type=tcp#@Configology🐦‍⬛

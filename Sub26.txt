@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@5.10.214.81:8880?path=/Telegram@V2rayN5&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#@AYMH19+کانال+تلگرام
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@5.10.214.81:8880?path=/Telegram@V2ray_Alpha&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#@AYMH19+کانال+تلگرام
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@5.10.214.81:8880?path=/Telegram@V2ray_Alpha&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws&sni=reedfree8mahsang2.redorg.ir#🇩🇪All¹ | @BigSmoke_Config
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@5.10.215.208:8880?path=/TelegramU0001F1E8U0001F1F3&security=none&encryption=none&host=reedfree8mahsang2.redorg.ir&type=ws#@AYMH19+کانال+تلگرام
@@ -252,4 +253,3 @@ vless://591a0afd-924a-4a71-8063-10aac246bb65@104.21.96.1:8443?path=/s35lt0swufmj
 vless://592cb0e6-80ab-49b3-a011-c1eca8f7e04f@freenet.mygoldiran.com:25079?mode=multi&security=reality&encryption=none&pbk=aCbr6BYHwoUfRL5fybv7525-DlOqRa7s3oUSsHal2ng&fp=chrome&spx=/&type=grpc&sni=tgju.org&sid=11648b03a5acc7#Channel-@vmesskhodam
 vless://59387f1f-03bf-48c6-8363-0d34986413a3@91.107.146.208:13304?security=none&encryption=none&headerType=none&type=tcp#خرید سرو نامحدود با بهترین سرعت @V2rayCafe_Support 🪽
 vless://596e6cda-53d4-48aa-8ddb-74d4a3d095af@85.9.96.168:54547?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#@v2ryngfree+سرچ+کن+بیا+تو+کانال
-vless://59860b15-b2d9-47f9-9b92-81bd1639fcc5@104.16.148.244:2087?path=/?ed=2560&security=tls&encryption=none&host=5-55sfjslf.ifenxiang.cfd&fp=chrome&type=ws&sni=5-55sfjslf.ifenxiang.cfd#کانال+ما+در+تلگرام+@Asak_Vpn+💛
