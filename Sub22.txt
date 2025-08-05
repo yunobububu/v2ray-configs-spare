@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://38b41ed4-5fe2-4868-8016-8df32dcaed78@pic.zarashop0.ir:2087?mode=gun&security=tls&alpn=h2&encryption=none&fp=chrome&type=grpc&sni=pic.zarashop0.ir#Telegram | @FNET00📱
+vless://38cd0cf5-ae8c-473b-d95e-a210a86d2dca@www.speedtest.net:8880?path=/@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config?ed=2048&security=none&encryption=none&host=www.speedtest-iran.ir&type=httpupgrade#🇩🇪@Alfred_Config
 vless://38e45e75-cabb-4b98-8e2f-9d65843b7efa@83.217.222.183:443?security=reality&encryption=none&pbk=gi8v7_r3NbWuPl9kjt8ZZLDavCMz1w0rVeNhcVnVxEM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=microsoft.com&sid=9d56b1e4#🛡️ @FreakConfig
 vless://38e6d66d-89b4-4a1a-b0fc-b8e8f2b510d9@nim.france-learns.ir:42535?security=none&encryption=none&host=soft98.ir&headerType=http&type=tcp#🇩🇪🇮🇷@ai_duet
 vless://39028f63-4adc-4a2c-9a57-9f583cd284e9@gb01-vlr01.tcp-reset-club.net:443?security=reality&encryption=none&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&sid=e499f276e7bd6420#انگلیس 🇬🇧 @V2xay
@@ -251,5 +253,3 @@ vless://40c708ca-42e4-4224-a12d-1dbd7ef1e0b7@160.153.1.77:8880?path=/&security=n
 vless://40c708ca-42e4-4224-a12d-1dbd7ef1e0b7@160.153.1.78:8880?path=/?ed&security=none&encryption=none&host=free.cfdns.online&type=ws&sni=Telegram-channel-WangCai2#@warp_city
 vless://40c708ca-42e4-4224-a12d-1dbd7ef1e0b7@185.133.35.77:8880?path=/Telegram🇨🇳 @WangCai2 /?ed&security=none&encryption=none&host=free.cfdns.online&type=ws&sni=Telegram-channel-WangCai2#@warp_city
 vless://40c708ca-42e4-4224-a12d-1dbd7ef1e0b7@25.129.196.77:8880?path=/&security=none&encryption=none&host=free.cfdns.online&type=ws#@warp_city
-vless://40c708ca-42e4-4224-a12d-1dbd7ef1e0b7@25.129.198.77:8880?path=/&security=none&encryption=none&host=free.cfdns.online&type=ws#@warp_city
-vless://40c708ca-42e4-4224-a12d-1dbd7ef1e0b7@88.216.69.77:8880?path=/&security=none&encryption=none&host=free.cfdns.online&type=ws#@warp_city
