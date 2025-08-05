@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://8dfd8ba9-d8f3-443a-9e21-c7c60e736df4@173.245.59.132:8080?path=/@MaSTeRSeRVeR1-@-MaSTeRSeRVeR1@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1?ed=2048&security=&encryption=none&host=masterserver1.nanvrfood.ir.&type=httpupgrade#🇩🇪 All Operator 1 @MaSTeRSeRVeR1
 vless://8dfd8ba9-d8f3-443a-9e21-c7c60e736df4@198.41.216.98:8080?path=/@MaSTeRSeRVeR1-@-MaSTeRSeRVeR1@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1?ed=2048&security=&encryption=none&host=masterserver1.nanvrfood.ir.&type=httpupgrade#🇩🇪 All Operator 2 @MaSTeRSeRVeR1
 vless://8e0e5094-b637-40a3-a896-c9a2fa188297@151.101.3.8:80?type=ws&host=befreewithus.net&path=/&security=none#Channel:@BeFreeWithUs
 vless://8e1630d0-23d7-49d6-8d63-f0b56ab80e04@172.66.40.99:2096?path=/@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7?ed=2048&security=tls&encryption=none&host=www.dollardoon.com&fp=chrome&type=ws&sni=www.dollardoon.com#@ata_connect عضو کانال تلگرام نباشی سرور قطع میشه
@@ -222,7 +223,6 @@ vless://949362b6-82e4-42e2-bb4d-e4afc8db7fe8@speedtestcustom.com:80?mode=auto&pa
 vless://949362b6-82e4-42e2-bb4d-e4afc8db7fe8@speedtestcustom.com:80?mode=auto&path=/fdsgstest?ed&security=none&encryption=none&host=take10.global.ssl.fastly.net&type=xhttp#🌎@AblNet7☀️
 vless://949362b6-82e4-42e2-bb4d-e4afc8db7fe8@speedtestcustom.com:80?mode=auto&path=/fdsgstest?ed&security=none&encryption=none&host=take10.global.ssl.fastly.net&type=xhttp#💎 @AblNet7 🌐
 vless://949de04d-3f8e-4dfb-a652-cd2bde2f9848@193.9.16.37:54876?security=reality&encryption=none&pbk=GiJD-Fcy7f8Ec0jJ2bfKwjIgVJgdblJ-HUEVt0r8LCM&headerType=none&fp=chrome&spx=/&type=tcp&sni=Zula.ir&sid=ce1f64bf8464#@hopev2ray🩵
-vless://949e6151-6899-4605-f2d1-51570f60d51d@65.109.208.107:2083?encryption=none&security=reality&sni=khamenei.ir&fp=chrome&pbk=mDWXgatiJqUc4fmeDQqGusEBIhjFVrQ85y_ZUfNpFV8&sid=54602915a7&spx=/&type=grpc&authority=&serviceName=melov2ray&mode=gun#@meli_proxyy
 vless://949e6151-6899-4605-f2d1-51570f60d51d@65.109.208.107:2083?encryption=none&security=reality&sni=khamenei.ir&fp=chrome&pbk=mDWXgatiJqUc4fmeDQqGusEBIhjFVrQ85y_ZUfNpFV8&sid=54602915a7&spx=/&type=grpc&authority=&serviceName=melov2ray&mode=gun#@melov2ray🇫🇮
 vless://949e6151-6899-4605-f2d1-51570f60d51d@65.109.208.107:2083?mode=gun&security=reality&encryption=none&pbk=mDWXgatiJqUc4fmeDQqGusEBIhjFVrQ85y_ZUfNpFV8&fp=chrome&spx=/&type=grpc&serviceName=melov2ray&sni=khamenei.ir&sid=54602915a7#FI 1 🇫🇮 | @v2xay
 vless://949e6151-6899-4605-f2d1-51570f60d51d@65.109.208.107:2083?mode=gun&security=reality&encryption=none&pbk=mDWXgatiJqUc4fmeDQqGusEBIhjFVrQ85y_ZUfNpFV8&fp=chrome&spx=/&type=grpc&serviceName=melov2ray&sni=khamenei.ir&sid=54602915a7#FI 1 🇫🇮 | @zeshtobad
