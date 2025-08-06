@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@149.22.87.241:443#%3E%3E%40free4allVPN%3A%3AJP
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@156.238.18.166:8880?path=Telegram%40WangCai2%2F%3Fed%3D2048&security=none&encryption=none&host=sg.laoyoutiao.link&type=ws#%3E%3E%40free4allVPN%3A%3AUS
-vless://cc80cd5a-5168-4024-a6aa-5101294f6453@LIGHTNING6.speedtest2.sbs:8080?path=/-LiV2ry@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6%3Fed%3D2048&security=none&encryption=none&host=li.testi21.ddns-ip.net&type=ws#%3E%3E%40lightning6%3A%3AUA
 
 
 
@@ -253,3 +250,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@4.223.106.151:
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3UFBhU3d4cDNMTGdKbVdjcFNjbEs2@85.208.139.158:25607
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpncWtVQ3ZtZU9UZ2hZSlhGMVlJdWs1@71.19.148.74:443
+
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@38.54.57.90:989
+
