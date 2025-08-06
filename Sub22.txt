@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://34dc5416-0787-4f5d-9774-47a55018806f@94.183.233.116:3801?security=none&encryption=none&headerType=http&type=tcp#@CUSTOMVPNSERVER🇩🇪
-vless://34dc5416-0787-4f5d-9774-47a55018806f@94.183.233.116:3801?security=none&encryption=none&headerType=http&type=tcp#@v2rayNGcloud🇩🇪
 vless://34f8e5f4-bfa1-4032-a978-8f397a401d39@45.154.2.169:28784?flow=&type=tcp&headerType=none&security=none#@vmessorg
 vless://3509e168-6f3a-4198-c54f-2bd50722a707@llliraniv2raylll.norooz.online:2053?encryption=none&security=reality&sni=debian.org&fp=chrome&pbk=wscu9HAw8PxIKK99_dBQDHn-RH3_Y7rLWB4Ju93r8UE&sid=de&spx=/@iraniV2ray&type=grpc&serviceName=@iraniV2ray&mode=gun#@iraniV2ray-irancell-channel
 vless://3517c7a8-9351-4b45-94d5-b79be8ec3520@v2shop28.bing-net.com:4928?security=&encryption=none&host=varzesh3.com&headerType=http&type=tcp#@HazaratVPN
@@ -253,3 +251,5 @@ vless://3d1b7cfd-0019-4b71-9c8e-b922e5e262c3@ip.ir-sub.fun:80?mode=auto&path=/--
 vless://3d1b7cfd-0019-4b71-9c8e-b922e5e262c3@ip.ir-sub.fun:80?mode=auto&path=/---@MiTiVPN---@MiTiVPN---@MiTiVPN---@MiTiVPN---@MiTiVPN&security=none&alpn=http/1.1&encryption=none&host=sharkrt.global.ssl.fastly.net&fp=chrome&type=xhttp&sni=global.ssl.fastly.net#🛡️ @FreakConfig
 vless://3d201b52-f10d-45e2-9759-ca7e65dad00f@5.75.202.170:2052?security=none&encryption=none&host=@v2xay-@v2xay-@v2xay-@v2xay-@v2xay-@v2xay-&headerType=http&type=tcp#آلمان 🇩🇪 @V2xay
 vless://3d201b52-f10d-45e2-9759-ca7e65dad00f@5.75.202.170:2052?security=none&encryption=none&host=JouRNaloFbIgdATA.SpRinGeropEn.coM.&headerType=http&type=tcp#آلمان 🇩🇪 @V2xay
+vless://3d554bba-9c77-499f-9055-1eb42058ed00@230920393.f-sub.com:3799?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#آلمان 🇩🇪 @V2xay
+vless://3d6ca650-df5c-43fd-bd69-01a335e1376a@173.245.59.132:2053?path=/#telegram@V2ray_Alpha&security=tls&alpn=h3,h2,http/1.1&encryption=none&host=de.gt-ov.com&fp=chrome&type=ws&sni=de.gt-ov.com#@V2rayNG3

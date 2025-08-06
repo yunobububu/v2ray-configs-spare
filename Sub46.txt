@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://d4661d12-d6f7-4ff2-bd1e-fc9cdc2c9cc1@190.93.244.103:443?path=/&security=tls&encryption=none&host=mylearn-8zx.pages.dev&fp=chrome&type=ws&sni=mylearn-8zx.pages.dev#IRAN 383 (@Outline_Vpn) free
-vless://d4661d12-d6f7-4ff2-bd1e-fc9cdc2c9cc1@190.93.244.103:443?path=/&security=tls&encryption=none&host=mylearn-8zx.pages.dev&fp=chrome&type=ws&sni=mylearn-8zx.pages.dev#Telegram : @Alfa_v2ray_ng 🔥
 vless://d4661d12-d6f7-4ff2-bd1e-fc9cdc2c9cc1@190.93.244.103:443?path=/&security=tls&encryption=none&host=mylearn-8zx.pages.dev&fp=chrome&type=ws&sni=mylearn-8zx.pages.dev#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
 vless://d46a098c-a34a-4c46-a656-c0dcbdeb85ce@eegap.ucdavis.edu:443?path=/vless?ed=443&security=tls&encryption=none&alpn=h2,http/1.1&host=speedtest.net.ftp.debian.org.1.2.3.a.b.c.netspeedtest.net.nakdk.ir&fp=chrome&type=ws&sni=eegap.ucdavis.edu#کانال+ما+در+تلگرام+@Asak_Vpn+🌟
 vless://d46a098c-a34a-4c46-a656-c0dcbdeb85ce@eegap.ucdavis.edu:443?path=/vless?ed=443&security=tls&encryption=none&alpn=h2,http/1.1&host=speedtest.net.ftp.debian.org.1.2.3.a.b.c.netspeedtest.net.nakdk.ir&fp=chrome&type=ws&sni=eegap.ucdavis.edu#کانال+ما+در+تلگرام+@Asak_Vpn+🔷
@@ -253,3 +251,5 @@ vless://dc80ee7e-bad0-450c-a218-f12e05680885@www.speedtest.net:2096?path=/?ed=20
 vless://dc85325d-1b22-498f-a3a1-c83c6e487d8e@199.247.28.17:15109?mode=auto&path=/GaMeOpTiMiZeR?ed=2048&security=reality&encryption=none&pbk=NHTSLJtFBD0XdWsLyo1_-E464ApGkLfcsSc3UwsnTWs&fp=chrome&spx=/&type=xhttp&sni=siahkor.com.www.siahkor.com&sid=008c74#هلند 🇳🇱 @𝗩𝟮𝘅𝗮𝘆
 vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@162.19.228.119:80?path=/http#Telegram@FREEV2RNG/?ed=2560&security=&encryption=none&host=google.com&type=ws#🇩🇪𝐣𝐨𝐢𝐍-@𝐅𝐑𝐄𝐄𝐕𝟐𝐑𝐍𝐆
 vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@162.19.228.119:80?path=/http#Telegram@ShadowProxy66/?ed=2560&security=none&encryption=none&host=google.com&type=ws#Channel : @Mrsoulb 🏴🏳
+vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@162.19.228.119:80?path=/http#Telegram@ShadowProxy66/?ed=2560&security=none&encryption=none&host=google.com&type=ws#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
+vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@162.19.228.119:80?path=/http&security=none&encryption=none&host=google.com&type=ws#کانال+ما+در+تلگرام+@Asak_Vpn+🔷

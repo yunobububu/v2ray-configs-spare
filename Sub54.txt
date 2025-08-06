@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://f3af923e-ecfe-46d5-9c27-4ff95f739afe@91.99.216.98:443?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#Channel id: @zeshtobad 🇩🇪
-vless://f3af923e-ecfe-46d5-9c27-4ff95f739afe@91.99.216.98:443?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#🇩🇪𝐣𝐨𝐢𝐍-@𝐅𝐑𝐄𝐄𝐕𝟐𝐑𝐍𝐆
 vless://f3af923e-ecfe-46d5-9c27-4ff95f739afe@91.99.216.98:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#@AblNet7 🇩🇪
 vless://f3af923e-ecfe-46d5-9c27-4ff95f739afe@91.99.216.98:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#@meli_proxyy
 vless://f3af923e-ecfe-46d5-9c27-4ff95f739afe@91.99.216.98:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#Telegram : @Alfa_v2ray_ng 🔥
@@ -253,3 +251,5 @@ vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@164.38.155.63:8880?path=//?ed=2048&
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@185.16.110.63:8880?path=/Telegram🇨🇳&security=none&encryption=none&host=sg.laoyoutiao.link&type=ws&sni=sg.laoyoutiao.link#🔒@V2rayngsupbot 🇫🇷
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@185.176.26.213:8880?path=?ed=2560&security=none&encryption=none&host=jp.laoyoutiao.link&type=ws#Telegram:@config_proxy 🔥
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@192.0.54.213:8880?security=none&encryption=none&host=jp.laoyoutiao.link&type=ws#🔒@v2rayngsupbot
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@199.34.228.213:8880?security=none&encryption=none&host=jp.laoyoutiao.link&type=ws#⚡@ai_duet • @v2rayngsupbot
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@209.94.90.63:8880?path=/Telegram🇨🇳&security=none&encryption=none&host=jp.laoyoutiao.link&type=ws&sni=jp.laoyoutiao.link#Telegram: @v2rayngsupbot

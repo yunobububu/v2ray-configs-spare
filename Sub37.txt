@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@95.164.18.16:2053?mode=gun&security=tls&encryption=none&type=grpc#@AblNet7🇬🇧 United Kingdom grpc tls (f69)
-vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@95.164.18.16:2082/?type=ws&encryption=none&flow=&path=/?---Join-TELEGRAM-FREEV2RNG---Join-TELEGRAM-FREEV2RNG---Join-TELEGRAM-FREEV2RNG---Join-TELEGRAM-FREEV2RNG---Join-TELEGRAM-FREEV2RNG#🇬🇧𝐣𝐨𝐢𝐍-@𝐅𝐑𝐄𝐄𝐕𝟐𝐑𝐍𝐆
 vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@95.164.18.16:2082?path=/&security=none&encryption=none&type=ws#@AblNet7🇬🇧 United Kingdom ws (f69)
 vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@95.164.18.16:2082?path=/&security=none&encryption=none&type=ws#🔐 @AblNet7 🧨
 vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@95.164.18.16:2096?path=/&security=tls&encryption=none&type=ws#@AblNet7🇬🇧 United Kingdom ws tls (f69)
@@ -253,3 +251,5 @@ vless://Parsashonam-295@185.146.173.39:8880?type=httpupgrade&path=/Parsashonam-P
 vless://Parsashonam-295@[2a01:4f8:1c1a:dc2b::1]:8888?security=none&encryption=none&headerType=none&type=tcp#@Parsashonam 🇩🇪 نیازمند فعال بودن ipv6
 vless://Parsashonam-295@[2a01:4f8:1c1a:dc2b::1]:8888?security=none&encryption=none&headerType=none&type=tcp#@Selinc
 vless://Parsashonam-295@[2a01:4f8:1c1a:dc2b::1]:8888?security=none&encryption=none&headerType=none&type=tcp#@V2RAYNG_FARS-----@V2RAYNG_FARS-----@V2RAYNG_FARS-----@V2RAYNG_FARS-----@V2RAYNG_FARS-----@V2RAYNG_FARS-----@V2RAYNG_FARS-----@V2RAYNG_FARS-----@V2RAYNG_FARS-----@V2RAYNG_FARS-----@V2RAYNG_FARS-----@V2RAYNG_FARS-----@V2RAYNG_FARS-----@V2RAYNG_FARS-----@V2RAYNG_FARS-----@V2RAYNG_FARS-----@V2RAYNG_FARS-----@V2RAYNG_FARS-----@V2RAYNG_FARS-----@V2RAYNG_FARS-----@V2RAYNG_FARS-----@V2RAYNG_FARS-----@V2RAYNG_FARS-----@V2RAYNG_FARS-----@V2RAYNG_FARS-----@V2RAYNG_FARS-----@V2RAYNG_FARS-----@V2RAYNG_FARS
+vless://Parsashonam-295@[2a01:4f8:1c1a:dc2b::1]:8888?security=none&encryption=none&headerType=none&type=tcp#@meli_proxyy
+vless://Parsashonam-295@[2a01:4f8:1c1a:dc2b::1]:8888?security=none&encryption=none&headerType=none&type=tcp#💎 @AblNet7 💎

@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://84ff62f7-1bd8-4c9a-9803-f551712c29c7@blog.asantechisho.ir:443?mode=gun&security=reality&encryption=none&pbk=MBImJsMdWqNoHOt8-bfIaE1pPzCwgcVGeW1wKnZ_gWU&fp=chrome&spx=/&type=grpc&serviceName=&sni=blog.asantechisho.ir&sid=3b67f1fc#@ravenxer+سرچ+کن+بیا+تو+کانال
-vless://850479d3-f804-4f12-a541-9bb3d083bf20@speedtest.net:80?type=ws&host=befreewithus.net&path=/&security=none#Channel:@BeFreeWithUs
 vless://852006d4-ea05-4e34-bffc-305f8a462ce3@194.182.79.142:11744?mode=gun&security=reality&encryption=none&pbk=ujynIXoajPwSKKq9SSN2Gc23KEyIl51rAvsrgj1jXDE&fp=chrome&spx=/&type=grpc&serviceName=Join-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&sni=sourceforge.net&sid=cb3d822354e725#@Capoit
 vless://852006d4-ea05-4e34-bffc-305f8a462ce3@194.182.79.142:11744?mode=gun&security=reality&encryption=none=#@bored_vpn,--@bored_vpn,@bored_vpn,--@bored_vpn,@bored_vpn,--@bored_vpn,@bored_vpn,--@bored_vpn,@bored_vpn,--@bored_vpn,@bored_vpn,--@bored_vpn&pbk=ujynIXoajPwSKKq9SSN2Gc23KEyIl51rAvsrgj1jXDE&fp=chrome&spx=/&type=grpc&serviceName=Join-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&sni=sourceforge.net&sid=cb3d822354e725#@bored_vpn
 vless://85b5ac4c-364a-4703-90d3-158bace384cf@104.21.7.50:443?security=tls&encryption=none&type=ws&host=api2.htve.ir&path=/&sni=api2.htve.ir&fp=chrome&alpn=h2,http/1.1#Awlix_ir
@@ -253,3 +251,5 @@ vless://8b79f4a9-468f-46cf-9823-ba6cfe529f75@158.160.131.112:14872?security=real
 vless://8b79f4a9-468f-46cf-9823-ba6cfe529f75@158.160.131.112:14872?security=reality&encryption=none&pbk=6b1pXPB9Wc45eeBQxz1cYefETxE_jx1jlaeFaWS1pTc&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=738a824c0bdf#Channel id: @ShadowProxy66 🇷🇺
 vless://8b79f4a9-468f-46cf-9823-ba6cfe529f75@158.160.131.112:14872?security=reality&encryption=none&pbk=6b1pXPB9Wc45eeBQxz1cYefETxE_jx1jlaeFaWS1pTc&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=738a824c0bdf#Channel id: @zeshtobad 🇷🇺
 vless://8b79f4a9-468f-46cf-9823-ba6cfe529f75@158.160.131.112:14872?security=reality&encryption=none&pbk=6b1pXPB9Wc45eeBQxz1cYefETxE_jx1jlaeFaWS1pTc&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=738a824c0bdf#کانفیگ پرسرعت و ارزان همراه تست 🇩🇪 @ConfVip
+vless://8b79f4a9-468f-46cf-9823-ba6cfe529f75@158.160.131.112:14872?security=reality&encryption=none&pbk=6b1pXPB9Wc45eeBQxz1cYefETxE_jx1jlaeFaWS1pTc&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=738a824c0bdf#🇮🇷 @ConfVip کانفیگ رایگان جوین شو تلگرام
+vless://8b79f4a9-468f-46cf-9823-ba6cfe529f75@158.160.131.112:14872?security=reality&encryption=none&pbk=6b1pXPB9Wc45eeBQxz1cYefETxE_jx1jlaeFaWS1pTc&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=738a824c0bdf#🇷🇺[Telegram:@v2rayng_fars]
