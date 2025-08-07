@@ -126,7 +126,6 @@ vless://162a7ed8-aee7-485e-9a8d-88ce6604cd6b@172.66.40.99:443?path=/admin&securi
 vless://162a7ed8-aee7-485e-9a8d-88ce6604cd6b@172.66.40.99:443?path=/admin&security=tls&encryption=none&host=2free2.aparatir.xyz&type=ws&sni=2free2.aparatir.xyz#🛡️ @FreakConfig
 vless://165d4354-79c1-456c-9f75-ad0c54646fe0@zula.ir:2083?encryption=none&security=tls&sni=www.yas-nowin.ir&alpn=h2,http/1.1&fp=chrome&type=httpupgrade&host=www.yas-nowin.ir&path=/#@Daily_Configs
 vless://1666e5ae-3dcc-4c09-b077-bd19bdd10510@65.109.192.5:10504?type=ws&security=none#S558-187080
-vless://1666e5ae-3dcc-4c09-b077-bd19bdd10510@65.109.192.5:10504?type=ws&security=none#Telegram:@config_proxy 🔥
 vless://166ddff3-29b8-48df-87b3-3542c426bf95@p.faraghost.sbs:28338?type=grpc&serviceName=Telegram:@Ghostray_Ng&authority=&security=reality&pbk=iNpnCGDf4E4ZR-_STyfA3Unh-zK8c2gJbtshJ_QZsnY&fp=chrome&sni=www.cloudflare.com&sid=c3a7aaac59&spx=/#@GhostrayNg
 vless://166ddff3-29b8-48df-87b3-3542c426bf95@p.faraghost.sbs:28338?type=grpc&serviceName=Telegram:@Ghostray_Ng&authority=&security=reality&pbk=iNpnCGDf4E4ZR-_STyfA3Unh-zK8c2gJbtshJ_QZsnY&fp=chrome&sni=www.cloudflare.com&sid=c3a7aaac59&spx=/#@GhostrayNg-All
 vless://167ae898-158b-4cc8-abd5-81050b121f5c@94.131.111.200:8775?security=none&encryption=none&headerType=none&type=tcp#@V2RAYNG_1378
@@ -253,3 +252,4 @@ vless://19199927-fb46-4203-8872-672fd1daca14@54.38.214.56:37171?security=&encryp
 vless://19199927-fb46-4203-8872-672fd1daca14@54.38.214.56:37171?security=&encryption=none&headerType=none&type=tcp#@v2rayngzendegimamad🕊️
 vless://19199927-fb46-4203-8872-672fd1daca14@54.38.214.56:37171?security=&encryption=none&headerType=none&type=tcp#Channel id: @ShadowProxy66 🇬🇧
 vless://19199927-fb46-4203-8872-672fd1daca14@54.38.214.56:37171?security=&encryption=none&headerType=none&type=tcp#Channel id: @zeshtobad 🇬🇧
+vless://19199927-fb46-4203-8872-672fd1daca14@54.38.214.56:37171?security=&encryption=none&headerType=none&type=tcp#کانفیگ رایگان جوین شو تلگرام 🇮🇷 @ConfVip

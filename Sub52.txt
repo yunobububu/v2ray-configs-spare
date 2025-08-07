@@ -3,6 +3,13 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://fbbf3b87-5f9d-4358-8a40-3cf9ab6533ef@zula.ir:8443?mode=auto&path=/ed?/ooAjjjjjAAdyujh7=8443&security=tls&alpn=h3,h2,http/1.1&encryption=none&host=Main.kasler.lol&fp=chrome&type=xhttp&sni=main.kasler.lol#@ev2rayy mtn
+vless://fbc96a4a-6aea-4b91-97f5-ef49d41da669@nextgenerationaiplatform.ir:443?path=/safasssfasfasfA?ed&security=tls&alpn=h3,h2,http/1.1&encryption=none&host=nextgenerationaiplatform.ir&fp=chrome&type=ws&sni=nExtgEnerAtionAIplatform.iR#@CaV2ray ⚡️
+vless://fbc96a4a-6aea-4b91-97f5-ef49d41da669@nextgenerationaiplatform.ir:443?path=/safasssfasfasfA?ed&security=tls&alpn=h3,h2,http/1.1&encryption=none&host=nextgenerationaiplatform.ir&fp=chrome&type=ws&sni=nExtgEnerAtionAIplatform.iR#@Tunder_vpn
+vless://fbddfd48-22f2-a619-4151-4be8b8b9f6fa@46.102.157.79:58071?security=none&encryption=none&host=myket.ir&headerType=http&type=tcp#.
+vless://fbf826d0-45ca-4439-8c15-803b83943213@151.101.3.8:80?type=ws&host=befreewithus.net&path=/&security=none#Channel:@BeFreeWithUs
+vless://fbfd2517-580b-4b48-8e5b-a528e66612ac@Mol1.misaghreserve.ir:80?path=/Pak91jqn-Mehskl.ir.shop.com?ed=2048&security=none&encryption=none&host=Lakpor.com&type=ws#hamrah5858
+vless://fc264e2f-753b-43fd-878c-c8f82b4bc502@172.67.40.158:443?type=ws&host=hiddifyreplace2.safavidempire.org&path=/76fe1f74-5804-4a5a-8b9d-5f877d90a9c6&security=tls&fp=chrome&sni=hiddifyreplace2.safavidempire.org#@configMs
 vless://fc27ebd9-312f-47e7-b515-cbcd7a182d19@193.24.105.24:61?security=none&encryption=none&type=ws#🇨🇵@EXPRESSVPN_420
 vless://fc628c94-3c38-44e7-90aa-5ccde28ef29c@list.dayhostpro.com:14685?security=reality&encryption=none&pbk=V_rrBSTErY7NYhN8tPG460tL0hpCKMwxnM0YPLZPYDs&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=getchef.com&sid=aa9c5414806589#@Daily_Configs
 vless://fc628c94-3c38-44e7-90aa-5ccde28ef29c@list.dayhostpro.com:14685?security=reality&encryption=none&pbk=V_rrBSTErY7NYhN8tPG460tL0hpCKMwxnM0YPLZPYDs&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=getchef.com&sid=aa9c5414806589#@NpvV2rayFilTer
@@ -246,10 +253,3 @@ vless://turboo-server@146.75.55.82:80?mode=auto&path=/&security=none&encryption=
 vless://turboo-server@146.75.55.82:80?mode=auto&path=/&security=none&encryption=none&host=turboo-server-bot.com&type=xhttp#هلند 🇳🇱 @V2xay
 vless://turboo-server@151.101.3.8:80?mode=auto&path=/&security=none&encryption=none&host=truboo-server.us&type=xhttp#ALL@azadiiivpn 🇺🇸
 vless://turboo-server@151.101.3.8:80?mode=auto&path=/&security=none&encryption=none&host=truboo-server.us&type=xhttp#azadiiivpn 🇺🇸
-vless://turboo-server@151.101.3.8:80?mode=auto&path=/&security=none&encryption=none&host=turboo-server1.game&type=xhttp#@Tunder_vpn
-vless://turboo-server@151.101.3.8:80?mode=auto&path=/&security=none&encryption=none&host=turboo-server1.game&type=xhttp#Bya To @Iran_V2ray1
-vless://turboo-server@151.101.3.8:80?type=xhttp&mode=auto&host=truboo-server.us&path=/?ed=2048@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&security=none#🇺🇸 @Evay_vpn
-vless://turboo-server@151.101.67.8:80?mode=auto&path=/&security=none&encryption=none&host=cdnfastlycash.io&type=xhttp#آلمان 🇩🇪 @V2xay
-vless://turboo-server@95.211.46.25:43978?security=none&encryption=none&headerType=http&type=tcp#@configfu
-vless://turboo-server@95.211.46.25:43978?security=none&encryption=none&headerType=http&type=tcp#🇮🇷 @ConfVip کانفیگ رایگان جوین شو تلگرام
-vless://turboo-server@fast.ultra-irancell.com:46801?security=none&encryption=none&headerType=none&type=tcp#.
