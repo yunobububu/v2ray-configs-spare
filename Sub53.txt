@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://fc628c94-3c38-44e7-90aa-5ccde28ef29c@list.dayhostpro.com:14685?security=reality&encryption=none&pbk=V_rrBSTErY7NYhN8tPG460tL0hpCKMwxnM0YPLZPYDs&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=getchef.com&sid=aa9c5414806589#@NpvV2rayFilTer
+vless://fc628c94-3c38-44e7-90aa-5ccde28ef29c@list.dayhostpro.com:14685?security=reality&encryption=none&pbk=V_rrBSTErY7NYhN8tPG460tL0hpCKMwxnM0YPLZPYDs&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=getchef.com&sid=aa9c5414806589#@Tunder_vpn
+vless://fc628c94-3c38-44e7-90aa-5ccde28ef29c@list.dayhostpro.com:14685?security=reality&encryption=none&pbk=V_rrBSTErY7NYhN8tPG460tL0hpCKMwxnM0YPLZPYDs&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=getchef.com&sid=aa9c5414806589#Telegram: @FergalVpnMod 🇩🇪
+vless://fc628c94-3c38-44e7-90aa-5ccde28ef29c@list.dayhostpro.com:14685?security=reality&encryption=none&pbk=V_rrBSTErY7NYhN8tPG460tL0hpCKMwxnM0YPLZPYDs&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=getchef.com&sid=aa9c5414806589#[🇬🇧]ae_proxy
 vless://fc628c94-3c38-44e7-90aa-5ccde28ef29c@list.dayhostpro.com:14685?security=reality&encryption=none&pbk=V_rrBSTErY7NYhN8tPG460tL0hpCKMwxnM0YPLZPYDs&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=getchef.com&sid=aa9c5414806589#✅ @vistav2ray  👈👈کانال ما
 vless://fc628c94-3c38-44e7-90aa-5ccde28ef29c@list.dayhostpro.com:14685?security=reality&encryption=none&pbk=V_rrBSTErY7NYhN8tPG460tL0hpCKMwxnM0YPLZPYDs&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=getchef.com&sid=aa9c5414806589#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
 vless://fc64a8a6-6ed0-4706-abe9-67c1cc11e142@95.217.242.125:990?security=none&encryption=none&headerType=none&type=tcp#Bya To @Iran_V2ray1
@@ -66,7 +70,6 @@ vless://febf7810-0d6d-4f39-878c-8a2da6fdbcde@157.173.127.240:443?security=realit
 vless://fec18325-6ab2-4722-80a4-c69c21c0eecc@v.kharej.cxtserver.ir:805?type=xhttp&path=/fksksgkdgld/&host=Cxt1your-name.global.ssl.fastly.net&mode=auto&security=none#Fastly-خرید اش
 vless://fec18325-6ab2-4722-80a4-c69c21c0eecc@v.kharej.cxtserver.ir:805?type=xhttp&path=/fksksgkdgld/&host=Cxt1your-name.global.ssl.fastly.net&mode=auto&security=none#Fastly-خرید اشتراک اختصاصی👈🏻 @amir_cxt
 vless://fee90487-c949-456c-bd6f-71e5abd54a5c@45.252.182.107:8443?mode=multi&security=none&encryption=none&type=grpc#هلند 🇳🇱 @V2xay
-vless://fee90487-c949-456c-bd6f-71e5abd54a5c@45.252.182.107:8443?type=grpc&serviceName=&authority=&mode=multi&security=none#Telegram:@config_proxy 🔥
 vless://feea904b-d443-43e1-beaa-621ef7a3de3f@65.109.203.70:2096?security=none&encryption=none&host=@v2xay-@v2xay-@v2xay-@v2xay-@v2xay-@v2xay-&headerType=none&type=tcp#فنلاند 🇫🇮 @𝗩𝟮𝘅𝗮𝘆
 vless://fef15ae1-cdc9-42ec-9c76-ea083550fd45@erfwp.fast.hosting-ip.com:80?mode=auto&path=/erfwp?ed=2048&security=none&encryption=none&host=erfwp.com&type=xhttp#@V2RAYNG_1378
 vless://fef15ae1-cdc9-42ec-9c76-ea083550fd45@erfwp.fast.hosting-ip.com:80?mode=auto&path=/erfwp?ed=2048&security=none&encryption=none&host=erfwp.com&type=xhttp#🛡️ @FreakConfig
@@ -107,8 +110,6 @@ vless://idTel--SRCVPN--@88.99.87.227:2090?mode=gun&security=reality&encryption=n
 vless://idTel--SRCVPN--@88.99.87.227:2090?type=grpc&serviceName=32135vless&authority=-@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN&security=reality&pbk=MqY81IaljluV2NXyLqPzt7PL12knwUuBiX0ru_KSLCM&fp=chrome&sni=journalofbigdata.springeropen.com&sid=aa0dd5ba&spx=/#🇩🇪 Telegram @SRCVPN
 vless://ip6-HqV2rayNG@[2a01:4f8:c014:b8b0::1]:8880?security=&encryption=none&headerType=none&type=tcp#@bored_vpn
 vless://ipcloudflaretamiz@test.fast.hosting-ip.com:80?mode=auto&path=?/TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI=ed?=2048&security=none&encryption=none&host=ipcloudflaretamiz.io&type=xhttp#آلمان 🇩🇪 @V2xay
-vless://itsproxy-3@bot.nimeshab-nabod.info:80?mode=auto&path=/@itsproxy?ed&security=&encryption=none&host=Behrfbot.global.ssl.fastly.net&type=xhttp#@AblNet7 🇮🇷 نت ملی
-vless://itsproxy-3@bot.nimeshab-nabod.info:80?mode=auto&path=/@itsproxy?ed&security=none&encryption=none&host=Behrfbot.global.ssl.fastly.net&type=xhttp#@AblNet7 🇮🇷 نت ملی
 vless://itsproxy-3@bot.nimeshab-nabod.info:80?mode=auto&path=/@itsproxy?ed&security=none&encryption=none&host=Behrfbot.global.ssl.fastly.net&type=xhttp#💎 @AblNet7 🌐
 vless://mahanvpn-vip-chanel@172.67.160.192:2052?path=/mAhAnkarNanaNd.kouRdneTpluSedAte.iR,?ed=2560&security=&encryption=none&host=mAhAnkarNanaNd.kouRdneTpluSedAte.iR.&type=httpupgrade#🇩🇪🔑Tel@mahanvpn-telegram
 vless://mahanvpn-vip-chanell@172.67.160.192:2052?path=/mAhAnkarNanaNd.kouRdneTpluSedAte.iR,?ed=2560&security=&encryption=none&host=mAhAnkarNanaNd.kouRdneTpluSedAte.iR.&type=httpupgrade#🇩🇪🔑Tel@mahanvpn-telegram
@@ -252,4 +253,3 @@ vless://turboo-server@fast.ultra-irancell.com:46801?security=none&encryption=non
 vless://turboo-server@fn.turbooserver.ir:8080?security=reality&encryption=none&pbk=3Hj0Zbqa4Ry2r2zeLhGUB4r5atY2KRg5bAFbQ0ulZkE&headerType=none&fp=chrome&spx=/&type=tcp&sni=canva.com#.
 vless://turboo-server@server2.ultra-irancell.com:80?mode=auto&path=/&security=none&encryption=none&host=telegram-turboo-server.com&type=xhttp#@azadiiivpn🏴󠁧󠁢󠁥󠁮󠁧󠁿
 vless://turboo-server@server2.ultra-irancell.com:80?mode=auto&path=/&security=none&encryption=none&host=telegram-turboo-server.com&type=xhttp#V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS---V2RAYNG_FARS
-vless://turboo-server@telegram.turboo-server.com.co:2095?security=none&encryption=none&host=tgju.org&headerType=http&type=tcp#@azadiiivpn🇩🇪
