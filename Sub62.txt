@@ -4,6 +4,8 @@
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
 
+vless://1f054e40-a9bc-4cd3-b6d1-4e0dc3470ed6@94.140.0.174:8080?security=&fp=chrome&type=httpupgrade&path=/22496/nextlife&host=cfhdnl.clockdeny2.eu&encryption=none
+
 vless://1lpxy6haqm@1lpxy6haqm-451516713-direct.zamam.co:443?security=tls&sni=1lpxy6haqm-451516713-direct.zamam.co&alpn=h2,http/1.1&fp=randomized&type=tcp&flow=xtls-rprx-vision&encryption=none
 
 vless://238b76b1-2530-424d-8936-1b1852088b37@139.59.75.181:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=139.59.75.181&encryption=none#Rayan%20-%20RVP%20-%20IN%20-%20I%20-%20%F0%9F%9F%A3%20t.me/Rayan_Config
@@ -251,5 +253,3 @@ vmess://ewogICAgImFkZCI6ICJ0ZXN0LmZsaGEucnUiLAogICAgImFpZCI6IDAsCiAgICAiaG9zdCI6
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.158.171.146:8080#%F0%9F%87%AB%F0%9F%87%B7FR-45.158.171.146-5161
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@151.242.251.147:8080#%F0%9F%87%A6%F0%9F%87%AAAE-151.242.251.147-5137
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.251:8080#%F0%9F%87%B3%F0%9F%87%B1NL-193.29.139.251-5171
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@64.74.163.130:990#%F0%9F%87%BA%F0%9F%87%B8US-64.74.163.130-0283
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.178:443#%F0%9F%87%AC%F0%9F%87%A7GB-141.98.101.178-0273
