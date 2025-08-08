@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://e105e56a-5f81-41a2-ab44-bfffc9b00674@45.12.143.191:20329?security=reality&encryption=none&pbk=Lj3MXlg16CTFHtU88acSS-ACfGnwJ_xkU6dC6k8OeDo&headerType=none&fp=chrome&spx=/@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-?ed=2560&type=tcp&sni=yahoo.com&sid=4602ee9f9f36#🇹🇷 ⤿ 𝐂𝐡𝐚𝐧𝐧𝐞𝐥 @V2WRAY
 vless://e105e56a-5f81-41a2-ab44-bfffc9b00674@45.12.143.191:20329?security=reality&encryption=none&pbk=Lj3MXlg16CTFHtU88acSS-ACfGnwJ_xkU6dC6k8OeDo&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=4602ee9f9f36#@V2RAY_VMESS_free
 vless://e105e56a-5f81-41a2-ab44-bfffc9b00674@45.12.143.191:20329?security=reality&encryption=none&pbk=Lj3MXlg16CTFHtU88acSS-ACfGnwJ_xkU6dC6k8OeDo&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=4602ee9f9f36#Channel id: @ShadowProxy66 🇹🇷
 vless://e105e56a-5f81-41a2-ab44-bfffc9b00674@45.12.143.191:20329?security=reality&encryption=none&pbk=Lj3MXlg16CTFHtU88acSS-ACfGnwJ_xkU6dC6k8OeDo&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=4602ee9f9f36#[🇹🇷]ae_proxy
@@ -252,4 +253,3 @@ vless://e4e82781-f854-4f5e-bfeb-8f34d8ab9fe7@www.speedtest.net:2095?flow=&type=h
 vless://e4e82781-f854-4f5e-bfeb-8f34d8ab9fe7@www.speedtest.net:2095?path=/?ed=2052&security=none&encryption=none&host=cdncloud-direct-public.beraghsa.ir&type=httpupgrade#@heragAbad
 vless://e4e82781-f854-4f5e-bfeb-8f34d8ab9fe7@www.speedtest.net:2095?path=/?ed=2052&security=none&encryption=none&host=cdncloud-direct-public.beraghsa.ir&type=httpupgrade#FR 🇨🇵 | @v2xay
 vless://e4f859b4-82ae-40aa-8d30-26b258e13100@172.67.211.227:2082?path=/@v2ngnet-@-v2ngnet@v2ngnet-@v2ngnet-@v2ngnet-@v2ngnet?ed=2048&security=none&encryption=none&host=v2ngnet.nanvrfood.ir&type=httpupgrade#Telegram : @Alfa_v2ray_ng 🔥
-vless://e5013a1a-de5d-478b-8961-68721f79e285@104.18.26.90:2096?path=/pvjoniws&security=tls&alpn=h3h2&encryption=none&host=638874929583850409.zagreb-prx-dnraaad.info&type=ws&sni=638874929583850409.zagreb-prx-dnraaad.info#SerVer

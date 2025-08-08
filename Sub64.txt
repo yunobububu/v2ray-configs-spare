@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+hy2://dongtaiwang.com@51.158.218.2:50066/?insecure=1&sni=www.bing.com#%F0%9F%8D%8057%40oneclickvpnkeys
+trojan://f282b878-8711-45a1-8c69-5564172123c1@104.21.72.109:443/?type=ws&host=vpn.stupidworld.web.id&path=%2FStupid-World%2F103.106.228.126-2053&security=tls&sni=vpn.stupidworld.web.id#%F0%9F%8D%8071%40oneclickvpnkeys
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0ckVydG84WHpMQUxhUUVzbFRwX2p3@main.opengate.wiki:2222#%F0%9F%8D%8059%40oneclickvpnkeys
 vmess://eyJhZGQiOiJhaW8udW5saW1pdGVkLmJpei5pZCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiYWlvLnVubGltaXRlZC5iaXouaWQiLCJpZCI6ImYyODJiODc4LTg3MTEtNDVhMS04YzY5LTU1NjQxNzIxMjNjMSIsIm5ldCI6IndzIiwicGF0aCI6Ii9haW9wcm94eWJvdC8xMjkuMTUwLjQ5LjU4LTE4NjUwIiwicG9ydCI6IjQ0MyIsInBzIjoi8J+NgDc1QG9uZWNsaWNrdnBua2V5cyIsInNjeSI6Inplcm8iLCJzbmkiOiJhaW8udW5saW1pdGVkLmJpei5pZCIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9
 vless://TELEGRAM-CONFiGLiNE@172.66.40.99:443?path=%2Ftelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%2Ctelegram-CONFiGLiNE%3Fed%3D80&security=tls&encryption=none&alpn=h2,http/1.1&host=A249.Mashkestan.coM&fp=firefox&allowinsecure=0&type=ws&sni=A249.Mashkestan.coM#%5B%F0%9F%87%BA%F0%9F%87%B8%5D%40configLINE%282%29
 vmess://eyJhZGQiOiIxODMuMjM2LjUxLjM2IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiNTkwMDMiLCJwcyI6IvCfjYA2NEBvbmVjbGlja3ZwbmtleXMiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=

@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@188.245.207.238:2020?security=none&encryption=none&headerType=none&type=tcp#🛡️ @FreakConfig
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@188.245.87.7:2020?security=none&encryption=none&headerType=none&type=tcp#@AblNet7🇩🇪 Germany tcp (4e0)
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@188.245.87.7:2020?security=none&encryption=none&headerType=none&type=tcp#@Selinc
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@188.245.87.7:2020?security=none&encryption=none&headerType=none&type=tcp#All@configfu-32
@@ -252,4 +253,3 @@ vless://28e02739-d5d7-43da-bd83-e45eb695207f@104.17.147.22:80?path=/@Vpn_Mikey،
 vless://2904bd6d-2830-463b-92a3-aca58f55033a@172.66.40.99:8080?path=/-LiV2ry@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6?ed=2048&security=none&encryption=none&host=li.testi21.ddns-ip.net&type=ws#@icv2ray
 vless://2904bd6d-2830-463b-92a3-aca58f55033a@LIGHTNING6.speedtest2.sbs:8080?path=/-LiV2ry@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6?ed=2048&security=none&encryption=none&host=li.testi21.ddns-ip.net&type=ws#tm⚡|@lightning6
 vless://29091907-ea23-474b-a1ae-58b0a3996ed6@151.101.3.8:80?type=xhttp&mode=auto&host=joinshhproxybede.com&path=/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy#🇩🇪 Telegram @SRCVPN
-vless://2917d821-9327-4c76-bf7f-1b7857b38811@51.91.173.52:7852?security=reality&encryption=none&pbk=rBXjuQ9eGNAUtELw1KFOMH7Aq0Q2t3RqcbdPcddYyTk&headerType=none&fp=chrome&type=tcp&sni=www.speedtest.net&sid=69#@CaV2ray ⚡️

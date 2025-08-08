@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.17.1.197:8880?path=/1ycR2zb3KeELWRha?ed=2560&security=none&encryption=none&host=VngSuPpLY.IP-DdnS.com&type=ws#Telegram : @Alfa_v2ray_ng 🔥
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.17.1.197:8880?path=/1ycR2zb3KeELWRha?ed=2560&security=none&encryption=none&host=VngSuPpLY.IP-DdnS.com&type=ws#کانفیگ پرسرعت و ارزان همراه تست 🇩🇪 @ConfVip
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.17.1.197:8880?path=/1ycR2zb3KeELWRha?ed=2560&security=none&encryption=none&host=VngSuPpLY.IP-DdnS.com&type=ws#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.17.1.197:8880?path=/1ycR2zb3KeELWRha?ed=2560&security=none&encryption=none&host=VngSuPpLY.IP-Ddns.com&type=ws#@Hddify |π| چنل هدیفای 🪐
@@ -252,4 +253,3 @@ vless://e999db7a-1b17-4da6-bc37-c9fa24af2e93@ipw.gfdv54cvghhgfhgj-njhgj64.info:4
 vless://e9d6b0c8-a088-40cb-b2e9-08ae0f885197@v2ray-fark.ddns.net:443?type=grpc&serviceName=Join telegram @v2ray_fark Join telegram @v2ray_fark Join telegram @v2ray_fark Join telegram @v2ray_fark Join telegram @v2ray_fark Join telegram @v2ray_fark Join telegram @v2ray_fark&security=reality&fp=chrome&pbk=5xrUDL2B_spwz-cSqYl_GNjP4DIfI_KEtTC6ar9fuEA&sni=irandns.com&sid=68e8e951&spx=/#Reality
 vless://e9f0a1b2-c3d4-9012-5678-89abcdef0123@104.19.45.192:443?type=ws&encryption=none&host=aslivpn.pages.dev&path=/VLESS@PlanAsli&security=tls&sni=aslivpn.pages.dev&fp=chrome#@CaV2ray ⚡️
 vless://ea286109-d20f-415e-849e-4af20ab04b65@135.148.152.102:443?security=tls&encryption=none&headerType=none&fp=chrome&type=tcp&sni=147135001195.sec22org.com#@V2RAY_VMESS_free
-vless://ea286109-d20f-415e-849e-4af20ab04b65@135.148.152.108:443?security=tls&encryption=none&headerType=none&fp=chrome&type=tcp&sni=147135001195.sec22org.com#@V2RAY_VMESS_free

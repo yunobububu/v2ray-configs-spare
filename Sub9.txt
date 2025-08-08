@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.236:443#🇺🇸@ai_duet | @v2rayngsupbot
 ss://YWVzLTEyOC1nY206ckk5aXhxbVpISEc0UEJ2VUFOWUFHdw==@37.202.231.23:444#IRAN🇮🇷
 ss://YWVzLTEyOC1nY206dG1kODQyNw@120.233.71.140:52251#🄵🄺 🇭🇰 香港-03
 ss://YWVzLTEyOC1nY206dG1kODQyNw@120.233.71.140:52252#🄵🄺 🇭🇰 香港-04
@@ -252,4 +253,3 @@ trojan://Z2P0nBrc5d-54JXKPLQcGg@www.speedtest.net:2087?type=ws&host=jfkgfuiodghl
 trojan://Z2P0nBrc5d-54JXKPLQcGg@www.speedtest.net:2087?type=ws&host=jfkgfuiodghlf.ahmadinabaz.ir&path=/speedtest&security=tls&fp=chrome&sni=jfkgfuiodghlf.ahmadinabaz.ir&alpn=h2,http/1.1#@SaghiVpnX[🇨🇦]
 trojan://ZU)0ryc$VSrG@104.17.148.22:443?path=/trg2dhGAnG15ULOP7i?ed=2560&security=tls&alpn=http/1.1&host=uk2wbo0ikx3iyi4i9wjdyu6y-o28et7o.pages.dev&fp=chrome&type=ws&sni=uk2WbO0iKx3IyI4i9WjdYU6Y-O28ET7o.pagEs.DeV#@Selinc
 trojan://ZU)0ryc$VSrG@104.17.148.22:443?path=/trg2dhGAnG15ULOP7i?ed=2560&security=tls&alpn=http/1.1&host=uk2wbo0ikx3iyi4i9wjdyu6y-o28et7o.pages.dev&fp=chrome&type=ws&sni=uk2WbO0iKx3IyI4i9WjdYU6Y-O28ET7o.pagEs.DeV#آلمان 🇩🇪 @V2xay
-trojan://ZU)0ryc$VSrG@104.17.148.22:443?path=/trg2dhGAnG15ULOP7i?ed=2560&security=tls&alpn=http/1.1&host=uk2wbo0ikx3iyi4i9wjdyu6y-o28et7o.pages.dev&fp=chrome&type=ws&sni=uk2WbO0iKx3IyI4i9WjdYU6Y-O28ET7o.pagEs.DeV#🛡️ @FreakConfig
