@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-hy2://e61583d1-c002-412e-978b-3eaaba88707b@hshl.huasuan666.top:22157/?insecure=1&sni=hshl.huasuan666.top#%F0%9F%8D%8093%40oneclickvpnkeys
 hy2://dongtaiwang.com@51.159.111.32:5355/?insecure=1&sni=www.bing.com#%F0%9F%8D%8058%40oneclickvpnkeys
 hy2://dongtaiwang.com@51.158.218.2:50066/?insecure=1&sni=www.bing.com#%F0%9F%8D%8057%40oneclickvpnkeys
 trojan://f282b878-8711-45a1-8c69-5564172123c1@104.21.72.109:443/?type=ws&host=vpn.stupidworld.web.id&path=%2FStupid-World%2F103.106.228.126-2053&security=tls&sni=vpn.stupidworld.web.id#%F0%9F%8D%8071%40oneclickvpnkeys

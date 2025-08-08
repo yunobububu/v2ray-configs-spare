@@ -3,34 +3,10 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-ss://YWVzLTEyOC1nY206b09HZlBJZjFCVFNmSkRqSkZWWVJ5RStQYUhLdGVHV0JVenBKUDFPM2lhWT0=@51.91.210.89:8080#Bya To @Iran_V2ray1
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.178:443#فیلترشکن نامحدود 99ت =» SabznetVPN@
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.178:443#کانفیگ رایگان جوین شو تلگرام 🇮🇷 @ConfVip
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.179:443#@meli_proxyy
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.179:443#🇬🇧𝐣𝐨𝐢𝐍-@𝐅𝐑𝐄𝐄𝐕𝟐𝐑𝐍𝐆
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.179:443#🌐𝐣𝐨𝐢𝐍-@𝐅𝐑𝐄𝐄𝐕𝟐𝐑𝐍𝐆
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.181:443#🛡️ @FreakConfig
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.182:443#🛡️ @FreakConfig
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.204:443#t.me/entryNET/config=1839834451281208
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.95.183:443#Tel:Tunder_vpn
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.95.183:443#Tunder
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.95.183:443#💯T.me/Asak_Vpn💯
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.34.244.68:443#All@configfu-6
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.168:443#[🇺🇸]t.me/Asak_Vpn
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.170:443#[🇺🇸]t.me/Asak_Vpn
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@173.244.56.6:443#@AYMH19+کانال+تلگرام
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@173.244.56.6:443#@G0Dv2ray
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@173.244.56.6:443#@Selinc
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@173.244.56.6:443#@Tunder_vpn
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@173.244.56.6:443#@V2RAYNG_1378
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@173.244.56.6:443#@V2ray1_Ng
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@173.244.56.6:443#@meli_proxyy
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@173.244.56.6:443#Tunder_vpn
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@173.244.56.6:443#🛡️ @FreakConfig
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@173.244.56.9:443#All@configfu-5
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.81:443#🇬🇧𝐣𝐨𝐢𝐍-@𝐅𝐑𝐄𝐄𝐕𝟐𝐑𝐍𝐆
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.236:443#🇺🇸@ai_duet | @v2rayngsupbot
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@141.98.101.178:443#@ShadowProxy66 🇬🇧
 ss://YWVzLTEyOC1nY206ckk5aXhxbVpISEc0UEJ2VUFOWUFHdw==@37.202.231.23:444#IRAN🇮🇷
 ss://YWVzLTEyOC1nY206dG1kODQyNw@120.233.71.140:52251#🄵🄺 🇭🇰 香港-03
 ss://YWVzLTEyOC1nY206dG1kODQyNw@120.233.71.140:52252#🄵🄺 🇭🇰 香港-04
@@ -115,8 +91,10 @@ ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@68.183.227.4:8080#@awlix_ir
 ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@68.183.235.122:8080#@awlix_ir
 ss://cmM0LW1kNTppRkRFMFo@kraz01.fjk.wtf:20353#KR
 ss://cmM0LW1kNTppRkRFMFo@sg17.fjk.wtf:20353#HK
+ss://e999db7a-1b17-4da6-bc37-c9fa24af2e93@104.19.144.33:443/?type=ws&encryption=none&flow=&host=JdYq2881Un.GhEiChI.oRg&path=/&security=tls&sni=JdYq2881Un.GhEiChI.oRg&fp=chrome#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:6.31ms
 ss://eyJhZGQiOiI5MS45OS4xNTMuMzkiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6InBhbmVsLmFydXNoYXNvZnQuY29tIiwiaWQiOiI5ODVhZjQ4OS1mYjE2LTQ5MWEtODEzYy1mZGQ5MWI2YjA2ZWUiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjM5MTMwIiwicHMiOiJDaGFubmVsIGlkOiBAU2hhZG93UHJveHk2NiDwn4ep8J+HqiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiYXV0byIsInYiOiIyIn0=#🌐𝐣𝐨𝐢𝐍-@𝐅𝐑𝐄𝐄𝐕𝟐𝐑𝐍𝐆
 ss://f3371028-eb17-45b8-85a8-8fdf575164a9@ir.snappmarket-cdn.com:80?path=/uk-employees/wp-content?ed=2048&security=none&encryption=none&fp=chrome&type=ws#Telegram:@config_proxy 💦
+ss://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@91.193.58.14:8880/?type=ws&encryption=none&flow=&host=tw.laoyoutiao.link&path=/Telegram🇨🇳@WangCai2/?ed=2048#👉🆔@v2ray_configs_pool📡🇬🇧®️United Kingdom©️Stretford🅿️ping:6.11ms
 trojan://-EleP1yiGc6SD72p-m8Brw@78.39.9.168:6161?mode=gun&security=tls&alpn=h2&fp=chrome&type=grpc&serviceName=gg&sni=speedtest.net#🇩🇪@EXPRESSVPN_420
 trojan://008a7900-34de-11f0-9f02-1239d0255272@fr1.test3.net:443?security=tls&headerType=none&type=tcp#@hopev2ray❤️‍🔥
 trojan://07301100-4684-11f0-9ffa-1239d0255272@uk1.test3.net:443?security=tls&headerType=none&type=tcp#@hopev2ray🩶
@@ -253,3 +231,25 @@ trojan://Bw5Mz7QkVp@70.34.206.32:443?security=tls&sni=z-v2-077787.kailib.com&all
 trojan://Bw5Mz7QkVp@95.179.245.249:443?security=tls&sni=z-v2-080537.kailib.com&type=tcp#@awlix_ir
 trojan://C910E5F2-A662-7CFB-B5A6-5D39DB212CBA@muddy-frost-4e2d.vpnetwork3567.workers.dev:443?path=/?--Telegram--Viturey--Telegram--Viturey--&security=tls&host=muddy-frost-4e2d.vpnetwork3567.workers.dev&fp=chrome&type=ws&sni=muddy-frost-4e2d.vpnetwork3567.workers.dev#👉 𝗝𝗼𝗶𝗻 ➠ @Viturey | تلگرام 🇧🇪
 trojan://CHANEL___JKVPN@79.137.195.203:7575?path=/TELEGRAM_BYA_CHANEL_JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN?ed=2048&security=none&host=joker.ahang-alpha.ir&type=ws#ᴬᴸᴸ¹🇳🇱⭕᭄꯭@𝐉𝐊𝐕𝐏𝐍
+trojan://CXCu72eya8wFeRySSFpDz3CN6jBYac5OIl3q0gSl8xZOADY3EK94pxZanDA3RT@35.77.216.3:443?security=tls&sni=broker.superpokemon.com&allowInsecure=1&type=tcp#@awlix_ir
+trojan://FiSo7J6vfS@51.68.13.106:1935?security=tls&alpn=h3,h2,http/1.1&headerType=none&type=tcp&sni=x1fr-ovh.devefun.net#@V2rayNG3
+trojan://IM4e0ZQNPU@ru2.asc-sam.ir:443?security=reality&pbk=f_av3K6BFEs9abRaFgPJMKHz4ElZP7BP34ZlRtxysQ0&headerType=none&fp=chrome&spx=/yethePcHjaf&type=tcp&sni=journalofbigdata.springeropen.com&sid=109cb5faeb6b#@V2RAY_VMESS_free
+trojan://JKVPN___JKVPN@79.137.195.203:7575?path=/TELEGRAM_BYA_CHANEL_JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN?ed=2048&security=none&host=joker.ahang-alpha.ir&type=ws#²🇳🇱@JKVPN 👈کانال تلگرامی
+trojan://JKVPN______JKVPN@79.137.195.203:882?type=grpc&serviceName=TELEGRAM_____JKVPN_____JKVPN_____JKVPN_____JKVPN_____JKVPN_____JKVPN____TELEGRAM_____JKVPN_____JKVPN_____JKVPN_____JKVPN_____JKVPN_____JKVPN_____TELEGRAM_____JKVPN_____JKVPN_____JKVPN_____JKVPN_____JKVPN_____JKVPN&authority=&security=none#²🇳🇱@JKVPN 👈کانال تلگرامی
+trojan://JOIN__JKVPN@79.137.195.203:8443?path=/TELEGRAM_BYA_CHANEL_JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN?ed=2048&security=none&host=joker.ahang-alpha.ir&type=ws#ᴬᴸᴸ²🇳🇱⭕᭄꯭@𝐉𝐊𝐕𝐏𝐍
+trojan://K7N8flfyok@www.chatgameone.ir:36557?type=tcp&path=/&host=zula.ir&headerType=http&security=none#@icv2ray
+trojan://Lbj6pUya7KVKU7kqPKTb8A@www.speedtest.net:2087?path=/speedtest&security=tls&alpn=h2,http/1.1&host=jfkgfuiodghlf.ahmadinabaz.ir&fp=chrome&type=ws&sni=jfkgfuiodghlf.ahmadinabaz.ir#@SaghiVpnX[🇨🇦]
+trojan://NISHIKUITAN111@141.11.203.203:443?allowInsecure=1&sni=za.ylks.xyz&type=ws&host=za.ylks.xyz&path=//#t.me/entryNET/config=1839866288229392
+trojan://NISHIKUITAN111@77.75.199.86:443?allowInsecure=1&sni=za.ylks.xyz&type=ws&host=za.ylks.xyz&path=//#t.me/entryNET/config=1839862512943837
+trojan://NISHIKUITAN111@94.242.229.89:443?allowInsecure=1&sni=za.ylks.xyz&ws=1&wspath=//#t.me/entryNET/config=1839839863843405
+trojan://Pooria@104.17.148.22:443?path=/trPyOrWMfkHd15oxiI?ed=1520#FreeV2Alpha&security=tls&alpn=h2,http/1.1&host=301.pooriam.ir&fp=chrome&type=ws&sni=301.pOORiAm.ir#@V2rayNG3
+trojan://Pooria@104.17.148.22:443?path=/trPyOrWMfkHd15oxiI?ed=1520&security=tls&alpn=h2,http/1.1&host=301.pooriam.ir&fp=chrome&type=ws&sni=301.pOORiAm.ir#@V2rayNG3
+trojan://Pooria@104.17.148.22:443?path=trPyOrWMfkHd15oxiI?ed=1520#@v2ray_alpha&security=tls&alpn=h2,http/1.1&host=301.pooriam.ir&fp=chrome&type=ws&sni=301.pOORiAm.ir#@V2rayNG3
+trojan://TELEGRAM__JKVPN@www.speedtest.net:80?path=/TELEGRAM_BYA_CHANEL_JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN?ed=2048&security=none&host=joker.ahang-alpha.ir&type=ws#ᴬᴸᴸ¹🇳🇱➣@JKVPN
+trojan://TELEGRAM__JKVPN@www.zula.ir:80?path=/TELEGRAM_BYA_CHANEL_JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN?ed=2048&security=none&host=joker.ahang-alpha.ir&type=ws#ᴬᴸᴸ²🇳🇱➣@JKVPN
+trojan://TurbooServer@turbooserver.aftabz.com:8080?security=reality&pbk=MlCxfES5k6SVZz4qfrnfF516r60hVZ7izp5MvPbfYk4&headerType=none&fp=chrome&spx=/&type=tcp&sni=tgju.org&sid=d5e7#@v2rayngzendegimamad🕊️
+trojan://XJjHUk9P2k@79.137.195.203:882?type=grpc&serviceName=TELEGRAM_BYA_CHANEL_JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN_JOKERRVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN_jokerrvpn-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN&authority=&security=none#ᴬᴸᴸ¹𝗝𝗼𝗶𝗻➠@JKVPN
+trojan://Xa4^l(;.;B#a@104.18.26.90:443?path=/trUXByA1rnbs4YQ1Xw?ed=2560&security=tls&alpn=h3,h2,http/1.1&host=s1.mitivpn.workers.dev&fp=chrome&type=ws&sni=S1.mitivpN.wOrKeRS.DEV#@Tunder_vpn
+trojan://Xa4^l(;.;B#a@104.18.26.90:443?path=/trUXByA1rnbs4YQ1Xw?ed=2560&security=tls&alpn=h3,h2,http/1.1&host=s1.mitivpn.workers.dev&fp=chrome&type=ws&sni=S1.mitivpN.wOrKeRS.DEV#Telegram : @EXPRESSVPN_420
+trojan://Xz1bZynt1yW2JdkaC9RbhA@93.127.181.14:60592?security=none&note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN#🇦🇪[Telegram:NetifyVpn]
+trojan://Z2P0nBrc5d-54JXKPLQcGg@www.speedtest.net:2087?type=ws&host=jfkgfuiodghlf.ahmadinabaz.ir&path=/speedtest&security=tls&fp=chrome&sni=jfkgfuiodghlf.ahmadinabaz.ir&alpn=h2,http/1.1#@SaghiVpnXBOT[🇨🇦]
