@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://48adb464-daec-f659-0b86-ae5d2881ca94@sblue.zeroboostspeed.org:2052?encryption=none&security=none&type=httpupgrade&host=Uuk.sefryasad.ir&path=/#@Daily_Configs
 vless://48b0a388-1136-4943-8c2b-532afb347f31@www.speedtest.net:2086?path=/@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn?ed=2086&security=none&encryption=none&host=cafebazaar.ir.novinsoft.ir.oradoshop.com.persiangsm.ir.digikala.com.abadis.ir.shad.ir.divar.ir.downloadly.com.aparat.com.cafebazar.ir.varzesh3.com.ninisite.com.abadis.ir.bama.ir.p30download.ir.telewebion.bmi.ir.shad.ir.mayket.com.ninisite.top.&type=httpupgrade#@spikevpn👈 جوین بده💯⚡
 vless://48c8ddde-e4b9-41ce-bf7d-9e44c14f8a70@91.99.18.180:8558?security=none&encryption=none&headerType=none&type=tcp#@HiByeVPNN👈❤️‍🔥⚡
 vless://48c8ddde-e4b9-41ce-bf7d-9e44c14f8a70@91.99.18.180:8558?type=tcp&security=none#@meli_proxyy
@@ -252,4 +253,3 @@ vless://4eba65a6-3ec7-4f07-d854-81f8a4258582@hazaratwork.darkping.net:5372?type=
 vless://4ed7bf5b-b370-4173-966c-a33fd350cdad@makhzan.moltyali.ddns-ip.net:48078?security=none&encryption=none&headerType=none&type=tcp#@NETMelliAnti : چنل کانفیگ
 vless://4ee50f98-d646-4491-b5a5-339fd79153a4@www.speedtest.net:8080?path=/speedtest.net?ed=512&security=none&encryption=none&host=h17.Xn--gmq282ekfhyys3gs.Com.&type=httpupgrade#@V2rayNG3
 vless://4eff2388-2092-4b0a-aa74-0e464889ffaf@109.73.206.90:443?security=reality&encryption=none&pbk=cTm0TIKL9qK550XICK2YroOSr1u-f12h5UmBw2EAr2c&headerType=none&fp=chrome&type=tcp&sni=google.com#🇷🇺 @Freakconfig
-vless://4eff2388-2092-4b0a-aa74-0e464889ffaf@109.73.206.90:443?security=reality&encryption=none&pbk=cTm0TIKL9qK550XICK2YroOSr1u-f12h5UmBw2EAr2c&headerType=none&fp=chrome&type=tcp&sni=google.com#🇷🇺 | @External_Net

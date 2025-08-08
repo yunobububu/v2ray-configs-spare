@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://8797fcb2-f8a9-47b2-e27c-a3aeba7552b0@binex.tv.jaricopen.fun:6666?mode=gun&security=none&encryption=none&type=grpc&serviceName=/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy#@V2RAYROZ
 vless://8797fcb2-f8a9-47b2-e27c-a3aeba7552b0@binex.tv.jaricopen.fun:6666?type=grpc&serviceName=/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy&authority=&security=none#BinexTiFy🔥-g75kni8kv
 vless://87b9318e-60d7-4d3f-907f-e74cb7607b59@hp.mastertunnel.shop:8080?encryption=none&security=none&type=ws&host=refersion.com&path=/#@configfu
 vless://87b9318e-60d7-4d3f-907f-e74cb7607b59@hp.mastertunnel.shop:8080?path=/&security=none&encryption=none&host=refersion.com&type=ws#All@configfu-39
@@ -252,4 +253,3 @@ vless://8dd851a9-39e4-4baf-a443-17c688aa6dfc@65.109.202.24:12925?security=none&e
 vless://8dd851a9-39e4-4baf-a443-17c688aa6dfc@65.109.202.24:12925?security=none&encryption=none&type=ws#🔐 @AblNet7  📻
 vless://8dd851a9-39e4-4baf-a443-17c688aa6dfc@wolf560.royalmt.life:10925?security=&encryption=none&type=ws#🌐𝐣𝐨𝐢𝐍-@𝐅𝐑𝐄𝐄𝐕𝟐𝐑𝐍𝐆
 vless://8dd851a9-39e4-4baf-a443-17c688aa6dfc@wolf560.royalmt.life:10925?security=none&encryption=none&type=ws#@V2RAYNG_1378
-vless://8df60790-c903-4661-b85d-64c0009378e5@104.19.99.250:443?path=/?ed&security=tls&encryption=none&host=f1.parsa.filegear-sg.me&type=ws&sni=F1.paRsa.fiLegEar-Sg.Me#🇨🇦𝐣𝐨𝐢𝐍-@𝐅𝐑𝐄𝐄𝐕𝟐𝐑𝐍𝐆
