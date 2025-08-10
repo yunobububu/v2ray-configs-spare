@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.133:8880?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#کانال+ما+در+تلگرام+@Asak_Vpn+🏆
-vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.149:8880?mode=gun&security=none&encryption=none&type=grpc#VIP 343 🇺🇸 @EXPRESSVPN_420
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.152:8880?security=&sni=pqh33v6.cinema33.shop&type=grpc&encryption=none#@awlix_ir
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.161:8880?security=&sni=pqh34v7.bloger34art.shop&type=grpc&encryption=none#@awlix_ir
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.167:8880?type=grpc&mode=gun&authority=/@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn#@EVAY_VPN🇳🇱
@@ -253,3 +251,5 @@ vless://e97a0128-4785-4323-a2a5-dd01ce49d359@104.21.79.134:443?path=/Telegram@V2
 vless://e97c3bef-f976-4fb5-8b8a-9a3671c9872e@ir2.mkh1.resolver1.net:2626?mode=gun&security=none&encryption=none&type=grpc#CH 🇨🇭 | @v2xay
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.14.1:8880?flow=&type=ws&host=vngsupply.ip-ddns.com&path=/G8ZDmBYwOAz3ahmR?ed=2560&security=none#@vmessorg
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.14.1:8880?path=/G8ZDmBYwOAz3ahmR?ed=2560&security=none&encryption=none&host=vngsupply.ip-ddns.com&type=ws#@V2RAYNG_1378
+vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.14.1:8880?path=/G8ZDmBYwOAz3ahmR?ed=2560&security=none&encryption=none&host=vngsupply.ip-ddns.com&type=ws#Telegram : @Alfa_v2ray_ng 🔥
+vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.14.1:8880?path=/G8ZDmBYwOAz3ahmR?ed=2560&security=none&encryption=none&host=vngsupply.ip-ddns.com&type=ws#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
