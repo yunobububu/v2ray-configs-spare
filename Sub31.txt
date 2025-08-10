@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://89ba9206-305a-4dbf-bd62-9144c1b0e0c4@www.speedtest.net:443?path=/hajmi?ed=2050&security=tls&encryption=none&fp=chrome&type=ws&sni=nb-fi.nitter.ir#Telegram : @Alfa_v2ray_ng 🔥
 vless://89ba9206-305a-4dbf-bd62-9144c1b0e0c4@www.speedtest.net:443?path=/hajmi?ed=2050&security=tls&encryption=none&fp=chrome&type=ws&sni=nb-fi.nitter.ir#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
 vless://89ce1d87-bf2f-4c74-bafc-f089a9cf532f@103.82.25.166:2321?security=none&encryption=none&headerType=none&type=tcp#(@vmesskhodam)چنلمون
 vless://89e0fd97-6afd-4849-b8e9-3d19c1254bec@173.245.59.132:8080?path=/@MaSTeRSeRVeR1-@-MaSTeRSeRVeR1@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1?ed=2048&security=&encryption=none&host=masterserver1.nanvrfood.ir.&type=httpupgrade#🇩🇪 All Operator 1 @MaSTeRSeRVeR1
@@ -253,3 +252,4 @@ vless://90c7ad5e-cd15-4314-b39b-aeabd397d592@www.visa.com.sg:2087?path=/?ed=2560
 vless://90ccff66-8805-4a42-9790-a113aff03ded@vip.configfast.configfast.ir:1106?security=none&encryption=none&host=skyroom.online,gharar.ir,igap.net&headerType=http&type=tcp#عضو بشید تلگرام  🇮🇷💔 @ConfigFast (VIP)
 vless://90d7db9b-972b-4073-8738-12cf42124260@104.16.122.80:443?path=/?ed=2560&security=tls&encryption=none&host=kawaiifreevpn.pages.dev&type=ws&sni=kawaiifreevpn.pages.dev#IRAN 324 (@Outline_Vpn) free
 vless://90d7db9b-972b-4073-8738-12cf42124260@104.19.247.78:443?path=/?ed=2560&security=tls&encryption=none&host=kawaiifreevpn.pages.dev&fp=chrome&type=ws&sni=kawaiifreevpn.pages.dev#IRAN 309 (@Outline_Vpn) free
+vless://90efad13-d266-4d10-a914-bc40028ec469@94.131.108.195:53221?security=none&encryption=none&headerType=none&type=tcp#WiFi-@configfu-17
