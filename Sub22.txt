@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://401374e6-df77-41fb-f638-dad8184f175b@181.214.1.222:443?mode=gun&security=tls&alpn=h2&encryption=none&type=grpc&sni=pqh36v4.hiddendom.shop#MCI-@Tunder_vpn-33
-vless://401374e6-df77-41fb-f638-dad8184f175b@185.135.9.223:443?mode=gun&security=tls&encryption=none&alpn=h2&authority=&type=grpc&serviceName=&sni=pqh24v3.hiddendom.shop#کانال+ما+در+تلگرام+@Asak_Vpn+🏆
-vless://401374e6-df77-41fb-f638-dad8184f175b@185.135.9.223:443?type=grpc&mode=gun&security=tls&sni=pqh24v3.hiddendom.shop&alpn=h2#🇳🇱 @EVAY_VPN
 vless://401374e6-df77-41fb-f638-dad8184f175b@31.12.75.185:443?mode=gun&security=tls&alpn=h2&encryption=none&type=grpc&sni=pqh36v4.hiddendom.shop#MCI-@Tunder_vpn-28
 vless://401374e6-df77-41fb-f638-dad8184f175b@45.8.211.71:443?encryption=none&security=tls&sni=pqh24v3.hiddendom.shop&alpn=h2&type=grpc#@Daily_Configs
 vless://401374e6-df77-41fb-f638-dad8184f175b@45.8.211.71:443?mode=gun&security=tls&alpn=h2&encryption=none&type=grpc&sni=pqh24v3.hiddendom.shop#🛡️ @FreakConfig
@@ -253,3 +250,6 @@ vless://4801c19d-37aa-4704-921e-9ee9bab80f1d@speedtest.net:80?mode=auto&path=/?J
 vless://4801c19d-37aa-4704-921e-9ee9bab80f1d@speedtest.net:80?mode=auto&path=/?Join---i10VPN---Join---i10VPN---Join---i10VPN---Join---i10VPN?ed=2560&security=none&encryption=none&host=p30download.ir&type=xhttp#@i10VPN 🚀| با ما متصل بمون⚡
 vless://48137ea2-8cfd-4726-9ff2-d6e8bd09454a@kafshu.ir:8080/?type=ws&path=/@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec&host=inFo.laLezaRanegomaNandi.onlineshopbb.org&security=none#MdVpnSec-kjr46zmh
 vless://48137ea2-8cfd-4726-9ff2-d6e8bd09454a@kafshu.ir:8080?path=/@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec&security=none&encryption=none&host=inFo.laLezaRanegomaNandi.onlineshopbb.org&type=ws#Telegram : @Alfa_v2ray_ng 🔥
+vless://481c5606-b586-44d7-bc2e-d8ef30d67f62@176.120.72.63:38339/?type=tcp&encryption=none&flow=&sni=dl.google.com&fp=chrome&security=reality&pbk=o0MFuznHh_Wztg0FTAMhFXm3hjAqOJAJIIVNn-_A9WA&sid=e16883e511#Telegram:@config_proxy 🔥
+vless://481c5606-b586-44d7-bc2e-d8ef30d67f62@176.120.72.63:38339?security=reality&encryption=none&pbk=o0MFuznHh_Wztg0FTAMhFXm3hjAqOJAJIIVNn-_A9WA&host=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&headerType=none&fp=chrome&type=tcp&sni=dl.google.com&sid=e16883e511#🇰🇿 | @External_Net
+vless://482931a4-fa81-4d82-a6fd-f5efa846b586@94.130.183.41:1503?security=reality&encryption=none&pbk=21-4cyes9zNNaaOPl-xOlkESjzaRaCUnEXyYZE8rmW0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=0first.com#FreeForAll

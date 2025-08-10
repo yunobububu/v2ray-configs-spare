@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://aaaaaaa1-bbbb-4ccc-accc-eeeeeeeeeee1@freevpn.ndeso.web.id:443?path=/Free-CF-Proxy-AU3?Join---i10VPN---Join---i10VPN---Join---i10VPN---Join---i10VPN&security=tls&encryption=none&host=freevpn.ndeso.web.id&type=ws&sni=freevpn.ndeso.web.id#@i10VPN 🚀| با ما متصل بمون⚡
-vless://aaaaaaa1-bbbb-4ccc-accc-eeeeeeeeeee1@freexxx.ndeso.web.id:443/?type=ws&encryption=none&flow=&host=freexxx.ndeso.web.id&path=/Free-CF-Proxy-AT24&security=tls&sni=freexxx.ndeso.web.id&fp=chrome#Telegram:@config_proxy 🔥
-vless://aaaaaaa1-bbbb-4ccc-accc-eeeeeeeeeee1@freexxx.ndeso.web.id:443?path=/Free-CF-Proxy-AT24&security=tls&encryption=none&host=freexxx.ndeso.web.id&fp=chrome&type=ws&sni=freexxx.ndeso.web.id#@AblNet7 🇮🇷 نت ملی
 vless://aaaaaaa1-bbbb-4ccc-accc-eeeeeeeeeee1@freexxx.ndeso.web.id:443?path=/Free-CF-Proxy-AT24&security=tls&encryption=none&host=freexxx.ndeso.web.id&fp=chrome&type=ws&sni=freexxx.ndeso.web.id#@Daily_Configs
 vless://aaaaaaa1-bbbb-4ccc-accc-eeeeeeeeeee1@freexxx.ndeso.web.id:443?path=/Free-CF-Proxy-AT24&security=tls&encryption=none&host=freexxx.ndeso.web.id&fp=chrome&type=ws&sni=freexxx.ndeso.web.id#@HiByeVPNN👈⚡❤️‍🔥
 vless://aaaaaaa1-bbbb-4ccc-accc-eeeeeeeeeee1@freexxx.ndeso.web.id:443?path=/Free-CF-Proxy-AT24&security=tls&encryption=none&host=freexxx.ndeso.web.id&type=ws&sni=freexxx.ndeso.web.id#@AblNet7 🇮🇷 نت ملی
@@ -253,3 +250,6 @@ vless://b1e76a39-1d89-4c07-f755-dd60839def7e@104.21.112.1:8080?path=/@unlimitedd
 vless://b1e76a39-1d89-4c07-f755-dd60839def7e@104.21.112.1:8080?security=&type=ws&path=/@unlimiteddev----@unlimiteddev-----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimitedev----@unlimitedev----@unlimiteddev----@unlimiteddev?ed=2480&host=join-to-unlimiteddev.sabadyt.ir&encryption=none#@unlimiteddev
 vless://b20c84f3-988c-489d-a93f-a42c26aa0c59@165.232.83.84:1500?security=reality&encryption=none&pbk=r7NlMeNf86iG8M1DF9WnU53xVx35pg1rRhLiEeW-618&headerType=none&fp=chrome&type=tcp&sni=springer-professional.com&sid=a93110#@V2RAYNG_1378
 vless://b20c84f3-988c-489d-a93f-a42c26aa0c59@165.232.83.84:1500?security=reality&encryption=none&pbk=r7NlMeNf86iG8M1DF9WnU53xVx35pg1rRhLiEeW-618&headerType=none&fp=chrome&type=tcp&sni=springer-professional.com&sid=a93110#🛡️ @FreakConfig
+vless://b221eccb-6823-4940-8980-59db5ee0dbf1@104.16.53.11:80?path=/?ed&security=none&encryption=none&host=aKmDuHdNrOjhEjGs1.FligHtbEaN24.Com&type=ws#
+vless://b221eccb-6823-4940-8980-59db5ee0dbf1@104.16.53.11:80?path=/?ed&security=none&encryption=none&host=aKmDuHdNrOjhEjGs1.FligHtbEaN24.Com&type=ws#@Hddify |×| چنل هدیفای 🛖
+vless://b221eccb-6823-4940-8980-59db5ee0dbf1@104.16.53.11:80?path=/?ed&security=none&encryption=none&host=aKmDuHdNrOjhEjGs1.FligHtbEaN24.Com&type=ws#@IRan_V2ray1
