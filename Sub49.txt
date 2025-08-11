@@ -3,11 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://e39ea9ab-a0ee-4ca9-cc5d-32cda0258cbc@65.109.208.107:2083?encryption=none&security=reality&sni=khamenei.ir&fp=chrome&pbk=mDWXgatiJqUc4fmeDQqGusEBIhjFVrQ85y_ZUfNpFV8&sid=54602915a7&spx=/&type=grpc&authority=&serviceName=melov2ray&mode=gun#@melov2ray🇫🇮
-vless://e39ea9ab-a0ee-4ca9-cc5d-32cda0258cbc@65.109.218.179:2083?encryption=none&security=reality&sni=khamenei.ir&fp=chrome&pbk=mDWXgatiJqUc4fmeDQqGusEBIhjFVrQ85y_ZUfNpFV8&sid=54602915a7&spx=/&type=grpc&authority=&serviceName=melov2ray&mode=gun#@melov2ray🇫🇮
-vless://e39ea9ab-a0ee-4ca9-cc5d-32cda0258cbc@65.109.218.179:2083?encryption=none&security=reality&sni=khamenei.ir&fp=chrome&pbk=mDWXgatiJqUc4fmeDQqGusEBIhjFVrQ85y_ZUfNpFV8&sid=54602915a7&spx=/&type=grpc&authority=&serviceName=melov2ray&mode=gun#✅ @vistav2ray  👈👈کانال ما
-vless://e39ea9ab-a0ee-4ca9-cc5d-32cda0258cbc@65.109.218.179:2083?mode=gun&security=reality&encryption=none&pbk=mDWXgatiJqUc4fmeDQqGusEBIhjFVrQ85y_ZUfNpFV8&fp=chrome&spx=/&type=grpc&serviceName=melov2ray&sni=khamenei.ir&sid=54602915a7#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
-vless://e39ea9ab-a0ee-4ca9-cc5d-32cda0258cbc@65.109.218.179:2083?mode=gun&security=reality&encryption=none&pbk=mDWXgatiJqUc4fmeDQqGusEBIhjFVrQ85y_ZUfNpFV8&fp=chrome&type=grpc&serviceName=melov2ray&sni=khamenei.ir&sid=54602915a7#@Selinc
 vless://e39ea9ab-a0ee-4ca9-cc5d-32cda0258cbc@65.109.218.179:2083?mode=gun&security=reality&encryption=none&pbk=mDWXgatiJqUc4fmeDQqGusEBIhjFVrQ85y_ZUfNpFV8&fp=chrome&type=grpc&serviceName=melov2ray&sni=khamenei.ir&sid=54602915a7#🇫🇮@FreakConfig
 vless://e3b665fd-0329-47dc-bc05-3474b14bcaf6@ipe3.alighan.ir:8443?path=/?ed=2048&security=tls&alpn=http/1.1&encryption=none&host=s.alighan.ir&fp=chrome&type=ws&sni=ipe4.alighan.ir#✔︎𝐜𝐡𝐚𝐧𝐧𝐞𝐥➪@ConfigV2rayForFree
 vless://e3d21d20-00c8-48c6-9369-b82eb0801a3e@206.206.103.204:37965?Telegram=@NasaV2,@NasaV2,@NasaV2,@NasaV2,@NasaV2,@NasaV2&type=tcp&security=none#t.me/NasaV2|🇺🇸
@@ -253,3 +248,8 @@ vless://e66beedb-dd44-47f0-baf8-7ba947d919d0@91.99.85.185:8443?type=xhttp&mode=s
 vless://e67025a0-278f-4208-8690-cac092b82306@212.80.20.50:443?security=tls&encryption=none&headerType=none&fp=chrome&type=tcp&sni=cs2.pishima.ir#@V2RAY_VMESS_free
 vless://e67cc88d-8b7f-4d12-a631-0171f05dd563@104.17.147.22:80?path=/@Vpn_Mikey،@Vpn_Mikey&security=none&encryption=none&host=Vpn_Mikey-speedtest.net.Amir-Mikey.Tech.&type=httpupgrade#@Vpn_Mikey | unlimitedGB 🇫🇷
 vless://e696b824-df07-4048-accb-83a54695b5e2@www.speedtest.net:8080?path=/V_2raYngVpn?ed=8080&security=none&encryption=none&host=FySuMyYk3.aMirsiTesos.sItE.&type=ws#@V_2rayngVpn+ایرانسل+و+رایتل
+vless://e6b6d832-5993-4348-84d2-8a5645ea04c7@185.226.119.16:8080?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#🌟T.me/Asak_Vpn🌟
+vless://e6b6d832-5993-4348-84d2-8a5645ea04c7@188.121.121.89:8080?security=none&encryption=none&host=www.speedtest.net&headerType=http&type=tcp#🇹🇷+Turkey
+vless://e6b6d832-5993-4348-84d2-8a5645ea04c7@37.152.189.81:8080?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#🌟T.me/Asak_Vpn🌟
+vless://e6f8e0fd-e867-44b1-dae9-df055b0d362f@www.speedtest.net:2082?path=/@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn?ed=2082&security=none&encryption=none&host=novinsoft.ir.oradoshop.com.persiangsm.ir.digikala.com.abadis.ir.shad.ir.divar.ir.downloadly.com.aparat.com.cafebazar.ir.varzesh3.com.ninisite.com.abadis.ir.bama.ir.p30download.ir.telewebion.bmi.ir.shad.ir.mayket.com.ninisite.top.&type=ws#@spikevpn👈 جوین بده💯⚡
+vless://e703225f-3040-4540-8f25-53d80080ba27@5.75.192.204:56125?security=none&encryption=none&headerType=none&type=tcp#Telegram:@config_proxy 🔥
