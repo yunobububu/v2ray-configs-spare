@@ -3,6 +3,14 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://Telegram: V2ray1_Ng@91.107.187.51:2050?mode=gun&security=reality&encryption=none&authority=-@V2ray1_Ng---@V2ray1_Ng---@V2ray1_Ng---@V2ray1_Ng---@V2ray1_Ng---@V2ray1_Ng---@V2ray1_Ng---@V2ray1_Ng---@V2ray1_Ng---@V2ray1_Ng---@V2ray1_Ng---@V2ray1_Ng---@V2ray1_Ng---@V2ray1_Ng---@V2ray1_Ng---@V2ray1_Ng---@V2ray1_Ng&pbk=ezDK7fd9ieu1_0tDnmurxVheIpDpXofzBRovR8nCtTI&fp=chrome&spx=/&type=grpc&sni=journalofbigdata.springeropen.com&sid=3078f8f691b6b4#@V2RAYROZ
+vless://Telegram: V2ray1_Ng@91.107.187.51:2050?security=reality&encryption=none&authority=-@V2ray1_Ng---@V2ray1_Ng---@V2ray1_Ng---@V2ray1_Ng---@V2ray1_Ng---@V2ray1_Ng---@V2ray1_Ng---@V2ray1_Ng---@V2ray1_Ng---@V2ray1_Ng---@V2ray1_Ng---@V2ray1_Ng---@V2ray1_Ng---@V2ray1_Ng---@V2ray1_Ng---@V2ray1_Ng---@V2ray1_Ng&pbk=ezDK7fd9ieu1_0tDnmurxVheIpDpXofzBRovR8nCtTI&fp=chrome&spx=/&type=grpc&sni=journalofbigdata.springeropen.com&sid=3078f8f691b6b4#Faraz-@V2ray1_Ng ALL
+vless://Telegram:@V2ray1_Ng@91.107.187.51:2050?mode=gun&security=reality&encryption=none&authority=-@V2ray1_Ng---@V2ray1_Ng---@V2ray1_Ng---@V2ray1_Ng---@V2ray1_Ng---@V2ray1_Ng---@V2ray1_Ng---@V2ray1_Ng---@V2ray1_Ng---@V2ray1_Ng---@V2ray1_Ng---@V2ray1_Ng---@V2ray1_Ng---@V2ray1_Ng---@V2ray1_Ng---@V2ray1_Ng---@V2ray1_Ng&pbk=ezDK7fd9ieu1_0tDnmurxVheIpDpXofzBRovR8nCtTI&fp=chrome&spx=/&type=grpc&sni=journalofbigdata.springeropen.com&sid=3078f8f691b6b4#@V2ray1_Ng
+vless://Telegram:@V2ray1_Ng@91.107.187.51:2050?mode=gun&security=reality&encryption=none&authority=-@V2ray1_Ng---@V2ray1_Ng---@V2ray1_Ng---@V2ray1_Ng---@V2ray1_Ng---@V2ray1_Ng---@V2ray1_Ng---@V2ray1_Ng---@V2ray1_Ng---@V2ray1_Ng---@V2ray1_Ng---@V2ray1_Ng---@V2ray1_Ng---@V2ray1_Ng---@V2ray1_Ng---@V2ray1_Ng---@V2ray1_Ng&pbk=ezDK7fd9ieu1_0tDnmurxVheIpDpXofzBRovR8nCtTI&fp=chrome&spx=/&type=grpc&sni=journalofbigdata.springeropen.com&sid=3078f8f691b6b4#@v2rayip1
+vless://Telegram@FNET00@Am20094@151.101.3.8:80?mode=auto&path=/Telegram@FNET00-@Am20094/?ed=2560&security=&encryption=none&host=fnet00.global.ssl.fastly.net&type=xhttp#Tel:@Mr_Amirr_00-Public|VIP&Tunnel|
+vless://Telegram@FNET00@Am20094@151.101.3.8:80?mode=auto&path=/Telegram@FNET00-@Am20094/?ed=2560&security=&encryption=none&host=fnet00.global.ssl.fastly.net&type=xhttp#Tel:@Mr_Amirr_00-Public|VIP&Tunnel|@FNET00|@Am20094-IP 1
+vless://Telegram@FNET00@Am20094@188.121.126.69:8081?type=tcp&security=none#Tel:@Mr_Amirr_00-Telegram | @FNET00
+vless://Telegram@FNET00@Am20094@37.32.13.245:8081?security=none&encryption=none&headerType=none&type=tcp#🚀@FNET00 - @Am20094 | VIP & Tunnel |
 vless://Telegram@FNET00@Am20094@37.32.13.245:8081?security=none&encryption=none&headerType=none&type=tcp#🚀@FNET00 - @Am20094 | VIP & Tunnel | 👤 @Mr_Amirr_00
 vless://V2rayNGFreeeV2rayNGFreee@151.101.67.8:80?mode=auto&path=/&security=none&encryption=none&host=V2rayNGFreee.global.ssl.fastly.net&type=xhttp#@Tunder_vpn
 vless://V2rayNGFreeeV2rayNGFreee@151.101.67.8:80?mode=auto&path=/&security=none&encryption=none&host=V2rayNGFreee.global.ssl.fastly.net&type=xhttp#Bya To @Iran_V2ray1
@@ -245,11 +253,3 @@ vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@94.131.9.239:443?path=/&security=tl
 vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@94.131.9.239:443?path=/&security=tls&encryption=none&type=ws#ski
 vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@94.131.9.239:8443?path=/&security=tls&encryption=none&type=ws#Channel id: @ShadowProxy66 🇫🇷
 vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@94.131.9.239:8443?path=/&security=tls&encryption=none&type=ws#🇫🇮 MCI - @FREEV2RNG 15
-vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@94.131.9.240:443?path=/&security=tls&encryption=none&type=ws#r♡ya
-vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@94.131.9.240:443?path=/&security=tls&encryption=none&type=ws#ski
-vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@94.131.9.244:443?path=/&security=tls&encryption=none&type=ws#@HiByeVPNN👈⚡❤️‍🔥
-vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@94.131.9.244:443?path=/&security=tls&encryption=none&type=ws#r♡ya
-vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@94.131.9.244:443?path=/&security=tls&encryption=none&type=ws#ski
-vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?path=/&security=tls&alpn=h3,h2&encryption=none&fp=chrome&type=ws&sni=K4j4FuZfMo.MeTaL1.oRg#@Configology🌹
-vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?path=/&security=tls&alpn=h3,h2&encryption=none&fp=chrome&type=ws&sni=K4j4FuZfMo.MeTaL1.oRg#🇩🇪@v2rayng_fars
-vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?encryption=none&security=tls&alpn=h3,h2&fp=chrome&type=ws&host=F7yHwCmPgY.mEtAl5.OrG&path=/#Telegram:@config_proxy 🔥
