@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?path=/&security=tls&encryption=none&host=MkS1mYeRw9.SaLaMgOjAi09-2.InFo&type=ws&sni=MkS1mYeRw9.SaLaMgOjAi09-2.InFo#@Tunder_vpn
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?path=/&security=tls&encryption=none&host=MkS1mYeRw9.SaLaMgOjAi09-2.InFo&type=ws&sni=MkS1mYeRw9.SaLaMgOjAi09-2.InFo#IRAN 363 (@Outline_Vpn) free
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@ipw.gfdv54cvghhgfhgj-njhgj64.info:2096?path=/&security=tls&encryption=none&host=VpNwS2iJkA.vPbEtHoRvP002.iNfO&type=ws&sni=VpNwS2iJkA.vPbEtHoRvP002.iNfO#@V2ray1_Ng
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@ipw.gfdv54cvghhgfhgj-njhgj64.info:8443?path=/&security=tls&alpn=h3,h2&encryption=none&host=Dw90GySiK7.tAkTaK00121.iNfO&fp=chrome&type=ws&sni=Dw90GySiK7.tAkTaK00121.iNfO#@configfu
@@ -253,3 +252,4 @@ vless://2ad87f95-7a0b-4018-8497-5ecaac2f0ddf@handSoME-dEvice.ONEeAt.CO:80?path=/
 vless://2ad87f95-7a0b-4018-8497-5ecaac2f0ddf@handSoME-dEvice.ONEeAt.CO:80?path=/&security=none&encryption=none&type=ws#@v2ray313 کانالمون 💜
 vless://2ad87f95-7a0b-4018-8497-5ecaac2f0ddf@handSoME-dEvice.ONEeAt.CO:80?path=/&security=none&encryption=none&type=ws#@v2ray313 کانالمون 🚀
 vless://2ad87f95-7a0b-4018-8497-5ecaac2f0ddf@handSoME-dEvice.ONEeAt.CO:80?path=/&security=none&encryption=none&type=ws#Telegram : @Alfa_v2ray_ng 🔥
+vless://2ad87f95-7a0b-4018-8497-5ecaac2f0ddf@handSoME-dEvice.ONEeAt.CO:80?path=/&security=none&encryption=none&type=ws#🇳🇱[Telegram:v2rayng_fars]

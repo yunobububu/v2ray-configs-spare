@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://c4e6a6ef-d782-4a12-a38a-906a61ee5bc1@104.21.48.1:2083?mode=auto&path=/gdsthjjjvfxsstyy؟ed=2083&security=tls&alpn=h3&encryption=none&host=cho.chonon.sbs&fp=chrome&type=xhttp&sni=cho.chonon.sbs#@ev2rayy mci  ایرانسل
 vless://c4e6a6ef-d782-4a12-a38a-906a61ee5bc1@104.21.48.1:2083?mode=auto&path=/gdsthjjjvfxsstyy؟ed=2083/?&security=tls&alpn=h3&encryption=none&host=cho.chonon.sbs&fp=chrome&type=xhttp&sni=cho.chonon.sbs#@v2ray313 کانالمون 🔥
 vless://c4e6a6ef-d782-4a12-a38a-906a61ee5bc4@104.21.48.1:2083?mode=auto&path=/gdsthjjjvfxsstyy؟ed=2083&security=tls&alpn=h3&encryption=none&host=cho.chonon.sbs&fp=chrome&type=xhttp&sni=cho.chonon.sbs#@ev2rayy mci
 vless://c4ed7482-c9bb-4b37-aca0-f5c2071b04c6@speedtest.net:80?type=ws&host=befreewithus.net&path=/&security=none#Channel:@BeFreeWithUs
@@ -253,3 +252,4 @@ vless://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@www.speedtest.net:8443?path=/&secur
 vless://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@www.speedtest.net:8443?path=/&security=tls&encryption=none&host=lease-18.access.name.ng&fp=chrome&type=ws&sni=lease-18.access.name.ng#@i10VPN 🚀| با ما متصل بمون⚡
 vless://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@www.speedtest.net:8443?path=/&security=tls&encryption=none&host=lease-18.access.name.ng&fp=chrome&type=ws&sni=lease-18.access.name.ng#Telegram : @Alfa_v2ray_ng 🔥
 vless://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@www.speedtest.net:8443?path=/&security=tls&encryption=none&host=lease-18.access.name.ng&fp=chrome&type=ws&sni=lease-18.access.name.ng#→ @Hddify 🛰️
+vless://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@www.speedtest.net:8443?path=/&security=tls&encryption=none&host=lease-18.access.name.ng&fp=chrome&type=ws&sni=lease-18.access.name.ng#💌 @Viturey 💌

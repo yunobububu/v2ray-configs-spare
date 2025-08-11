@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://362647d6-aa42-4eb4-9cb6-41ccaecf4f4b@62.60.178.19:20321?security=none&encryption=none&host=/JKVPN_BIA_CHANEL@JKVPN&headerType=none&type=tcp#@v2rayng_fars
 vless://362647d6-aa42-4eb4-9cb6-41ccaecf4f4b@62.60.178.19:20321?security=none&encryption=none&host=/JKVPN_BIA_CHANEL@JKVPN&headerType=none&type=tcp#→ @Hddify 🕯️
 vless://362647d6-aa42-4eb4-9cb6-41ccaecf4f4b@panbehnet.cinemapluss.ir:20321?security=none&encryption=none&headerType=none&type=tcp#US 🇺🇲 | @v2xay
 vless://362647d6-aa42-4eb4-9cb6-41ccaecf4f4b@panbehnet.cinemapluss.ir:20321?security=none&encryption=none&headerType=none&type=tcp#فیلترشکن رایگان👈Prime_Verse@
@@ -253,3 +252,4 @@ vless://3f9f37a6-8d0c-4ccc-9449-a533db0eacaa@165.22.76.53:8710?security=&encrypt
 vless://3f9f37a6-8d0c-4ccc-9449-a533db0eacaa@165.22.76.53:8710?security=&encryption=none&headerType=none&type=tcp#VayNora
 vless://3f9f37a6-8d0c-4ccc-9449-a533db0eacaa@165.22.76.53:8710?security=none&encryption=none&headerType=none&type=tcp#@AYMH19+کانال+تلگرام
 vless://3f9f37a6-8d0c-4ccc-9449-a533db0eacaa@165.22.76.53:8710?security=none&encryption=none&headerType=none&type=tcp#🛡️ @FreakConfig
+vless://3f9f37a6-8d0c-4ccc-9449-a533db0eacaa@165.22.76.53:9387?security=none&encryption=none&type=ws#@vmesskhodam
