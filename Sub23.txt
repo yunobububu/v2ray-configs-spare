@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://40aaea42-f5cc-4831-857e-d27e698e71f9@23.81.33.86:41713?security=none&encryption=none&headerType=none&type=tcp#@v2ray313 کانالمون 💅🏻
 vless://40aaea42-f5cc-4831-857e-d27e698e71f9@23.81.33.86:41713?security=none&encryption=none&headerType=none&type=tcp#WiFi-@configfu-18
 vless://40cf514a-71bf-4634-a910-dff9330f9179@45.138.74.173:20601?type=grpc&serviceName=Telegram@Rnrifci@Rnrifci@Rnrifci@Rnrifci@Rnrifci@Rnrifci@Rnrifci@Rnrifci@Rnrifci@Rnrifci@Rnrifci@Rnrifci@Rnrifci@Rnrifci&security=reality&pbk=J2Edp2GoRnwRQfTDCDXTyqOJ5BYtbRu7QfJiW4e5DyY&fp=chrome&sni=Gstatic.com&sid=bde9d5d7&spx=/#[Telegram-Rnrifci]-Vienna
 vless://40d9faec-3130-4e69-bb77-210193e65598@51.222.87.29:8081?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN&security=reality&encryption=none&pbk=C4lraeO0FAYyFmDWbRmHmX53xTf4XMalv5kGefeWBmA&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=4662ad#🇨🇦[Telegram:NetifyVPN]
@@ -253,3 +252,4 @@ vless://490edb5c-d884-4b77-be02-19ebad7891dd@93.115.240.88:20000?security=none&e
 vless://491e4f76-42f0-43a7-a987-25072a68d5e4@hOPeFUL-APpOintmEnT.SeoTOoLsfoRYOu.Co.uk:80?path=/&security=none&encryption=none&type=ws#🛡️ @FreakConfig
 vless://491e4f76-42f0-43a7-a987-25072a68d5e4@hopeful-appointment.seotoolsforyou.co.uk:80?path=/&security=none&encryption=none&type=ws#IRAN 352 (@Outline_Vpn) free
 vless://491e4f76-42f0-43a7-a987-25072a68d5e4@hopeful-appointment.seotoolsforyou.co.uk:80?path=/&security=none&encryption=none&type=ws#IRAN 491 (@Outline_Vpn) free
+vless://491e4f76-42f0-43a7-a987-25072a68d5e4@hopeful-appointment.seotoolsforyou.co.uk:80?path=/&security=none&encryption=none&type=ws#IRAN 590 (@Outline_Vpn) free

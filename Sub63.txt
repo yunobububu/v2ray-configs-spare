@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.235:8080#%3E%3E%40v2ray1_ng%3A%3ANL
 vless://4a640781-f5c8-4d17-80db-a6b0a091ba05@gb01-vlr01.tcp-reset-club.net:443?security=reality&encryption=none&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&sid=86e999a2cdc2#%3E%3E%40V2RAY_VMESS_free%3A%3ADE
 vless://4a640781-f5c8-4d17-80db-a6b0a091ba05@ind01-vlr01.tcp-reset-club.net:443?security=reality&encryption=none&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&sid=48720c#%3E%3E%40V2RAY_VMESS_free%3A%3AIN
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.177:8080#%3E%3E%40Outline_Vpn%3A%3ANL
@@ -253,3 +252,4 @@ vless://a3151e51-8945-4cd4-9db7-6729bc551c63@cdn-assets-edge.cyberscaler.net:80?
 
 vless://a7f4aed5-f1f3-4de6-b7e2-900dc56621e2@185.120.59.70:2087?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/vless&host=185.120.59.70&encryption=none#Rayan%20-%20CBT%20-%20FR%20-%20I%20-%20%E2%9A%AB%EF%B8%8F%20t.me/Rayan_Config
 
+vless://b43f416d-0bb7-45d9-b3a4-0ccef14f1fbe@simonil.zarghamportal.ir:2095?security=&fp=chrome&type=ws&path=/@iSpeedTopVPN?ed%3D80&host=shole.zarghamportal.ir&encryption=none

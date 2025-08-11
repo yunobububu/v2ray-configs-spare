@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://99946974-0264-4496-9929-6f1492504d6c@104.21.112.1:8080?type=ws&host=shad.ir.fin.test.digicyber.click.&path=/olem/ws?ed=1024#🇫🇮3-Join Tel : @manzariyeh_rasht
 vless://99946974-0264-4496-9929-6f1492504d6c@104.21.112.1:8080?type=ws&host=shad.ir.fin.test.digicyber.click.&path=/olem/ws?ed=1024&security=none#🇫🇮 Join Tel : @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd
 vless://99946974-0264-4496-9929-6f1492504d6c@104.21.112.1:8080?type=ws&host=shad.ir.fin.test.digicyber.click.&path=/olem/ws?ed=1024&security=none#🇫🇮 Join Tel : @manzariyeh_rasht
 vless://99946974-0264-4496-9929-6f1492504d6c@172.64.150.28:8080?type=ws&host=shad.ir.fin.test.digicyber.click.&path=/olem/ws?ed=1024#🇫🇮2-Join Tel : @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd
@@ -253,3 +252,4 @@ vless://9e769ce1-34be-4e3f-b0a6-823f30eb8f69@ipw.gfdv54cvghhgfhgj-njhgj64.info:8
 vless://9e81276e-5d48-4238-b725-5ed2feec5f51@104.16.144.131:80?path=/&security=&encryption=none&host=muddy-sun-f05e-ppal03.nakojof452.workers.dev&type=ws#کانفیگ سریع و ارزان همراه تست 🇩🇪 @ConfVip
 vless://9e8ca7c6-7f5f-4056-b280-efd1796669ad@configline.fast.hosting-ip.com:80?mode=auto&path=/telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE?ed=80&security=none&encryption=none&host=mastokhiar.com&type=xhttp#[🇱🇺]@configLINE(2)
 vless://9eb7b6f5-0ffc-4e6c-a23b-ecc34053e368@core-abr.snappfood.xyz:7548?security=none&encryption=none&host=mdundo.com&headerType=http&type=tcp#@v2ray313 کانالمون 🇬🇧
+vless://9eb7b6f5-0ffc-4e6c-a23b-ecc34053e368@core-abr.snappfood.xyz:7548?security=none&encryption=none&host=mdundo.com&headerType=http&type=tcp#🛡️ @FreakConfig

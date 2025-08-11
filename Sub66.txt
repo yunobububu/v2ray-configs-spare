@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://a61e9ca0-4d46-4c0b-bc6f-a748f6980e7b@my.iranserver.com:8080?encryption=none&security=none&type=ws&host=3.channeltur.digicyber.click&path=%2Fmelo#zqlZCA7WxN🇹🇷
 vless://5459f68e-d914-4b31-93a3-ecdf638b7a5b@104.16.51.36:80?security=&encryption=none&host=barayeiran-mahsang.taraneh.dpdns.org&type=ws#%D9%84%D8%B7%D9%81%D8%A7%D9%8B%20%D8%B9%D8%B6%D9%88%20%D8%A8%D8%B4%DB%8C%20%F0%9F%8C%B9%0A%40netmelli15
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBS2hpVXpCZVR6SHk%3D@77.83.245.171:443#%D9%84%D8%B7%D9%81%D8%A7%D9%8B%20%D8%B9%D8%B6%D9%88%20%D8%A8%D8%B4%DB%8C%20%F0%9F%8C%B9%0A%40netmelli15
 vless://a61e9ca0-4d46-4c0b-bc6f-a748f6980e7b@cafearz.com:8080?encryption=none&security=none&type=ws&host=4.channeltur.digicyber.click&path=%2Fmelo#zqlZCA7WxN🇹🇷

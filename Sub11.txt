@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-trojan://telegram-id-privatevpns@51.44.118.76:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@52.29.210.103:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@52.47.54.70:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@52.59.100.190:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇩🇪t.me/PrivateVPNs
@@ -253,3 +252,4 @@ vless://0334916a-95e8-4a91-995b-e60c26c9dfe3@www.speedtest.net:8443?security=tls
 vless://033bb687-202b-40f1-81e0-400182ffb617@Filter5050.nabxcsjghjs2004.shop:22113?mode=gun&security=reality&encryption=none&pbk=NY4vf2xmEysVkOcgDnGASs9E_kJS1QxqRo7uFSzwh3g&fp=chrome&spx=/&type=grpc&serviceName=&sni=cdn.discordapp.com&sid=a7cf4983#Filter5050-Test1
 vless://0354ec40-a5f5-49d7-beb0-4624c923529e@37.202.237.244:55093?security=none&type=tcp&headerType=none&path=&host=#[🇳🇱] [Tunnel] [1] CodeClubiR
 vless://0354ec40-a5f5-49d7-beb0-4624c923529e@37.202.237.244:55094?security=none&type=tcp&headerType=none&path=&host=#[🇩🇪] [Tunnel] [1] CodeClubiR
+vless://0354ec40-a5f5-49d7-beb0-4624c923529e@37.202.237.244:55095?security=none&type=tcp&headerType=none&path=&host=#[🇹🇷] [Tunnel] [1] CodeClubiR

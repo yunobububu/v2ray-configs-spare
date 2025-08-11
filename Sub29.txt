@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://6a8a05fe-1250-4927-876b-59dc767924c9@ir.holy3buy.website:27364?type=tcp&security=none#⚜️Telegram: @IP_CF
 vless://6a8e7eae-d913-4f6b-8319-282dad85a56c@tunnyl.ru:443?security=reality&encryption=none&pbk=suqEZ-Y0ekSa7F_zGFeRhCLIJqZbnmBbnZJ-zYT7iQI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=5c0333ed45b1#@i10VPN 🚀| با ما متصل بمون⚡
 vless://6a8e7eae-d913-4f6b-8319-282dad85a56c@tunnyl.ru:443?security=reality&encryption=none&pbk=suqEZ-Y0ekSa7F_zGFeRhCLIJqZbnmBbnZJ-zYT7iQI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=5c0333ed45b1#💎 @AblNet7 💎
 vless://6a8ee307-a1fb-4801-92e2-86253ecdd88d@5.181.21.152:24170?security=reality&encryption=none&pbk=rhEEZAZBX-seWl5f0JmyE19Iwxb5zTNH5yT-FhaS8Hw&headerType=none&fp=chrome&spx=/@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-?ed=2560&type=tcp&sni=yahoo.com&sid=200f99e321#🇦🇹 ⤿ 𝐂𝐡𝐚𝐧𝐧𝐞𝐥 @V2WRAY
@@ -253,3 +252,4 @@ vless://73a21609-8238-45c0-b2b0-0469e6c58ba3@213.176.95.70:443?flow=xtls-rprx-vi
 vless://73a22963-1825-4a74-b961-45bffdb590ce@62.60.156.102:8080?flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=digikala.com&pbk=y6JSkggQ__RA_nmCJpX1_ddSQC6vzDUPaN7KyvjVuic#@SaghiVpnXBOT[🇫🇷]
 vless://73a22963-1825-4a74-b961-45bffdb590ce@91.99.90.44:8081?type=tcp&headerType=http&host=fast.com&path=/path&security=none#@SaghiVpnX[🇩🇪]
 vless://73b10f12-d09e-4745-9c6d-75550f5e6253@www.speedtest.net:80?path=/&security=none&encryption=none&host=FySuMyYk3.aMirsiTesos.sItE.&type=httpupgrade#@V_2rayngVpn
+vless://73cc7084-a427-4193-8fe0-6dd72ac48265@80.240.23.101:47567?flow=&type=xhttp&host=&path=/&mode=auto&security=reality&fp=chrome&sni=www.black-moai.com&pbk=qmdcGi9MFglpiaqalAFvOUGNehBjYIwaXLbula8K0gU&sid=a862ded52ae3ea&spx=/#@vmessorg

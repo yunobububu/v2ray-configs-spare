@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://0132166f-e702-48ed-a9e7-b07af768faf8@46.254.92.9:8880?allowInsecure=0&sni=cf.d3z.net&type=ws&host=cf.d3z.net&path=/TelegramU0001F1E8U0001F1F3 @WangCai2 /?ed=2560#RU_speednode_0113
 vless://583ceab3-4022-4553-9158-9bedc625ad4e@193.9.49.188:8880?allowInsecure=0&sni=Telegram-channel-WangCai2&type=ws&host=ip.langmanshanxi.top&path=/TelegramU0001F1E8U0001F1F3 @WangCai2 /?ed=2560#RU_speednode_0114
 vless://583ceab3-4022-4553-9158-9bedc625ad4e@45.67.215.186:8880?allowInsecure=0&sni=Telegram-channel-WangCai2&type=ws&host=ip.langmanshanxi.top&path=/TelegramU0001F1E8U0001F1F3 @WangCai2 /?ed=2560#RU_speednode_0115
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@185.59.218.63:8880?allowInsecure=0&sni=jp.laoyoutiao.link&type=ws&host=jp.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3 @WangCai2 /?ed=2560fp=chrome#RU_speednode_0116
@@ -253,3 +252,4 @@ hysteria2://9f2245e8-04fb-488d-80cf-ac8e8b53da82@uuk1.tok8888.com:22996?security
 hysteria2://9f2245e8-04fb-488d-80cf-ac8e8b53da82@uuk1.tok8888.com:22996?security=tls&obfs=salamander&obfs-password=LNAnPYDfFyesRAVn&insecure=1&mport=21000-26000&sni=uuk1.tok8888.com#美国1
 hysteria2://9f2245e8-04fb-488d-80cf-ac8e8b53da82@uuk1.tok8888.com:22996?security=tls&obfs=salamander&obfs-password=LNAnPYDfFyesRAVn&insecure=1&mport=21000-26000&sni=uuk1.tok8888.com#距离下次重置剩余：1 天
 hysteria2://9f2245e8-04fb-488d-80cf-ac8e8b53da82@uuk2.tok8888.com:25851?security=tls&obfs=salamander&obfs-password=LNAnPYDfFyesRAVn&insecure=1&mport=21000-26000&sni=uuk2.tok8888.com#美国2
+hysteria2://9f2245e8-04fb-488d-80cf-ac8e8b53da82@uuk3.tok8888.com:21523?security=tls&obfs=salamander&obfs-password=LNAnPYDfFyesRAVn&insecure=1&mport=21000-26000&sni=uuk3.tok8888.com#美国3

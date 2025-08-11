@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://d0298536-d670-4045-bbb1-ddd5ea68683e@162.159.129.67:8443?path=/azadnet1-706.pages.dev/?ed=2560&PROT_TYPE=vless&security=tls&encryption=none&host=azadnet1-706.pages.dev&fp=chrome&type=ws&sni=azadnet1-706.pages.dev#IRAN 314 (@Outline_Vpn) free
 vless://d0298536-d670-4045-bbb1-ddd5ea68683e@162.159.129.67:8443?path=/azadnet1-706.pages.dev/?ed=2560&PROT_TYPE=vless&security=tls&encryption=none&host=azadnet1-706.pages.dev&fp=chrome&type=ws&sni=azadnet1-706.pages.dev#IRAN 331 (@Outline_Vpn) free
 vless://d0298536-d670-4045-bbb1-ddd5ea68683e@162.159.129.67:8443?path=/azadnet1-706.pages.dev/?ed=2560&PROT_TYPE=vless&security=tls&encryption=none&host=azadnet1-706.pages.dev&fp=chrome&type=ws&sni=azadnet1-706.pages.dev#Telegram@Tunder_vpn
 vless://d0298536-d670-4045-bbb1-ddd5ea68683e@198.62.62.4:443?path=/&security=tls&encryption=none&host=azadnet-7py.pages.dev&fp=chrome&type=ws&sni=azadnet-7py.pages.dev#@V2RAY_VMESS_free
@@ -253,3 +252,4 @@ vless://d5012012-a850-49fc-bb81-17a4bf687612@zula.ir:443?mode=auto&path=/annn?ed
 vless://d5012012-a850-49fc-bb81-17a4bf687612@zula.ir:443?mode=auto&path=/annn?ed=443&security=tls&alpn=h3,h2,http/1.1&encryption=none&host=Kasler.lol&fp=chrome&type=xhttp&sni=Kasler.lol#@ev2rayy mtn
 vless://d5012012-a850-49fc-bb81-17a4bf6876bd@zula.ir:443?mode=auto&path=/annn?ed=443&security=tls&alpn=h3&encryption=none&host=Kasler.lol&fp=chrome&type=xhttp&sni=Kasler.lol#@ev2rayy mci  ایرانسل
 vless://d50fcaeb-80c7-46ed-9ca8-2a6c708b6c67@de.hpcdn.info:443?mode=auto&path=/1003/mmad&security=tls&encryption=none&host=afrodita.lemoex.blog&fp=chrome&type=xhttp&sni=afrodita.lemoex.blog#داخل کانال و ربات عضو شوید👆
+vless://d56376bf-62e0-4b80-9968-8c717daf8a38@Pishgam.sdcards.ir:80?type=ws&path=/@V2rayNGcloud---Telegram---v2rayNGcloud---@V2rayNGcloud---Telegram---@V2rayNGcloud---Telegram---@V2rayNGcloud---@V2rayNGcloud---Telegram---v2rayNGcloud---@V2rayNGcloud---Telegram---@V2rayNGcloud---Telegram---@V2rayNGcloud?ed=2087&host=amiri2.server-dev2.ir&security=none#@v2rayNGcloud
