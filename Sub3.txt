@@ -3,12 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@176.124.223.213:8880?allowInsecure=0&sni=jp.laoyoutiao.link&type=ws&host=jp.laoyoutiao.link&path=/?ed=2560#RU_speednode_0112
-vless://0132166f-e702-48ed-a9e7-b07af768faf8@46.254.92.9:8880?allowInsecure=0&sni=cf.d3z.net&type=ws&host=cf.d3z.net&path=/TelegramU0001F1E8U0001F1F3 @WangCai2 /?ed=2560#RU_speednode_0113
-vless://583ceab3-4022-4553-9158-9bedc625ad4e@193.9.49.188:8880?allowInsecure=0&sni=Telegram-channel-WangCai2&type=ws&host=ip.langmanshanxi.top&path=/TelegramU0001F1E8U0001F1F3 @WangCai2 /?ed=2560#RU_speednode_0114
-vless://583ceab3-4022-4553-9158-9bedc625ad4e@45.67.215.186:8880?allowInsecure=0&sni=Telegram-channel-WangCai2&type=ws&host=ip.langmanshanxi.top&path=/TelegramU0001F1E8U0001F1F3 @WangCai2 /?ed=2560#RU_speednode_0115
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@185.59.218.63:8880?allowInsecure=0&sni=jp.laoyoutiao.link&type=ws&host=jp.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3 @WangCai2 /?ed=2560fp=chrome#RU_speednode_0116
-vless://0132166f-e702-48ed-a9e7-b07af768faf8@185.221.160.251:8880?allowInsecure=0&sni=Telegram-channel-WangCai2&type=ws&host=cf.d3z.net&path=/TelegramU0001F1E8U0001F1F3#RU_speednode_0117
 vless://0132166f-e702-48ed-a9e7-b07af768faf8@46.254.92.8:8880?allowInsecure=0&sni=cf.d3z.net&type=ws&host=cf.d3z.net&path=/TelegramU0001F1E8U0001F1F3 @WangCai2#RU_speednode_0118
 vless://0132166f-e702-48ed-a9e7-b07af768faf8@46.254.92.4:8880?allowInsecure=0&sni=cf.d3z.net&type=ws&host=cf.d3z.net&path=/TelegramU0001F1E8U0001F1F3 @WangCai2#RU_speednode_0119
 vless://b5441b0d-2147-4898-8a6a-9b2c87f58382@185.176.24.3:8880?allowInsecure=0&sni=Telegram-channel-WangCai2&type=ws&host=bitget1.asdasd.click&path=/TelegramU0001F1E8U0001F1F3#RU_speednode_0120
@@ -253,3 +247,9 @@ hysteria2://9f2245e8-04fb-488d-80cf-ac8e8b53da82@uuk1.tok8888.com:22996?security
 hysteria2://9f2245e8-04fb-488d-80cf-ac8e8b53da82@uuk1.tok8888.com:22996?security=tls&obfs=salamander&obfs-password=LNAnPYDfFyesRAVn&insecure=1&mport=21000-26000&sni=uuk1.tok8888.com#美国1
 hysteria2://9f2245e8-04fb-488d-80cf-ac8e8b53da82@uuk1.tok8888.com:22996?security=tls&obfs=salamander&obfs-password=LNAnPYDfFyesRAVn&insecure=1&mport=21000-26000&sni=uuk1.tok8888.com#距离下次重置剩余：1 天
 hysteria2://9f2245e8-04fb-488d-80cf-ac8e8b53da82@uuk2.tok8888.com:25851?security=tls&obfs=salamander&obfs-password=LNAnPYDfFyesRAVn&insecure=1&mport=21000-26000&sni=uuk2.tok8888.com#美国2
+hysteria2://9f2245e8-04fb-488d-80cf-ac8e8b53da82@uuk3.tok8888.com:21523?security=tls&obfs=salamander&obfs-password=LNAnPYDfFyesRAVn&insecure=1&mport=21000-26000&sni=uuk3.tok8888.com#美国3
+hysteria2://9f2245e8-04fb-488d-80cf-ac8e8b53da82@xjp1.gy6688.xyz:21190?security=tls&obfs=salamander&obfs-password=LNAnPYDfFyesRAVn&insecure=1&mport=21000-26000&sni=xjp1.gy6688.xyz#新加坡1
+hysteria2://9f2245e8-04fb-488d-80cf-ac8e8b53da82@yd1.gy6688.xyz:24583?security=tls&obfs=salamander&obfs-password=LNAnPYDfFyesRAVn&insecure=1&mport=21000-26000&sni=yd1.gy6688.xyz#印度1
+hysteria2://9f2245e8-04fb-488d-80cf-ac8e8b53da82@yg1.gy6688.xyz:25060?security=tls&obfs=salamander&obfs-password=LNAnPYDfFyesRAVn&insecure=1&mport=21000-26000&sni=yg1.gy6688.xyz#英国1
+hysteria2://@JavidnamanIran-Javid-SHAH-KingRezaPahlavi@206.71.158.40:35000?security=tls&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=0&sni=pichondan.com#🛡️ @FreakConfig
+hysteria2://@azadi_az_inja_migzare@all-v4.dgi000.store:443?security=tls&obfs=salamander&obfs-password=@azadi_az_inja_migzare&insecure=0&sni=all-v4.dgi000.store#@V2rayNG3
