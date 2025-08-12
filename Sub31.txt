@@ -3,11 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://7445df1e-b5ec-46c3-ba7e-9f315b274c3e@185.221.64.12:666?security=&encryption=none&headerType=none&type=tcp#@SAVTEAM  | 🇹🇷
-vless://745e0663-483a-4817-9d7e-11190f4b3090@myfreexnum01tamiz.bazibazestan.ir:443?security=reality&encryption=none&pbk=Mtdk_nmm5mWBlKzjIOoDXN8nL4zHL-F40WNP5e2E4ko&headerType=http&fp=chrome&spx=/&type=tcp&sni=tgju.org&sid=e1bc8e591c390c7c#🔥@AblNet7 🇮🇷 نت ملی 🔥
-vless://745e0663-483a-4817-9d7e-11190f4b3090@myfreexnum01tamiz.bazibazestan.ir:443?security=reality&encryption=none&pbk=Mtdk_nmm5mWBlKzjIOoDXN8nL4zHL-F40WNP5e2E4ko&headerType=http&fp=chrome&spx=/&type=tcp&sni=tgju.org&sid=e1bc8e591c390c7c#🛜 @NETMelliAnti
-vless://747d4612-b3e5-4165-879a-42d861e4c4b7@65.109.183.203:10000?path=/&security=none&encryption=none&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI&type=ws#@MARAMBASHI 🧡
-vless://747d4612-b3e5-4165-879a-42d861e4c4b7@65.109.183.203:10000?path=/&security=none&encryption=none&host=/?BIA_TELEGRAM@i10VPN&type=ws#@i10VPN 🚀| با ما متصل بمون⚡
 vless://747d4612-b3e5-4165-879a-42d861e4c4b7@65.109.183.203:10000?path=/&security=none&encryption=none&type=ws#💎 @AblNet7 💎
 vless://747d4612-b3e5-4165-879a-42d861e4c4b7@65.109.183.203:10000?path=/&security=none&encryption=none&type=ws#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
 vless://74b8015a-480e-45e9-b13f-c153bd7497b5@151.101.3.8:80?encryption=none&security=none&type=xhttp&host=jointelegramv2ra.com&path=/@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN----@V2rayArgoN?ed=2560&mode=auto#d1zz8d03
@@ -253,3 +248,8 @@ vless://7c2e4d5c-f041-43dc-b2e8-50be99acafc2@172.66.40.99:443?security=tls&type=
 vless://7c2f01ca-65c1-489a-b1c7-107bb5cdaaeb@w1.wtezar.site:24070/?type=grpc&serviceName=@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--&authority=&security=reality&pbk=Wkuh9iexXuhWaaFt1saCWk8iGS0h1mEiMtDsmoJSgAk&fp=chrome&sni=yahoo.com&sid=93&spx=/#@ZedBaz_vpn
 vless://7c5843b2-232e-4210-964f-9683534f2a7c@45.138.74.173:20601?type=grpc&serviceName=Telegram@Rnrifci@Rnrifci@Rnrifci@Rnrifci@Rnrifci@Rnrifci@Rnrifci@Rnrifci@Rnrifci@Rnrifci@Rnrifci@Rnrifci@Rnrifci@Rnrifci&security=reality&pbk=17tDZIMQ2nABKQXi4ZGQ6L_uGBYDkAWI579u2oPHCQs&fp=chrome&sni=Gstatic.com&sid=9d69a7cc&spx=/#[Telegram-Rnrifci]-Vienna
 vless://7c5ee12f-46a2-aa0a-df65-e63a03124349@relay-ir.deltacompany.site:7443?security=none&encryption=none&host=dorna-music.ir&headerType=http&type=tcp#@ATOVPN
+vless://7c63f43f-f526-49bb-b5c8-2be26e11ef00@206.71.158.10:443?mode=stream-one&path=/statue/?JOKERRVPNTELEGRAM----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN----@JOKERRVPN&security=tls&alpn=h2&encryption=none&host=statue.lnmarketplace.net&type=xhttp&sni=statue.lnmarketplace.net#[🇳🇱]ae_proxy
+vless://7c63f43f-f526-49bb-b5c8-2be26e11ef00@206.71.158.10:443?mode=stream-one&path=/statue/?v2rayng_fars----@v2rayng_fars&security=tls&alpn=h2&encryption=none&host=statue.lnmarketplace.net&type=xhttp&sni=statue.lnmarketplace.net#@Alfa_v2ray_ng کانالمون 😸
+vless://7c63f43f-f526-49bb-b5c8-2be26e11ef00@206.71.158.10:443?mode=stream-one&path=/statue/?v2rayng_fars----@v2rayng_fars&security=tls&alpn=h2&encryption=none&host=statue.lnmarketplace.net&type=xhttp&sni=statue.lnmarketplace.net#@v2ray313 کانالمون 😸
+vless://7c63f43f-f526-49bb-b5c8-2be26e11ef00@206.71.158.10:443?security=tls&encryption=none&type=xhttp&path=/statue/?HORN_PROXY...&sni=statue.lnmarketplace.net&fp=chrome&mode=stream-one&alpn=h2#Telegram:@king_v2raay
+vless://7c63f43f-f526-49bb-b5c8-2be26e11ef00@statue.lnmarketplace.net:443?mode=stream-one&path=/statue&security=tls&alpn=h2&encryption=none&host=statue.lnmarketplace.net&type=xhttp&sni=statue.lnmarketplace.net#@Selinc
