@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh23v4.vetmainconf.shop:8880?mode=gun&security=none&encryption=none&type=grpc&sni=pqh23v4.vetmainconf.shop#🛡️ @FreakConfig
+vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh23v4.vetmainconf.shop:8880?security=none&encryption=none&type=grpc#Telegram:@king_v2raay
+vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh24v6.waipdirect.shop:8880?security=none&encryption=none&type=grpc#Telegram:@king_v2raay
 vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh25v7.vetmainconf.shop:8880?mode=gun&security=none&encryption=none&type=grpc&sni=pqh25v7.vetmainconf.shop#🛡️ @FreakConfig
 vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh29v4.vetmainconf.shop:8880?mode=gun&security=&encryption=none&type=grpc#X2rayConfig
 vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh30v8.waipdirect.shop:8880?mode=gun&security=none&encryption=none&type=grpc#@Tunder_vpn
@@ -250,6 +253,3 @@ vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.86.73:8880?path=/J5aLQOY1R9O
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.86.73:8880?path=/J5aLQOY1R9ONWYCM?ed=2560&security=none&encryption=none&host=vngsupply.ip-ddns.com&type=ws#@IRan_V2ray1
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.86.73:8880?path=/J5aLQOY1R9ONWYCM?ed=2560&security=none&encryption=none&host=vngsupply.ip-ddns.com&type=ws#@Selinc
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.86.73:8880?path=/J5aLQOY1R9ONWYCM?ed=2560&security=none&encryption=none&host=vngsupply.ip-ddns.com&type=ws#@Tunder_vpn
-vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.86.73:8880?path=/J5aLQOY1R9ONWYCM?ed=2560&security=none&encryption=none&host=vngsupply.ip-ddns.com&type=ws#@V2RAYNG_1378
-vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.86.73:8880?path=/J5aLQOY1R9ONWYCM?ed=2560&security=none&encryption=none&host=vngsupply.ip-ddns.com&type=ws#@one_shop_official
-vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.86.73:8880?path=/J5aLQOY1R9ONWYCM?ed=2560&security=none&encryption=none&host=vngsupply.ip-ddns.com&type=ws#@v2ray313 کانالمون ☃️
