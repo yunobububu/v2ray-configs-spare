@@ -3,11 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@45.143.166.82:34045?security=reality&encryption=none&pbk=cDaDzPr3PlS3NM8lreHZbdo-Mhqz8vMBzMSkHXhGIUA&headerType=none&type=tcp&sni=visit-this-invitation-link-to-join-tg-enkelte-notif.ekt.me&sid=e8ab71d0#%3E%3E%40v2ray_configs_pool%3A%3ANL
-vless://1666e5ae-3dcc-4c09-b077-bd19bdd10510@65.109.196.173:10504?type=ws&security=none#%3E%3E%40V2rayNG3%3A%3AFI
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.202:8080#%3E%3E%40v2rayng_fast%3A%3ANL
-vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.80:8880?mode=gun&security=&encryption=none&authority=%2FJOKERRVPN_BIA_CHANEL%40JOKERRVPN&type=grpc#%3E%3E%40v2rayng_fast%3A%3AXX
-vmess://eyJhZGQiOiIxNS4yMDQuMTEuMTkwIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjVkN2JmOWUzLTQxNWMtNDBmMy1jNjZkLWE1NGVhMGZkODYwZSIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMTUzNjEiLCJwcyI6Ij4+QHYycmF5MV9uZzo6VVMiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
 vless://8dbb26f8-8832-46bc-bc0c-a2f17d8d200f@15.204.236.64:24820?security=none&encryption=none&headerType=none&type=tcp#%3E%3E%40v2ray1_ng%3A%3AUS
 vless://7e948e09-fa6f-4b8e-8c5d-181fa15fbec5@104.17.41.52:8080?path=%2FijiDwDw8BcM9ieHc%3Fed%3D2560&security=none&encryption=none&host=v2ngsupply2.ip-ddns.com&type=ws#%3E%3E%40v2ray1_ng%3A%3AUS
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@141.98.101.178:443#%3E%3E%40v2ray1_ng%3A%3AGB
@@ -253,3 +248,8 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@4.223.100.248:
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@4.223.106.151:48172#AA-1
 
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@38.54.57.90:989
+
+vmess://eyJ2IjoiMiIsInBzIjoiXHU1MjY5XHU0ZjU5XHU2ZDQxXHU5MWNmXHVmZjFhMCIsImFkZCI6IjEuZXhhbXBsZS5jb20iLCJwb3J0IjoiMTIzNCIsImlkIjoiZml4ZWQtdXVpZC1mb3ItZXhwaXJlZC11c2VycyIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInR5cGUiOiJ3cyIsImhvc3QiOiIiLCJwYXRoIjoiXC93cy1ub2RlMSIsInRscyI6InRscyJ9
+
+vmess://eyJ2IjoiMiIsInBzIjoiXHU1OTU3XHU5OTEwXHU1MjMwXHU2NzFmXHVmZjFhMjAyNS0wOS0xMiIsImFkZCI6IjEuZXhhbXBsZS5jb20iLCJwb3J0IjoiMTIzNCIsImlkIjoiZml4ZWQtdXVpZC1mb3ItZXhwaXJlZC11c2VycyIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInR5cGUiOiJ3cyIsImhvc3QiOiIiLCJwYXRoIjoiXC93cy1ub2RlMSIsInRscyI6InRscyJ9
+
