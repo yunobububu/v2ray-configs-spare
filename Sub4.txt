@@ -186,10 +186,19 @@ hysteria2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:36600?security=
 hysteria2://d84be3ca-d0b6-4bd0-9b61-db86d7c65969@212.115.41.93:443?security=tls&obfs=salamander&obfs-password=Mzc5NTA3MjVlZDMyYTYyMA==&insecure=1&sni=aparat.com#TR 4 🇹🇷 | @v2xay
 hysteria2://e6eb767c-6275-4c0c-9232-75aa2a0e9952@bx.dport.top:33654?sni=bx.dport.top&obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA==&insecure=1#@Daily_Configs
 hysteria2://f8e40931bbb827df@62.60.231.189:12123?security=tls&obfs=salamander&obfs-password=dbc688df29e582d3&insecure=1&sni=www.google.com#@V2rayNG3
+ss://077052bc-9cfd-4cef-aefd-0c0f856eb4de@premium.vkehi.shop:443?encryption=none&flow=none&type=tcp&headerType=none&security=tls&fp=chrome&sni=facebook.net#Telegram:@config_proxy 💦
+ss://15449e06-b519-414a-9e0d-fbb4a0fd2780@speedtest.net.zula.ir.nobitex.ir.shakhle.ir:39001?type=xhttp&mode=stream-up&path=/?ed=80@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&security=reality&fp=chrome&sni=stackoverflow.com&pbk=7ERFDeEmVmljmV6PdMNl0Menauhchi-JfYYkiw15y1o&#👉🆔@v2ray_configs_pool📡🇫🇮®️Finland©️Helsinki🅿️ping:26.46ms
 ss://1b368bf6-5aac-413c-a77c-229fb984d5ae@www.meter.net:443?path=/linkws?ed=2560&security=tls&encryption=none&host=mAXNetvIpAp-cLOuD76.netKh3.siTe&type=ws&sni=mAXNetvIpAp-cLOuD76.netKh3.siTe#Telegram:@config_proxy 💦
-ss://1b368bf6-5aac-413c-a77c-229fb984d5ae@www.meter.net:443?path=/linkws?ed=2560&security=tls&encryption=none&host=mAXNetvIpAp-cLOuD76.netKh3.siTe&type=ws&sni=mAXNetvIpAp-cLOuD76.netKh3.siTe#[🇨🇦]t.me/ConfigsHub
-ss://1b368bf6-5aac-413c-a77c-229fb984d5ae@www.meter.net:443?path=/linkws?ed=2560&security=tls&encryption=none&host=mAXNetvIpAp-cLOuD76.netKh3.siTe&type=ws&sni=mAXNetvIpAp-cLOuD76.netKh3.siTe#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:7.13ms
+ss://2fbf2c57-e1fc-4cf2-b8bd-3954c227b0c6@vip1.zxhost.sbs:80/?security=none&encryption=none&headerType=none&type=tcp#👉🆔@v2ray_configs_pool📡🇳🇱®️The Netherlands©️Amsterdam (Westpoort)🅿️ping:16.45ms
+ss://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.18.36.24:443/?type=ws&encryption=none&flow=&host=carlotta.shoorekeeper.cloudns.org&path==zani.yaemiko.ggff.net/telegram--MTMVPN--MTMVPN?ed=2560&security=tls&sni=carlotta.shoorekeeper.cloudns.org&fp=chrome#[🇨🇦]t.me/ConfigsHub
+ss://42ead82d-d6d7-4a94-9365-5be73f5d1bcc@57.129.129.41:54974?security=reality&encryption=none&pbk=F2WLUHR5RU2d2zifwKALTGkLLbIut1AjDKEAmx7OEW0&host=/JKVPN_TELEGRAM_BYA_CHANEL_JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN?ed=2560&headerType=none&fp=chrome&spx=/JKVPN_Copy-az-chahnnel-JKVPN?ed=2560&type=tcp&sni=yahoo#Telegram:@config_proxy 💦
+ss://42ead82d-d6d7-4a94-9365-5be73f5d1bcc@57.129.129.41:54974?security=reality&encryption=none&pbk=F2WLUHR5RU2d2zifwKALTGkLLbIut1AjDKEAmx7OEW0&host=/JKVPN_TELEGRAM_BYA_CHANEL_JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN?ed=2560&headerType=none&fp=chrome&spx=/JKVPN_Copy-az-chahnnel-JKVPN?ed=2560&type=tcp&sni=yahoo#👉🆔@v2ray_configs_pool📡🇬🇧®️United Kingdom©️Erith🅿️ping:21.98ms
+ss://42ead82d-d6d7-4a94-9365-5be73f5d1bcc@57.129.129.41:54974?security=reality&encryption=none&pbk=F2WLUHR5RU2d2zifwKALTGkLLbIut1AjDKEAmx7OEW0&host=/JKVPN_TELEGRAM_BYA_CHANEL_JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN?ed=2560&headerType=none&fp=chrome&spx=/JKVPN_Copy-az-chahnnel-JKVPN?ed=2560&type=tcp&sni=yahoo.co#[🇬🇧]t.me/ConfigsHub
+ss://48ab6547-49e2-4334-90a1-5c6207217a0d@premium.vkehi.shop:443?encryption=none&flow=none&type=tcp&headerType=none&security=tls&fp=chrome&sni=whatsapp.com#Telegram:@config_proxy 💦
+ss://4a1722c8-11c2-4815-9444-b8f4007ca5cc@hield.ru:443?type=tcp&security=reality&pbk=JPm5aPILktbakyQ21Q3p4ABm3NHBIVMmaumDveRBGws&fp=chrome&sni=yahoo.com&sid=06c6eb7423f24de5&spx=/&flow=xtls-rprx-vision#[🏁]t.me/ConfigsHub
 ss://4c835bff-4f4d-4608-bb21-120099089688@104.21.36.57:443?encryption=none&security=tls&sni=orange.fullmargintraders.com&fp=chrome&type=ws&host=orange.fullmargintraders.com&path=/wsv/4c835bff-4f4d-4608-bb21-120099089688#Telegram:@config_proxy 💦
+ss://6a1aca29-e80f-47e1-981b-203ab9fd87de@Www.speedtest.net:443?path=/Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420?ed=2048&security=tls&alpn=h2,http/1.1&encryption=none&host=gHacHVpn.hAFt1502.wOrKeRs.deV&fp=chrome&type=ws&sni=ghaChvpn.haFt1502#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:6.69ms
+ss://8373cefa-d68a-439d-89d1-f8a4ad50919e@151.101.130.228:443?security=tls&sni=hajlab.ucdavis.edu&type=ws&host=joinshhproxybedeeeee.ir&path=/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy?ed=2048#Telegram:@config_proxy 💦
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6M3Z6aTdlaFFjT0VLUXRyeEQ5YmZiS0JKcWR1WnlKT3ZvaEd1TGxmRElTMD1AMTMuNDkuMjI4LjMwOjgwODA=#@Vpn_zvpn
 ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206T0RJMFpUa3haRGt4TTJFMFkyVXdNUT09OlkyTXdOamRtWXpVdFlUSXhZeTAwTkE9PQ==@zz.xn--2vxn29amga.com:8094#🛡️ @FreakConfig
 ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206WFYrdW1jWkhSdVNwZnJpZ3JJYk9sb1JaWjdyTUZaVEFTb3NUN0ZyYnFDWT06QTd4QXpIS2FBSUxNZkllUXZYQWJJNnFRelQ1elFHU1A1V3Z4bFpsd1pRTT0=@xxx.90908585.ir:8080#🇳🇱⤿ 𝐂𝐡𝐚𝐧𝐧𝐞𝐥 @V2WRAY
@@ -215,9 +224,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.158.171.151
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.158.171.151:8080#Tel:Tunder_vpn
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.157:8080#@configfu+10
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.157:8080#Tunder_vpn
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.157:8080#[🇺🇸]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.157:8080#کانال+ما+در+تلگرام+@Asak_Vpn+💛
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.157:8080#👉🆔@v2ray_configs_pool📡🇺🇸®️United States©️New York🅿️ping:12.94ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.171:8080#@Iran_V2RAY1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.171:8080#@V2rayNG3
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.171:8080#@awlix_ir
@@ -246,10 +253,3 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@4.223.106.151:
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@4.223.106.151:48172#@Selinc
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@4.223.106.151:48172#All@configfu-1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@4.223.106.151:48172#ViP RGB🚀
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@4.223.106.151:48172#[🇸🇪]t.me/ConfigsHub
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@4.223.106.151:48172#r♡ya
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@4.223.106.151:48172#⚡
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@4.223.106.151:48172#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@4.223.106.151:48172#🛡️ @FreakConfig
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1QDIwLjkxLjI1Mi4yMTo0ODE3Mg==#VayNora
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1QDQuMjIzLjEwMC4yNDg6NDgxNzI=#VayNora
