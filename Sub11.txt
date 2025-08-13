@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-trojan://blue2024@162.159.195.30:443?allowInsecure=1&sni=hb.lii2010.us.kg&ws=1&wspath=/?ed=2560#@Hope_Net-join-us-on-Telegram
-trojan://blue2024@162.159.197.109:443?allowInsecure=1&sni=hb.lii2010.us.kg&ws=1&wspath=/?ed=2560#@Hope_Net-join-us-on-Telegram
 trojan://blue2024@162.159.36.104:443?allowInsecure=1&sni=tb.promote.icu&ws=1&wspath=/?ed=2560#@Hope_Net-join-us-on-Telegram
 trojan://blue2024@162.159.36.104:443?allowInsecure=1&sni=tb.promote.icu&ws=1&wspath=/?ed=2560#t.me/entryNET/config=1840375516688311
 trojan://blue2024@162.159.44.203:443?allowInsecure=1&sni=hb.lii2010.us.kg&type=ws&host=hb.lii2010.us.kg&path=/?ed=2560#t.me/entryNET/config=1840266046107612
@@ -31,6 +29,8 @@ trojan://blue2024@190.93.244.159:443?allowInsecure=1&sni=hb.lii2010.us.kg&ws=1&w
 trojan://blue2024@190.93.244.159:443?allowInsecure=1&sni=hb.lii2010.us.kg&ws=1&wspath=/?ed=2560#t.me/entryNET/config=1840367915246201
 trojan://blue2024@190.93.244.208:443?allowInsecure=1&sni=hb.lii2010.us.kg&type=ws&host=hb.lii2010.us.kg&path=/?ed=2560#@Hope_Net-join-us-on-Telegram
 trojan://blue2024@190.93.244.27:443?allowInsecure=1&sni=hb.lii2010.us.kg&ws=1&wspath=/?ed=2560#@Hope_Net-join-us-on-Telegram
+trojan://blue2024@190.93.244.93:443?allowInsecure=1&sni=hb.lii2010.us.kg&ws=1&wspath=/?ed=2560#@Hope_Net-join-us-on-Telegram
+trojan://blue2024@190.93.244.93:443?allowInsecure=1&sni=hb.lii2010.us.kg&ws=1&wspath=/?ed=2560#[🇨🇷]t.me/ConfigsHub
 trojan://blue2024@190.93.245.154:443?allowInsecure=1&sni=hb.lii2010.us.kg&ws=1&wspath=/?ed=2560#@Hope_Net-join-us-on-Telegram
 trojan://blue2024@190.93.245.154:443?allowInsecure=1&sni=hb.lii2010.us.kg&ws=1&wspath=/?ed=2560#t.me/entryNET/config=1840377404144732
 trojan://blue2024@190.93.246.36:443?allowInsecure=1&sni=hb.lii2010.us.kg&ws=1&wspath=/?ed=2560#@Hope_Net-join-us-on-Telegram
@@ -60,6 +60,8 @@ trojan://blue2024@sullivan.ns.cloudflare.com:443?allowInsecure=1&sni=tb.promote.
 trojan://blue2024@toy-people.com:443?allowInsecure=1&sni=hb.lii2010.us.kg&ws=1&wspath=/?ed=2560#@Hope_Net-join-us-on-Telegram
 trojan://blue2024@trevor.ns.cloudflare.com:443?allowInsecure=1&sni=tb.promote.icu&ws=1&wspath=/?ed=2560#@Hope_Net-join-us-on-Telegram
 trojan://blue2024@visa.cn:443?allowInsecure=1&sni=hb.lii2010.us.kg&ws=1&wspath=/?ed=2560#@Hope_Net-join-us-on-Telegram
+trojan://blue2024@visa.cn:443?allowInsecure=1&sni=hb.lii2010.us.kg&ws=1&wspath=/?ed=2560#[🏁]t.me/ConfigsHub
+trojan://blue2024@visa.cn:443?allowInsecure=1&sni=hb.lii2010.us.kg&ws=1&wspath=/?ed=2560#t.me/entryNET/config=1840383067101245
 trojan://blue2024@visa.cn:443?allowInsecure=1&sni=tb.promote.icu&ws=1&wspath=/?ed=2560#@Hope_Net-join-us-on-Telegram
 trojan://blue2024@visa.cn:443?allowInsecure=1&sni=tb.promote.icu&ws=1&wspath=/?ed=2560#t.me/entryNET/config=1840353373232452
 trojan://blue2024@www.4chan.org:443?allowInsecure=1&sni=hb.lii2010.us.kg&ws=1&wspath=/?ed=2560#@Hope_Net-join-us-on-Telegram
@@ -106,7 +108,6 @@ trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443?path=/@CanfigVi
 trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443?path=/@CanfigVipTelgram-@CanfigVipTelgram-@CanfigVipTelgram-@CanfigVipTelgram-@CanfigVipTelgram-@CanfigVipTelgram-@CanfigVipTelgram-@CanfigVipTelgram-@CanfigVipTelgram-@CanfigVipTelgram-@CanfigVipTelgram-@CanfigVipTelgram-@CanfigVipTelgram-@CanfigVipTelgram&security=tls&host=vpn.stupidworld.web.id&fp=chrome&type=ws&sni=vpn.stupidworld.web.id#🛡️ @FreakConfig
 trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443?path=/@Hddify---@Hddify---@Hddify---@Hddify---@Hddify---@Hddify&security=tls&host=vpn.stupidworld.web.id&fp=chrome&type=ws&sni=vpn.stupidworld.web.id#→ @Hddify 🛝
 trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443?path=/@ShadowProxy66&security=tls&host=vpn.stupidworld.web.id&fp=chrome&type=ws&sni=vpn.stupidworld.web.id#Channel id: @ShadowProxy66 🇨🇦
-trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443?path=/@V2rayBaaz---@V2rayBaaz---@V2rayBaaz---@V2rayBaaz---@V2rayBaaz---@V2rayBaaz---@V2rayBaaz---@V2rayBaaz---@V2rayBaaz---@V2rayBaaz---@V2rayBaaz---@V2rayBaaz---@V2rayBaaz&security=tls&host=vpn.stupidworld.web.id&fp=chrome&type=ws&sni=vpn.stupidworld.web.id#r♡ya
 trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443?path=/@VPNBaz---@VPNBaz---@VPNBaz---@VPNBaz---@VPNBaz---@VPNBaz&security=tls&host=vpn.stupidworld.web.id&fp=chrome&type=ws&sni=vpn.stupidworld.web.id#→ @Hddify 🛝
 trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443?path=/Channel--Telegram--@Hddify--@Hddify--@Hddify&security=tls&host=vpn.stupidworld.web.id&fp=chrome&type=ws&sni=vpn.stupidworld.web.id#→ @Hddify 🪲
 trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443?path=/Stupid-World/103.106.228.126-2053#Join---MARAMBASHI---Join---MARAMBASHI?ed=2560&security=tls&host=vpn.stupidworld.web.id&fp=chrome&type=ws&sni=vpn.stupidworld.web.id#@HiByeVPNN👈⚡❤️‍🔥
@@ -228,6 +229,7 @@ trojan://telegram-id-privatevpns@35.181.248.2:22222?security=tls&alpn=http/1.1&h
 trojan://telegram-id-privatevpns@35.181.70.2:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@51.21.59.141:22222?security=tls&sni=trojan.burgerip.co.uk&alpn=http/1.1&type=tcp#@awlix_ir
 trojan://telegram-id-privatevpns@51.44.118.76:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs
+trojan://telegram-id-privatevpns@51.44.90.152:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#[🇫🇷]t.me/ConfigsHub
 trojan://telegram-id-privatevpns@52.47.183.143:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@52.59.51.173:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@54.154.77.229:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#@Hope_Net-join-us-on-Telegram
@@ -251,5 +253,3 @@ trojan://tunnel-astrovpn_official-de@de-1.stunnel.cc:8441?security=tls&sni=zula.
 trojan://tunnel-astrovpn_official-de@de-1.stunnel.cc:8441?security=tls&sni=zula.ir.AstroVPN-official.AstroVPN-official.workers.dev.AstroVPN_Official.org.AstroVPN.com.AstroVPN_Official.xyz.AstroVPN_Official.monster.JoinTelegram-------------AstroVPN_Official----------Join.ir&alpn=http/1.1&allowInsecure=1&type=tcp&headerType=none&host=de-1.stunnel.cc#AstroVPN_Official 🇩🇪
 trojan://tunnel-astrovpn_official-ee@ee-1.stunnel.cc:8441?security=tls&sni=zula.ir.AstroVPN-official.AstroVPN-official.workers.dev&alpn=http/1.1&allowInsecure=1&type=tcp&headerType=none&host=ee-1.stunnel.cc#[TrojanVPN] astrovpn_official-🇪🇪
 trojan://tunnel-astrovpn_official-fr@fr-1.stunnel.cc:8441?security=tls&alpn=http/1.1&host=fr-1.stunnel.cc&headerType=none&type=tcp&sni=zula.ir.AstroVPN-official.AstroVPN-official.workers.dev#@V2RAYROZ
-trojan://tunnel-astrovpn_official-fr@fr-2.stunnel.cc:8441?path=Telegram-AstroVPN_Official&security=tls&sni=zula.ir.AstroVPN-official.AstroVPN-official.workers.dev&alpn=http/1.1&allowInsecure=1&type=tcp&headerType=none&host=fr-2.stunnel.cc#AstroVPN_Official-🇫🇷
-trojan://tunnel-astrovpn_official-gb@gb-1.stunnel.cc:8441?security=tls&sni=zula.ir.AstroVPN-official.AstroVPN-official.workers.dev&alpn=http/1.1&allowInsecure=1&type=tcp&headerType=none&host=gb-1.stunnel.cc#[TrojanVPN] astrovpn_official-🇬🇧
