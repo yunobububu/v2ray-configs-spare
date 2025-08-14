@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://770d49ff-d8d1-456a-a009-6a4833718c98@62.212.70.94:2060?type=tcp&security=reality&pbk=B6w7zRowM6YMjWfoo93HdAwngS7SxXa-K1msMet_P3U&fp=chrome&sni=tgju.org&sid=e9&spx=/-@EXPRESSVPN_420---@EXPRESSVPN_420---@EXPRESSVPN_420---@EXPRESSVPN_420---@EXPRESSVPN_420---@EXPRESSVPN_420---@EXPRESSVPN_420---@EXPRESSVPN_420---@EXPRESSVPN_420---@EXPRESSVPN_420---@EXPRESSVPN_420---@EXPRESSVPN_420---@EXPRESSVPN_420---@EXPRESSVPN_420#🇳🇱  @EXPRESSVPN_420
-vless://7711fc80-c163-4f35-80c4-d5e61c69659d@104.16.112.97:80?encryption=none&security=none&type=ws&host=icy-bar-399d-ppal03.pomoyes509.workers.dev&path=/?ed=2560#👕Ch: @pPal03👕جوین بدید👕
-vless://7711fc80-c163-4f35-80c4-d5e61c69659d@104.24.47.130:80?encryption=none&security=none&type=ws&host=icy-bar-399d-ppal03.pomoyes509.workers.dev&path=/?ed=2560#👕Ch: @pPal03👕جوین بدید👕
-vless://77371595-b7aa-472a-9d61-e9731861af07@2.189.84.219:8443?security=none&encryption=none&host=head.shecanMarket.com&headerType=http&type=tcp#@CaV2ray ⚡️
 vless://775152cc-c811-496a-b222-d9764146203f@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?path=/ldtzopws&security=tls&encryption=none&host=638896723052890046.dezful-prx-dnraaay.info&type=ws&sni=638896723052890046.dezful-prx-dnraaay.info#🛡️ @FreakConfig
 vless://77b7af06-6e10-4afa-a9bb-461fab6db315@pfwie.marfanet.com:55700?security=reality&encryption=none&pbk=upY29Nxcyc_8q8shNAv_0XNdn0WJdy93iNlKbxLmFUA&headerType=none&fp=chrome&spx=/blog/category/technology/&type=tcp&sni=refersion.com&sid=ae839dceb524a40b#Telegram@Tunder_vpn
 vless://77bb6b54-3892-47ec-837e-6ff8e38d527c@speedtest.net:80?type=xhttp&path=/admin?ed=2048&host=speedy_lool.global.ssl.fastly.net&mode=auto&security=none#⚜️Telegram: @IP_CF
@@ -253,3 +249,7 @@ vless://7e948e09-fa6f-4b8e-8c5d-181fa15fbec5@104.17.41.52:8080?path=/ijiDwDw8BcM
 vless://7e948e09-fa6f-4b8e-8c5d-181fa15fbec5@104.17.41.52:8080?path=/ijiDwDw8BcM9ieHc?ed&security=&encryption=none&host=v2ngsupply2.ip-ddns.com&type=ws#🇨🇦𝐣𝐨𝐢𝐍-@𝐅𝐑𝐄𝐄𝐕𝟐𝐑𝐍𝐆
 vless://7e948e09-fa6f-4b8e-8c5d-181fa15fbec5@104.17.41.52:8080?path=/ijiDwDw8BcM9ieHc?ed=2560&security=&encryption=none&host=v2ngsupply2.ip-ddns.com&type=ws#@Capoit
 vless://7e948e09-fa6f-4b8e-8c5d-181fa15fbec5@104.17.41.52:8080?path=/ijiDwDw8BcM9ieHc?ed=2560&security=&encryption=none&host=v2ngsupply2.ip-ddns.com&type=ws#Channel id: @ShadowProxy66 🇨🇦
+vless://7e948e09-fa6f-4b8e-8c5d-181fa15fbec5@104.17.41.52:8080?path=/ijiDwDw8BcM9ieHc?ed=2560&security=&encryption=none&host=v2ngsupply2.ip-ddns.com&type=ws#⚜️Telegram: @IP_CF 🇨🇦
+vless://7e948e09-fa6f-4b8e-8c5d-181fa15fbec5@104.17.41.52:8080?path=/ijiDwDw8BcM9ieHc?ed=2560&security=&encryption=none&host=v2ngsupply2.ip-ddns.com&type=ws#🇩🇪 جوین بده کانکت بمونی: @STAPersiaNews
+vless://7e948e09-fa6f-4b8e-8c5d-181fa15fbec5@104.17.41.52:8080?path=/ijiDwDw8BcM9ieHc?ed=2560&security=none&encryption=none&host=v2ngsupply2.ip-ddns.com&type=ws#@Academi_vpn⁴
+vless://7e948e09-fa6f-4b8e-8c5d-181fa15fbec5@104.17.41.52:8080?path=/ijiDwDw8BcM9ieHc?ed=2560&security=none&encryption=none&host=v2ngsupply2.ip-ddns.com&type=ws#@Hddify |π| چنل هدیفای 🙏🏻

@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://7e948e09-fa6f-4b8e-8c5d-181fa15fbec5@104.17.41.52:8080?path=/ijiDwDw8BcM9ieHc?ed=2560&security=&encryption=none&host=v2ngsupply2.ip-ddns.com&type=ws#⚜️Telegram: @IP_CF 🇨🇦
-vless://7e948e09-fa6f-4b8e-8c5d-181fa15fbec5@104.17.41.52:8080?path=/ijiDwDw8BcM9ieHc?ed=2560&security=&encryption=none&host=v2ngsupply2.ip-ddns.com&type=ws#🇩🇪 جوین بده کانکت بمونی: @STAPersiaNews
-vless://7e948e09-fa6f-4b8e-8c5d-181fa15fbec5@104.17.41.52:8080?path=/ijiDwDw8BcM9ieHc?ed=2560&security=none&encryption=none&host=v2ngsupply2.ip-ddns.com&type=ws#@Academi_vpn⁴
-vless://7e948e09-fa6f-4b8e-8c5d-181fa15fbec5@104.17.41.52:8080?path=/ijiDwDw8BcM9ieHc?ed=2560&security=none&encryption=none&host=v2ngsupply2.ip-ddns.com&type=ws#@Hddify |π| چنل هدیفای 🙏🏻
 vless://7e948e09-fa6f-4b8e-8c5d-181fa15fbec5@104.17.41.52:8080?path=/ijiDwDw8BcM9ieHc?ed=2560&security=none&encryption=none&host=v2ngsupply2.ip-ddns.com&type=ws#@Selinc
 vless://7e948e09-fa6f-4b8e-8c5d-181fa15fbec5@104.17.41.52:8080?path=/ijiDwDw8BcM9ieHc?ed=2560&security=none&encryption=none&host=v2ngsupply2.ip-ddns.com&type=ws#@Tunder_vpn
 vless://7e948e09-fa6f-4b8e-8c5d-181fa15fbec5@104.17.41.52:8080?path=/ijiDwDw8BcM9ieHc?ed=2560&security=none&encryption=none&host=v2ngsupply2.ip-ddns.com&type=ws#@V2ray1_Ng
@@ -99,6 +95,7 @@ vless://8096bdcd-e3f9-4d1b-8519-a87066cced1d@Www.speedtest.net:2095?path=/@XpnTe
 vless://8096bdcd-e3f9-4d1b-8519-a87066cced1d@Www.speedtest.net:2095?type=httpupgrade&path=/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam?ed=2048&host=www.speednet.teat.iransHeep.Web.tR.&security=none#🇩🇪 | XpnTeam - Telegrams-l5lx93b6
 vless://809c908f-2219-11f0-9970-45e1d80c4039@62.60.233.250:443?security=reality&encryption=none&pbk=MFsbnsNQsSpZwP-_Ohzako6aHpfK4-rbssxhr3eywWw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=images.apple.com&sid=4476a3#@V2RAY_VMESS_free
 vless://809c908f-2219-11f0-9970-45e1d80c4039@62.60.233.250:443?security=reality&encryption=none&pbk=MFsbnsNQsSpZwP-_Ohzako6aHpfK4-rbssxhr3eywWw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=images.apple.com&sid=4476a3#[🇹🇷]t.me/ConfigsHub
+vless://809c908f-2219-11f0-9970-45e1d80c4039@62.60.233.250:443?security=reality&encryption=none&pbk=MFsbnsNQsSpZwP-_Ohzako6aHpfK4-rbssxhr3eywWw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=images.apple.com&sid=4476a3#𝗝𝗼𝗶𝗻 ➠ @PlanB_Proxy | کانال ما 🆔
 vless://809c908f-2219-11f0-9970-45e1d80c4039@62.60.233.250:443?security=reality&encryption=none&pbk=MFsbnsNQsSpZwP-_Ohzako6aHpfK4-rbssxhr3eywWw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=images.apple.com&sid=4476a3#🇹🇷𝐣𝐨𝐢𝐍-@𝐅𝐑𝐄𝐄𝐕𝟐𝐑𝐍𝐆
 vless://80bd9b9a-dee1-488c-bbd4-a717fcae1e85@tify-binex-join.espikernajafi.ir:6666?type=grpc&serviceName=/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy/@BinexTiFy&authority=&security=none#BINEXTIFY 🇩🇪 SPEED-enin3zh2u
 vless://80d1fe59-60f4-4272-a280-820e1ef0a754@104.17.147.22:443?path=/Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray?ed=2048&security=tls&encryption=none&host=www.speedtest.net.google.com.bing.com.yahoo.com.pubgmobile.dns-dynamic.net&type=ws&sni=www.speedtest.net.google.com.bing.com.yahoo.com.pubgmobile.dns-dynamic.net#@icv2ray
@@ -203,7 +200,6 @@ vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@45.144.28.247:2052?path=/&security=
 vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@94.232.244.5:2198?security=none&encryption=none&headerType=none&type=tcp#@V2rayNG3
 vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@95.164.86.59:2198?security=none&encryption=none&headerType=none&type=tcp#@V2rayNG3
 vless://838f5273-5d2d-4630-a0f5-9cc8e4aef4d6@95.164.87.30:2198?security=none&encryption=none&headerType=none&type=tcp#@V2rayNG3
-vless://83a85a41-fb7f-43e0-9c15-d199509a9624@178.162.244.224:443?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#Telegram:@config_proxy 🔥
 vless://83a85a41-fb7f-43e0-9c15-d199509a9624@178.162.244.224:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#🛡️ @FreakConfig
 vless://83b1b380-b0cf-4b4a-910b-154420def5d7@gr.dnszone.top:45500?security=none&encryption=none&headerType=none&type=tcp#🛡️ @FreakConfig
 vless://83dc5c38-92fb-4d92-adb2-038575a12d49@194.182.79.250:52612?mode=gun&security=reality&encryption=none&authority=&pbk=tVPnI0CG8zT6VlwpceDzo2WqrNwBSUMbYk0_08ybxhs&fp=chrome&spx=/&type=grpc&serviceName=Join-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&sni=journalofbigdata.springeropen.com&sid=78a48e1e#@icv2ray
@@ -253,3 +249,7 @@ vless://8672bdcd-e331-464d-9ed8-93a242ca7d2e@89.44.197.77:15946?path=/&security=
 vless://8672bdcd-e331-464d-9ed8-93a242ca7d2e@89.44.197.77:15946?path=/&security=none&encryption=none&host=TELEGRAM--V2XAY--V2XAY--V2XAY--V2XAY--V2XAY--V2XAY--V2XAY--V2XAY--V2XAY--V2XAY--V2XAY--V2XAY--V2XAY--V2XAY--V2XAY&type=ws#BG 🇧🇬 | @v2xay
 vless://8672bdcd-e331-464d-9ed8-93a242ca7d2e@89.44.197.77:15946?path=/&security=none&encryption=none&type=ws#@HiByeVPNN👈⚡❤️‍🔥
 vless://86892e3f-83ed-49c1-ade2-c12f8ace1487@84.32.190.1:2200?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#Telegram : @EXPRESSVPN_420
+vless://86bc7a99-28f8-4fb4-a455-a9e95592e4d9@irancell2.arc912.ir:2052?type=httpupgrade&path=/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam?ed=2048&host=ww.cloUdcdnXp.jaRicOpEn.sbS.&security=none#XpnTeam-kbhrlkhu6
+vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@www.speedtest.net:8443?path=/client/connection/socket/bshshhshggs?ed=8080&security=tls&encryption=none&host=swit.mycloudproject2025.site&type=ws&sni=Swit.mYClouDprOjeCt2025.sitE#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
+vless://86f90371-59d6-44e2-ab00-94c5ab16d2bc@192.109.200.254:443?security=reality&alpn=http/1.1&encryption=none&pbk=NPYS2vq3gQlU2h9EzaL-_93PIEpHLEHDSo8eYWCjw3o&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=torah.org&sid=8f64b0695b3b46de#@icv2ray
+vless://86fcb53f-5485-4f72-9bf3-3428a5f5ccdd@95.217.25.238:13555?security=&encryption=none&type=ws#none
