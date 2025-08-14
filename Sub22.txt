@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://38046915-6d82-4d86-8510-b5bcc569d0ea@www.speedtest.net:443?path=/&security=tls&encryption=none&host=MydigiKala.pAges.dEv&type=ws&sni=PaGes.deV#𝗝𝗼𝗶𝗻 ➠ 𝐓𝐞𝐥:@EXPRESSVPN_420🏂³
 vless://38046915-6d82-4d86-8510-b5bcc569d0ea@www.speedtest.net:443?path=/?ed=2560&security=tls&encryption=none&host=MydigiKala.pAges.dEv&type=ws&sni=PaGes.deV#@v2rayNGcloud
 vless://38046915-6d82-4d86-8510-b5bcc569d0ea@www.speedtest.net:443?path=/?ed=2560&security=tls&encryption=none&host=MydigiKala.pAges.dEv&type=ws&sni=PaGes.deV#All net telegram: @ultrasurf_12
 vless://38046915-6d82-4d86-8510-b5bcc569d0ea@www.speedtest.net:443?path=/?ed=2560&security=tls&encryption=none&host=MydigiKala.pAges.dEv&type=ws&sni=PaGes.deV#Allnet Telegram:@ultrasurf_12
@@ -252,4 +253,3 @@ vless://404384c5-59e3-49be-b1c5-9f168dea8d77@em-1.web-manage.com.tr:4928?securit
 vless://404384c5-59e3-49be-b1c5-9f168dea8d77@em-2.web-manage.com.tr:3799?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#🇫🇷 [Telegram:@VPNSHOP011]
 vless://404384c5-59e3-49be-b1c5-9f168dea8d77@em-3.web-manage.com.tr:3799?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#🇵🇱 [Telegram:@VPNSHOP011]
 vless://404384c5-59e3-49be-b1c5-9f168dea8d77@em-4.web-manage.com.tr:1429?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#🏴󠁧󠁢󠁥󠁮󠁧󠁿 [Telegram:@VPNSHOP011]
-vless://404384c5-59e3-49be-b1c5-9f168dea8d77@em-5.web-manage.com.tr:3789?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#🇺🇸 [Telegram:@VPNSHOP011]
