@@ -3,15 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-trojan://blue2024@172.64.104.130:443?allowInsecure=1&sni=hb.lii2010.us.kg&ws=1&wspath=/?ed=2560#@Hope_Net-join-us-on-Telegram
-trojan://blue2024@172.67.110.232:443?allowInsecure=1&sni=tb.promote.icu&ws=1&wspath=/?ed=2560#@Hope_Net-join-us-on-Telegram
-trojan://blue2024@172.67.181.209:443?allowInsecure=1&sni=hb.lii2010.us.kg&ws=1&wspath=/?ed=2560#@Hope_Net-join-us-on-Telegram
-trojan://blue2024@172.67.41.12:443?allowInsecure=1&sni=hb.lii2010.us.kg&ws=1&wspath=/?ed=2560#@Hope_Net-join-us-on-Telegram
-trojan://blue2024@172.67.79.211:443?allowInsecure=1&sni=tb.promote.icu&ws=1&wspath=/?ed=2560#@Hope_Net-join-us-on-Telegram
-trojan://blue2024@173.245.49.104:443?allowInsecure=1&sni=hb.lii2010.us.kg&type=ws&host=hb.lii2010.us.kg&path=/?ed=2560#t.me/entryNET/config=1840274101299445
-trojan://blue2024@173.245.49.104:443?allowInsecure=1&sni=hb.lii2010.us.kg&ws=1&wspath=/?ed=2560#@Hope_Net-join-us-on-Telegram
-trojan://blue2024@173.245.49.104:443?allowInsecure=1&sni=hb.lii2010.us.kg&ws=1&wspath=/?ed=2560#t.me/entryNET/config=1840360418169171
-trojan://blue2024@173.245.49.131:443?allowInsecure=1&sni=hb.lii2010.us.kg&ws=1&wspath=/?ed=2560#@Hope_Net-join-us-on-Telegram
 trojan://blue2024@173.245.49.213:443?allowInsecure=1&sni=hb.lii2010.us.kg&ws=1&wspath=/?ed=2560#@Hope_Net-join-us-on-Telegram
 trojan://blue2024@188.114.96.158:443?allowInsecure=1&sni=hb.lii2010.us.kg&ws=1&wspath=/?ed=2560#@Hope_Net-join-us-on-Telegram
 trojan://blue2024@188.114.96.88:443?allowInsecure=1&sni=hb.lii2010.us.kg&ws=1&wspath=/?ed=2560#@Hope_Net-join-us-on-Telegram
@@ -119,6 +110,7 @@ trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443?path=/Stupid-Wo
 trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443?path=/Stupid-World/103.106.228.126-2053&security=tls&host=vpn.stupidworld.web.id&fp=chrome&type=ws&sni=vpn.stupidworld.web.id#→ @Hddify 👀
 trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443?path=/Stupid-World/103.106.228.126-2053&security=tls&host=vpn.stupidworld.web.id&fp=chrome&type=ws&sni=vpn.stupidworld.web.id#♾️𝗝𝗼𝗶𝗻➠🆔️@V2Ray_hiddify10🆓️🔷️176
 trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443?path=/Stupid-World/103.106.228.126-2053&security=tls&host=vpn.stupidworld.web.id&fp=chrome&type=ws&sni=vpn.stupidworld.web.id#✅ @vistav2ray  👈👈کانال ما
+trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443?path=/Stupid-World/103.106.228.126-2053&security=tls&host=vpn.stupidworld.web.id&fp=chrome&type=ws&sni=vpn.stupidworld.web.id#𝗝𝗼𝗶𝗻 ➠ @NormanV2ray | نیم ساعت دیگه قطع میکنم جدیدشو بردار از کانال
 trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443?path=/Stupid-World/103.106.228.126-2053&security=tls&host=vpn.stupidworld.web.id&fp=chrome&type=ws&sni=vpn.stupidworld.web.id#🇩🇪[Telegram:@v2rayng_fars]
 trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443?path=/Stupid-World/103.106.228.126-2053&security=tls&host=vpn.stupidworld.web.id&fp=chrome&type=ws&sni=vpn.stupidworld.web.id#👈🏻 چنل تلگرامی : سرچ کن هدیفای 👉🏻
 trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443?path=/Stupid-World/103.106.228.126-2053&security=tls&host=vpn.stupidworld.web.id&fp=chrome&type=ws&sni=vpn.stupidworld.web.id#💎 @AblNet7 💎
@@ -170,11 +162,9 @@ trojan://redfree8@104.17.148.22:80?path=/trLwW5jwrnymnOdqki?ed=2560&security=non
 trojan://redfree8@104.17.148.22:80?path=/trLwW5jwrnymnOdqki?ed=2560&security=none&host=redfree8-p1.pooriashop.ir&type=ws#@V2rayNG3
 trojan://slch2024@104.18.2.108:8443?path=/&security=tls&host=ocost-dy.wmlefl.cc&type=ws&sni=ocost-dy.wmlefl.cc#Channel id: @ShadowProxy66 🇨🇦
 trojan://telegram-id-directvpn@16.170.150.52:22222?allowInsecure=0&sni=trojan.burgerip.co.uk#@Hope_Net-join-us-on-Telegram
-trojan://telegram-id-directvpn@16.170.150.52:22222?allowInsecure=0&sni=trojan.burgerip.co.uk#[🇸🇪]t.me/ConfigsHub
 trojan://telegram-id-directvpn@3.77.162.60:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@confing_chanel
 trojan://telegram-id-directvpn@3.77.162.60:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#VayNora
 trojan://telegram-id-directvpn@3.98.149.151:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#@Hope_Net-join-us-on-Telegram
-trojan://telegram-id-directvpn@52.60.190.229:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#@Hope_Net-join-us-on-Telegram
 trojan://telegram-id-directvpn@63.176.111.249:22222?allowInsecure=0&sni=trojan.burgerip.co.uk#@Hope_Net-join-us-on-Telegram
 trojan://telegram-id-privatevpns@13.36.139.6:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@13.36.247.35:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNs
@@ -253,3 +243,13 @@ trojan://tunnel-astrovpn_official-nl@nl-1.stunnel.cc:8441?security=tls&sni=zula.
 trojan://tunnel-astrovpn_official-pl@pl-1.stunnel.cc:8441?security=tls&alpn=http/1.1&host=pl-1.stunnel.cc&headerType=none&type=tcp&sni=zula.ir.AstroVPN-official.AstroVPN-official.workers.dev#@V2RAYROZ
 trojan://tunnel-astrovpn_official-tr@tr-1.stunnel.cc:8441?security=tls&sni=zula.ir.AstroVPN-official.AstroVPN-official.workers.dev.AstroVPN_Official.org.AstroVPN.com.AstroVPN_Official.xyz.AstroVPN_Official.monster.JoinTelegram-------------AstroVPN_Official----------Join.ir&alpn=http/1.1&allowInsecure=1&type=tcp&headerType=none&host=tr-1.stunnel.cc#AstroVPN_Official 🇹🇷
 trojan://tunnel-astrovpn_official-us@us-3.stunnel.cc:8441?security=tls&alpn=http/1.1&host=us-3.stunnel.cc&headerType=none&type=tcp&sni=zula.ir.AstroVPN-official.AstroVPN-official.workers.dev#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
+trojan://tunnel-astrovpn_official-us@us-4.stunnel.cc:8441?security=tls&sni=zula.ir.AstroVPN-official.AstroVPN-official.workers.dev&alpn=http/1.1&allowInsecure=1&type=tcp&headerType=none&host=us-4.stunnel.cc#[TrojanVPN] astrovpn_official-🇺🇸
+trojan://tunnel-astrovpn_official@fr-2.stunnel.cc:8441?path=AstroVPN_Official-AstroVPN_Official-AstroVPN_Official-AstroVPN_Official-AstroVPN_Official-AstroVPN_Official-AstroVPN_Official-AstroVPN_Official-AstroVPN_Official-AstroVPN_Official-AstroVPN_Official-AstroVPN_Official-AstroVPN_Official-AstroVPN_Official-AstroVPN_Official&security=tls&alpn=http/1.1&host=fr-2.stunnel.cc&headerType=none&type=tcp&sni=Zula.ir.AstroVPN-official.AstroVPN-official.workers.dev#AstroVPN_Official🇫🇷(ALL)
+trojan://tunnel-astrovpn_official_ae@ae-1.stunnel.cc:8441?path=AstroVPN_Official-AstroVPN_Official-AstroVPN_Official-AstroVPN_Official-AstroVPN_Official-AstroVPN_Official-AstroVPN_Official-AstroVPN_Official-AstroVPN_Official-AstroVPN_Official-AstroVPN_Official-AstroVPN_Official-AstroVPN_Official-AstroVPN_Official-AstroVPN_Official&security=tls&sni=zula.ir.AstroVPN-official.AstroVPN-official.workers.dev&alpn=http/1.1&allowInsecure=1&type=tcp&headerType=none&host=ae-1.stunnel.cc#AstroVPN_Official 🇦🇪
+trojan://tunnel-astrovpn_official_ae@ae-1.stunnel.cc:8441?security=tls&sni=zula.ir.AstroVPN-official.AstroVPN-official.workers.dev&alpn=http/1.1&allowInsecure=1&type=tcp&headerType=none&host=ae-1.stunnel.cc#[TrojanVPN] astrovpn_official-🇦🇪
+trojan://tunnel-astrovpn_official_ca@ca-1.stunnel.cc:8441?path=AstroVPN_Official-AstroVPN_Official-AstroVPN_Official-AstroVPN_Official-AstroVPN_Official-AstroVPN_Official-AstroVPN_Official-AstroVPN_Official-AstroVPN_Official-AstroVPN_Official-AstroVPN_Official-AstroVPN_Official-AstroVPN_Official-AstroVPN_Official-AstroVPN_Official&security=tls&sni=zula.ir.AstroVPN-official.AstroVPN-official.workers.dev&alpn=http/1.1&allowInsecure=1&type=tcp&headerType=none&host=ca-1.stunnel.cc#AstroVPN_Official 🇨🇦
+trojan://tunnel-astrovpn_official_de@de-1.stunnel.cc:8441?path=AstroVPN_Official-AstroVPN_Official-AstroVPN_Official-AstroVPN_Official-AstroVPN_Official-AstroVPN_Official-AstroVPN_Official-AstroVPN_Official-AstroVPN_Official-AstroVPN_Official-AstroVPN_Official-AstroVPN_Official-AstroVPN_Official-AstroVPN_Official-AstroVPN_Official&security=tls&alpn=http/1.1&host=de-1.stunnel.cc&headerType=none&type=tcp&sni=zula.ir.AstroVPN-official.AstroVPN-official.workers.dev#AstroVPN_Official🇩🇪(ALL)
+trojan://tunnel-astrovpn_official_de@de-1.stunnel.cc:8441?security=tls&alpn=http/1.1&host=de-1.stunnel.cc&headerType=none&type=tcp&sni=zula.ir.AstroVPN-official.AstroVPN-official.workers.dev#@V2RAYROZ
+trojan://tunnel-astrovpn_official_ee@ee-1.stunnel.cc:8441?path=AstroVPN_Official-AstroVPN_Official-AstroVPN_Official-AstroVPN_Official-AstroVPN_Official-AstroVPN_Official-AstroVPN_Official-AstroVPN_Official-AstroVPN_Official-AstroVPN_Official-AstroVPN_Official-AstroVPN_Official-AstroVPN_Official-AstroVPN_Official-AstroVPN_Official&security=tls&sni=zula.ir.AstroVPN-official.AstroVPN-official.workers.dev&alpn=http/1.1&allowInsecure=1&type=tcp&headerType=none&host=ee-1.stunnel.cc#AstroVPN_Official 🇪🇪
+trojan://tunnel-astrovpn_official_ee@ee-1.stunnel.cc:8441?security=tls&alpn=http/1.1&host=ee-1.stunnel.cc&headerType=none&type=tcp&sni=zula.ir.AstroVPN-official.AstroVPN-official.workers.dev#EE 1 🇪🇪 | @v2xay
+trojan://tunnel-astrovpn_official_gb@gb-1.stunnel.cc:8441?path=AstroVPN_Official-AstroVPN_Official-AstroVPN_Official-AstroVPN_Official-AstroVPN_Official-AstroVPN_Official-AstroVPN_Official-AstroVPN_Official-AstroVPN_Official-AstroVPN_Official-AstroVPN_Official-AstroVPN_Official-AstroVPN_Official-AstroVPN_Official-AstroVPN_Official&security=tls&sni=zula.ir.AstroVPN-official.AstroVPN-official.workers.dev&alpn=http/1.1&allowInsecure=1&type=tcp&headerType=none&host=gb-1.stunnel.cc#AstroVPN_Official 🇬🇧
