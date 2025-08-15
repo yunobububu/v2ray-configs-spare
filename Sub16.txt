@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.112.1:80?path=/193.123.81.105=443&security=none&encryption=none&host=zoomgov.vipren.biz.id&type=ws#🆔@PlanB_Proxy سرور های بیشتر جوین شو
-vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.112.1:80?path=/193.123.81.105=443&security=none&encryption=none&host=zoomgov.vipren.biz.id&type=ws#🇩🇪 جوین بده کانکت بمونی: @STAPersiaNews
-vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.112.1:80?path=/?𝐅𝐑𝐄𝐄𝐕𝟐𝐑𝐍𝐆&security=&encryption=none&host=zoomgov.vipren.biz.id&type=ws#🇨🇦𝐣𝐨𝐢𝐍-@𝐅𝐑𝐄𝐄𝐕𝟐𝐑𝐍𝐆
 vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.112.1:80?path=/Join---i10VPN---Join---i10VPN---Join---i10VPN---Join---i10VPN=443&security=none&encryption=none&host=zoomgov.vipren.biz.id&type=ws#@i10VPN 🚀| با ما متصل بمون⚡
 vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.112.1:80?path=/Join---i10VPN---Join---i10VPN=443&security=none&encryption=none&host=zoomgov.vipren.biz.id&type=ws#@i10VPN 🚀| با ما متصل بمون⚡
 vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.112.1:80?path=/Join---i10VPN=443&security=none&encryption=none&host=zoomgov.vipren.biz.id&type=ws#@i10VPN 🚀| با ما متصل بمون⚡
@@ -253,3 +250,6 @@ vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@78.47.24.36:2020?security=none&encr
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@78.47.44.60:2020?security=&encryption=none&headerType=none&type=tcp#🇩🇪𝐣𝐨𝐢𝐍-@𝐅𝐑𝐄𝐄𝐕𝟐𝐑𝐍𝐆
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@78.47.44.60:2020?security=&encryption=none&headerType=none&type=tcp#🇫🇷 MCI - @FREEV2RNG 7
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@78.47.44.60:2020?security=none&encryption=none&headerType=none&type=tcp#@AblNet7 🇩🇪
+vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@78.47.44.60:2020?security=none&encryption=none&headerType=none&type=tcp#@i10VPN 🚀| با ما متصل بمون⚡
+vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@78.47.44.60:2020?security=none&encryption=none&headerType=none&type=tcp#Channel : @Mrsoulb 🏴🏳
+vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@78.47.44.60:2020?security=none&encryption=none&headerType=none&type=tcp#Channel-@vmesskhodam

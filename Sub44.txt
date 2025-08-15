@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://ce62ee5e-e316-46af-b967-4588a5e8e66c@wouldyoumarriemepleasefuckthesystem5.siasia.ir:2053?path=/apiii&security=tls&alpn=h3,h2&encryption=none&host=hheydudethisworldisshet.siasia.ir&fp=chrome&type=ws&sni=hheydudethisworldisshet.siasia.ir#🛡️ @FreakConfig
-vless://ce8871bf-7049-4b04-9ffd-817c4eac7de4@173.245.59.132:8080?path=/@MaSTeRSeRVeR1-@-MaSTeRSeRVeR1@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1?ed=2048&security=&encryption=none&host=masterserver1.nanvrfood.ir.&type=httpupgrade#🇩🇪 All Operator 1 @MaSTeRSeRVeR1
-vless://ce8871bf-7049-4b04-9ffd-817c4eac7de4@198.41.216.98:8080?path=/@MaSTeRSeRVeR1-@-MaSTeRSeRVeR1@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1?ed=2048&security=&encryption=none&host=masterserver1.nanvrfood.ir.&type=httpupgrade#🇩🇪 All Operator 2 @MaSTeRSeRVeR1
 vless://cec135d5-fcce-4c9e-c5f4-d94744055291@chat.deepseek.com:80?path=/olem/ws?ed=1024&security=none&encryption=none&host=fin.channel.digicyber.click&type=ws#🛡️ @FreakConfig
 vless://cec135d5-fcce-4c9e-c5f4-d94744055291@chat.deepseek.com:80?type=ws&path=/olem/ws?ed=1024&host=fin.channel.digicyber.click&security=none#@melov2ray🇫🇮
 vless://cec135d5-fcce-4c9e-c5f4-d94744055291@tgju.org:80?type=ws&path=/olem/ws?ed=1024&host=fin.channel.digicyber.click&security=none#@melov2ray🇫🇮
@@ -253,3 +250,6 @@ vless://d4661d12-d6f7-4ff2-bd1e-fc9cdc2c9cc1@190.93.244.103:443?path=/&security=
 vless://d4661d12-d6f7-4ff2-bd1e-fc9cdc2c9cc1@190.93.244.103:443?path=/&security=tls&encryption=none&host=mylearn-8zx.pages.dev&fp=chrome&type=ws&sni=mylearn-8zx.pages.dev#🆔@PlanB_Proxy سرور های بیشتر جوین شو
 vless://d46a098c-a34a-4c46-a656-c0dcbdeb85ce@eegap.ucdavis.edu:443?path=/vless?ed=443&security=tls&encryption=none&alpn=h2,http/1.1&host=speedtest.net.ftp.debian.org.1.2.3.a.b.c.netspeedtest.net.nakdk.ir&fp=chrome&type=ws&sni=eegap.ucdavis.edu#کانال+ما+در+تلگرام+@Asak_Vpn+🌟
 vless://d46a098c-a34a-4c46-a656-c0dcbdeb85ce@eegap.ucdavis.edu:443?path=/vless?ed=443&security=tls&encryption=none&alpn=h2,http/1.1&host=speedtest.net.ftp.debian.org.1.2.3.a.b.c.netspeedtest.net.nakdk.ir&fp=chrome&type=ws&sni=eegap.ucdavis.edu#کانال+ما+در+تلگرام+@Asak_Vpn+🔷
+vless://d4710a65-4d89-4736-b575-917334dcfffb@wolf540.api-tel.ir:36338?type=tcp&security=reality&fp=chrome&pbk=WRbNyWLu_I0Mfyv6WWf4EwoE2srtKdwlUq2Z-tbJ6j4&flow=xtls-rprx-vision&sni=refersion.com&sid=82bd6d1066#v2box
+vless://d475df47-2b3b-4488-9c8c-146dabbb7f9e@91.107.170.231:2053/?type=tcp&path=/@ZedBaz_vpn&host=bmw.com&headerType=http&security=none#@ZedBaz_vpn
+vless://d475df47-2b3b-4488-9c8c-146dabbb7f9e@91.107.170.231:2053/?type=tcp&path=/@ZedBaz_vpn&host=bmw.com&headerType=http&security=none#@ZedBaz_vpn  ➖➖➖➖➖➖➖➖ ⭐ | @ZedBaz_vpn

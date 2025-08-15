@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://f5cf098f-5143-440f-a490-7fc24ff27fb0@104.26.7.89:8443?path=/?ed=2560&security=tls&encryption=none&host=brmahasang.ahaysiahzangi.dpdns.org&fp=chrome&type=ws&sni=brmahasang.ahaysiahzangi.dpdns.org#همراه اول vmesskhodam@
-vless://f5d520af-e12a-47cc-8c08-315193bd53db@ir1.phantompanel.shop:19309?encryption=none&security=none&type=tcp&headerType=http&host=towhidshop.org#🇩🇪 | Ch Telegram : @CodeClubiR - 2GB
-vless://f5d5f7c9-e573-4fb6-8faf-8db450db9b07@165.227.185.247:8880?type=tcp&security=reality&fp=chrome&sni=refersion.com&pbk=cJydPsZ25g4KQeuu8tGZE-9l6uB6uvdHZxyAfa3NrAQ&sid=e3bbc3601946f0e4&spx=/@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn#🇺🇸@EVAY_VPN
 vless://f5d5f7c9-e573-4fb6-8faf-8db450db9b07@37.140.242.245:8880?type=tcp&security=reality&fp=chrome&sni=refersion.com&pbk=cJydPsZ25g4KQeuu8tGZE-9l6uB6uvdHZxyAfa3NrAQ&sid=e3bbc3601946f0e4&spx=/@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn#🇹🇷@EVAY_VPN
 vless://f5f2458c-5fcb-4820-82c2-2997492c54d5@62.60.192.209:80?path=/&security=&encryption=none&type=ws#none
 vless://f5f2458c-5fcb-4820-82c2-2997492c54d5@62.60.192.209:80?path=/&security=none&encryption=none&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI&type=ws#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
@@ -253,3 +250,6 @@ vless://fd28cfbd-232f-4549-ae7f-55647ebdfada@www.speedtest.net:80?path=/@CUSTOMI
 vless://fd704838-af11-436e-84c3-5c89d649fbd4@85.133.215.172:8080?security=none&encryption=none&host=myket.ir&headerType=http&type=tcp#@v2ray313 کانالمون 😈
 vless://fd7eb872-66bd-4bf7-be5b-8f349e7c5f16@172.232.185.91:443?mode=stream-one&path=/&security=none&encryption=none&type=xhttp#Channel : @Mrsoulb 🏴🏳
 vless://fd7eb872-66bd-4bf7-be5b-8f349e7c5f16@172.232.185.91:443?mode=stream-one&path=/&security=none&encryption=none&type=xhttp#Telegram : @Alfa_v2ray_ng 🔥
+vless://fd7ef777-55be-43fe-8462-ea0cd549be5a@104.18.26.90:2096?path=/rlogcews&security=tls&encryption=none&host=638874931195359438.kish-prx-dnraaaf.info&type=ws&sni=638874931195359438.kish-prx-dnraaaf.info#🇺🇸telegram🪢@V2WRAY
+vless://fd8be803-c16f-4d8f-9dcd-cbad92be1100@js.document.lat:80?mode=auto&path=/&security=none&encryption=none&extra={"scMaxEachPostBytes": "1000000", "scMaxConcurrentPosts": 100, "scMinPostsIntervalMs": 30, "xPaddingBytes": "100-1000", "noGRPCHeader": false}&host=imam-ali.global.ssl.fastly.net.&type=xhttp#@CaV2ray ⚡️
+vless://fda9684c-3694-478f-8dba-d0b79026de7b@de.foxinonet.ir:443?path=/lw&security=tls&encryption=none&host=de.foxinonet.ir&fp=chrome&type=ws&sni=de.foxinonet.ir#(@vmesskhodam)
