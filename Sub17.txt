@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@91.99.183.43:2020?security=none&encryption=none&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&type=tcp#@MARAMBASHI 💜💙
-vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@91.99.183.43:2087?encryption=none&security=tls&allowInsecure=1&type=grpc#Telegram:@config_proxy 🔥
-vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@91.99.187.196:2020?security=&encryption=none&headerType=none&type=tcp#@confing_chanel
-vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@91.99.187.196:2020?security=&encryption=none&headerType=none&type=tcp#VayNora
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@91.99.2.51:2020?encryption=none&security=none&type=tcp&headerType=none#@confing_chanel
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@91.99.2.51:2020?encryption=none&security=none&type=tcp&headerType=none#VayNora
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@91.99.2.51:2020?security=none&encryption=none&headerType=none&type=tcp#𝗝𝗼𝗶𝗻 ➠ @PlanB_Proxy | کانال ما 🆔
@@ -253,3 +249,7 @@ vless://2b25cdb0-ecb2-4caa-910d-b2e5b2309ca3@185.234.66.94:443?path=/tqjkmwws&se
 vless://2b25cdb0-ecb2-4caa-910d-b2e5b2309ca3@185.234.66.94:443?path=/tqjkmwws&security=tls&encryption=none&type=ws#🇹🇷 @FREEV2RNG
 vless://2b25cdb0-ecb2-4caa-910d-b2e5b2309ca3@185.234.66.94:443?path=/tqjkmwws&security=tls&encryption=none&type=ws#🇹🇷 Turkey
 vless://2b25cdb0-ecb2-4caa-910d-b2e5b2309ca3@185.234.66.94:443?path=/tqjkmwws&security=tls&encryption=none&type=ws#🇹🇷 Turkey:
+vless://2b25cdb0-ecb2-4caa-910d-b2e5b2309ca3@185.234.66.94:443?path=/tqjkmwws?ed=2048@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN&security=tls&encryption=none&type=ws#@HiByeVPNN👈⚡❤️‍🔥
+vless://2b4bed25-a5ef-439d-93b1-395b7bcec58b@104.16.60.79:8080?encryption=none&security=none&type=ws&host=workerr.dimon22287.workers.dev&path=/?ed=2048#Telegram:@config_proxy 🔥
+vless://2b4f6be4-32b4-495c-82d1-4d3093e5ddad@85.9.204.21:23328?security=reality&encryption=none&pbk=Za4d7M22mOEGXV23Tkb_STUCIznMbtlUS89ZAaECjU0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ilovepdf.com&sid=1af22e9c44f798bc#@Daily_Configs
+vless://2b4f6be4-32b4-495c-82d1-4d3093e5ddad@85.9.204.21:23328?security=reality&encryption=none&pbk=Za4d7M22mOEGXV23Tkb_STUCIznMbtlUS89ZAaECjU0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ilovepdf.com&sid=1af22e9c44f798bc#@V2RAY_VMESS_free

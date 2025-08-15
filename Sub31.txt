@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://81294d12-9b29-438d-8af2-2bfcba7bd450@91.99.190.190:2012?security=reality&encryption=none&pbk=I9RNJ9pJ1WzWsYnRFk7u1XWsFhWBS03iUDjQXwWsERY&host=/BIA_CHANEL@JOKERRVPN&headerType=none&fp=chrome&spx=/Copy-az-chahnnel-JOKERRVPN&type=tcp&sni=www.pcmag.com#🛡️ @FreakConfig
-vless://813d7c7e-d2ea-460f-9bf7-e6fa6a073b67@www.speedtest.net.cdn.cloudflare.net:8080?path=/?ed=2048&security=none&encryption=none&host=TW.kKpopH4Zmc.ZUlaIr.orG&type=ws#@vmesskhodam
-vless://813d7c7e-d2ea-460f-9bf7-e6fa6a073b67@www.speedtest.net.cdn.cloudflare.net:8080?path=/?ed=2048&security=none&encryption=none&host=TW.kKpopH4Zmc.ZUlaIr.orG&type=ws#IRAN 261 (@Outline_Vpn) free
-vless://813d7c7e-d2ea-460f-9bf7-e6fa6a073b67@www.speedtest.net.cdn.cloudflare.net:8080?path=/?ed=2048&security=none&encryption=none&host=TW.kKpopH4Zmc.ZUlaIr.orG&type=ws#IRAN 441 (@Outline_Vpn) free
 vless://813d7c7e-d2ea-460f-9bf7-e6fa6a073b67@www.speedtest.net.cdn.cloudflare.net:8080?path=/?ed=2048&security=none&encryption=none&host=TW.kKpopH4Zmc.ZUlaIr.orG&type=ws#IRAN 534 (@Outline_Vpn) free
 vless://813d7c7e-d2ea-460f-9bf7-e6fa6a073b67@www.speedtest.net.cdn.cloudflare.net:8080?path=/?ed=2048&security=none&encryption=none&host=TW.kKpopH4Zmc.ZUlaIr.orG&type=ws#🛡️ @FreakConfig
 vless://814514d0-7fb5-41c9-ba9d-e4eff68c1311@45.80.230.190:65047?security=reality&encryption=none&pbk=F3vOEhZMIEs_djWjttPmQbv9MNAl3OTUWpDWLn5hTHw&headerType=none&fp=chrome&spx=/&type=tcp&sni=stackoverflow.com&sid=f481#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
@@ -253,3 +249,7 @@ vless://89b3cbba-e6ac-485a-9481-976a0415eab9@31.43.179.145:80?path=Telegram@V2ra
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@45.12.30.101:80?path=Telegram:@ShadowProxy66/?ed=2560&security=none&encryption=none&host=uuhUHYygEsdFGH.UYHJHGvgFcjGUJhbUIlbVFDxDxM.xyz&type=ws#@Tunder_vpn
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@45.131.208.130:80?path=Telegram@V2ray_Alpha/?ed=2560&security=none&encryption=none&host=uuhUHYygEsdFGH.UYHJHGvgFcjGUJhbUIlbVFDxDxM.xyz&type=ws#@CaV2ray ⚡️
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@ppal03.kharson-demetric.workers.dev:443?encryption=none&security=tls&sni=Ppal03.khArSON-deMETric.WOrkeRs.dEV&alpn=h2,http/1.1&fp=chrome&type=ws&host=pPAL03.kHArSon-DeMetrIC.WoRKErS.DEv&path=/BSbQHrIKid9PM8Up?ed=2560#🐬Ch: @pPal03🐬
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@www.speedtest.net:2083?path=/telegram@v2ray_alpha?ed=2560&security=tls&alpn=h2,http/1.1&encryption=none&host=HaSTI.fReeAIrLAINes.COm&fp=chrome&type=ws&sni=hAsTi.frEEairLainEs.Com#@V2rayNG3
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@www.speedtest.net:2096?path=/Telegram@V2ray_Alpha/?ed=2560&security=tls&encryption=none&host=JOInv2ngFaSt-2mM.pAges.DeV&type=ws&sni=JoinV2nGFaSt-2MM.pAges.DEV#@V2rayNG3
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@www.speedtest.net:443?encryption=none&security=tls&sni=PPaL03.kharSoN-DemeTRiC.WoRkERs.DeV&alpn=h2,http/1.1&fp=chrome&type=ws&host=PPal03.KhArSoN-DEmetRIC.wOrKErs.DEv&path=/PrCocpkS9faG6wZS?ed=2560#🐬Ch: @pPal03🐬
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@www.speedtest.net:443?path=/1jk0RN6A5M3aEMof&security=tls&encryption=none&alpn=http/1.1&host=cloudflareiran1.pages.dev&fp=chrome&type=ws&sni=ClOuDflaReiRaN1.pAgeS.dev#@V2rayNG3

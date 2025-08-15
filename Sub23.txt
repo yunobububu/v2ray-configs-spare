@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://45c8431a-ed27-4d3c-ba54-b3a1fee40ca0@elipii2.digi-elipii.ir:80?security=tls&encryption=none&host=google.com&headerType=http&type=tcp&sni=digi-elipii.ir#@AYMH19+کانال+تلگرام
-vless://45cd4cb9-c026-4ab2-814d-090d51f4a59f@103.231.75.23:443/?type=ws&encryption=none&flow=&path=/xsgzobws&security=tls&allowInsecure=1#🇹🇷 Turkey[@vpnAndroid2]⁸
-vless://45cd4cb9-c026-4ab2-814d-090d51f4a59f@103.231.75.23:443?path=/xsgzobws&security=tls&encryption=none&type=ws#r♡ya🇹🇷
-vless://45cd4cb9-c026-4ab2-814d-090d51f4a59f@103.231.75.23:443?path=/xsgzobws&security=tls&encryption=none&type=ws#🇹🇷 @FREEV2RNG
 vless://45cd4cb9-c026-4ab2-814d-090d51f4a59f@103.231.75.23:443?path=/xsgzobws?ed=2048@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN&security=tls&encryption=none&type=ws#@HiByeVPNN👈⚡❤️‍🔥
 vless://45cd8599-677e-4f64-c0aa-7988592d97b9@www.speedtest.net:2082?path=/@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn?ed=2082&security=none&encryption=none&host=novinsoft.ir.oradoshop.com.persiangsm.ir.digikala.com.abadis.ir.shad.ir.divar.ir.downloadly.com.aparat.com.cafebazar.ir.varzesh3.com.ninisite.com.abadis.ir.bama.ir.p30download.ir.telewebion.bmi.ir.shad.ir.mayket.com.ninisite.top.&type=ws#@spikevpn👈 جوین بده💯⚡
 vless://461558c5-425f-49de-9dad-5a9184e092f9@38.246.249.90:60589/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.cisco.com&fp=chrome&security=reality&pbk=g_56k7ui9UrIxf6FL4bc5JJ4tYQ0wwENzddsybcRNHo&sid=11aa857ce52a1392#Reality(by小企鹅)
@@ -253,3 +249,7 @@ vless://4c4a4ea9-a9ec-4d7d-d6f6-e9b21de3a8fe@45.82.161.120:19011?security=none&e
 vless://4c4a4ea9-a9ec-4d7d-d6f6-e9b21de3a8fe@45.82.161.120:19011?security=none&encryption=none&headerType=none&type=tcp#@NT_Safe🇺🇸   روی کانفیگا بزنید کپی میشن آموزش استفاده / phone /  pc  ✈️
 vless://4c4d5d6c-4d88-4df1-9a95-048885f7415f@213.176.121.88:44032?security=none&encryption=none&host=myket.ir&headerType=http&type=tcp#🇸🇪+Sweden+|+🇮🇷+NimBaha
 vless://4c4d5d6c-4d88-4df1-9a95-048885f7415f@213.176.121.88:44032?security=none&encryption=none&host=myket.ir&headerType=http&type=tcp#🇸🇪+Sweden+|+🇮🇷+NimBaha  کانفیگ نیم بها🇮🇷 مناسب برای تمام اپراتورها🛜 شِیر یادتون نره!🤍
+vless://4c4d5d6c-4d88-4df1-9a95-048885f7415f@85.133.204.55:44032?security=none&encryption=none&host=myket.ir&headerType=http&type=tcp#🇸🇪+Sweden+|+🇮🇷+NimBaha
+vless://4c54aa59-3f7a-4257-bad6-5f2def2d9fb8@157.173.195.208:8081?security=reality&encryption=none&pbk=maeBz8hpeApypC47VuYULiB8zupTv1HxlPpRJ5QsOUI&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=9d41#Channel id: @ShadowProxy66 🇺🇸
+vless://4c585027-6ef2-42ff-899b-06a97b1ee7b2@91.107.159.32:443?security=reality&encryption=none&pbk=WjYNpDmgqI19JN7jmgTW6lAHUGN1YEa4yc9Bwqs9w0Y&headerType=none&fp=chrome&spx=/کانال‌تلگرام@ev2rayy&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=0f8bc395378e80#@ev2rayy
+vless://4c585027-6ef2-42ff-899b-06a97b1ee7ba@91.107.159.32:443?security=reality&encryption=none&pbk=WjYNpDmgqI19JN7jmgTW6lAHUGN1YEa4yc9Bwqs9w0Y&headerType=none&fp=chrome&spx=/کانال‌تلگرام@ev2rayy&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=0f8bc395378e80#@ev2rayy
