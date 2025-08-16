@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://75b63c38-ba6a-4bc8-b1ce-eb7df9931faf@www.speedtest.net:80?path=/ShadowProxy66-ShadowProxy66&security=none&encryption=none&host=a.kadoo.sbs.&type=ws#Channel id: @@proxy_kafee 🇨🇦
 vless://75b63c38-ba6a-4bc8-b1ce-eb7df9931faf@www.speedtest.net:80?path=/ShadowProxy66-ShadowProxy66&security=none&encryption=none&host=a.kadoo.sbs.&type=ws#Channel id: @@singbox1 🇨🇦
 vless://75b63c38-ba6a-4bc8-b1ce-eb7df9931faf@www.speedtest.net:80?path=/ShadowProxy66-ShadowProxy66&security=none&encryption=none&host=a.kadoo.sbs.&type=ws#Channel id: @ShadowProxy66 🇨🇦
 vless://75b63c38-ba6a-4bc8-b1ce-eb7df9931faf@www.speedtest.net:80?path=/ShadowProxy66-ShadowProxy66&security=none&encryption=none&host=a.kadoo.sbs.&type=ws#✅ @vistav2ray  👈👈کانال ما
@@ -252,4 +253,3 @@ vless://7b4acb54-014e-4ef1-b4b4-227f5235f589@netflix.kimjo.ir:2096?path=/?ed=204
 vless://7b546424-e5f9-4301-9fb0-188f90baa8b4@www.speedtest.net:80?path=/telegram=V_2RAYNGVPN&security=none&encryption=none&host=FySuMyYk3.aMirsiTesos.sItE.&type=httpupgrade#@V_2rayngVpn
 vless://7b63ed50-f1f8-4776-b7f2-60e73f6b66c0@164.92.243.66:443?security=reality&encryption=none&pbk=fCdQnxkoid28t27haGSLEd3rr0R3zxw57xg40wwfU0I&headerType=none&fp=chrome&spx=/?V2RET--V2RET--V2RET--V2RET--V2RET--V2RET--V2RET--V2RET--V2RET--V2RET--V2RET--V2RET--V2RET--V2RET--V2RET--V2RET&type=tcp&flow=xtls-rprx-vision&sni=venom.spritbraker.ir&sid=93f3face#V2RET - 🇩🇪 - FREE
 vless://7b6eca4c-44ae-40c6-973a-4e3b29d30803@91.107.193.169:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#IR-@Tunder_vpn
-vless://7b6eca4c-44ae-40c6-973a-4e3b29d30803@91.99.122.102:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#@CaV2ray ⚡️

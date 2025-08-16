@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://1e610976-fef5-4ca4-a447-f3530e70603e@172.67.144.232:443?path=/proxyip=ayaka.shorekeeper.ir&security=tls&alpn=http/1.1&encryption=none&host=escoffier.changli.ddns-ip.net&fp=chrome&type=ws&sni=escoffier.changli.ddns-ip.net#🔒 VL-WS-TLS 🏴‍☠️ NA-172.67.144.232:443
 vless://1e7eaa27-ff66-428d-f86c-7e39855b1637@104.16.1.106:80?path=/&security=none&encryption=none&host=eng.vinamarketcenter.ir&type=ws#@V2RAYROZ
 vless://1e7eaa27-ff66-428d-f86c-7e39855b1637@104.16.1.106:80?type=ws&path=/&host=eng.vinamarketcenter.ir&security=none#@FASTSHOVPN عضو شو
 vless://1e8daef2-2bbf-438b-a238-d8505605f8a4@104.16.53.11:80?encryption=none&security=none&type=ws&host=www.speedtest.net.tax.gov.ir.aparat.com.a.3.jEy.dPdNs.org.&path=/Telegram@vpnjeyTelegram@vpnjeyTelegram@vpnjey#Telegram @vpnjey  🇩🇪🇩🇪
@@ -252,4 +253,3 @@ vless://22253331-3afd-4b87-ec6f-25e995664743@104.17.147.22:80?type=ws&host=fin.c
 vless://22253331-3afd-4b87-ec6f-25e995664743@chat.deepseek.com:80?type=ws&path=/olem/ws?ed=1024&host=fin.channel.digicyber.click&security=none#@melov2ray🇫🇮
 vless://22253331-3afd-4b87-ec6f-25e995664743@tgju.org:80?type=ws&path=/olem/ws?ed=1024&host=fin.channel.digicyber.click&security=none#@melov2ray🇫🇮
 vless://22253331-3afd-4b87-ec6f-25e995664743@www.speedtest.net:80?type=ws&path=/olem/ws?ed=1024&host=fin.channel.digicyber.click&security=none#@melov2ray🇫🇮
-vless://222b77d7-6480-4d9f-a9cb-ac9f1bc47783@172.66.40.99:80?path=/Join-ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&host=e.zedmodeon.ip-ddns.com&type=ws#🇩🇪 Telegram @manzariyeh_rasht
