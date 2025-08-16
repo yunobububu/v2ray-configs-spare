@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://78e44a74-6f33-4289-81d2-df98075bd959@172.66.40.99:80?path=/Join-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&security=none&encryption=none&host=status.srv2.quest&type=ws#@icv2ray
+vless://78e44a74-6f33-4289-81d2-df98075bd959@172.66.40.99:80?path=/Join-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&security=none&encryption=none&host=status.srv2.quest&type=ws#@mehrosaboran
+vless://78e44a74-6f33-4289-81d2-df98075bd959@172.66.40.99:80?path=/Join-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&security=none&encryption=none&host=status.srv2.quest&type=ws#@v2rayng_fars
 vless://78fb517c-7faa-4fc9-a8bc-df865cf6f979@speedtest.net:80?type=ws&host=befreewithus.net&path=/&security=none#Channel:@BeFreeWithUs
 vless://790c2516-c744-46c5-98fd-541fe2a53bbb@174.138.101.107:45500?security=none&encryption=none&headerType=none&type=tcp#@v2ray313 کانالمون 🤍
 vless://793cfe55-44d8-49be-a088-20474d6791d7@79.132.192.72:41343?path=/&security=none&encryption=none&type=ws#@V2rayNG3
@@ -250,6 +253,3 @@ vless://7f0872e1-cbe8-4e0a-a214-3ce0096000a6@79.137.195.203:882?type=grpc&servic
 vless://7f09e7b4-4680-4653-a2da-307d110b6961@fAmoUS-EXpERiENcE.seOtOoLsforyou.cO.Uk:80?path=/&security=&encryption=none&type=ws#🛡️ @FreakConfig
 vless://7f09e7b4-4680-4653-a2da-307d110b6961@fAmoUS-EXpERiENcE.seOtOoLsforyou.cO.Uk:80?path=/&security=none&encryption=none&type=ws#@Hddify |∆| چنل هدیفای 🌩️
 vless://7f09e7b4-4680-4653-a2da-307d110b6961@fAmoUS-EXpERiENcE.seOtOoLsforyou.cO.Uk:80?path=/&security=none&encryption=none&type=ws#🛡️ @FreakConfig
-vless://7f09e7b4-4680-4653-a2da-307d110b6961@famous-experience.seotoolsforyou.co.uk:80?path=/&security=&encryption=none&type=ws#@Capoit
-vless://7f09e7b4-4680-4653-a2da-307d110b6961@famous-experience.seotoolsforyou.co.uk:80?path=/&security=&encryption=none&type=ws#V2RET - 💠 - FREE
-vless://7f09e7b4-4680-4653-a2da-307d110b6961@famous-experience.seotoolsforyou.co.uk:80?path=/&security=none&encryption=none&type=ws#Allnet Telegram:@ultrasurf_12
