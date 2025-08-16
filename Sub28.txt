@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://784646e5-8e84-4672-8670-efc9cafcd2cc@212.95.34.14:443?path=/&security=tls&encryption=none&type=ws#🇩🇪 Germany ws tls (2cc)
+vless://784646e5-8e84-4672-8670-efc9cafcd2cc@212.95.34.14:443?path=/&security=tls&encryption=none&type=ws#🇩🇪@FreakConfig
 vless://784646e5-8e84-4672-8670-efc9cafcd2cc@212.95.34.15:443/?type=ws&encryption=none&flow=&path=/&security=tls&allowInsecure=1#🇩🇪 Germany ws+tls (2cc)
 vless://784646e5-8e84-4672-8670-efc9cafcd2cc@212.95.34.15:443?path=/&security=tls&encryption=none&type=ws#@V2rayBaaz
 vless://784646e5-8e84-4672-8670-efc9cafcd2cc@212.95.34.15:443?path=/&security=tls&encryption=none&type=ws#🇩🇪 Germany ws tls (2cc)
@@ -251,5 +253,3 @@ vless://7df5a558-c45c-4002-ac52-c0b4e91b6968@Www.speedtest.net:8880?path=/wss950
 vless://7df5a558-c45c-4002-ac52-c0b4e91b6968@Www.speedtest.net:8880?path=/wss9500?ed=2560@V2RAYNG_IP---@V2RAYNG_IP---@V2RAYNG_IP---@V2RAYNG_IP---@V2RAYNG_IP---@V2RAYNG_IP---@V2RAYNG_IP---@V2RAYNG_IP---@V2RAYNG_IP-G_IP---@V2RAYNG_IP---@V2RAYNG_IP---@V2RAYNG_IP&security=none&encryption=none&host=Mmd.mehrdadspd1980.ir&type=httpupgrade#🇫🇮 Telegram @ata_connect
 vless://7df8f6b5-c184-428f-afdd-1e40d56c52a0@172.66.40.99:8880?encryption=none&security=none&type=ws&host=www.speedtest.net.tax.gov.ir.aparat.com.a.1.jEy.dPdNs.org.&path=/Telegram@vpnjeyTelegram@vpnjeyTelegram@vpnjey#Telegram @vpnjey  🇺🇸🇺🇸
 vless://7e049ef3-3b80-46e4-be51-ce53d2034c1b@www.speedtest.net:80?path=/@CUSTOMIZEROBOT---@CUSTOMIZEROBOT---@CUSTOMIZEROBOT---@CUSTOMIZEROBOT/www.speedtest.net?ed=2080#=@&security=none&encryption=none&host=s1.VPNCUSTOMIZE.dNs-dynamic.neT.&type=ws#@HiByeVPNN👈⚡❤️‍🔥
-vless://7e049ef3-3b80-46e4-be51-ce53d2034c1b@www.speedtest.net:80?path=/@CUSTOMIZEROBOT---@CUSTOMIZEROBOT---@CUSTOMIZEROBOT---@CUSTOMIZEROBOT/www.speedtest.net?ed=2080#=@&security=none&encryption=none&host=s1.VPNCUSTOMIZE.dNs-dynamic.neT.&type=ws#@bored_vpn
-vless://7e049ef3-3b80-46e4-be51-ce53d2034c1b@www.speedtest.net:80?path=/@CUSTOMIZEROBOT---@CUSTOMIZEROBOT---@CUSTOMIZEROBOT---@CUSTOMIZEROBOT/www.speedtest.net?ed=2080#=@&security=none&encryption=none&host=s1.VPNCUSTOMIZE.dNs-dynamic.neT.&type=ws#@icv2ray
