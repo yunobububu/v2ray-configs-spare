@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://1d845272-528e-4d76-a721-9de31bf1326f@de2.pokerad.top:80?security=none&encryption=none&headerType=none&type=tcp#[🌟]t.me/Asak_Vpn
-vless://1d845272-528e-4d76-a721-9de31bf1326f@dl2.pokerad.sbs:80?security=none&encryption=none&headerType=none&type=tcp#[🌟]t.me/Asak_Vpn
 vless://1d86846c-5a27-43c8-8981-57bb75c82195@speedtest.org:443?path=/paradise&security=tls&encryption=none&host=iyjil.cfonni.info&type=ws&sni=iyjil.cfonni.info#@V2rayNG3
 vless://1d8f357f-0242-4e17-afb8-352dd49e3f34@speedtest.net:80?type=ws&host=befreewithus.net&path=/&security=none#Channel:@BeFreeWithUs
 vless://1d937c9b-5864-4c4b-a402-e5e1ead7fba2@173.245.59.132:8080?path=/@MaSTeRSeRVeR1-@-MaSTeRSeRVeR1@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1?ed=2048&security=&encryption=none&host=masterserver1.nanvrfood.ir.&type=httpupgrade#🇩🇪 All Operator 1 @MaSTeRSeRVeR1
@@ -253,3 +251,5 @@ vless://2054405e-70ff-40a2-ae27-16b63d72390a@dedicated-development.seotoolsforyo
 vless://2054405e-70ff-40a2-ae27-16b63d72390a@dedicated-development.seotoolsforyou.co.uk:80?path=/&security=none&encryption=none&type=ws#🔥@AblNet7 🇮🇷 نت ملی 🔥
 vless://2054405e-70ff-40a2-ae27-16b63d72390a@dedicated-development.seotoolsforyou.co.uk:80?path=/?ed=2048@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN&security=none&encryption=none&type=ws#@HiByeVPNN👈⚡❤️‍🔥
 vless://2062dda9-b7cb-4488-922c-e2e4db9d361a@7x1ir8.de4.bbbbbbbbbbbb9.biz:4264?security=none&encryption=none&host=efvu5cgz.speedtest1.shatel.ir&headerType=http&type=tcp#@NETMelliAnti
+vless://206a5643-317e-4590-89ea-b2c874633bbf@91.98.21.58:18606?mode=gun&security=reality&encryption=none&pbk=9C5_X-zVkO-NpXUO1FCNkQOIaoC3WmudlbiMHtCC4Ew&fp=chrome&spx=/&type=grpc&serviceName=/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android&sni=www.cdn77.com#@ata_connect عضو کانال تلگرام نباشی سرور قطع میشه
+vless://206b6081-24e9-4516-aa1c-90fc57614f9a@173.245.59.132:8080?path=/@MaSTeRSeRVeR1-@-MaSTeRSeRVeR1@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1?ed=2048&security=&encryption=none&host=nanvrfood.ir.&type=httpupgrade#🇩🇪 All Operator 1 @MaSTeRSeRVeR1

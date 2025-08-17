@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://f5f2458c-5fcb-4820-82c2-2997492c54d5@62.60.192.209:80?path=/&security=none&encryption=none&type=ws#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
-vless://f5f2458c-5fcb-4820-82c2-2997492c54d5@62.60.192.209:80?security=none&encryption=none&host=/@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-?ed=2560&type=ws#telegram⤿🇩🇪@V2WRAY
-vless://f5f2458c-5fcb-4820-82c2-2997492c54d5@62.60.192.209:80?security=none&encryption=none&host=/Y-?ed&type=ws#Telegram : @Alfa_v2ray_ng 🔥
-vless://f5f2458c-5fcb-4820-82c2-2997492c54d5@62.60.192.209:80?security=none&encryption=none&host=/y-?ed&type=ws#𝗝𝗼𝗶𝗻 ➠ @PlanB_Proxy | کانال ما 🆔
 vless://f5f2458c-5fcb-4820-82c2-2997492c54d5@meli1.dashvili.ir:80?path=/&security=&encryption=none&type=ws#IR🇮🇷 | @vpnandroid2
 vless://f633fabf-ee7e-4562-a2c2-459848818b29@151.101.3.8:80?encryption=none&security=none&type=xhttp&host=Namaid4.global.ssl.fastly.net&path=/V3xhttp?ed=2048&mode=auto&extra={"scMaxEachPostBytes": 1000000, "scMaxConcurrentPosts": 100, "scMinPostsIntervalMs": 30, "xPaddingBytes": "100-1000", "noGRPCHeader": false}#@CaV2ray ⚡️
 vless://f64bbbad-3ee5-4b76-8da0-27fc29f97b66@45.82.161.120:19011?security=none&encryption=none&headerType=none&type=tcp#@NT_Safe🇺🇸
@@ -161,7 +157,6 @@ vless://f85348cc-827a-46ef-8661-d7ba7c32f170@172.67.73.216:80?encryption=none&se
 vless://f86586c2-3a4c-49c9-83ec-5ae43786d4f7@104.16.182.65:80?encryption=none&security=none&type=ws&host=dark-bonus-0f2f-ppal03.yapeyef825.workers.dev&path=/?ed=2560#💰Ch: @pPal03💰جوین بدید💰
 vless://f86586c2-3a4c-49c9-83ec-5ae43786d4f7@104.24.191.0:80?encryption=none&security=none&type=ws&host=dark-bonus-0f2f-ppal03.yapeyef825.workers.dev&path=/?ed=2560#💰Ch: @pPal03💰جوین بدید💰
 vless://f87b63cc-6c4f-4053-af9a-506928e9d1b4@sky.raheaiande.ir:1001?security=reality&encryption=none&pbk=PJJAwYggwp2gu5_oXIr_1Q02OM6-DrCCEd0y1NF5vSs&headerType=http&fp=chrome&spx=/join_telegram-@vpnserverrr join_telegram-@vpnserverrr join_telegram-@vpnserverrr join_telegram-@vpnserverrr join_telegram-@vpnserverrr&type=tcp&sni=ea.com#Germany 🇩🇪-@vpnserverrr جوین شو لنگ نمونی
-vless://f8be92b6-b31f-4d8b-ba7d-20781595fa0e@194.87.80.9:8081?encryption=none&flow=xtls-rprx-vision&security=reality&sni=yahoo.com&fp=chrome&pbk=nID_kfSoZPfWS1XZUT1dZnR2mwaoRtUROtBpmqCWEiQ&sid=d0a3f84aabd21574&spx=/&type=tcp&headerType=none#Telegram:@config_proxy 🔥
 vless://f8be92b6-b31f-4d8b-ba7d-20781595fa0e@194.87.80.9:8081?security=reality&encryption=none&pbk=nID_kfSoZPfWS1XZUT1dZnR2mwaoRtUROtBpmqCWEiQ&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=d0a3f84aabd21574#Channel id: @ShadowProxy66 🇷🇺
 vless://f8c93834-99a4-44e7-b476-147a3ab582d0@35.74.27.180:2096?mode=gun&security=reality&encryption=none&pbk=1MAWRB1pWGt62JZszI7ppUwukazzBbJ00i_C5CNr5jk&fp=chrome&spx=/&type=grpc&serviceName=config&sni=zula.ir&sid=28#@NETMelliAnti
 vless://f8e17967-9c69-40c3-a2fb-e139a2a7c2c8@nevn2.iovpn.click:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=apple.com&fp=chrome&security=reality&pbk=b6ztnkLamEySQKDw_IdLqHEx0X88Y0sI7s5BLa0YUGU&sid=016cc6e2de6b#🚜73@oneclickvpnkeys
@@ -253,3 +248,8 @@ vless://fbbf3b87-5f9d-4358-8a40-3cf9ab653328@zula.ir:8443?mode=auto&path=/ed?/oo
 vless://fbbf3b87-5f9d-4358-8a40-3cf9ab653328@zula.ir:8443?mode=auto&path=/ed?/ooAjjjjjAAdyujh7=8443&security=tls&alpn=h3,h2,http/1.1&encryption=none&host=Main.kasler.lol&fp=chrome&type=xhttp&sni=main.kasler.lol#@ev2rayy mtn
 vless://fbbf3b87-5f9d-4358-8a40-3cf9ab65332c@zula.ir:8443?mode=auto&path=/ed?/ooAjjjjjAAdyujh7=8443&security=tls&alpn=h3&encryption=none&host=Main.kasler.lol&fp=chrome&type=xhttp&sni=main.kasler.lol#@ev2rayy mci
 vless://fbbf3b87-5f9d-4358-8a40-3cf9ab65332c@zula.ir:8443?mode=auto&path=/ed?/ooAjjjjjAAdyujh7=8443&security=tls&alpn=h3&encryption=none&host=Main.kasler.lol&fp=chrome&type=xhttp&sni=main.kasler.lol#@ev2rayy mtn
+vless://fbbf3b87-5f9d-4358-8a40-3cf9ab6533e1@zula.ir:8443?mode=auto&path=/ed?/ooAjjjjjAAdyujh7=8443&security=tls&alpn=h3&encryption=none&host=Main.kasler.lol&fp=chrome&type=xhttp&sni=main.kasler.lol#@ev2rayy mci
+vless://fbbf3b87-5f9d-4358-8a40-3cf9ab6533e1@zula.ir:8443?mode=auto&path=/ed?/ooAjjjjjAAdyujh7=8443&security=tls&alpn=h3,h2,http/1.1&encryption=none&host=Main.kasler.lol&fp=chrome&type=xhttp&sni=main.kasler.lol#@ev2rayy mtn
+vless://fbbf3b87-5f9d-4358-8a40-3cf9ab6533e9@zula.ir:8443?mode=auto&path=/ed?/ooAjjjjjAAdyujh7=8443&security=tls&alpn=h3&encryption=none&host=Main.kasler.lol&fp=chrome&type=xhttp&sni=main.kasler.lol#@ev2rayy mci
+vless://fbbf3b87-5f9d-4358-8a40-3cf9ab6533e9@zula.ir:8443?mode=auto&path=/ed?/ooAjjjjjAAdyujh7=8443&security=tls&alpn=h3,h2,http/1.1&encryption=none&host=Main.kasler.lol&fp=chrome&type=xhttp&sni=main.kasler.lol#@ev2rayy mtn
+vless://fbbf3b87-5f9d-4358-8a40-3cf9ab6533ec@Zula.ir:8443?mode=auto&path=/ed?/ooAjjjjjAAdyujh7=8443&security=tls&alpn=h3&encryption=none&host=Main.kasler.lol&fp=chrome&type=xhttp&sni=main.kasler.lol#@ev2rayy mci

@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://a57c0816-7d91-4ace-8398-40dbd70c90d8@makeitclassic.numberonedrshabi.top:2052?path=/&security=none&encryption=none&type=ws#Telegram@Tunder_vpn
 vless://a5b00f0a-4c83-4e76-9eaa-75a7c6451017@www.speedtest.net:8080?path=/@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7?ed=2048&security=none&encryption=none&host=WWW.dollardoon.com&type=ws#@V2RAYNG_IP❤️‍🔥
 vless://a5b00f0a-4c83-4e76-9eaa-75a7c6451017@www.speedtest.net:8080?path=/@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7?ed=2048&security=none&encryption=none&host=WWW.dollardoon.com&type=ws#@v2rayfast_7❤️‍🔥
 vless://a5b6c7d8-e9f0-5678-1234-456789abcdef@51.82.89.185:443?type=tcp&encryption=none&sni=fast.com&fp=chrome&security=reality&pbk=XYZ9876543210fedcba9876543210fed#@CaV2ray ⚡️
@@ -189,7 +190,6 @@ vless://a7343619-6181-4e26-b31b-6bcf21b9e0be@speedtest.net:80?type=xhttp&path=/&
 vless://a7343619-6181-4e26-b31b-6bcf21b9e0be@speedtest.net:80?type=xhttp&path=/&host=p30download.ir&mode=auto&security=none#سرور رایگان @manzariyeh_rasht-4
 vless://a739ad80-0aab-40b2-9b0e-8192c74287ef@104.21.81.202:443?path=/proxyip=navia.shorekeeper.ir&security=tls&alpn=h2&encryption=none&host=faruzan.changli.ddns-ip.net&fp=chrome&type=ws&sni=faruzan.changli.ddns-ip.net#🔒 VL-WS-TLS 🏴‍☠️ NA-104.21.81.202:443
 vless://a739ad80-0aab-40b2-9b0e-8192c74287ef@172.66.132.196:2096?path=/Tel-@V2ray_Alpha&security=tls&alpn=http/1.1&encryption=none&host=faruzan.changli.ddns-ip.net&fp=chrome&type=ws&sni=faruzan.changli.ddns-ip.net#Telegram : @Alfa_v2ray_ng 🔥
-vless://a739ad80-0aab-40b2-9b0e-8192c74287ef@172.66.132.196:2096?path=/Tel-@V2ray_Alpha&security=tls&alpn=http/1.1&encryption=none&host=faruzan.changli.ddns-ip.net&fp=chrome&type=ws&sni=faruzan.changli.ddns-ip.net#[🇨🇦]t.me/ConfigsHub
 vless://a739ad80-0aab-40b2-9b0e-8192c74287ef@172.66.132.196:2096?path=/Tel-@V2ray_Alpha&security=tls&alpn=http/1.1&encryption=none&host=faruzan.changli.ddns-ip.net&fp=chrome&type=ws&sni=faruzan.changli.ddns-ip.net#𝗝𝗼𝗶𝗻 ➠ @PlanB_Proxy | کانال ما 🆔
 vless://a753f782-5448-48f4-b220-3db9218a36b2@sp.bggaming.ir:9740?security=none&encryption=none&headerType=none&type=tcp#@v2ray313 کانالمون 💜
 vless://a75bdccd-fc01-49ae-9a5b-2962b8da40e2@vngir.venusconnection.online:8443?path=/netherlands&security=none&encryption=none&type=ws#@CaV2ray ⚡️

@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://96c184e6-0d47-472d-8905-1b12ecf62f80@ip.iranshopering.ir:8880?path=/Nama?ed=2048&security=none&encryption=none&host=www.speedtest.net.wedbaz.uk.iranshopering.IR.&type=ws#@Daily_Configs
 vless://96c39b7d-76b9-4bbb-9550-5c9581cdbc2b@104.19.191.50:2052?path=/V2RAY_FREE_ALLNET?ed=2048&security=&encryption=none=/@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@TEHRANARGO&host=cdn44444444.boshrachoice.ir&type=ws#@TEHRANARGO 🍋 رایگان vpn منبع
 vless://96d7d958-36e1-4104-97ef-aa4f4d593d2b@172.66.40.99:8080?path=/-LiV2ry@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6?ed=2048&security=none&encryption=none&host= Li.testi21.ddns-ip.net&type=ws#tm⚡|@lightning6
 vless://96fcf8cc-535d-46c4-b8f9-76058df48e3b@94.131.8.19:45448?security=reality&encryption=none&pbk=MmEVCRy11fz67vYJQWyA2a_ZPMBzv2le2cus1XSSI0E&headerType=none&fp=chrome&spx=/@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-?ed=2560&type=tcp&sni=yahoo.com&sid=958639bf55e679#🇬🇷 ⤿ 𝐂𝐡𝐚𝐧𝐧𝐞𝐥 @V2WRAY
@@ -126,6 +125,8 @@ vless://9bf8204e-76bb-4721-9e4a-218ed6d9ee4a@chat.deepseek.com:80?type=ws&path=/
 vless://9bf8204e-76bb-4721-9e4a-218ed6d9ee4a@tgju.org:80?path=/olem/ws?ed=1024&security=none&encryption=none&host=fin.channel.digicyber.click&type=ws#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
 vless://9bf8204e-76bb-4721-9e4a-218ed6d9ee4a@tgju.org:80?type=ws&path=/olem/ws?ed=1024&host=fin.channel.digicyber.click&security=none#@melov2ray🇫🇮
 vless://9bf8204e-76bb-4721-9e4a-218ed6d9ee4a@www.speedtest.net:80?type=ws&path=/olem/ws?ed=1024&host=fin.channel.digicyber.click&security=none#@melov2ray🇫🇮
+vless://9c28e484-55ed-4756-a6dc-64a9ec7141da@specxtech.ticketdatabase.info:15416?mode=auto&path=9c28e484-55ed-4756-a6dc-64a9ec7141da-xh&security=reality&encryption=none&pbk=xxlEy493Vsha05CKs_07jt2MFaxLejTx4Ab1xFNAlno&fp=chrome&type=xhttp&sni=www.yahoo.com&sid=1ed94ed9#🇩🇪@specxtech1
+vless://9c28e484-55ed-4756-a6dc-64a9ec7141da@specxtech.ticketdatabase.info:51566?security=reality&encryption=none&pbk=xxlEy493Vsha05CKs_07jt2MFaxLejTx4Ab1xFNAlno&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.yahoo.com&sid=1ed94ed9#🇩🇪@specxtech2
 vless://9c3087e8-e9b9-4940-c87b-e5ff64da58d2@chat.deepseek.com:80?path=/olem/ws?ed=1024&security=none&encryption=none&host=fin.channel.digicyber.click&type=ws#⏳@v2rayngsupbot
 vless://9c3087e8-e9b9-4940-c87b-e5ff64da58d2@chat.deepseek.com:80?type=ws&path=/olem/ws?ed=1024&host=fin.channel.digicyber.click&security=none#@melov2ray🇫🇮
 vless://9c3087e8-e9b9-4940-c87b-e5ff64da58d2@tgju.org:80?type=ws&path=/olem/ws?ed=1024&host=fin.channel.digicyber.click&security=none#@melov2ray🇫🇮
@@ -252,4 +253,3 @@ vless://9e81276e-5d48-4238-b725-5ed2feec5f51@104.24.66.98:80?encryption=none&sec
 vless://9e8ca7c6-7f5f-4056-b280-efd1796669ad@configline.fast.hosting-ip.com:80?mode=auto&path=/telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE?ed=80&security=none&encryption=none&host=mastokhiar.com&type=xhttp#[🇱🇺]@configLINE(2)
 vless://9eada7bf-1954-4578-ae35-64e601125189@172.66.40.99:443?path=/admin&security=tls&encryption=none&host=2free2.aparatir.xyz&type=ws&sni=2free2.aparatir.xyz#💎 @AblNet7 💎
 vless://9eb7b6f5-0ffc-4e6c-a23b-ecc34053e368@core-abr.snappfood.xyz:7548?security=none&encryption=none&host=mdundo.com&headerType=http&type=tcp#@v2ray313 کانالمون 🇬🇧
-vless://9eb7b6f5-0ffc-4e6c-a23b-ecc34053e368@core-abr.snappfood.xyz:8949?security=none&encryption=none&host=mdundo.com&headerType=http&type=tcp#@v2ray313 کانالمون 🫶🏻
