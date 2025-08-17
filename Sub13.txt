@@ -56,7 +56,6 @@ vless://10776745-8a65-4b9e-be03-092009cee211@turboo-server.com.co:80?path=/ed=25
 vless://10776745-8a65-4b9e-be03-092009cee211@turboo-server.com.co:80?path=/ed=2560&security=none&encryption=none&type=ws#ALL@azadiiivpn 🏴󠁧󠁢󠁥󠁮󠁧󠁿
 vless://10776745-8a65-4b9e-be03-092009cee211@turboo-server.com.co:80?path=/ed=2560&security=none&encryption=none&type=ws#🇬🇧@FreakConfig
 vless://10776745-8a65-4b9e-be03-092009cee211@turboo-server.com.co:80?type=ws&path=/ed=2560&security=none#[🇬🇧]ae_proxy
-vless://10776745-8a65-4b9e-be03-092009cee211@turboo-server.com.co:80?type=ws&path=/ed=2560&security=none#[🇬🇧]t.me/ConfigsHub
 vless://10856b94-c350-491c-9955-495dec46f53d@free.blackwhiteraven.com:2090?security=reality&encryption=none&pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo&headerType=none&fp=chrome&type=tcp&sni=refersion.com#🚀Free @Volt_network🚀 آلمان🇩🇪
 vless://108920a8-65d6-41d5-c0ac-b2a118d36570@45.82.161.120:19011?security=none&encryption=none&headerType=none&type=tcp#@NT_Safe🇺🇸
 vless://108920a8-65d6-41d5-c0ac-b2a118d36570@45.82.161.120:19011?security=none&encryption=none&headerType=none&type=tcp#@NT_Safe🇺🇸   روی کانفیگا بزنید کپی میشن آموزش استفاده / phone
@@ -253,3 +252,4 @@ vless://1666e5ae-3dcc-4c09-b077-bd19bdd10510@95.217.246.212:10504?type=ws&securi
 vless://167ae898-158b-4cc8-abd5-81050b121f5c@94.131.111.200:8775?security=none&encryption=none&headerType=none&type=tcp#@V2RAYNG_1378
 vless://169c5a68-9d6a-4129-b4f4-5a0089397ab0@www.parsvds.ir:8080?security=none&encryption=none&type=ws&host=VPNcustomize-vpnCUSTOMIZE-VPNcustomize.CUSTOMIZEspeedtest.net.&path=VPNCUSTOMIZE?ed=8080#Awlix_ir
 vless://16b63755-3171-4623-8960-a112f4490333@162.159.9.106:8880?path=/@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config?ed=8880&security=none&encryption=none&host=www.speedtest.net.speedtest24.ir&type=httpupgrade#🇩🇪@Alfred_Config
+vless://16b63755-3171-4623-8960-a112f4490333@check-host.net:8880?path=/@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config?ed=8880&security=none&encryption=none&host=www.speedtest.net.speedtest24.ir&type=httpupgrade#🇩🇪@Alfred_Config
