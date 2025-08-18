@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://7577254b-c576-48cd-bbd0-69872aa3a9c9@csgo.com:8080?security=none&type=ws&path=/profile/telegram@ssrsub&host=cdn-node-oss-99.paofu.de#美国07 付费推荐：https://dafei.de
-vless://7577254b-c576-48cd-bbd0-69872aa3a9c9@fastcup.net:8080?security=none&type=ws&path=/profile/telegram@ssrsub&host=cdn-node-oss-99.paofu.de#美国08 付费推荐：https://dafei.de
-vless://7577254b-c576-48cd-bbd0-69872aa3a9c9@pubg.ac:8080/?type=ws&encryption=none&flow=&host=cdn-node-oss-99.paofu.de&path=/profile/telegram@ssrsub#🧁93@oneclickvpnkeys
 vless://7577254b-c576-48cd-bbd0-69872aa3a9c9@pubg.ac:8080?security=none&type=ws&path=/profile/telegram@ssrsub&host=cdn-node-oss-99.paofu.de#美国09 付费推荐：https://dafei.de
 vless://7583af76-66b0-4adf-e8ff-448966ea4634@fr.irimcs.org:2096?type=grpc&serviceName=Telegram:@catvpns&security=reality&pbk=FLNExbTRe2xr1_ULubE3XL0l9AoeZ7Afx5EdfRy4-Ds&fp=chrome&sni=greenpepper.ir&sid=b4c9&spx=/#🇩🇪🎮-@CatVpns-German
 vless://7585f059-2c89-4a02-9dff-394bb7913ef5@whatismyipaddress.com:2096?path=/&security=tls&encryption=none&host=wwwspeedtestnetwhiteberinsistomd6625996s01.gatesriver.ir&fp=chrome&type=ws&sni=wwwspeedtestnetwhiteberinsistomd6625996s01.gatesriver.ir#🔥T.me/Asak_Vpn🔥
@@ -253,3 +250,6 @@ vless://7b6ef73c-44c4-4592-b20e-73d3f277b2af@104.16.53.11:80?encryption=none&sec
 vless://7b93b058-f902-48a1-90a0-918ab81fb9fc@94.232.168.16:30501?encryption=none&security=none&type=tcp&headerType=none#🛜 @CodeClubiR چنل رو حتما جوین شو
 vless://7babd487-be4a-4392-b28e-0bbed53c82cd@188.121.121.89:8080?security=none&encryption=none&host=www.speedtest.net&headerType=http&type=tcp#🇹🇷+Turkey
 vless://7babd487-be4a-4392-b28e-0bbed53c82cd@188.121.121.89:8080?security=none&encryption=none&host=www.speedtest.net&headerType=http&type=tcp#🇹🇷+Turkey  کانفیگ نیم بها🇮🇷 مناسب برای تمام اپراتورها🛜 کشور دوست برادر همسایه،
+vless://7bc12c11-d666-4d73-a086-f77a425d2ef0@104.17.147.22:2095?path=/telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY?ed=2560&security=none&encryption=none&host=ww.irAnsheep.wEb.tr.&type=httpupgrade#@bored_vpn
+vless://7bc12c11-d666-4d73-a086-f77a425d2ef0@104.17.147.22:2095?path=/telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY?ed=2560&security=none&encryption=none&host=ww.irAnsheep.wEb.tr.&type=httpupgrade#@icv2ray
+vless://7bc12c11-d666-4d73-a086-f77a425d2ef0@104.17.147.22:2095?path=/telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY?ed=2560&security=none&encryption=none&host=ww.irAnsheep.wEb.tr.&type=httpupgrade#@mehrosaboran
