@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://78e44a74-6f33-4289-81d2-df98075bd959@172.66.40.99:80?path=/Join-ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&security=none&encryption=none&host=c.zedmodeon.ip-ddns.com&type=ws#@icv2ray
+vless://78e44a74-6f33-4289-81d2-df98075bd959@172.66.40.99:80?path=/Join-ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&security=none&encryption=none&host=c.zedmodeon.ip-ddns.com&type=ws#@mehrosaboran
+vless://78e44a74-6f33-4289-81d2-df98075bd959@172.66.40.99:80?path=/Join-ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&security=none&encryption=none&host=c.zedmodeon.ip-ddns.com&type=ws#Telegram : @Alfa_v2ray_ng 🔥
 vless://78e44a74-6f33-4289-81d2-df98075bd959@172.66.40.99:80?path=/Join-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&security=none&encryption=none&host=status.srv2.quest&type=ws#@icv2ray
 vless://78e44a74-6f33-4289-81d2-df98075bd959@172.66.40.99:80?path=/Join-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&security=none&encryption=none&host=status.srv2.quest&type=ws#@mehrosaboran
 vless://78e44a74-6f33-4289-81d2-df98075bd959@172.66.40.99:80?path=/Join-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&security=none&encryption=none&host=status.srv2.quest&type=ws#@v2rayng_fars
@@ -118,7 +121,6 @@ vless://7c9e3c1d-a360-4429-9189-e45a98de7fde@www.speedtest.net:80?path=/Telegram
 vless://7caad1ea-c29d-4ed4-8055-f52a6b67d3f3@77.83.175.25:43644?security=reality&encryption=none&pbk=gMC-lb-c9zezjmlA89NXLeJKLGFjnb9PDnss4n0I4jo&headerType=none&fp=chrome&spx=/&type=tcp&sni=refersion.com&sid=89e6599a89c8372b#@Daily_Configs
 vless://7caad1ea-c29d-4ed4-8055-f52a6b67d3f3@77.83.175.25:43644?security=reality&encryption=none&pbk=gMC-lb-c9zezjmlA89NXLeJKLGFjnb9PDnss4n0I4jo&headerType=none&fp=chrome&spx=/&type=tcp&sni=refersion.com&sid=89e6599a89c8372b#@Selinc
 vless://7caad1ea-c29d-4ed4-8055-f52a6b67d3f3@77.83.175.25:43644?security=reality&encryption=none&pbk=gMC-lb-c9zezjmlA89NXLeJKLGFjnb9PDnss4n0I4jo&headerType=none&fp=chrome&spx=/&type=tcp&sni=refersion.com&sid=89e6599a89c8372b#🇳🇱@FreakConfig
-vless://7cb1d98d-2238-4e30-adb9-b5bdac948a32@kafshu.ir:8080?path=/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy&security=none&encryption=none&host=inFo.laLezaRanegomaNandish.onlineshopbb.org.&type=ws#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
 vless://7cc88852-6c8c-4ddc-9211-5628824b223d@79.127.70.106:45147?security=none&encryption=none&host=archlinux.org&headerType=http&type=tcp#@V2rayNG3
 vless://7cc88852-6c8c-4ddc-9211-5628824b223d@p3.vixsm.ir:45147?security=none&encryption=none&host=archlinux.org&headerType=http&type=tcp#@V2rayNG3
 vless://7cd6adff-8849-4fad-b3b3-857721c81477@168.119.48.210:8080?type=ws&path=/@VPNLime&host=fast.com&security=none#Channel: @VPNLime
@@ -251,5 +253,3 @@ vless://7ff264b2-bccb-4ed5-8c8b-d3e95ce0f8aa@uuk1v.tok8888.com:8443?encryption=n
 vless://7ff264b2-bccb-4ed5-8c8b-d3e95ce0f8aa@uuk2v.tok8888.com:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=businessmadesimple.com&fp=chrome&pbk=GcOtIhZbkznrBYohK7rvjV0oVoQvC4y38VIExs6KUwA&spx=/&type=tcp&headerType=none#Sv2_@FF_crony🇺🇸
 vless://7ff264b2-bccb-4ed5-8c8b-d3e95ce0f8aa@uuk3v.tok8888.com:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.thewilliamvale.com&fp=chrome&pbk=yDkCTYl7Ap0XeU9PNv_kBY9BwQrgYZPIov-MXvpf7R8&spx=/&type=tcp&headerType=none#Sv3_@FF_crony🇺🇸
 vless://7ff264b2-bccb-4ed5-8c8b-d3e95ce0f8aa@uuk4v.tok8888.com:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.apple.com.cn&fp=chrome&pbk=yDkCTYl7Ap0XeU9PNv_kBY9BwQrgYZPIov-MXvpf7R8&spx=/&type=tcp&headerType=none#Sv4_@FF_crony🇺🇸
-vless://7ff264b2-bccb-4ed5-8c8b-d3e95ce0f8aa@uuk5v.tok8888.com:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.apple.com.cn&fp=chrome&pbk=kHtBu5SWzLuz79nw0LkDkH4luWft_A-M6MNq4LA-RB4&spx=/&type=tcp&headerType=none#Sv5_@FF_crony🇺🇸
-vless://7ff264b2-bccb-4ed5-8c8b-d3e95ce0f8aa@uuk5v.tok8888.com:8443?security=reality&encryption=none&pbk=kHtBu5SWzLuz79nw0LkDkH4luWft_A-M6MNq4LA-RB4&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com.cn#Telegram : @Alfa_v2ray_ng 🔥
