@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://e458f447-5f9f-4b96-aabf-a55b28be4308@www.speedtest.net:80?path=/@CUSTOMIZEROBOT---@CUSTOMIZEROBOT---@CUSTOMIZEROBOT---@CUSTOMIZEROBOT/www.speedtest.net?ed=2080&security=none&host=s1.VPNCUSTOMIZE.dNs-dynamic.neT.&type=ws#Telegram@ConfingV2RaayNG
-vless://e458f447-5f9f-4b96-aabf-a55b28be4308@www.speedtest.net:80?path=/@CUSTOMIZEROBOT---@CUSTOMIZEROBOT---@CUSTOMIZEROBOT---@CUSTOMIZEROBOT/www.speedtest.net?ed=2080&security=none&host=s1.VPNCUSTOMIZE.dNs-dynamic.neT.&type=ws#🚀 @VPNCUSTOMIZE
-vless://e458f447-5f9f-4b96-aabf-a55b28be4308@www.speedtest.net:80?type=ws&host=s1.VPNCUSTOMIZE.dNs-dynamic.neT.&path=/@CUSTOMIZEROBOT---@CUSTOMIZEROBOT---@CUSTOMIZEROBOT---@CUSTOMIZEROBOT/www.speedtest.net?ed=2080&security=none#🇩🇪2-Join Tel : @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd
 vless://e45bb170-2043-48a8-ada1-067447ab6f6c@103.246.145.244:25488/?type=tcp&encryption=none&flow=&sni=refersion.com&fp=chrome&security=reality&pbk=eu_CdEUxOB3IiXYq-t70TjU3tXwgrJFusHWUmqzFXS4&sid=2ed15414d2#🥤89@oneclickvpnkeys
 vless://e45bb170-2043-48a8-ada1-067447ab6f6c@103.246.145.244:25488?security=reality&encryption=none&pbk=eu_CdEUxOB3IiXYq-t70TjU3tXwgrJFusHWUmqzFXS4&headerType=none&fp=chrome&spx=/@skyshieldVPN&type=tcp&sni=refersion.com&sid=2ed15414d2#@skyshieldvpn
 vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.189:8880?mode=gun&security=none&encryption=none&type=grpc#🇺🇸@HiByeVPNN👈⚡❤️‍🔥
@@ -253,3 +250,6 @@ vless://e66beedb-dd44-47f0-baf8-7ba947d919d0@91.99.85.185:8443?mode=stream-one&p
 vless://e66beedb-dd44-47f0-baf8-7ba947d919d0@91.99.85.185:8443?mode=stream-one&path=/xhttp&security=none&encryption=none&type=xhttp#𝗝𝗼𝗶𝗻 ➠ @PlanB_Proxy | کانال ما 🆔
 vless://e66beedb-dd44-47f0-baf8-7ba947d919d0@91.99.85.185:8443?mode=stream-one&path=/xhttp&security=none&encryption=none&type=xhttp#🛡️ @FreakConfig
 vless://e66beedb-dd44-47f0-baf8-7ba947d919d0@91.99.85.185:8443?type=xhttp&mode=stream-one&path=/xhttp?ed=2048@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&security=none#🇩🇪@Evay_vpn
+vless://e696b824-df07-4048-accb-83a54695b5e2@www.speedtest.net:8080?path=/V_2raYngVpn?ed=8080&security=none&encryption=none&host=FySuMyYk3.aMirsiTesos.sItE.&type=ws#@V_2rayngVpn+ایرانسل+و+رایتل
+vless://e6b6d832-5993-4348-84d2-8a5645ea04c7@185.226.119.16:8080?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#🌟T.me/Asak_Vpn🌟
+vless://e6b6d832-5993-4348-84d2-8a5645ea04c7@188.121.121.89:8080?security=none&encryption=none&host=www.speedtest.net&headerType=http&type=tcp#🇹🇷+Turkey

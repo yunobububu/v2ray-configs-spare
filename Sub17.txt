@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://26e06c13-56ec-41d3-a750-d8f070053306@simonil.zarghamportal.ir:2095?path=/@HiByeVPNN?ed=80&security=none&encryption=none&host=shole.zarghamportal.ir&fp=chrome&type=ws#@HiByeVPNN👈⚡❤️‍🔥
-vless://26e06c13-56ec-41d3-a750-d8f070053306@simonil.zarghamportal.ir:2095?path=/@iSpeedTopVPN?ed=80&security=&encryption=none&host=shole.zarghamportal.ir&type=ws#@ConfigX2ray
-vless://26e06c13-56ec-41d3-a750-d8f070053306@simonil.zarghamportal.ir:2095?path=/@iSpeedTopVPN?ed=80&security=&encryption=none&host=shole.zarghamportal.ir&type=ws#@proxy_kafee
 vless://26e06c13-56ec-41d3-a750-d8f070053306@simonil.zarghamportal.ir:2095?path=/@iSpeedTopVPN?ed=80&security=&encryption=none&host=shole.zarghamportal.ir&type=ws#@singbox1
 vless://26e06c13-56ec-41d3-a750-d8f070053306@simonil.zarghamportal.ir:2095?path=/@iSpeedTopVPN?ed=80&security=&encryption=none&host=shole.zarghamportal.ir&type=ws#none
 vless://26e06c13-56ec-41d3-a750-d8f070053306@simonil.zarghamportal.ir:2095?path=/@iSpeedTopVPN?ed=80&security=none&encryption=none&host=shole.zarghamportal.ir&fp=chrome&type=ws#@HiByeVPNN👈⚡❤️‍🔥
@@ -253,3 +250,6 @@ vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.198.191:443?security=none&enc
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.198.191:443?security=none&encryption=none&host=zula.ir/?TELEGRAM_JOKERRVPN&headerType=http&type=tcp#@CaV2ray ⚡️
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.202.155:443?security=none&encryption=none&host=zula.ir&headerType=http&fp=chrome&type=tcp#⚡@ai_duet💎@v2rayngsupbot
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.202.155:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#@CaV2ray ⚡️
+vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.202.155:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#@EXPRESSVPN_420
+vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.202.155:443?security=none&encryption=none&host=zula.ir/?/BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=http&type=tcp#@CaV2ray ⚡️
+vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.203.65:443?encryption=none&security=none&type=tcp&headerType=http&host=zula.ir#@CaV2ray ⚡️
