@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.80:8880?mode=gun&security=none&encryption=none&authority=/JOKERRVPN_BIA_CHANEL@JOKERRVPN&type=grpc#Bya To @IRAN_V2RAY1
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.80:8880?mode=gun&security=none&encryption=none&authority=/JOKERRVPN_BIA_CHANEL@JOKERRVPN&type=grpc#Bya To @Iran_V2ray1
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.80:8880?mode=gun&security=none&encryption=none&authority=/JOKERRVPN_BIA_CHANEL@JOKERRVPN&type=grpc#➪+@FILTERK0SH++منبع+کانفیگ+رایگان
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.80:8880?mode=gun&security=none&encryption=none&authority=/JOKERRVPN_BIA_CHANEL@JOKERRVPN&type=grpc#🇸🇪 Telegram @ata_connect
@@ -252,4 +253,3 @@ vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.69.162:8880?path=/fgvtHUpS6R
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.69.162:8880?path=/fgvtHUpS6R8Rv8s5?ed=2560&security=none&encryption=none&host=vngsupply.ip-ddns.com&type=ws#@IRan_V2ray1
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.69.162:8880?path=/fgvtHUpS6R8Rv8s5?ed=2560&security=none&encryption=none&host=vngsupply.ip-ddns.com&type=ws#@Selinc
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.69.162:8880?path=/fgvtHUpS6R8Rv8s5?ed=2560&security=none&encryption=none&host=vngsupply.ip-ddns.com&type=ws#@v2ray313 زمستون میخامممم😿
-vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.69.162:8880?path=/fgvtHUpS6R8Rv8s5?ed=2560&security=none&encryption=none&host=vngsupply.ip-ddns.com&type=ws#@v2ray313 کانالمون 👇🏻

@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.69.162:8880?path=/fgvtHUpS6R8Rv8s5?ed=2560&security=none&encryption=none&host=vngsupply.ip-ddns.com&type=ws#@v2ray313 کانالمون 👇🏻
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.69.162:8880?path=/fgvtHUpS6R8Rv8s5?ed=2560&security=none&encryption=none&host=vngsupply.ip-ddns.com&type=ws#@v2ray313 کانالمون 💓
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.69.162:8880?path=/fgvtHUpS6R8Rv8s5?ed=2560&security=none&encryption=none&host=vngsupply.ip-ddns.com&type=ws#@v2ray313 کانالمون 💔
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.16.69.162:8880?path=/fgvtHUpS6R8Rv8s5?ed=2560&security=none&encryption=none&host=vngsupply.ip-ddns.com&type=ws#@v2ray313 کانالمون 💖
@@ -252,4 +253,3 @@ vless://eb87a148-cfff-4151-a9d4-6f83e292cb16@172.66.40.99:8080?path=/-LiV2ry@LIG
 vless://eb87a148-cfff-4151-a9d4-6f83e292cb16@172.66.40.99:8080?path=/-LiV2ry@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6?ed=2048&security=none&encryption=none&host=k.ft.ip-ddns.com&type=ws#@bored_vpn
 vless://eb87a148-cfff-4151-a9d4-6f83e292cb16@172.66.40.99:8080?path=/-LiV2ry@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6?ed=2048&security=none&encryption=none&host=k.ft.ip-ddns.com&type=ws#@mehrosaboran
 vless://eb87a148-cfff-4151-a9d4-6f83e292cb16@172.66.40.99:8080?path=/-LiV2ry@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6?ed=2048&security=none&encryption=none&host=k.ft.ip-ddns.com&type=ws#Telegram@ConfingV2RaayNG
-vless://eb87a148-cfff-4151-a9d4-6f83e292cb16@172.66.40.99:8080?path=/-LiV2ry@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6?ed=2048&security=none&encryption=none&host=k.ft.ip-ddns.com&type=ws#tm⚡|%confing_chanel

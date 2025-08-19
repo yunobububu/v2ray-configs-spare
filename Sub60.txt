@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQU21xYTl1SzlPbzFlaXZQeVhpQUg4@83.147.216.70:64519#%3E%3E%40V2RAY_VMESS_free%3A%3AFI
 vless://4ad29f1b-2cea-4ddc-b856-fab1ff141ac6@brilliant-knowledge.seotoolsforyou.co.uk:80?path=%2F&security=none&encryption=none&type=ws#%3E%3E%40outline_vpn%3A%3ADE
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVbFQ4OUQwcnZjcjA1dEtmdDFOQjVh@83.147.216.70:64519#%3E%3E%40vmess_vless_v2rayng%3A%3AFI
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.231:8880?encryption=none&security=none&type=grpc#%3E%3E%40VmessProtocol%3A%3AFR
@@ -252,4 +253,3 @@ vless://cbef22b9-f7fb-48b5-acc3-7044736ed83a@134.209.90.171:443?security=tls&sni
 
 vless://d7ef1a6d-a2da-4d43-87d8-f110b13163c7@datafiles.cyberscaler.net:443?security=reality&sni=ssl.gstatic.com&fp=chrome&pbk=b-jISQAdIIxv6MeoirMHu_MSRdUCriKY5v8vvszN6BA&sid=3b7c99b709e4a19e&spx=/images/icons/1x1.png&type=tcp&encryption=none
 
-vless://de765eb2-92d9-4730-885a-7f63985cffbe@simonil.zarghamportal.ir:8080?security=&fp=chrome&type=httpupgrade&path=/&host=shole.zarghamportal.ir&encryption=none
