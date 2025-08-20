@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.235:8080#🇳🇱[Telegram:@v2rayng_fars]
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.235:8080#👈🏻آیدی تلگرام:STAPersiaNews 👉🏻
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.235:8080#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.235:8080#🛡️ @FreakConfig
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.235:8080?note=--Telegram--@NetifyVPN--#🇳🇱[Telegram:NetifyVpn]
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.235:8080?type=tcp#🇳🇱 Join Tel :  @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd
@@ -251,5 +248,8 @@ ss://YWVzLTI1Ni1nY206WWh1bnRDTWZMa01mZmF0alBOVkpQRg==@pl04.outline.abvpn.ru:4777
 ss://YWVzLTI1Ni1nY206YTdmMDgyYzEtMGQxMi00NjA5LWI2YmYtZTc2MGI2NjhjZjIz@77.110.110.240:443#@HiByeVPNN👈⚡❤️‍🔥
 ss://YWVzLTI1Ni1nY206YVdYelp3Y3pscW8yczgyZg@95.164.68.37:8388?note=--Telegram--@NetifyVPN--#🇩🇪[Telegram:NetifyVpn]
 ss://YWVzLTI1Ni1nY206YXRqZ3NKWG1jdg==@103.15.91.171:52327#@configfu server vip
+ss://YWVzLTI1Ni1nY206YmFiZWMyZjctZGE5Yi00NjFhLTgzZTktOWM3NTA3OTA5ZWNm@45.134.13.75:443#𝗝𝗼𝗶𝗻 ➠ @PlanB_Proxy | کانال ما 🆔
 ss://YWVzLTI1Ni1nY206YmFiZWMyZjctZGE5Yi00NjFhLTgzZTktOWM3NTA3OTA5ZWNm@45.134.13.75:443#🇬🇧@FreakConfig
 ss://YWVzLTI1Ni1nY206YmFiZWMyZjctZGE5Yi00NjFhLTgzZTktOWM3NTA3OTA5ZWNm@45.134.13.75:443?note=--Telegram--@NetifyVPN--#🇦🇪[Telegram:NetifyVpn]
+ss://YWVzLTI1Ni1nY206ZDcwZWY4YjUtNjA0OC00YzBkLWJlNGQtZmM2MDM5OWIwZjQ1@77.110.110.240:443#3
+ss://YWVzLTI1Ni1nY206ZDcwZWY4YjUtNjA0OC00YzBkLWJlNGQtZmM2MDM5OWIwZjQ1@77.110.110.240:443#@HiByeVPNN👈⚡❤️‍🔥
