@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://4a7728fb-6e86-4a1d-8380-6e64c9bff6f0@ramtin.avairan.online:8080?type=ws&path=%2F&host=&security=none#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40mdvpn184%20%5B1%5D
 vless://ef24a915-6af9-4637-b2ce-d2a8de9a2646@ramtin.avairan.online:8080?type=ws&path=%2F&host=&security=none#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40mdvpn184%20%5B2%5D
 vless://329d8863-42ce-4015-b9b9-8417499cc174@cleanv2itech1.freesdns.info:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&host=m1.freesdns.info.&fp=chrome&type=ws&sni=m1.freesdns.info.#%F0%9F%9A%A9%20CF%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40megavpn_link%20%5B10%5D
 vless://fa382bb2-67e2-e3be-5953-60784dc2a5db@i.ownlink.pro:28570?security=none&encryption=none&headerType=http&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40megavpn_link%20%5B11%5D
@@ -253,3 +252,4 @@ vless://45e96756-c697-4ffb-b1ca-69f202cbc9f2@v2vip.msjia284.site:27489?type=tcp&
 vless://6e9b86ec-3bb8-4faf-9509-b445e8ede4fe@87.236.208.21:33824?type=tcp&security=none#%F0%9F%87%AE%F0%9F%87%B7%20IR%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40tc_v2ray%20%5B6%5D
 vless://a5368290-9ce5-4fc4-9652-06221e6689fa@iran4.yasinvps.sbs:8880?type=ws&path=%2F&host=cdn1.yasinvps.sbs#%E2%9D%94%20XX%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40teamvpnpro%20%5B5%5D
 trojan://b8841c50-c3ad-11ee-9be0-1239d0255272@de1.test3.net:443?sni=chatbuzzteambhm.chatbuzzt7150.workers.dev#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20%F0%9F%94%93%20TROJAN%20%7C%20%40teamvpnpro%20%5B7%5D
+vless://telegram-ArV2ray@65.109.240.81:443?mode=gun&security=reality&encryption=none&pbk=gz7eqMA1Ww39n2KgIUyCLbVE9mOM_pOzhfx9Jr0HSFs&fp=chrome&type=grpc&serviceName=#%F0%9F%87%AB%F0%9F%87%AE%20FI%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40tehranargo1%20%5B1%5D

@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://583ceab3-4022-4553-9158-9bedc625ad4e@170.114.46.177:8880?allowInsecure=0&sni=Telegram-channel-WangCai2&type=ws&host=ip.langmanshanxi.top&path=/TelegramU0001F1E8U0001F1F3 @WangCai2 /?ed=2560fp=chrome#US_speednode_0198
 vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@155.46.213.63:8880?allowInsecure=0&sni=jp.laoyoutiao.link&type=ws&host=jp.laoyoutiao.link&path=/TelegramU0001F1E8U0001F1F3 @WangCai2 /?ed=2560fp=chrome#US_speednode_0199
 vless://583ceab3-4022-4553-9158-9bedc625ad4e@159.112.235.186:8880?allowInsecure=0&sni=Telegram-channel-WangCai2&type=ws&host=ip.langmanshanxi.top&path=/TelegramU0001F1E8U0001F1F3 @WangCai2 /?ed=2560#US_speednode_0200
 vless://583ceab3-4022-4553-9158-9bedc625ad4e@14.102.229.188:8880?allowInsecure=0&sni=Telegram-channel-WangCai2&type=ws&host=ip.langmanshanxi.top&path=/TelegramU0001F1E8U0001F1F3 @WangCai2 /?ed=2560#US_speednode_0201
@@ -253,3 +252,4 @@ hy2://262100bd-a0c7-4412-a62d-a07d01f11a6a@153.121.42.218:443/?mport=50000-55000
 hy2://2a9b85bd-27cc-4e3b-b77d-54dbe5bc23af@aws-linkhy17.liangxin1.xyz:443/?mport=30000-50000&insecure=1&sni=www.apple.com.cn#🇯🇵日本
 hy2://2a9b85bd-27cc-4e3b-b77d-54dbe5bc23af@aws-linkhy2.liangxin1.xyz:443/?mport=30000-50000&insecure=1&sni=www.tesla.cn#🇭🇰香港
 hy2://31e03220-caa2-409d-8fa9-ae5016d2702b@154.85.18.233:443/?mport=55000-56000&insecure=1&sni=www.bing.com#🇯🇵日本
+hy2://37d19f09-5fa4-4ad0-8484-55050b582a29@zp1.eyucdn.xyz:2056/?insecure=1&sni=zp1.eyujichang.xyz#东京

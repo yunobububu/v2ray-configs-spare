@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://Anty_Vpn-Anty_Vpn@cvvmtfin.fekoli.com:2095?type=tcp&security=reality&pbk=277HDYaNIvLYS9CMSr1CbkcTaahPEUCymW_0Ad17p2M&fp=chrome&sni=yahoo.com&sid=f2&spx=/#@Anty_Vpn س
 vless://Anty_Vpn-Anty_Vpn@cvvmtfin.fekoli.com:2095?type=tcp&security=reality&pbk=277HDYaNIvLYS9CMSr1CbkcTaahPEUCymW_0Ad17p2M&fp=chrome&sni=yahoo.com&sid=f2&spx=/#@Anty_Vpn سرور های بیشتر
 vless://Anty_Vpn-Anty_Vpn@gsoowjowj.toppho.ir:8443?type=tcp&path=/@Anty_Vpn---@Anty_Vpn---@Anty_Vpn---@Anty_Vpn---@Anty_Vpn---@Anty_Vpn---@Anty_Vpn---@Anty_Vpn---@Anty_Vpn---@Anty_Vpn---@Anty_Vpn---@Anty_Vpn---@Anty_Vpn---@Anty_Vpn---@Anty_Vpn---@Anty_Vpn&host=speedtest.net&headerType=http&security=none#‌-@Anty_Vpn سرور میخای عضو شو
 vless://C910E5F2-A662-7CFB-B5A6-5D39DB212CBA@damp-cherry-4620.vpnetwork3567.workers.dev:443?path=/?--Telegram--Viturey--Telegram--Viturey--&security=tls&encryption=none&host=damp-cherry-4620.vpnetwork3567.workers.dev&fp=chrome&type=ws&sni=damp-cherry-4620.vpnetwork3567.workers.dev#@AblNet7 🇺🇲
@@ -253,3 +252,4 @@ vless://SVNTEAM1@SVNTEAM.MiSVN.iR:443/?type=tcp&security=reality&pbk=193rx1HPJxm
 vless://SVNTEAM1@SvnFree.GiSvn.ir:443/?type=tcp&security=reality&pbk=193rx1HPJxmcw5Igm1lZeCcPnBx1dVfBroBl5FR9BEE&fp=chrome&sni=www.refersion.com&sid=&spx=/#🇩🇪TCP-51
 vless://SVNTEAM3@151.101.194.133:443/?type=ws&path=/SVNTEAM,SVNTEAM,SVNTEAM,SVNTEAM,SVNTEAM,SVNTEAM,SVNTEAM,SVNTEAM,SVNTEAM,SVNTEAM,SVNTEAM?ed=8880&host=SVNTEAM.IR&security=tls&fp=chrome&alpn=h2,http/1.1&sni=mio.splashthat.com#SVNTEAM-TLS🇩🇪-22
 vless://SVNTEAM3@151.101.194.133:443/?type=ws&path=/SVNTEAM,SVNTEAM,SVNTEAM,SVNTEAM,SVNTEAM,SVNTEAM,SVNTEAM,SVNTEAM,SVNTEAM,SVNTEAM,SVNTEAM?ed=8880&host=SVNTEAM.IR&security=tls&fp=chrome&alpn=h2,http/1.1&sni=mio.splashthat.com#SVNTEAM-TLS🇩🇪-24
+vless://SVNTEAM3@SVNTEAM.MiSVN.iR:443/?type=tcp&security=reality&pbk=193rx1HPJxmcw5Igm1lZeCcPnBx1dVfBroBl5FR9BEE&fp=chrome&sni=www.refersion.com&sid=&spx=/#SVNTEAM-TCP🇩🇪-21

@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-hy2://37d19f09-5fa4-4ad0-8484-55050b582a29@zp1.eyucdn.xyz:2056/?insecure=1&sni=zp1.eyujichang.xyz#东京
 hy2://37d19f09-5fa4-4ad0-8484-55050b582a29@zp2.eyucdn.xyz:2056/?insecure=1&sni=zp2.eyujichang.xyz#东京
 hy2://38589924-caf7-4857-812b-80020febd3ff@ssssssssssssssssssssssssssss-mualhk229.hizui.cn:10880/?insecure=1&sni=ssssssssssssssssssssssssssss-mualhk229.hizui.cn#香港
 hy2://3C8h8X6kimbOX68joVe3kTERw@206.189.20.193:7197/?insecure=1&sni=bing.com#UK
@@ -253,3 +252,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowNDlMQkI1ZGdIYjlKRDJIdDJsZUlZ@138.197.111.17
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowNDlMQkI1ZGdIYjlKRDJIdDJsZUlZ@138.197.111.171:53626#Channel id: @@singbox1 🇺🇸
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowNDlMQkI1ZGdIYjlKRDJIdDJsZUlZ@138.197.111.171:53626#Channel id: @ShadowProxy66 🇺🇸
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowRFk4ekJqdHhQM1k=@85.208.139.203:443#@AblNet7 🇮🇷 نت ملی
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowRFk4ekJqdHhQM1k=@85.208.139.203:443#@AblNet7 🐔
