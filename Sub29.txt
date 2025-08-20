@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://7c63f43f-f526-49bb-b5c8-2be26e11ef00@statue.lnmarketplace.net:443?mode=stream-one&path=/statue&security=tls&alpn=h2&encryption=none&host=statue.lnmarketplace.net&type=xhttp&sni=statue.lnmarketplace.net#🌎@AblNet7☀️
 vless://7c662070-0a82-49e6-8115-f7916e9a96c9@webshecan.webredirect.org:2087?type=tcp&security=reality&fp=chrome&pbk=2M6UwPCIFyRuf41xzoiHRo_5DUDNBs8lfe-sK3c8-Dw&sni=www.speedtest.net&flow=xtls-rprx-vision&sid=53242a95&spx=/#@WebShecan-24Mordad-1
 vless://7c723b4d-9220-43fb-9b5a-ed2b93dfb3ef@filmnet.filimnet.com:80/?type=xhttp&path=/cdn/assets?v=12&host=abriconf.global.ssl.fastly.net&mode=packet-up&security=none#☁️@AbriVPN
 vless://7c723b4d-9220-43fb-9b5a-ed2b93dfb3ef@filmnet.filimnet.com:80/?type=xhttp&path=/cdn/assets?v=12&host=abriconf.global.ssl.fastly.net&mode=packet-up&security=none#☁️@AbriVPN  هر سوالی داشتید از پشتیبانی
@@ -253,3 +252,4 @@ vless://83dd918e-a373-4ea3-8e0f-5418e4a2f5d0@172.66.40.99:80?path=/Join-ZEDMODEO
 vless://83dd918e-a373-4ea3-8e0f-5418e4a2f5d0@172.66.40.99:80?type=ws&host=a.zedmodeon.ip-ddns.com&path=/Join-ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&security=none#🇩🇪2-Join Tel : @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd @VPNConectd
 vless://83dd918e-a373-4ea3-8e0f-5418e4a2f5d0@172.66.40.99:80?type=ws&host=a.zedmodeon.ip-ddns.com&path=/Join-ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&security=none#🇩🇪2-Join Tel : @manzariyeh_rasht
 vless://83f79baf-b03f-4fa3-be3e-f32ae64142a0@irani.yousefbn.com:6969?security=none&encryption=none&host=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&headerType=http&type=tcp#@External_Net
+vless://83f79baf-b03f-4fa3-be3e-f32ae64142a0@irani.yousefbn.com:8585?security=none&encryption=none&host=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&headerType=http&type=tcp#@External_Net

@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@168.119.245.178:2020?security=none&encryption=none&headerType=none&type=tcp#🛡️ @FreakConfig
-vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@178.162.241.141:2020?security=none&encryption=none&headerType=none&type=tcp#All@configfu-31
-vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@188.245.87.7:2020?security=none&encryption=none&headerType=none&type=tcp#@Selinc
-vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@188.245.87.7:2020?security=none&encryption=none&headerType=none&type=tcp#All@configfu-32
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@188.245.87.7:2020?security=none&encryption=none&headerType=none&type=tcp#🛡️ @FreakConfig
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@188.245.87.7:2020?type=tcp&headerType=none&security=none#🇩🇪All²%@G0dV2RAY
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@188.245.87.7:2020?type=tcp&headerType=none&security=none#🇩🇪All²|v2ray_cartel
@@ -47,7 +43,6 @@ vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@www.speedtest.net:2096?encryption=n
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@www.speedtest.net:2096?encryption=none&security=tls&sni=Q03l9EiQiA.9pEsC.cOm&type=ws&host=Q03l9EiQiA.9pEsC.cOm&path=/&alpn=h2,http/1.1&fp=chrome#new server
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@www.speedtest.net:2096?encryption=none&security=tls&sni=ZhN5vJ9dY7.9pEsC.cOm&type=ws&host=ZhN5vJ9dY7.9pEsC.cOm&path=/&alpn=h2,http/1.1&fp=chrome#new server
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@www.speedtest.net:2096?path=/&security=tls&alpn=h3,h2&encryption=none&host=balancer-1.access.name.ng&fp=chrome&type=ws&sni=balancer-1.access.name.ng#@Daily_Configs
-vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@www.speedtest.net:2096?path=/&security=tls&alpn=h3h2&encryption=none&host=W6lYmA7g4I.aLaNvMmJaF-dM1.iNfO&type=ws&sni=W6lYmA7g4I.aLaNvMmJaF-dM1.iNfO#Telegram:@config_proxy 🔥
 vless://24bbc655-0a77-4438-ab33-8923e5b772de@104.17.26.182:2087?path=/Telegram@FreeConnection_VPN/?ed=2560&security=tls&alpn=h2,http/1.1&encryption=none&host=NeT.rPtMsVmVm.ToP&fp=chrome&type=ws&sni=NeT.RpTmSvMVm.ToP#Telegram : @Alfa_v2ray_ng 🔥
 vless://24d0e335-659e-45c7-8e61-0bd899c1d510@62.60.178.200:40792/?type=tcp&security=reality&pbk=I2gX0RY5PEXPm6shWotiQ5bVwoBs4cmGV_sQUryQ63w&fp=chrome&sni=www.latimes.com&sid=5a&spx=/@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec#MdVpnSec-hmlzh6j9
 vless://24d0e335-659e-45c7-8e61-0bd899c1d510@62.60.178.200:40792?security=reality&encryption=none&pbk=I2gX0RY5PEXPm6shWotiQ5bVwoBs4cmGV_sQUryQ63w&host=/JKVPN_BIA_CHANEL@JKVPN&headerType=none&fp=chrome&spx=/JKVPN_BIA_CHANEL@JKVPN&type=tcp&sni=www.latimes.com&sid=5a#🛡️ @FreakConfig
@@ -241,6 +236,8 @@ vless://2ad87f95-7a0b-4018-8497-5ecaac2f0ddf@handSoME-dEvice.ONEeAt.CO:80?path=/
 vless://2ad87f95-7a0b-4018-8497-5ecaac2f0ddf@handSoME-dEvice.ONEeAt.CO:80?path=/&security=none&encryption=none&type=ws#@v2ray313 کانالمون 💜
 vless://2ad87f95-7a0b-4018-8497-5ecaac2f0ddf@handSoME-dEvice.ONEeAt.CO:80?path=/&security=none&encryption=none&type=ws#@v2ray313 کانالمون 🚀
 vless://2ad87f95-7a0b-4018-8497-5ecaac2f0ddf@handSoME-dEvice.ONEeAt.CO:80?path=/&security=none&encryption=none&type=ws#Telegram : @Alfa_v2ray_ng 🔥
+vless://2ad87f95-7a0b-4018-8497-5ecaac2f0ddf@handSoME-dEvice.ONEeAt.CO:80?path=/&security=none&encryption=none&type=ws#Telegram:@config_proxy 🔥
+vless://2ad87f95-7a0b-4018-8497-5ecaac2f0ddf@handSoME-dEvice.ONEeAt.CO:80?path=/&security=none&encryption=none&type=ws#[🇨🇦]t.me/ConfigsHub
 vless://2ad87f95-7a0b-4018-8497-5ecaac2f0ddf@handSoME-dEvice.ONEeAt.CO:80?path=/&security=none&encryption=none&type=ws#🇳🇱[Telegram:v2rayng_fars]
 vless://2ad87f95-7a0b-4018-8497-5ecaac2f0ddf@handSoME-dEvice.ONEeAt.CO:80?path=/&security=none&encryption=none&type=ws#🛡️ @FreakConfig
 vless://2ad87f95-7a0b-4018-8497-5ecaac2f0ddf@handsome-device.oneeat.co:80/?type=ws&encryption=none&flow=&path=/#🍰52@oneclickvpnkeys
@@ -253,3 +250,6 @@ vless://2b2219ab-707a-4773-af6c-539de4a76c89@217.144.186.49:38231?security=none&
 vless://2b256b16-91f9-4374-856f-23f4d6753039@alhilal.com:443?path=/?ed=2560&security=tls&encryption=none&host=rayan-dead.nastaran.dpdns.org&fp=chrome&type=ws&sni=rAyAn-dEAd.NasTarAn.DpDns.oRg#@i10VPN 🚀| با ما متصل بمون⚡
 vless://2b256b16-91f9-4374-856f-23f4d6753039@alhilal.com:443?path=/?ed=2560&security=tls&encryption=none&host=rayan-dead.nastaran.dpdns.org&fp=chrome&type=ws&sni=rAyAn-dEAd.NasTarAn.DpDns.oRg#Telegram : @Alfa_v2ray_ng 🔥
 vless://2b256b16-91f9-4374-856f-23f4d6753039@alhilal.com:443?security=tls&sni=rAyAn-dEAd.NasTarAn.DpDns.oRg&fp=chrome&type=ws&path=/?ed=2560&host=rayan-dead.nastaran.dpdns.org&packetEncoding=xudp&encryption=none#@NetAccount
+vless://2b25cdb0-ecb2-4caa-910d-b2e5b2309ca3@185.234.66.94:443?path=/tqjkmwws&security=tls&encryption=none&type=ws#@Daily_Configs
+vless://2b25cdb0-ecb2-4caa-910d-b2e5b2309ca3@185.234.66.94:443?path=/tqjkmwws&security=tls&encryption=none&type=ws#@HiByeVPNN
+vless://2b25cdb0-ecb2-4caa-910d-b2e5b2309ca3@185.234.66.94:443?path=/tqjkmwws&security=tls&encryption=none&type=ws#@HiByeVPNN👈⚡❤️‍🔥
