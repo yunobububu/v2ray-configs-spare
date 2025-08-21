@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.186:8880?mode=gun&security=none&encryption=none&type=grpc#Telegram : @Alfa_v2ray_ng 🔥
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.186:8880?mode=gun&security=none&encryption=none&type=grpc#✅️❤️‍🔥 سرورهای بیشتر داخل کانال تلگرامی ما : @V2NOT❤️‍🔥✅️
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.186:8880?mode=gun&security=none&encryption=none&type=grpc#𝗝𝗼𝗶𝗻 ➠ @PlanB_Proxy | کانال ما 🆔
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.186:8880?mode=gun&security=none&encryption=none&type=grpc#🇨🇵@FreakConfig
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.186:8880?mode=gun&security=none&encryption=none&type=grpc#🇫🇷 جوین بده کانکت بمونی: @STAPersiaNews
@@ -144,6 +146,7 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.5:8880?mode=gun&securit
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.5:8880?security=&encryption=none&type=grpc#Channel id: @@proxy_kafee 🇫🇷
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.5:8880?security=&encryption=none&type=grpc#Channel id: @@singbox1 🇫🇷
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.5:8880?security=&encryption=none&type=grpc#Channel id: @ShadowProxy66 🇫🇷
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.5:8880?security=&encryption=none&type=grpc#[🇫🇷]t.me/ConfigsHub
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.5:8880?security=none&encryption=none&type=grpc#[🇫🇷]t.me/ConfigsHub
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.5:8880?security=none&type=grpc&packetEncoding=xudp&encryption=none#@NetAccount
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.99:8880?mode=gun&security=&encryption=none&type=grpc#𝗝𝗼𝗶𝗻 ➠ @PlanB_Proxy | کانال ما 🆔
@@ -156,7 +159,6 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.99:8880?mode=gun&securi
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.99:8880?mode=gun&security=none&encryption=none&type=grpc#IRAN 411 (@Outline_Vpn) free
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.99:8880?mode=gun&security=none&encryption=none&type=grpc#IRAN 544 (@Outline_Vpn) free
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.99:8880?mode=gun&security=none&encryption=none&type=grpc#Telegram : @Alfa_v2ray_ng 🔥
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.99:8880?mode=gun&security=none&encryption=none&type=grpc#[🇫🇷]t.me/ConfigsHub
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.99:8880?mode=gun&security=none&encryption=none&type=grpc#کانفیگ سرعتی
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.99:8880?mode=gun&security=none&encryption=none&type=grpc#𝗝𝗼𝗶𝗻 ➠ @PlanB_Proxy | کانال ما 🆔
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.99:8880?mode=gun&security=none&encryption=none&type=grpc#𝗝𝗼𝗶𝗻 ➠ @vpnplusee_free | کانال ما
@@ -251,5 +253,3 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.90:8880?mode=gun&security
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.90:8880?mode=gun&security=none&encryption=none&type=grpc#@v2ray313 کانالمون 💔
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.90:8880?mode=gun&security=none&encryption=none&type=grpc#IRAN 303 (@Outline_Vpn) free
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.90:8880?mode=gun&security=none&encryption=none&type=grpc#IRAN 412 (@Outline_Vpn) free
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.90:8880?mode=gun&security=none&encryption=none&type=grpc#IRAN 444 (@Outline_Vpn) free
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.90:8880?mode=gun&security=none&encryption=none&type=grpc#IRAN 480 (@Outline_Vpn) free
