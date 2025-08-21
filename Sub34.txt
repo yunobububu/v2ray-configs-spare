@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://9af68224-c0ba-4323-a86c-f095b88a26e8@tt1.hennessypro.site:4001?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#کانال+تلگرام+AYMH19@
-vless://9b580363-e1d2-443d-89b4-75836b6c0e4c@18.213.246.134:443?mode=auto&path=/client&serviceName=Telegram-FILTERK0SH-Telegram-FILTERK0SH-Telegram-FILTERK0SH-Telegram-FILTERK0SH-Telegram-FILTERK0SH-Telegram-FILTERK0SH-Telegram-FILTERK0SH-Telegram-FILTERK0SH-Telegram-FILTERK0SH-Telegram-FILTERK0SH-Telegram-FILTERK0SH&security=reality&encryption=none&pbk=GaKaPbKnpd9HXEnDwp_N84e8e-bh4W5Ht1V1JmnUyQw&host=api.cloudflare.com&fp=chrome&spx=/client&type=xhttp&sni=api.cloudflare.com&sid=9d19629262#@FILTERK0SH | All🚀🇺🇸
 vless://9b6619f7-269d-4ac7-bd9a-3a3e42aface3@holanx.blacklike.ir:9008?security=none&type=ws&headerType=&path=/?ed=2048&host=skyroom.online#[🇳🇱]ae_proxy
 vless://9b6dc8a1-e4ef-45ca-a697-6451f15f297e@212.86.94.250:8880?security=none&encryption=none&headerType=none&type=tcp#@Cyber_Ta 🌐
 vless://9bc48566-76f9-44d7-8ad0-af41336b4004@87.120.165.214:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=google.com&fp=chrome&pbk=7tgf5o3AfrE-TWqB3CpBuuZyt7S9tJq6TZ26gPWNyzY&sid=3549df188940fe&type=tcp&headerType=none#@Daily_Configs
@@ -29,7 +27,6 @@ vless://9c6edb67-c264-4835-8d87-9fd58d1ff260@www.speedtest.net:80?path=/Join----
 vless://9c6edb67-c264-4835-8d87-9fd58d1ff260@www.speedtest.net:80?path=/Join----VPNCUSTOMIZE---Join----VPNCUSTOMIZE&security=none&encryption=none&host=revest.maketunnelim.Lat.&type=ws&sni=revest.maketunnelim.lat#@ConfigX2ray
 vless://9c6edb67-c264-4835-8d87-9fd58d1ff260@www.speedtest.net:80?path=/Join----VPNCUSTOMIZE---Join----VPNCUSTOMIZE&security=none&encryption=none&host=revest.maketunnelim.Lat.&type=ws&sni=revest.maketunnelim.lat#@V2RAYROZ
 vless://9c6edb67-c264-4835-8d87-9fd58d1ff260@www.speedtest.net:80?path=/Join----VPNCUSTOMIZE---Join----VPNCUSTOMIZE&security=none&encryption=none&host=revest.maketunnelim.Lat.&type=ws&sni=revest.maketunnelim.lat#NL 🇳🇱 V2ray 💥
-vless://9c6edb67-c264-4835-8d87-9fd58d1ff260@www.speedtest.net:80?path=/Join----VPNCUSTOMIZE---Join----VPNCUSTOMIZE&security=none&encryption=none&host=revest.maketunnelim.Lat.&type=ws&sni=revest.maketunnelim.lat#[🇨🇦]t.me/ConfigsHub
 vless://9c6edb67-c264-4835-8d87-9fd58d1ff260@www.speedtest.net:80?path=/Join----azadiiivpn---Join----azadiiivpn&security=none&encryption=none&host=revest.maketunnelim.Lat.&type=ws&sni=revest.maketunnelim.lat#ALL@azadiiivpn
 vless://9c6edb67-c264-4835-8d87-9fd58d1ff260@www.speedtest.net:80?path=/Join---i10VPN---Join---i10VPN---Join---i10VPN---Join---i10VPN&security=none&encryption=none&host=revest.maketunnelim.Lat.&type=ws&sni=revest.maketunnelim.lat#@i10VPN 🚀| با ما متصل بمون⚡
 vless://9c942b13-72da-45e4-bdbe-0598679209c5@www.speedtest.net:80?path=/@CUSTOMIZEROBOT---@CUSTOMIZEROBOT---@CUSTOMIZEROBOT---@CUSTOMIZEROBOT/www.speedtest.net?ed=2080&security=none&encryption=none&host=s1.VPNCUSTOMIZE.dNs-dynamic.neT.&type=ws#@bored_vpn
@@ -253,3 +250,6 @@ vless://Parsashonam-290@185.146.173.39:8880?type=httpupgrade&path=/Parsashonam-P
 vless://Parsashonam-290@[2a01:4f8:1c1a:dc2b::1]:8888?security=none&encryption=none&headerType=none&type=tcp#@Parsashonam 🇩🇪 نیازمند فعال بودن ipv6
 vless://Parsashonam-291@185.146.173.39:8880?path=/Parsashonam-Parsashonam-Parsashonam/?ed=2056&security=none&encryption=none&host=De.Parsashonam.CfD.&type=httpupgrade#azadiiivpn 🎀
 vless://Parsashonam-291@185.146.173.39:8880?type=httpupgrade&path=/Parsashonam-Parsashonam-Parsashonam/?ed=2056&host=De.Parsashonam.CfD.&security=none#@Parsashonam 🇩🇪
+vless://Parsashonam-291@185.146.173.39:8880?type=httpupgrade&path=/Parsashonam-Parsashonam-Parsashonam/?ed=2056&host=De.Parsashonam.CfD.&security=none#@Parsashonam 🇩🇪     حتما ipv6 فعال باشه
+vless://Parsashonam-291@[2a01:4f8:1c1a:dc2b::1]:8888?security=none&encryption=none&headerType=none&type=tcp#@Parsashonam 🇩🇪 نیازمند فعال بودن ipv6
+vless://Parsashonam-291@[2a01:4f8:1c1a:dc2b::1]:8888?security=none&encryption=none&headerType=none&type=tcp#azadiiivpn 🎀
