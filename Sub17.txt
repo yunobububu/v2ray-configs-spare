@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://26bc13af-e442-4956-afd4-b8f85744d26f@91.206.71.162:8880?security=none&encryption=none&host=barayeiran-mahsang.gerald81.dpdns.org&type=ws#Channel : @Mrsoulb 🏴🏳
 vless://26bc13af-e442-4956-afd4-b8f85744d26f@91.206.71.162:8880?security=none&encryption=none&host=barayeiran-mahsang.gerald81.dpdns.org&type=ws#⤿ 𝐂𝐡𝐚𝐧𝐧𝐞𝐥: @V2rayTun0
 vless://26bc13af-e442-4956-afd4-b8f85744d26f@91.206.71.162:8880?security=none&encryption=none&host=barayeiran-mahsang.gerald81.dpdns.org&type=ws#𝗝𝗼𝗶𝗻 ➠ @V2rayTun0| کانال ما ⛩️
 vless://26bc13af-e442-4956-afd4-b8f85744d26f@91.206.71.162:8880?type=ws&host=barayeiran-mahsang.gerald81.dpdns.org&path=/Barayeiranmahsang/----@-?ed=2560&security=none#
@@ -253,3 +252,4 @@ vless://2e57ed87-30e8-45a7-82fd-a74a29eb8872@kanale-dailyconfigs.easypeasytech.i
 vless://2e57ed87-30e8-45a7-82fd-a74a29eb8872@kanale-dailyconfigs.easypeasytech.ir:51709?mode=gun&security=reality&encryption=none&pbk=cHOnubHyIw_PcVvrDACg0vEkLYjQnLbhloeP9SoGoC4&fp=chrome&spx=/&type=grpc&serviceName=Daily_Configs-Daily_Configs-Daily_Configs-Daily_Configs-Daily_Configs-Daily_Configs-Daily_Configs-Daily_Configs-Daily_Configs-Daily_Configs-Daily_Configs-Daily_Configs-Daily_Configs-Daily_Configs-Daily_Configs-Daily_Configs-Daily_Configs-Daily_Configs-Daily_Configs-Daily_Configs-Daily_Configs-Daily_Configs-Daily_Configs?ed=1024&sni=tgju.org&sid=eb#☁️telegram:@Fast78_channel
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.122.47:443?encryption=none&security=none&type=tcp&headerType=http&host=zula.ir#@CaV2ray ⚡️
 vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.122.47:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#@CaV2ray ⚡️
+vless://2eaef053-5fd6-4def-b234-d760690355ff@91.99.122.47:443?security=none&encryption=none&host=zula.ir/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=http&type=tcp#@CaV2ray ⚡️
