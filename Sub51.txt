@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://f5119458-dede-4782-8e30-b4d4d67f3dba@www.speedtest.net:80?path=/@CUSTOMIZEROBOT---@CUSTOMIZEROBOT---@CUSTOMIZEROBOT---@CUSTOMIZEROBOT/www.speedtest.net?ed=2080&security=none&host=s1.VPNCUSTOMIZE.dNs-dynamic.neT.&type=ws#𝑱𝒐𝒊𝒏 𝑻𝒆𝒍𝒆𝒈𝒓𝒂𝒎⧴ @bluVPNir
-vless://f515c834-d3f9-4be2-9326-f72a0d3b6c11@102.177.189.251:8080?path=/?ed=1024&security=&encryption=none&host=lOgIn.TecHnOvahUb.moM.&type=httpupgrade#@v2ray313 کانالمون 🇹🇷
-vless://f515c834-d3f9-4be2-9326-f72a0d3b6c11@102.177.189.251:8080?path=/?ed=1024&security=none&encryption=none&host=lOgIn.TecHnOvahUb.moM.&type=httpupgrade#@Alfa_v2ray_ng کانالمون 🇹🇷
-vless://f515c834-d3f9-4be2-9326-f72a0d3b6c11@102.177.189.251:8080?path=/?ed=1024&security=none&encryption=none&host=lOgIn.TecHnOvahUb.moM.&type=httpupgrade#@v2ray313 کانالمون 🇹🇷
 vless://f515c834-d3f9-4be2-9326-f72a0d3b6c11@102.177.189.98:8080?path=/?ed=1024&security=none&encryption=none&host=lOgIn.TecHnOvahUb.moM.&type=httpupgrade#@v2ray313 کانالمون 🇹🇷
 vless://f515c834-d3f9-4be2-9326-f72a0d3b6c11@104.26.15.69:8080?path=/?ed=1024&security=none&encryption=none&host=lOgIn.TecHnOvahUb.moM.&type=httpupgrade#@v2ray313 کانالمون 🇹🇷
 vless://f51667a2-c1e6-5321-9d51-f03be3fc8d02@151.101.3.8:80?mode=auto&path=/&security=none&encryption=none&host=main32d.global.ssl.fastly.net&type=xhttp#🇩🇪@EXPRESSVPN_420 |Free ♥️
@@ -253,3 +249,7 @@ vless://fbb6b4d0-f878-4594-b333-2917d148406f@45.82.161.120:19011?security=none&e
 vless://fbb6b4d0-f878-4594-b333-2917d148406f@45.82.161.120:19011?security=none&encryption=none&headerType=none&type=tcp#@NT_Safe🇺🇸   روی کانفیگا بزنید کپی میشن آموزش استفاده / phone
 vless://fbbf3b87-5f9d-4358-8a40-3cf9ab653321@zula.ir:8443?mode=auto&path=/ed?/ooAjjjjjAAdyujh7=8443&security=tls&alpn=h3&encryption=none&host=Main.kasler.lol&fp=chrome&type=xhttp&sni=main.kasler.lol#@ev2rayy mci
 vless://fbbf3b87-5f9d-4358-8a40-3cf9ab653321@zula.ir:8443?mode=auto&path=/ed?/ooAjjjjjAAdyujh7=8443&security=tls&alpn=h3,h2,http/1.1&encryption=none&host=Main.kasler.lol&fp=chrome&type=xhttp&sni=main.kasler.lol#@ev2rayy mtn
+vless://fbbf3b87-5f9d-4358-8a40-3cf9ab653328@zula.ir:8443?mode=auto&path=/ed?/ooAjjjjjAAdyujh7=8443&security=tls&alpn=h3&encryption=none&host=Main.kasler.lol&fp=chrome&type=xhttp&sni=main.kasler.lol#@ev2rayy mci
+vless://fbbf3b87-5f9d-4358-8a40-3cf9ab653328@zula.ir:8443?mode=auto&path=/ed?/ooAjjjjjAAdyujh7=8443&security=tls&alpn=h3,h2,http/1.1&encryption=none&host=Main.kasler.lol&fp=chrome&type=xhttp&sni=main.kasler.lol#@ev2rayy mtn
+vless://fbbf3b87-5f9d-4358-8a40-3cf9ab65332c@zula.ir:8443?mode=auto&path=/ed?/ooAjjjjjAAdyujh7=8443&security=tls&alpn=h3&encryption=none&host=Main.kasler.lol&fp=chrome&type=xhttp&sni=main.kasler.lol#@ev2rayy mci
+vless://fbbf3b87-5f9d-4358-8a40-3cf9ab65332c@zula.ir:8443?mode=auto&path=/ed?/ooAjjjjjAAdyujh7=8443&security=tls&alpn=h3&encryption=none&host=Main.kasler.lol&fp=chrome&type=xhttp&sni=main.kasler.lol#@ev2rayy mtn
