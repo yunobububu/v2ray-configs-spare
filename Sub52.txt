@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://f0e563a5-f102-4368-b41c-ef0cecb60cfa@axe.soyet2j.ir:2053?path=/homepage?ed=2560&security=tls&encryption=none&host=mojito.soyet2j.ir&type=ws&sni=mojito.soyet2j.ir#@Daily_Configs
+vless://f0e563a5-f102-4368-b41c-ef0cecb60cfa@axe.soyet2j.ir:2053?path=/homepage?ed=2560&security=tls&encryption=none&host=mojito.soyet2j.ir&type=ws&sni=mojito.soyet2j.ir#🇺🇲@FreakConfig
+vless://f0e563a5-f102-4368-b41c-ef0cecb60cfa@axe.soyet2j.ir:2053?path=/homepage?ed=2560&security=tls&encryption=none&host=mojito.soyet2j.ir&type=ws&sni=mojito.soyet2j.ir#🇺🇲@configfree20255
+vless://f0e825fb-6aa7-4825-e4ef-9a8e170b3a61@172.66.40.99:8080?path=/@unlimiteddev----@unlimiteddev-----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimitedev----@unlimitedev----@unlimiteddev----@unlimiteddev?ed=2480&security=none&encryption=none&host=join-to-unlimiteddev.sabadyt.ir&type=ws#@bored_vpn
 vless://f0e825fb-6aa7-4825-e4ef-9a8e170b3a61@172.66.40.99:8080?path=/@unlimiteddev----@unlimiteddev-----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimitedev----@unlimitedev----@unlimiteddev----@unlimiteddev?ed=2480&security=none&encryption=none&host=join-to-unlimiteddev.sabadyt.ir&type=ws#@icv2ray
 vless://f0e825fb-6aa7-4825-e4ef-9a8e170b3a61@172.66.40.99:8080?path=/@unlimiteddev----@unlimiteddev-----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimitedev----@unlimitedev----@unlimiteddev----@unlimiteddev?ed=2480&security=none&encryption=none&host=join-to-unlimiteddev.sabadyt.ir&type=ws#@mehrosaboran
 vless://f0e825fb-6aa7-4825-e4ef-9a8e170b3a61@cumhuriyet.com.tr:8080?type=ws&host=join-to-unlimiteddev.sabadyt.ir&path=/@unlimiteddev----@unlimiteddev-----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimitedev----@unlimitedev----@unlimiteddev----@unlimiteddev?ed=2480#@unlimiteddev-link1
@@ -150,7 +154,6 @@ vless://f3af923e-ecfe-46d5-9c27-4ff95f739afe@91.99.142.198:443?note=---Telegram-
 vless://f3af923e-ecfe-46d5-9c27-4ff95f739afe@91.99.142.198:443?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#🇩🇪[Telegram:NetifyVpn]-1
 vless://f3af923e-ecfe-46d5-9c27-4ff95f739afe@91.99.142.198:443?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#Channel id: @@proxy_kafee 🇩🇪
 vless://f3af923e-ecfe-46d5-9c27-4ff95f739afe@91.99.142.198:443?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#Telegram:@config_proxy 🔥
-vless://f3af923e-ecfe-46d5-9c27-4ff95f739afe@91.99.142.198:443?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#[🇩🇪]t.me/ConfigsHub
 vless://f3af923e-ecfe-46d5-9c27-4ff95f739afe@91.99.142.198:443?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#t.me/entryNET/config=1841279034125021
 vless://f3af923e-ecfe-46d5-9c27-4ff95f739afe@91.99.142.198:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#@
 vless://f3af923e-ecfe-46d5-9c27-4ff95f739afe@91.99.142.198:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#@DHLIM0
@@ -221,7 +224,6 @@ vless://f5f2458c-5fcb-4820-82c2-2997492c54d5@62.60.192.209:80?encryption=none&se
 vless://f5f2458c-5fcb-4820-82c2-2997492c54d5@62.60.192.209:80?path=/&security=&encryption=none&host=/? join-planB_proxy&type=ws#𝗝𝗼𝗶𝗻 ➠ @PlanB_Proxy | کانال ما 🆔
 vless://f5f2458c-5fcb-4820-82c2-2997492c54d5@62.60.192.209:80?path=/&security=&encryption=none&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI&type=ws#@ConfigX2ray
 vless://f5f2458c-5fcb-4820-82c2-2997492c54d5@62.60.192.209:80?path=/&security=&encryption=none&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI&type=ws#@proxy_kafee
-vless://f5f2458c-5fcb-4820-82c2-2997492c54d5@62.60.192.209:80?path=/&security=&encryption=none&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI&type=ws#Telegram:@config_proxy 🔥
 vless://f5f2458c-5fcb-4820-82c2-2997492c54d5@62.60.192.209:80?path=/&security=none&encryption=none&host=/? join-planB_proxy&type=ws#𝗝𝗼𝗶𝗻 ➠ @PlanB_Proxy | کانال ما 🆔
 vless://f5f2458c-5fcb-4820-82c2-2997492c54d5@62.60.192.209:80?path=/&security=none&encryption=none&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI&type=ws#@configfree20255
 vless://f5f2458c-5fcb-4820-82c2-2997492c54d5@62.60.192.209:80?path=/&security=none&encryption=none&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI&type=ws#@configfree20255=💯کانفیگ اختصاصی فقط 50تومن
@@ -251,5 +253,3 @@ vless://f644330e-b21f-42f8-af06-36b1613fbe62@www.speedtest.net:443?path=/hajmi?e
 vless://f644330e-b21f-42f8-af06-36b1613fbe62@www.speedtest.net:443?path=/hajmi?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=nb-fi.zzula.ir&fp=chrome&type=ws&sni=zzula.ir#@NETMelliAnti
 vless://f644330e-b21f-42f8-af06-36b1613fbe62@www.speedtest.net:443?path=/hajmi?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=nb-fi.zzula.ir&fp=chrome&type=ws&sni=zzula.ir#Telegram : @Alfa_v2ray_ng 🔥
 vless://f644330e-b21f-42f8-af06-36b1613fbe62@www.speedtest.net:443?path=/hajmi?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=nb-us.zzula.ir&fp=chrome&type=ws&sni=zzula.ir#Telegram : @Alfa_v2ray_ng 🔥
-vless://f64bbbad-3ee5-4b76-8da0-27fc29f97b66@45.82.161.120:19011?security=none&encryption=none&headerType=none&type=tcp#@NT_Safe🇺🇸
-vless://f64bbbad-3ee5-4b76-8da0-27fc29f97b66@45.82.161.120:19011?security=none&encryption=none&headerType=none&type=tcp#@NT_Safe🇺🇸   روی کانفیگا بزنید کپی میشن آموزش استفاده / phone

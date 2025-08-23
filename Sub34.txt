@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://9c6edb67-c264-4835-8d87-9fd58d1ff260@www.speedtest.net:80?path=/Join----VPNCUSTOMIZE---Join----VPNCUSTOMIZE&security=none&encryption=none&host=revest.maketunnelim.Lat.&type=ws&sni=revest.maketunnelim.lat#NL 🇳🇱 V2ray 💥
 vless://9c6edb67-c264-4835-8d87-9fd58d1ff260@www.speedtest.net:80?path=/Join----azadiiivpn---Join----azadiiivpn&security=none&encryption=none&host=revest.maketunnelim.Lat.&type=ws&sni=revest.maketunnelim.lat#ALL@azadiiivpn
 vless://9c6edb67-c264-4835-8d87-9fd58d1ff260@www.speedtest.net:80?path=/Join---i10VPN---Join---i10VPN---Join---i10VPN---Join---i10VPN&security=none&encryption=none&host=revest.maketunnelim.Lat.&type=ws&sni=revest.maketunnelim.lat#@i10VPN 🚀| با ما متصل بمون⚡
 vless://9c942b13-72da-45e4-bdbe-0598679209c5@www.speedtest.net:80?path=/@CUSTOMIZEROBOT---@CUSTOMIZEROBOT---@CUSTOMIZEROBOT---@CUSTOMIZEROBOT/www.speedtest.net?ed=2080&security=none&encryption=none&host=s1.VPNCUSTOMIZE.dNs-dynamic.neT.&type=ws#Telegram : @Alfa_v2ray_ng 🔥
@@ -41,6 +40,9 @@ vless://9db844bd-2c67-43bf-9381-553dffb259fd@62.60.220.115:80?mode=auto&path=/&s
 vless://9dcdc6d7-1243-4550-afa5-773910f259c8@simonil.zarghamportal.ir:80?path=/@iSpeedTopVPN?ed=80&security=&encryption=none&host=shole6.zarghamportal.ir&type=httpupgrade#Channel:-@iSpeedTopVPN - Config
 vless://9dceeb88-6443-48cb-9f08-11190171e026@well.therubix.co:80?mode=auto&path=/GoodLuck?ed=2560&security=none&encryption=none&extra={"scMaxEachPostBytes": "1000000", "scMaxConcurrentPosts": 100, "scMinPostsIntervalMs": 30, "xPaddingBytes": "100-1000", "noGRPCHeader": false}&host=bano-hosting.global.ssl.fastly.net.&type=xhttp#👉@ai_duet 🛒@v2rayngsupbot
 vless://9dceeb88-6443-48cb-9f08-11190171e026@well.therubix.co:80?mode=auto&path=/GoodLuck?ed=2560&security=none&encryption=none&extra={"scMaxEachPostBytes": "1000000", "scMaxConcurrentPosts": 100, "scMinPostsIntervalMs": 30, "xPaddingBytes": "100-1000", "noGRPCHeader": false}&host=imam-ali.global.ssl.fastly.net.&type=xhttp#👉@ai_duet 🛒@v2rayngsupbot
+vless://9dd24d01-2b7a-4bd8-8c76-129d6ca89b8c@104.16.213.195:443?encryption=none&security=tls&sni=kawaiifreevpn-7ds.pages.dev&fp=chrome&type=ws&host=kawaiifreevpn-7ds.pages.dev#Telegram:@config_proxy 🔥
+vless://9dd24d01-2b7a-4bd8-8c76-129d6ca89b8c@104.16.213.195:443?encryption=none&security=tls&sni=kawaiifreevpn-7ds.pages.dev&fp=chrome&type=ws&host=kawaiifreevpn-7ds.pages.dev#[🇨🇦]t.me/ConfigsHub
+vless://9dd24d01-2b7a-4bd8-8c76-129d6ca89b8c@104.16.213.195:443?encryption=none&security=tls&sni=kawaiifreevpn-7ds.pages.dev&fp=chrome&type=ws&host=kawaiifreevpn-7ds.pages.dev#t.me/entryNET/config=1841288722561213
 vless://9dd24d01-2b7a-4bd8-8c76-129d6ca89b8c@104.18.29.253:443?path=/?ed=2560&security=tls&encryption=none&host=kawaiifreevpn-7ds.pages.dev&fp=chrome&type=ws&sni=kawaiifreevpn-7ds.pages.dev#IRAN 321 (@Outline_Vpn) free
 vless://9dd24d01-2b7a-4bd8-8c76-129d6ca89b8c@104.18.29.253:443?path=/?ed=2560&security=tls&encryption=none&host=kawaiifreevpn-7ds.pages.dev&fp=chrome&type=ws&sni=kawaiifreevpn-7ds.pages.dev#IRAN 381 (@Outline_Vpn) free
 vless://9dd24d01-2b7a-4bd8-8c76-129d6ca89b8c@104.19.245.206:443?path=/?ed=2560&security=tls&encryption=none&host=kawaiifreevpn-7ds.pages.dev&fp=chrome&type=ws&sni=kawaiifreevpn-7ds.pages.dev#IRAN 322 (@Outline_Vpn) free
@@ -91,7 +93,6 @@ vless://9e7b3b9f-ab4b-4f2c-9529-2fc61840db40@www.speedtest.net:443?path=/?ed=#TE
 vless://9e7b3b9f-ab4b-4f2c-9529-2fc61840db40@www.speedtest.net:443?path=/?ed=2560&security=tls&encryption=none&host=rayan-fg-4.abar-farz.filegear-sg.me&type=ws&sni=rayan-fg-4.abar-farz.filegear-sg.me#MCI-@IRAN_V2RAY1
 vless://9e8ca7c6-7f5f-4056-b280-efd1796669ad@configline.fast.hosting-ip.com:80?mode=auto&path=/telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE?ed=80&security=none&encryption=none&host=mastokhiar.com&type=xhttp#🇱🇺v2rayng (FR)🔐-confegraigan
 vless://9eada7bf-1954-4578-ae35-64e601125189@172.66.40.99:443?path=/admin&security=tls&encryption=none&host=2free2.aparatir.xyz&type=ws&sni=2free2.aparatir.xyz#💎 @AblNet7 💎
-vless://9eb0500f-c906-4731-90a6-08ad66122d74@84.234.29.214:8585/?type=tcp&encryption=none&flow=&sni=telwebion.com&fp=chrome&security=reality&pbk=gjC92YX5coiPD3G1BLIZwGKfQsUpSA005WfJd6xBxhc&sid=c3fe60ab#Telegram:@config_proxy 🔥
 vless://9eb0500f-c906-4731-90a6-08ad66122d74@84.234.29.214:8585?security=reality&encryption=none&pbk=gjC92YX5coiPD3G1BLIZwGKfQsUpSA005WfJd6xBxhc&headerType=none&fp=chrome&type=tcp&sni=telwebion.com&sid=c3fe60ab#@NpvV2rayFilTer
 vless://9eb0500f-c906-4731-90a6-08ad66122d74@84.234.29.214:8585?security=reality&encryption=none&pbk=gjC92YX5coiPD3G1BLIZwGKfQsUpSA005WfJd6xBxhc&headerType=none&fp=chrome&type=tcp&sni=telwebion.com&sid=c3fe60ab#@Selinc
 vless://9eb0500f-c906-4731-90a6-08ad66122d74@84.234.29.214:8585?security=reality&encryption=none&pbk=gjC92YX5coiPD3G1BLIZwGKfQsUpSA005WfJd6xBxhc&headerType=none&fp=chrome&type=tcp&sni=telwebion.com&sid=c3fe60ab#@v2ray313 کانالمون ❤️‍🔥
@@ -252,4 +253,3 @@ vless://Parsashonam-296-Bot@91.99.16.244:443?mode=auto&path=/Parsashonam-Parsash
 vless://Parsashonam-296@185.146.173.39:8880?path=/Parsashonam-Parsashonam-Parsashonam/?ed=2056&security=&encryption=none&host=De.Parsashonam.CfD.&type=httpupgrade#🇩🇪💎کانفیگ های بیشتر در چنل تلگرام💎 @madshopx
 vless://Parsashonam-296@185.146.173.39:8880?path=/Parsashonam-Parsashonam-Parsashonam/?ed=2056&security=none&encryption=none&host=De.Parsashonam.CfD.&type=httpupgrade#@v2rayng_fars 🇩🇪
 vless://Parsashonam-296@185.146.173.39:8880?path=/Parsashonam-Parsashonam-Parsashonam/?ed=2056&security=none&encryption=none&host=De.Parsashonam.CfD.&type=httpupgrade#Telegram : @Alfa_v2ray_ng 🔥
-vless://Parsashonam-296@185.146.173.39:8880?path=/Parsashonam-Parsashonam-Parsashonam/?ed=2056&security=none&encryption=none&host=De.Parsashonam.CfD.&type=httpupgrade#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
