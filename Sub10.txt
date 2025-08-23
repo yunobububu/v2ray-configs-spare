@@ -22,7 +22,6 @@ trojan://telegram-id-privatevpns@35.181.215.179:22222?security=tls&alpn=http/1.1
 trojan://telegram-id-privatevpns@35.181.224.181:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@35.181.23.234:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@35.181.94.246:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#@Hope_Net-join-us-on-Telegram
-trojan://telegram-id-privatevpns@35.181.94.246:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#[🇫🇷]t.me/ConfigsHub
 trojan://telegram-id-privatevpns@35.181.96.121:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@51.21.59.141:22222?security=tls&sni=trojan.burgerip.co.uk&alpn=http/1.1&type=tcp#@awlix_ir
 trojan://telegram-id-privatevpns@51.24.57.71:22222?allowInsecure=0&sni=trojan.burgerip.co.uk#@Hope_Net-join-us-on-Telegram
@@ -192,7 +191,6 @@ vless://0132166f-e702-48ed-a9e7-b07af768faf8@46.254.92.1:8880/?type=ws&encryptio
 vless://0132166f-e702-48ed-a9e7-b07af768faf8@46.254.92.249:8880/?type=ws&encryption=none&flow=&host=cf.d3z.net&path=Telegram🇨🇳 @WangCai2 /?ed=2560#🥨58@oneclickvpnkeys
 vless://0132166f-e702-48ed-a9e7-b07af768faf8@46.254.92.249:8880?path=Join---i10VPN---Join---i10VPN---Join---i10VPN---Join---i10VPN /?ed=2560&security=none&encryption=none&host=cf.d3z.net&type=ws#@i10VPN 🚀| با ما متصل بمون⚡
 vless://0132166f-e702-48ed-a9e7-b07af768faf8@46.254.92.251:8880/?type=ws&encryption=none&flow=&host=cf.d3z.net&path=/Telegram🇨🇳 @WangCai2 /?ed=2560#Telegram:@config_proxy 🔥
-vless://0132166f-e702-48ed-a9e7-b07af768faf8@46.254.92.251:8880/?type=ws&encryption=none&flow=&host=cf.d3z.net&path=/Telegram🇨🇳 @WangCai2 /?ed=2560#[🏁]t.me/ConfigsHub
 vless://0132166f-e702-48ed-a9e7-b07af768faf8@46.254.92.2:8880/?type=ws&encryption=none&flow=&host=cf.d3z.net&path=Telegram🇨🇳 @WangCai2 /?ed=2560#🥨66@oneclickvpnkeys
 vless://0134428a-02d8-4f94-8221-a1e858552212@151.101.3.8:80?mode=auto&path=/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam?ed=2048&security=&encryption=none&host=Mahsazxshop.org&type=xhttp#@icv2ray
 vless://0134428a-02d8-4f94-8221-a1e858552212@151.101.3.8:80?mode=auto&path=/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam?ed=2048&security=none&encryption=none&host=Mahsazxshop.org&type=xhttp#@icv2ray
@@ -253,3 +251,5 @@ vless://0259615b-9bef-4063-bd88-bd9747ab9be1@172.66.40.99:8080?path=/@Maznet--@M
 vless://025a2602-e9d0-40db-92ea-dfc256ef2a6a@GozargahVPN-GozargahVPN-GozargahVPN.mymtn.sbs:443?type=tcp&path=/@GozargahVPN-@GozargahVPN-@GozargahVPN-@GozargahVPN-@GozargahVPN-@GozargahVPN-@GozargahVPN-@GozargahVPN-@GozargahVPN-@GozargahVPN-@GozargahVPN-@GozargahVPN-@GozargahVPN-@GozargahVPN-@GozargahVPN-@GozargahVPN-@GozargahVPN-@GozargahVPN-@GozargahVPN-@GozargahVPN-@GozargahVPN-@GozargahVPN-@GozargahVPN-@GozargahVPN-@GozargahVPN-@GozargahVPN-@GozargahVPN-@GozargahVPN&headerType=http&security=none#🇩🇪 @GozargahVPN -6
 vless://026ce330-bb63-42fa-fac9-254275728d40@cafearz.com:8080?encryption=none&security=none&type=ws&host=shad.ir.fin.test.digicyber.click.&path=/olem/ws?ed=1024#@melov2ray🇫🇮
 vless://026ce330-bb63-42fa-fac9-254275728d40@chat.openai.com:8080?encryption=none&security=none&type=ws&host=shad.ir.fin.test.digicyber.click.&path=/olem/ws?ed=1024#@melov2ray🇫🇮
+vless://02811288-9ef3-42ef-86db-d9b1399c1a59@104.16.53.11:8880?security=none&encryption=none&host=vghavi32.ip-ddns.com&type=ws#@v2ray313 کانالمون 🥲
+vless://02811288-9ef3-42ef-86db-d9b1399c1a59@104.16.68.95:8880?security=none&encryption=none&host=vghavi32.ip-ddns.com&type=ws#@v2ray313 کانالمون 🤞🏻
