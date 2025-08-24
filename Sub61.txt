@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://e9979910-79d1-4621-a93c-b2a579c44ba7@198.62.62.175:8880?path=%2FJ5aLQOY1R9ONWYCM%3Fed%3D2560&security=none&encryption=none&host=vngsupply.ip-ddns.com&type=ws#%F0%9F%87%A6%F0%9F%87%B2%40vpn_ioss%20%E2%99%BB%EF%B8%8F%20%D8%B9%D8%B6%D9%88%20%D8%B4%D9%88
-🇺🇸ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5UnZpTmE0dHNjamNtQ0I0MDh2TFNn@46.101.245.131:44354#%F0%9F%87%BA%F0%9F%87%B8%40vpn_ioss%20%E2%99%BB%EF%B8%8F%20%D8%B9%D8%B6%D9%88%20%D8%B4%D9%88
 vless://90c7ad5e-cd15-4314-b39b-aeabd397d592@www.visa.com.sg:2087?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=vl.hongkong6.qzz.io&fp=random&type=ws&sni=vl.hongkong6.qzz.io#%F0%9F%87%BA%F0%9F%87%BE%40vpn_ioss%20%E2%99%BB%EF%B8%8F%20%D8%B9%D8%B6%D9%88%20%D8%B4%D9%88
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@104.17.1.197:8880?path=%2FfgvtHUpS6R8Rv8s5%3Fed%3D2560&security=none&encryption=none&host=VngSuPpLY.IP-Ddns.com&type=ws#%F0%9F%87%A8%F0%9F%87%B5%40vpn_ioss%20%E2%99%BB%EF%B8%8F%20%D8%B9%D8%B6%D9%88%20%D8%B4%D9%88
 vless://e9979910-79d1-4621-a93c-b2a579c44ba7@45.85.119.151:8880?path=%2F6TvG8D6HimXKgdp2%3Fed%3D2560&security=none&encryption=none&host=vngsupply.ip-ddns.com&type=ws#%F0%9F%87%A7%F0%9F%87%B7%40vpn_ioss%20%E2%99%BB%EF%B8%8F%20%D8%B9%D8%B6%D9%88%20%D8%B4%D9%88
@@ -253,3 +251,5 @@ vless://935c990a-9bcc-484b-86a2-2a402f9ad1d4@grumpy-building.seotoolsforyou.co.u
 vless://a0ac9cf5-f8c8-43cf-a09b-908455fb2b4b@laravel.com:443?security=tls&sni=rAyAn-cOnFiG-08.rAyAn-iIi.dNs-dYnAmIc.nEt&allowInsecure=1&fp=chrome&type=ws&path=/@Rayan_Config&host=rayan-config-08.rayan-iii.dns-dynamic.net&encryption=none#@Rayan_Config%20-%20MIX-R-NS-2
 
 vless://a0ac9cf5-f8c8-43cf-a09b-908455fb2b4b@mybb.com:443?security=tls&sni=rAyAn-cOnFiG-09.rAyAn-iIi.dNs-dYnAmIc.nEt&allowInsecure=1&fp=chrome&type=ws&path=/@Rayan_Config&host=rayan-config-09.rayan-iii.dns-dynamic.net&encryption=none#@Rayan_Config%20-%20MIX-R-NS-3
+
+vless://a0ac9cf5-f8c8-43cf-a09b-908455fb2b4b@poloniex.com:443?security=tls&sni=rAyAn-cOnFiG-07.rAyAn-iIi.dNs-dYnAmIc.nEt&allowInsecure=1&fp=chrome&type=ws&path=/@Rayan_Config&host=rayan-config-07.rayan-iii.dns-dynamic.net&encryption=none#@Rayan_Config%20-%20MIX-R-NS-1

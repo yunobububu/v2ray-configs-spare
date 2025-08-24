@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://b5441b0d-2147-4898-8a6a-9b2c87f58382@190.93.245.232:8443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=bitget1.asdasd.click&type=ws&sni=bitget1.asdasd.click#%40netmelli15%E2%9C%85%EF%B8%8F
-vless://12f591ba-d695-4396-9190-f2f3aaa9ea47@162.159.137.3:443/?type=ws&encryption=none&flow=&host=at.xiejiang.dpdns.org&path=%2FXYXY0721&security=tls&sni=at.xiejiang.dpdns.org#%E2%9C%A890%40oneclickvpnkeys
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphNThmYTYyYjQ5NDRkZGJm@pl.vmagnum.win:57456#%E2%9C%A864%40oneclickvpnkeys
 vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@161.35.45.125:34045/?type=tcp&encryption=none&flow=&sni=visit-this-invitation-link-to-join-tg-enkelte-notif.ekt.me&fp=chrome&security=reality&pbk=cDaDzPr3PlS3NM8lreHZbdo-Mhqz8vMBzMSkHXhGIUA&sid=e8ab71d0#%E2%9C%A859%40oneclickvpnkeys
 vless://42ead82d-d6d7-4a94-9365-5be73f5d1bcc@57.129.129.41:54974/?type=tcp&encryption=none&flow=&sni=yahoo.com&fp=chrome&security=reality&pbk=F2WLUHR5RU2d2zifwKALTGkLLbIut1AjDKEAmx7OEW0&sid=2075#%E2%9C%A852%40oneclickvpnkeys`
