@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.9.172:8880?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#Telegram+%3A+%40V2rayEnglish`
-vless://fe837fd0-840d-4cee-9334-0dc6c2b15c1c@5.181.20.219:17422/?type=tcp&encryption=none&flow=&sni=yahoo.com&fp=chrome&security=reality&pbk=0r5rlmvACX09qUTPuxrbuKWSAn66NnNyHIfIMwalYAA&sid=33#%F0%9F%9A%9C82%40oneclickvpnkeys
-vmess://eyJhZGQiOiIxODguMTE0Ljk4LjE2IiwiYWlkIjoiMCIsImhvc3QiOiJxNC4xOWtBbGEuY28iLCJpZCI6ImZvci1NYWhzYU5HLW9ubHkiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjgwIiwicHMiOiJNQkQtdzgwIiwic2N5IjoiYXV0byIsInNuaSI6InE0LjE5a0FsYS5jbyIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==```
 vless://809c908f-2219-11f0-9970-45e1d80c4039@62.60.233.250:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=images.apple.com&fp=chrome&security=reality&pbk=MFsbnsNQsSpZwP-_Ohzako6aHpfK4-rbssxhr3eywWw&sid=4476a3#%F0%9F%8D%B021%40oneclickvpnkeys
 vless://for-MahsaNG-vpn@188.114.98.18:2082?security=&type=ws&path=/mahsa_net/&host=Q7.19kaLA.cO&encryption=none#X1-MCI
 vless://8672bdcd-e331-464d-9ed8-93a242ca7d2e@89.44.197.77:15946/?type=ws&encryption=none&flow=&path=%2F#14%F0%9F%9A%9C%40oneclickvpnkeys
