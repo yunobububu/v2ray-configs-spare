@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.80:8880?mode=gun&security=none&encryption=none&authority=/JOKERRVPN_BIA_CHANEL@JOKERRVPN&type=grpc#Bya To @Iran_V2ray1
+vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.80:8880?mode=gun&security=none&encryption=none&authority=/JOKERRVPN_BIA_CHANEL@JOKERRVPN&type=grpc#🇺🇲@FreakConfig
+vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.80:8880?mode=gun&security=none&encryption=none&type=grpc#CY🇨🇾 | @vpnAndroid2
+vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.80:8880?mode=gun&security=none&encryption=none&type=grpc#Telegram:@config_proxy 🔥
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.80:8880?type=grpc&mode=gun&authority=/JOKERRVPN_BIA_CHANEL@JOKERRVPN&security=none#@g0dv2ray
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.80:8880?type=grpc&mode=gun&authority=/JOKERRVPN_BIA_CHANEL@JOKERRVPN&security=none#@v2ray_cartel
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.80:8880?type=grpc&mode=gun&authority=/JOKERRVPN_BIA_CHANEL@JOKERRVPN&security=none#🇺🇲 Join Tel : @VPNConectd  @VPNConectd  @VPNConectd  @VPNConectd @VPNConectd  @VPNConectd  @VPNConectd  @VPNConectd @VPNConectd  @VPNConectd  @VPNConectd  @VPNConectd
@@ -120,7 +124,6 @@ vless://e6236ebc-7334-4bed-977f-0c20bcdfcc00@104.24.56.187:80?path=/?ed=2560&sec
 vless://e6236ebc-7334-4bed-977f-0c20bcdfcc00@104.24.56.187:80?path=/?ed=2560&security=none&encryption=none&host=a1.ghormehsabzi.dpdns.org&type=ws#💫T.me/Asak_Vpn💫
 vless://e6236ebc-7334-4bed-977f-0c20bcdfcc00@108.165.216.195:80?path=/?ed=2560&security=none&encryption=none&host=a1.ghormehsabzi.dpdns.org.&type=ws#🇺🇸@EXPRESSVPN_420 |
 vless://e6236ebc-7334-4bed-977f-0c20bcdfcc00@147.185.161.114:80?path=/?ed=2560&security=none&encryption=none&host=a1.ghormehsabzi.dpdns.org.&type=ws#🇺🇸   @EXPRESSVPN_420
-vless://e6236ebc-7334-4bed-977f-0c20bcdfcc00@162.159.46.245:443?security=tls&sni=barayeiranmahsang.ghormehsabzi.dpdns.org&fp=chrome&type=ws&path=/Barayeiranmahsang?ed=2560&host=barayeiranmahsang.ghormehsabzi.dpdns.org&encryption=none#t.me/entryNET/config=1841447267848036
 vless://e6236ebc-7334-4bed-977f-0c20bcdfcc00@172.67.116.211:80?path=/?ed=2560&security=none&encryption=none&host=a1.ghormehsabzi.dpdns.org.&type=ws#🇺🇸Telegram  @EXPRESSVPN_420
 vless://e6236ebc-7334-4bed-977f-0c20bcdfcc00@172.67.195.59:80?path=/?ed=2560&security=none&encryption=none&host=a1.ghormehsabzi.dpdns.org.&type=ws#🇺🇸Telegram: @EXPRESSVPN_420
 vless://e6236ebc-7334-4bed-977f-0c20bcdfcc00@199.181.197.194:80?path=/?ed=2560&security=none&encryption=none&host=a1.ghormehsabzi.dpdns.org.&type=ws#🇺🇸 @EXPRESSVPN_420
@@ -218,7 +221,6 @@ vless://e89ba39d-ae7e-493a-a57b-cdd55b42b4e3@188.245.75.235:443?security=none&en
 vless://e89ba39d-ae7e-493a-a57b-cdd55b42b4e3@188.245.75.235:443?security=none&encryption=none&headerType=none&type=tcp#🇨🇦@SimChin_iR عضو بشید
 vless://e89ba39d-ae7e-493a-a57b-cdd55b42b4e3@188.245.75.235:443?security=none&encryption=none&headerType=none&type=tcp#🇩🇪@FreakConfig
 vless://e89ba39d-ae7e-493a-a57b-cdd55b42b4e3@188.245.75.235:443?security=none&encryption=none&headerType=none&type=tcp#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
-vless://e89ba39d-ae7e-493a-a57b-cdd55b42b4e3@188.245.75.235:443?type=tcp&security=none&encryption=none&headerType=none#Telegram:@config_proxy 🔥
 vless://e89c6ae5-67ea-fe2c-4613-70c98650a079@sangarvpn-bot.shop:21725?security=none&encryption=none&headerType=none&type=tcp#🚀 🇩🇪 (@confegraigan) [vless - tcp]
 vless://e89d9ead-20fc-4dae-8ff9-ec073531b7bc@104.16.53.11:80?encryption=none&security=none&type=ws&host=www.speedtest.net.tax.gov.ir.aparat.com.a.3.jEy.dPdNs.org.&path=/Telegram@vpnjeyTelegram@vpnjeyTelegram@vpnjey#Telegram @vpnjey  🇺🇸🇺🇸
 vless://e8a19247-cb95-4f9c-9c77-ea0355268762@sss55168.tas-bazi.com:443?encryption=none&security=none&type=xhttp&path=/xhttp&mode=stream-one#@Daily_Configs
@@ -251,5 +253,3 @@ vless://e9158ed1-5df1-42ef-a4e7-a9e6d9547042@109.122.249.131:3232?security=&encr
 vless://e931b9e7-8f36-41a4-91f4-f896c6bc42c5@99.199.73.47:443?security=reality&encryption=none&pbk=WEf1JX6bG0hGjlSacn2r32T2IZhifBsl2g7qqZoUPAw&headerType=none&fp=chrome&type=tcp&sni=blog.cloudflare.com&sid=14#Telegram : @Alfa_v2ray_ng 🔥
 vless://e937755f-3276-421c-9127-bba09cac67f6@104.17.147.22:2095?path=/telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY?ed=2560&security=none&encryption=none&host=binextv.iransheep.web.tr.&type=httpupgrade#@icv2ray
 vless://e937755f-3276-421c-9127-bba09cac67f6@104.17.147.22:2095?path=/telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY?ed=2560&security=none&encryption=none&host=binextv.iransheep.web.tr.&type=httpupgrade#@mehrosaboran
-vless://e937755f-3276-421c-9127-bba09cac67f6@104.17.147.22:2095?path=/telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY?ed=2560&security=none&encryption=none&host=binextv.iransheep.web.tr.&type=httpupgrade#Telegram : @Alfa_v2ray_ng 🔥
-vless://e937755f-3276-421c-9127-bba09cac67f6@Www.Speedtest.net:2095?type=httpupgrade&path=/telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY?ed=2560&host=binextv.iransheep.web.tr.&security=none#BinexTiFy🥦-8ohx0klp

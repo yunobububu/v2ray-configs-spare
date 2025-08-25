@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://ef4cfe63-85bd-4de3-8856-b13736e28005@zzzzz.zz.z.zz.zzzzzzz.mizbandana.org:15451?security=reality&encryption=none&pbk=VKi6_C4e-uj4xbLzLv1qklEUKViybbOfbjJFSlpIank&headerType=none&fp=chrome&spx=/&type=tcp&sni=tgju.org&sid=f9#⚡︎ 🇩🇪 𓏺 @ToxicVid
 vless://ef5ba59c-5c5a-4592-edf9-869bc8159b4a@nyma.hackquest.com:30408?security=tls&encryption=none&headerType=none&type=tcp&flow=xtls-rprx-vision#[60894] - Telegram : @V2All
 vless://ef5ba59c-5c5a-4592-edf9-869bc8159b4a@nyma.hackquest.com:35913?security=tls&encryption=none&headerType=none&type=tcp&flow=xtls-rprx-vision#[60895] - Telegram : @V2All
 vless://ef5ba59c-5c5a-4592-edf9-869bc8159b4a@nyma.hackquest.com:41997?security=tls&encryption=none&headerType=none&type=tcp&flow=xtls-rprx-vision#[60900] - Telegram : @V2All
@@ -232,7 +233,6 @@ vless://f37052b4-dda4-4014-813c-288cb688ca23@38.54.105.77:45374?type=tcp&headerT
 vless://f37de868-a167-46ea-b16a-798d3800d50e@www.speedtest.net:80?type=httpupgrade&host=china.pwteam.ir&path=/hamid?ed=1024/?@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&security=none#🇩🇪@Evay_vpn
 vless://f385a62a-bbc8-4406-be01-83019c67b083@filmnet.filimnet.com:80/?type=xhttp&path=/cdn/assets?v=12&host=abriconf.global.ssl.fastly.net&mode=packet-up&security=none#@AbriVPN :خر
 vless://f385a62a-bbc8-4406-be01-83019c67b083@filmnet.filimnet.com:80/?type=xhttp&path=/cdn/assets?v=12&host=abriconf.global.ssl.fastly.net&mode=packet-up&security=none#@AbriVPN :خرید کانفیگ اختصاصی‌⚡️
-vless://f385a62a-bbc8-4406-be01-83019c67b083@filmnet.filimnet.com:80?mode=packet-up&path=/cdn/assets?v=12&security=&encryption=none&host=abriconf.global.ssl.fastly.net&type=xhttp#☁️telegram:@Fast78_channel
 vless://f3918c00-6d57-4f23-8ca5-2ee61c13adef@193.111.125.198:53904?security=none&encryption=none&headerType=none&type=tcp#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
 vless://f3aa435a-22c0-4c8c-8db0-6bb6fe154562@151.101.3.8:80?mode=auto&path=/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam?ed=2048&security=none&encryption=none&host=Mahsazxshop.org&type=xhttp#@icv2ray
 vless://f3aa435a-22c0-4c8c-8db0-6bb6fe154562@151.101.3.8:80?type=xhttp&path=/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam?ed=2048&host=Mahsazxshop.org&mode=auto&security=none#XpnTeam🇳🇱-4canv2kvv
