@@ -3,6 +3,12 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://286a5f83-f8e6-47b4-a47e-5f7a6bec71fc@www.speedtest.net:443?security=tls&sni=rAyAn-cOnFiC-10.rAyAn-iV.DnS-DyNaMiC.NeT&allowInsecure=1&fp=chrome&type=ws&path=/@Rayan_Config&host=rayan-confic-10.rayan-iv.dns-dynamic.net&encryption=none#@Rayan_Config%20-%20MIX-R-NS-4
+
+vless://29192cdd-d0bb-4347-8c1d-049d92827871@bitpay.com:80?security=&fp=chrome&type=ws&path=@Rayan_Config&host=rAyAn-cOnFiG-TeLeGrAm-pRo-1.rAyAn-1.cLoUdNs.pRo&encryption=none#@Rayan_Config%20-%20EU-80-NS-1
+
+vless://2d14a080-54b1-4d69-9a5e-0eaf3538d0d8@57.128.219.105:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/ws&encryption=none#Rayan%20-%20RVP%20-%20PL%20-%20I%20-%20%F0%9F%9F%A3%20t.me/Rayan_Config
+
 vless://3498b967-319f-436a-9edd-12f6ede84572@kraken.com:443?security=tls&sni=rAyAn-cOnFiG-02.rAyAn.dNs-dYnAmIc.nEt&allowInsecure=1&fp=chrome&type=ws&path=/@Rayan_Config&host=rayan-config-02.rayan.dns-dynamic.net&encryption=none#@Rayan_Config%20-%20EU-R-NS-2
 
 vless://3498b967-319f-436a-9edd-12f6ede84572@sourceforge.net:443?security=tls&sni=rAyAn-cOnFiG-03.rAyAn.dNs-dYnAmIc.nEt&allowInsecure=1&fp=chrome&type=ws&path=/@Rayan_Config&host=rayan-config-03.rayan.dns-dynamic.net&encryption=none#@Rayan_Config%20-%20EU-R-NS-3
@@ -247,9 +253,3 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@103.163.218.2:990#%F0%
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5UnZpTmE0dHNjamNtQ0I0MDh2TFNn@46.101.245.131:44354#%F0%9F%87%A9%F0%9F%87%AADE-46.101.245.131-0290
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.158.171.66:8080#%F0%9F%87%AB%F0%9F%87%B7FR-45.158.171.66-0310
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.171:8080#%F0%9F%87%B1%F0%9F%87%B9LT-45.87.175.171-4894
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.65:8080#%F0%9F%87%B1%F0%9F%87%B9LT-45.87.175.65-0303
-vmess://ewogICAgImFkZCI6ICIxNzMuMjA4LjUxLjE5MyIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogIiIsCiAgICAiaWQiOiAiYjE3MjZlYjItMjcxYi00Y2I2LWJhZTgtMzc2NDdlNzhiNzc2IiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiLyIsCiAgICAicG9ydCI6IDIwMDg2LAogICAgInBzIjogIvCfh6zwn4enR0ItMTczLjIwOC41MS4xOTMtMDMxOCIsCiAgICAidGxzIjogIiIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9
-trojan://2ee85121-31de-4581-a492-eb00f606e392@103.252.116.138:443?security=tls&sni=hk.freeguard.org#%F0%9F%87%AD%F0%9F%87%B0HK-103.252.116.138-0335
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@92.118.205.228:990#%F0%9F%87%B5%F0%9F%87%B1PL-92.118.205.228-4851
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@193.29.139.179:8080#%F0%9F%87%B3%F0%9F%87%B1NL-193.29.139.179-0352
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.22:8080#%F0%9F%87%B1%F0%9F%87%B9LT-45.87.175.22-0329
