@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443?path=/Stupid-World/103.106.228.126-2053&security=tls&host=vpn.stupidworld.web.id&fp=chrome&type=ws&sni=vpn.stupidworld.web.id#→ @Hddify 👀
-trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443?path=/Stupid-World/103.106.228.126-2053&security=tls&host=vpn.stupidworld.web.id&fp=chrome&type=ws&sni=vpn.stupidworld.web.id#𝗝𝗼𝗶𝗻 ➠ 𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦: @V2Gatee
-trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443?path=/Stupid-World/103.106.228.126-2053&security=tls&host=vpn.stupidworld.web.id&fp=chrome&type=ws&sni=vpn.stupidworld.web.id#🇩🇪[Telegram:@v2rayng_fars]
 trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443?path=/Stupid-World/103.106.228.126-2053&security=tls&host=vpn.stupidworld.web.id&fp=chrome&type=ws&sni=vpn.stupidworld.web.id#👈🏻 چنل تلگرامی : سرچ کن هدیفای 👉🏻
 trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443?path=/Stupid-World/103.106.228.126-2053&security=tls&host=vpn.stupidworld.web.id&fp=chrome&type=ws&sni=vpn.stupidworld.web.id#💎 @AblNet7 💎
 trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443?path=/Stupid-World/103.106.228.126-2053&security=tls&host=vpn.stupidworld.web.id&type=ws&sni=vpn.stupidworld.web.id#Channel id: @ShadowProxy66 🇨🇦
@@ -41,9 +38,9 @@ trojan://telegram-id-directvpn@3.147.17.142:22222?security=tls&type=tcp&sni=troj
 trojan://telegram-id-directvpn@3.69.18.215:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#t.me/entryNET/config=1841442611448092
 trojan://telegram-id-directvpn@51.44.131.21:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#t.me/entryNET/config=1841439213058435
 trojan://telegram-id-directvpn@52.47.201.84:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#t.me/entryNET/config=1841432795679888
-trojan://telegram-id-directvpn@63.176.195.158:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/ConfigsHub
 trojan://telegram-id-directvpn@63.176.195.158:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#t.me/entryNET/config=1841446386253172
 trojan://telegram-id-directvpn@63.176.195.158:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk&note=Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---#[🇩🇪]t.me/Raiv2mmr
+trojan://telegram-id-directvpn@63.178.77.69:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/ConfigsHub
 trojan://telegram-id-privatevpns@13.36.133.103:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@13.36.145.127:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇨🇵t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@13.36.179.207:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇨🇵t.me/PrivateVPNs
@@ -193,6 +190,7 @@ vless://----telegram--ISVvpn----@172.66.40.99:443?path=/telegram-@ISVvpn-telegra
 vless://----telegram--ISVvpn----@172.66.40.99:443?path=/telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn?ed=2048&security=tls&alpn=h2,http/1.1&encryption=none&host=dEv.IsVcLoD.cOm&fp=chrome&type=ws&sni=dEv.IsVcLoD.cOm#TLS-ALL | @ISVvpn
 vless://----telegram--ISVvpn----@172.66.40.99:443?path=/telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn?ed=2048&security=tls&alpn=h2,http/1.1&encryption=none&host=dEv.IsVcLoD.cOm&fp=chrome&type=ws&sni=dEv.IsVcLoD.cOm#TLS-ALL-@ISVvpn
 vless://----telegram--ISVvpn----@172.66.40.99:443?path=/telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn?ed=2048&security=tls&alpn=h2,http/1.1&encryption=none&host=eDg.IsVcLoD.cOm&fp=chrome&type=ws&sni=eDg.IsVcLoD.cOm#TLS-ALL-@ISVvpn
+vless://003e3cd8-e9ab-447d-ae72-6ddde8e031ba@download.ldop.com:8855?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#[🇷🇺]t.me/ConfigsHub
 vless://003e3cd8-e9ab-447d-ae72-6ddde8e031ba@download.ldop.com:8855?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#@Daily_Configs
 vless://003e3cd8-e9ab-447d-ae72-6ddde8e031ba@download.ldop.com:8855?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#Channel : @Mrdarc 🏴🏳
 vless://0043c18f-c3a8-4762-9815-b54989eabdd5@Hh.somo44.sbs:8080?path=/hhvghhv&security=none&encryption=none&host=Hoo.somo44.sbs&type=ws#✔︎𝐜𝐡𝐚𝐧𝐧𝐞𝐥➪@ConfigV2rayForFree-MCİ
@@ -253,3 +251,5 @@ vless://01860891-2645-420f-a494-a653d960f58d@2.189.117.105:2096?security=&encryp
 vless://01860891-2645-420f-a494-a653d960f58d@2.189.117.105:2096?security=none&encryption=none&host=speedtest.net&headerType=http&fp=chrome&type=tcp#@HiByeVPNN👈⚡❤️‍🔥
 vless://01860891-2645-420f-a494-a653d960f58d@2.189.117.105:2096?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
 vless://01860891-2645-420f-a494-a653d960f58d@fra.iranbuildings.com:2096?encryption=none&security=none&type=tcp&headerType=http&host=speedtest.net#@Daily_Configs
+vless://01860891-2645-420f-a494-a653d960f58d@fra.iranbuildings.com:2096?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#@HiByeVPNN👈⚡❤️‍🔥
+vless://01860891-2645-420f-a494-a653d960f58d@fra.iranbuildings.com:2096?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#@v2ray313 کانالمون ☠️
