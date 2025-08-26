@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://ac083fa9-df9a-4722-b70d-24c17bef0516@fina.iranbuildings.com:8444?encryption=none&security=none&type=tcp&headerType=http&host=speedtest.net#@Daily_Configs
-vless://ac083fa9-df9a-4722-b70d-24c17bef0516@fina.iranbuildings.com:8444?security=&encryption=none&host=speedtest.net&headerType=http&type=tcp#@Daily_Configs
 vless://ac083fa9-df9a-4722-b70d-24c17bef0516@fina.iranbuildings.com:8444?security=&encryption=none&host=speedtest.net&headerType=http&type=tcp#🇵🇱@FreakConfig
 vless://ac083fa9-df9a-4722-b70d-24c17bef0516@fina.iranbuildings.com:8444?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#@DHLIM0
 vless://ac083fa9-df9a-4722-b70d-24c17bef0516@fina.iranbuildings.com:8444?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#@Daily_Configs
@@ -36,6 +34,7 @@ vless://ac38ae98-4e46-4cbe-a4cf-4be39f78ad35@172.66.40.99:8080?path=/Telegram@vp
 vless://ac618f91-38a0-4016-b86b-dd6511df4b34@dok.iranshopering.ir:3111?mode=gun&security=reality&encryption=none&pbk=L4WAAdlTv7i2tDZwPcvYrCfZg2IDCI_sp5LElu3u91U&fp=chrome&type=grpc&sni=refersion.com&sid=b6c24852f86067a6#🇬🇧 | 𝗥𝗲𝗮𝗹𝗶𝘁𝘆
 vless://ac61e5f2-94af-40a3-859a-3a671063920d@159.69.181.251:2087?type=tcp&security=reality&pbk=T5qZ6XUYqc9AoAGgkZrEAwOpT8AZVfDloPe_vTrcPwI&fp=chrome&sni=miro.com&sid=f74c827840&spx=/#Owner-+-@FF_crony
 vless://ac61e5f2-94af-40a3-859a-3a671063920d@159.69.181.251:2087?type=tcp&security=reality&pbk=T5qZ6XUYqc9AoAGgkZrEAwOpT8AZVfDloPe_vTrcPwI&fp=chrome&sni=miro.com&sid=f74c827840&spx=/#Owner-+-@FF_crony   ری اکشن پایین باشه قطع میکنم ✅  @HeragAbad  خرید سرور
+vless://ac7bcf0a-ef69-4949-aff2-a93630021826@visa.org:443?encryption=none&security=tls&sni=0c9cf137-telegram-cassiusvpn-telegram-cassiusvpn-telegram.eamonn-120.workers.dev&alpn=h2,http/1.1&fp=chrome&type=ws&host=0c9cf137-telegram-cassiusvpn-telegram-cassiusvpn-telegram.eamonn-120.workers.dev&path=/#Telegram:@config_proxy 🔥
 vless://aca7039a-eb24-404d-94ac-28099c5b9afd@79.127.70.123:2083?security=none&encryption=none&host=Doostihaa.coM&headerType=http&type=tcp#🩵+@Azarakhsh_Proxy+🩷
 vless://acc88aa8-cb11-47d9-8a7e-081049289cb5@chat.deepseek.com:80?type=ws&path=/olem/ws?ed=1024&host=fin.channel.digicyber.click&security=none#@melov2ray🇫🇮
 vless://acc88aa8-cb11-47d9-8a7e-081049289cb5@tgju.org:80?type=ws&path=/olem/ws?ed=1024&host=fin.channel.digicyber.click&security=none#@melov2ray🇫🇮
@@ -253,3 +252,4 @@ vless://b5441b0d-2147-4898-8a6a-9b2c87f58382@190.93.246.246:8443?path=/?ed=2560&
 vless://b5441b0d-2147-4898-8a6a-9b2c87f58382@190.93.246.246:8443?path=/Join---i10VPN---Join---i10VPN?ed=2560&security=tls&encryption=none&host=bitget1.asdasd.click&type=ws&sni=bitget1.asdasd.click#@i10VPN 🚀| با ما متصل بمون⚡
 vless://b5441b0d-2147-4898-8a6a-9b2c87f58382@190.93.246.246:8443?type=ws&host=bitget1.asdasd.click&path=/?ed=2560&security=tls&sni=bitget1.asdasd.click#@v2ray_cartel{All operator}
 vless://b5441b0d-2147-4898-8a6a-9b2c87f58382@25.129.199.3:8880?encryption=none&security=none&type=ws&host=bitget1.asdasd.click&path=/telegram🇨🇳+@wangcai2+/?ed=2560#hope of freedom - @anotherme_night
+vless://b5441b0d-2147-4898-8a6a-9b2c87f58382@25.129.199.3:8880?path=/---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY--- /?ed=2560&security=none&encryption=none&host=bitget1.asdasd.click&type=ws#☞ 𝗝𝗼𝗶𝗻 ➠ @Viturey

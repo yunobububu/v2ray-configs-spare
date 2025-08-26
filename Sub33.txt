@@ -166,7 +166,6 @@ vless://a3ed4feb-d7c5-4f8f-bd9e-74cb01597843@85.133.204.235:1010?security=none&e
 vless://a41d6ac2-ae25-42ee-b102-f424bfb03670@cumhuriyet.com.tr:80?type=ws&host=join-to-Vmessorg.sabadyt.ir&path=/@vmessorg----@vmessorg-----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg?ed=2480&security=none#@ogsvpnbot خرید سرور
 vless://a43ecdaf-c1e9-44f6-bbd9-1c113cb7d48f@188.114.98.18:80?path=/&security=none&encryption=none&host=q6.19kalA.co&type=ws#@CaV2ray ⚡️
 vless://a43ecdaf-c1e9-44f6-bbd9-1c113cb7d48f@188.114.98.18:80?security=&encryption=none&host=q6.19kalA.co&type=ws#⚜️Telegram: @IP_CF
-vless://a43ecdaf-c1e9-44f6-bbd9-1c113cb7d48f@188.114.98.18:80?security=&type=ws&host=q6.19kalA.co&encryption=none#[🇨🇦]t.me/ConfigsHub
 vless://a43ecdaf-c1e9-44f6-bbd9-1c113cb7d48f@188.114.98.18:80?security=none&encryption=none&host=q6.19kalA.co&type=ws#@CaV2ray ⚡️
 vless://a4708c04-bfb8-40f9-8a76-8d6566be3c4d@172.66.40.99:8080?path=/telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE?ed=2048&security=&encryption=none&host=he10.motorbazan.cOm&type=ws#🇩🇪 جوین بده کانکت بمونی: @STAPersiaNews
 vless://a4708c04-bfb8-40f9-8a76-8d6566be3c4d@172.66.40.99:8080?path=/telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE?ed=2048&security=none&encryption=none&host=he10.motorbazan.cOm&type=ws#[🇩🇪]@configLINE(2)
@@ -253,3 +252,4 @@ vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@74.119.192.12:443/?type=ws&encrypti
 vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@74.119.192.12:443?path=/&security=tls&encryption=none&type=ws#🇩🇪𝐣𝐨𝐢𝐍-@𝐅𝐑𝐄𝐄𝐕𝟐𝐑𝐍𝐆
 vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@74.119.192.12:8443/?type=ws&encryption=none&flow=&path=/&security=tls&allowInsecure=1#🇩🇪 Germany ws+tls (b16)
 vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@77.91.73.188:2096/?type=ws&encryption=none&flow=&path=/&security=tls&allowInsecure=1#🇩🇪 Germany ws+tls (b16)
+vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@77.91.73.188:443/?type=ws&encryption=none&flow=&path=/&security=tls&allowInsecure=1#🇩🇪 Germany ws+tls (b16)
