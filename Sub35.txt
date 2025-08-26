@@ -3,11 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://ab3fba71-6eaf-44bf-8dca-f738c3a61af2@k-w.ferdowsi-rgb.ir:2095?encryption=none&security=none&type=tcp&headerType=none#@Daily_Configs
-vless://ab3fba71-6eaf-44bf-8dca-f738c3a61af2@k-w.ferdowsi-rgb.ir:2095?security=none&encryption=none&headerType=none&type=tcp#@HiByeVPNN👈⚡❤️‍🔥
-vless://ab524e8e-2d41-481b-b5ba-3b58a8e7cd08@zula.ir:8080?path=/Telegram:@UnlimitedDev-Telegram:@UnlimitedDev?ed=8080&security=none&encryption=none&host=unlimiteddev-vpn.unlimiteddev.Community.&type=ws#@V2rayNG3
-vless://ab8d447f-d68b-476f-ae24-ba64ef6bf208@104.26.15.69:8880?path=/@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast?ed=2048&security=&encryption=none&host=v2ngfast.nanvrfood.ir.&type=httpupgrade#🇩🇪 @V2ngFast
-vless://abacc9c9-45b5-4a6e-9de7-af2c84bf2791@80808.sbs:8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=dropbox.com#@Selinc
 vless://abacc9c9-45b5-4a6e-9de7-af2c84bf2791@80808.sbs:8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=dropbox.com#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
 vless://abacc9c9-45b5-4a6e-9de7-af2c84bf2791@ss.80808.sbs:8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=dropbox.com#@Selinc
 vless://abc1c4f1-1fcc-41c8-84b2-8b5a99d49ff7@104.21.112.1:8080?security=&type=ws&path=/@unlimiteddev----@unlimiteddev-----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimitedev----@unlimitedev----@unlimiteddev----@unlimiteddev?ed=2480&host=join-to-unlimiteddev.sabadyt.ir&encryption=none#@unlimiteddev
@@ -253,3 +248,8 @@ vless://b53db615-5eb7-4d77-84dd-6c401b1a61a8@www.speedtest.net:2095?type=httpupg
 vless://b5441b0d-2147-4898-8a6a-9b2c87f58382@104.24.40.146:8443?path=/?ed=#/?Join---i10VPN---Join---i10VPN---Join---i10VPN---Join---i10VPN?ed=2560&security=tls&encryption=none&host=bitget1.asdasd.click&fp=chrome&type=ws&sni=bitget1.asdasd.click#@i10VPN 🚀| با ما متصل بمون⚡
 vless://b5441b0d-2147-4898-8a6a-9b2c87f58382@104.24.40.146:8443?path=/Join---i10VPN---Join---i10VPN?ed=2560&security=tls&encryption=none&host=bitget1.asdasd.click&type=ws&sni=bitget1.asdasd.click#@i10VPN 🚀| با ما متصل بمون⚡
 vless://b5441b0d-2147-4898-8a6a-9b2c87f58382@190.93.245.232:8443?path=/&security=tls&encryption=none&host=bitget1.asdasd.click&type=ws&sni=bitget1.asdasd.click#@i10VPN 🚀| با ما متصل بمون⚡
+vless://b5441b0d-2147-4898-8a6a-9b2c87f58382@190.93.245.232:8443?path=/?ed=#/?Join------Join---?ed=2560&security=tls&encryption=none&host=bitget1.asdasd.click&fp=chrome&type=ws&sni=bitget1.asdasd.click#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
+vless://b5441b0d-2147-4898-8a6a-9b2c87f58382@190.93.245.232:8443?path=/?ed=#/?Join---MARAMBASHI---Join---MARAMBASHI?ed=2560&security=tls&encryption=none&host=bitget1.asdasd.click&fp=chrome&type=ws&sni=bitget1.asdasd.click#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
+vless://b5441b0d-2147-4898-8a6a-9b2c87f58382@190.93.245.232:8443?path=/?ed=#/?Join---i10VPN---Join---i10VPN---Join---i10VPN---Join---i10VPN?ed=2560&security=tls&encryption=none&host=bitget1.asdasd.click&fp=chrome&type=ws&sni=bitget1.asdasd.click#@i10VPN 🚀| با ما متصل بمون⚡
+vless://b5441b0d-2147-4898-8a6a-9b2c87f58382@190.93.245.232:8443?path=/?ed=#/?Join---i10VPN---Join---i10VPN---Join---i10VPN---Join---i10VPN?ed=2560&security=tls&encryption=none&host=bitget1.asdasd.click&fp=chrome&type=ws&sni=bitget1.asdasd.click#Telegram : @Alfa_v2ray_ng 🔥
+vless://b5441b0d-2147-4898-8a6a-9b2c87f58382@190.93.245.232:8443?path=/?ed=2560&security=tls&encryption=none&host=bitget1.asdasd.click&type=ws&sni=bitget1.asdasd.click#@proxy_kafee🇨🇷
