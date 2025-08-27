@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://2f760a0a-9b80-4097-9598-b2e8cba38d4b@pscresearch.faculty.ucdavis.edu:443?path=ws/?ed=2048&security=tls&encryption=none&host=uivtfybyi.com&type=ws&sni=pscresearch.faculty.ucdavis.edu#کانال+ما+در+تلگرام+@Asak_Vpn+💛
-vless://2f7c37b9-6b0e-010c-20b7-b061c60181d7@lightning2025.top:621?path=/ws?ed=2048&security=none&encryption=none&host=telewebion.com,user.telewebion.com,plus.telewebion.com,api.telewebion.com&type=ws#@V2Graphy_6
 vless://2f899c15-090f-4c76-8260-62be0d02d0f5@151.101.3.8:80?type=ws&host=befreewithus.net&path=/&security=none#Channel:@BeFreeWithUs
 vless://2fafdcd6-08c9-4891-d1ce-b7c4a44261ca@193.238.153.120:19728?security=none&encryption=none&headerType=none&type=tcp#Telegram:@config_proxy 🔥
 vless://3034752b-a7bd-4562-ad0b-6f7f4d7e2aad@65.109.194.11:8080?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#@v2ray313 کانالمون ☘️
@@ -253,3 +251,5 @@ vless://316a0817-ecec-41bd-9e69-b20222153461@87.121.113.52:80?mode=multi&securit
 vless://3178c081-8819-4e2f-88db-7236ff25c88e@5.202.75.56:18688?mode=gun&security=reality&encryption=none&pbk=wy8Y887EPsw2zz8p_UoSYrG2-E8Tb2Pmixvk630cMSs&fp=chrome&spx=/&type=grpc&sni=yahoo.com&sid=ba8fb5#@ev2rayy
 vless://31cc285f-5358-41df-8dca-d7f73a00f152@[2a01:4f9:c011:295a::1]:8880?security=none&encryption=none&headerType=none&type=tcp#@v2ray313 🦉
 vless://31cffb7a-a6f1-422b-b156-4360613ff720@172.66.40.99:80?path=/Join-ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&security=none&encryption=none&host=a.joIn.zEdMoDeOn.oNl.&type=ws#@V2RAYNG_IP 🇩🇪 253
+vless://31cffb7a-a6f1-422b-b156-4360613ff720@172.66.40.99:80?path=/Join-ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&security=none&encryption=none&host=a.joIn.zEdMoDeOn.oNl.&type=ws#🇩🇪@FreakConfig
+vless://31cffb7a-a6f1-422b-b156-4360613ff720@172.66.40.99:80?path=/Join-ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&security=none&encryption=none&host=a.joIn.zEdMoDeOn.oNl.&type=ws#🇩🇪v2rayng (DE)🔐-confegraigan
