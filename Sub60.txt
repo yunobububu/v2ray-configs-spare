@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://c7c922da-ab54-433c-8046-1f9bf9d95c23@185.236.232.237:1001?security=reality&sni=telewebion.com&allowInsecure=1&fp=chrome&pbk=8Gunn8hjWbit5yLtTPcvLph0u2ovHLsGoXX4IJS1EQ0&sid=5fab0deb&type=tcp&encryption=none
 vmess://eyJhZGQiOiI4Mi4xOTcuNjkuMTMxIiwiYWlkIjoiMCIsImhvc3QiOiIiLCJpZCI6IjVhODkzODZhLTgyN2ItNGY1NC04Nzc4LTJmMWI1MTIyYzZlZiIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMzk2NzQiLCJwcyI6Ikdlcm1hbnkiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
 trojan://2ee85121-31de-4581-a492-eb00f606e392@45.91.171.116:443?security=tls&headerType=none&type=tcp&sni=sto.freeguard.org#telegram%20%E2%9E%A8%20v2xro```
 vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@amazon-4.cristiano.name.ng:443?security=reality&sni=store.steampowered.com&fp=chrome&pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&sid=f5&spx=/&type=tcp&flow=xtls-rprx-vision&encryption=none#@F1lterbreakerbot```
