@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://9970aa48-37ce-4217-b525-579e61ab9cfa@104.16.49.221:80?encryption=none&security=none&type=ws&host=holy-bush-cbc8-ppal03.rawej75976.workers.dev&path=/?ed=2560#💎Ch: @pPal03💎جوین بدید💎
 vless://9970aa48-37ce-4217-b525-579e61ab9cfa@104.24.149.17:80?encryption=none&security=none&type=ws&host=holy-bush-cbc8-ppal03.rawej75976.workers.dev&path=/?ed=2560#💎Ch: @pPal03💎جوین بدید💎
 vless://9987a847-5e57-440c-890e-33fd179af6ff@130.185.122.252:28964?type=xhttp&mode=auto&path=/grizzlyvpn?ed=2048@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&security=reality&fp=chrome&sni=www.bing.com&pbk=aaKkZMXLmcOEj1Gt7uEpXU5buAKh9V33PiRwJvuOqXs&sid=5405&spx=/#🇦🇪 @Evay_vpn
 vless://99946974-0264-4496-9929-6f1492504d6c@cafearz.com:8080?encryption=none&security=none&type=ws&host=shad.ir.fin.test.digicyber.click.&path=/olem/ws?ed=1024#@melov2ray🇫🇮
@@ -253,3 +252,4 @@ vless://MdVpnSec@www.parsvds.ir:80?path=MDVPNSEC?ed=80&security=none&encryption=
 vless://MsV2ray-Telegram@104.17.148.22:80?path=/MsV2ray?ed=80&security=none&encryption=none&host=http-fast-de-speedtest.xqfactor.ir.&type=httpupgrade#@AblNet7
 vless://MsV2ray-Telegram@www.speedtest.net:80?type=httpupgrade&host=http-fast-de-speedtest.xqfactor.ir.&path=/MsV2ray?ed=80&security=none#🇩🇪| All - @MsV2ray
 vless://MsV2ray-Telegram@www.speedtest.net:80?type=httpupgrade&host=http-fast-de-speedtest.xqfactor.ir.&path=/MsV2ray?ed=80&security=none#🇩🇪| All - @MsV2ray  🔵نامحدود زمان نامشخص!  🔵 برنامه
+vless://Parsashonam-289@185.146.173.39:8880?type=httpupgrade&path=/Parsashonam-Parsashonam-Parsashonam/?ed=2056&host=De.Parsashonam.CfD.&security=none#@Parsashonam 🇩🇪     حتما ipv6 فعال باشه

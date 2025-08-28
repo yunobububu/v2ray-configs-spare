@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://fd0cdd44-2361-11f0-9970-45e1d80c4039@62.60.233.250:443?security=reality&encryption=none&pbk=MFsbnsNQsSpZwP-_Ohzako6aHpfK4-rbssxhr3eywWw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=images.apple.com&sid=4476a3#🇹🇷@FreakConfig
 vless://fd0cdd44-2361-11f0-9970-45e1d80c4039@62.60.233.250:443?security=reality&encryption=none&pbk=MFsbnsNQsSpZwP-_Ohzako6aHpfK4-rbssxhr3eywWw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=images.apple.com&sid=4476a3#🇹🇷Telegram: @configfree20255
 vless://fd28cfbd-232f-4549-ae7f-55647ebdfada@www.speedtest.net:80?path=/@CUSTOMIZEROBOT---@CUSTOMIZEROBOT---@CUSTOMIZEROBOT---@CUSTOMIZEROBOT/www.speedtest.net?ed=2080#=@&security=none&encryption=none&host=s1.VPNCUSTOMIZE.dNs-dynamic.neT.&type=ws#@icv2ray
 vless://fd28cfbd-232f-4549-ae7f-55647ebdfada@www.speedtest.net:80?path=/@CUSTOMIZEROBOT---@CUSTOMIZEROBOT---@CUSTOMIZEROBOT---@CUSTOMIZEROBOT/www.speedtest.net?ed=2080&security=none&encryption=none&host=s1.VPNCUSTOMIZE.dNs-dynamic.neT.&type=ws#@v2rayng_fars🇩🇪
@@ -253,3 +252,4 @@ vless://turboo-server@turboo-server.sadafspace.com:80?path=/--ping--www.speedtes
 vless://turboo-server@turboo-server.sadafspace.com:80?path=/--ping--www.speedtest.net?ed=2080/?TELEGRAM_CHANEL_JKVPN_JKVPN_JKVPN&security=none&encryption=none&type=ws#🇩🇪@FreakConfig
 vless://turboo-server@turboo-server.sadafspace.com:80?path=/--ping--www.speedtest.net?ed=2080/?TELEGRAM_CHANEL_JKVPN_JKVPN_JKVPN&security=none&encryption=none&type=ws#🇩🇪@configfree20255
 vless://vpnlime@Foxnt-joinbedde.ddns.net:2096?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@vpnlime,@vpnlime&sni=vvv.tm-foxnt-joinbede.fun#🇩🇪@FOXNT2
+vless://vpnlime@Foxnt-joinbede.ddns.net:2096?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@vpnlime,@vpnlime&sni=vvv.tm-foxnt-joinbede.fun#🇩🇪@FOXNT3
