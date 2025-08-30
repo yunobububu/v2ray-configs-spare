@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.34.244.68:443#%F0%9F%87%B3%F0%9F%87%B1NL-149.34.244.68-0266
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@121.127.46.147:989#%F0%9F%87%B8%F0%9F%87%AASE-121.127.46.147-0258
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.62.163:443#%F0%9F%87%A8%F0%9F%87%ADCH-156.146.62.163-0298
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.198:443#%F0%9F%87%AC%F0%9F%87%A7GB-212.102.53.198-0268
@@ -252,4 +253,3 @@ vless://c7c922da-ab54-433c-8046-1f9bf9d95c23@185.236.232.136:1001/?type=tcp&encr
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.99:8880/?type=grpc&encryption=none&flow=#%E2%9C%A811%40oneclickvpnkeys
 vless://aaaaaaa1-bbbb-4ccc-accc-eeeeeeeeeee1@freexxx.xhamster.biz.id:443/?type=ws&encryption=none&flow=&host=freexxx.xhamster.biz.id&path=%2FFree-CF-Proxy-AD1&security=tls&sni=freexxx.xhamster.biz.id#%E2%9C%A889%40oneclickvpnkeys
 vless://0abf9050-c7be-464d-80af-24094c2b97de@188.68.53.100:6666/?type=tcp&encryption=none&flow=&sni=Tgju.org&fp=chrome&security=reality&pbk=S_2bepGaT7EHeH5DdyEgio421RTgrAvvOOQiaq8zV0g&sid=b525ecd2fc#%F0%9F%A5%A81%40oneclickvpnkeys
-vless://ef246c6f-6e7d-4286-af33-5485544b0ba8@45.88.183.164:49355/?type=tcp&encryption=none&flow=#18%E2%9C%A8%40oneclickvpnkeys
