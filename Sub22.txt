@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://4801c19d-37aa-4704-921e-9ee9bab80f1d@speedtest.net:80?mode=auto&path=/&security=none&encryption=none&host=p30download.ir&type=xhttp#@EXPRESSVPN_420  کانال ما
-vless://482d80be-8538-7868-29ee-b4f70f4ad581@45.88.8.147:80?path=/IVApi/NL/1&security=none&encryption=none&type=ws#@v2ray313 کانالمون 🙅🏻
-vless://4839e0b9-b275-47ea-81ab-9bfd38bbe7af@43.156.217.68:41283?encryption=none&security=none&type=tcp&headerType=none#@Golestan_VPN - JOIN
 vless://4839e0b9-b275-47ea-81ab-9bfd38bbe7af@43.156.217.68:41283?security=none&encryption=none&headerType=none&type=tcp#@Asak_Vpn🇸🇬
 vless://4839e0b9-b275-47ea-81ab-9bfd38bbe7af@43.156.217.68:41283?security=none&encryption=none&headerType=none&type=tcp#💯T.me/Asak_Vpn💯
 vless://487b3b3a-aeeb-431a-b3e2-a541ae2fc27c@ping.amirhossein.info:8443/?type=ws&path=/Telegram@Green_WPN@Vijra_dev/?ed=2560&host=ping.amirhossein.info&security=none#🌳 Telegram | @Green_WPN
@@ -205,7 +202,6 @@ vless://4d3e4850-83e4-4e9e-a4c1-0f11c43663e7@172.67.163.18:443?path=telegramFree
 vless://4d3e4850-83e4-4e9e-a4c1-0f11c43663e7@172.67.163.18:443?path=telegramV2ray_Alpha=88.218.78.212&security=tls&alpn=http/1.1&encryption=none&host=crolinde.carlotta.cloudns.org&fp=chrome&type=ws&sni=crolinde.carlotta.cloudns.org#@V2rayNG3
 vless://4d40dd7c-3975-457f-a45c-1a8353ee2990@185.235.198.188:2099?security=&encryption=none&host=telewebion.com&headerType=http&type=tcp#⚜️Telegram: @IP_CF
 vless://4d4c4677-7d6d-433f-832c-a47fa7229135@93.115.240.88:10000?security=none&encryption=none&type=ws#@v2ray313 کانالمون 🙅🏻
-vless://4d65c2b7-431e-4f13-b18a-96fcbe06e954@5.75.193.155:37261?security=&encryption=none&host=Anten.ir&headerType=http&type=tcp#[🇩🇪]t.me/ConfigsHub
 vless://4d65c2b7-431e-4f13-b18a-96fcbe06e954@5.75.193.155:37261?security=none&encryption=none&host=Anten.ir&headerType=http&type=tcp#✔︎𝐜𝐡
 vless://4d65c2b7-431e-4f13-b18a-96fcbe06e954@5.75.193.155:37261?security=none&encryption=none&host=Anten.ir&headerType=http&type=tcp#✔︎𝐜𝐡𝐚𝐧𝐧𝐞𝐥➪@ConfigV2rayForFree
 vless://4d794980-54c0-4fcb-8def-c2beaecadbad@172.66.47.175:2083?path=/lZU7WqWIDqC1jRn6?ed&security=tls&encryption=none&host=azadnet05.pages.dev&type=ws&sni=azadnet05.pages.dev#@AYMH19+کانال+تلگرام
@@ -250,6 +246,10 @@ vless://4fcf2163-347c-4ba8-b370-803d47de8865@www.zula.ir:80?path=/TELEGRAM_JKVPN
 vless://4ffec487-ed8a-412f-90ef-4b7b6145ad58@93.127.180.144:8880?security=&encryption=none&headerType=&type=tcp#🚀 @mrdarc🇦🇪جدید
 vless://4ffec487-ed8a-412f-90ef-4b7b6145ad58@93.127.180.144:8880?security=&encryption=none&headerType=&type=tcp#🚀 @v2ryNG01🇦🇪جدید
 vless://4ffec487-ed8a-412f-90ef-4b7b6145ad58@93.127.180.144:8880?security=&encryption=none&headerType=&type=tcp#🚀 @v2ryNG01🇦🇪جدید 🇫🇮🇫🇮🇫🇮🇫🇮
+vless://4ffec487-ed8a-412f-90ef-4b7b6145ad58@93.127.180.144:8880?security=none&encryption=none&headerType=none&type=tcp#@v2rayng_fars 🇦🇪
 vless://500d402b-648f-4d3b-a3ff-030519ddfc10@45.144.214.189:4286?security=none&encryption=none&headerType=none&type=tcp#@i10VPN 🚀| با ما متصل بمون⚡
 vless://500d402b-648f-4d3b-a3ff-030519ddfc10@lmants.rtpxc.com:4286?security=none&encryption=none&headerType=none&type=tcp#@i10VPN 🚀| با ما متصل بمون⚡
 vless://500d402b-648f-4d3b-a3ff-030519ddfc10@lmants.rtpxc.com:4286?security=none&encryption=none&type=tcp&headerType=none#Telegram:@king_v2raay
+vless://50190347-9a85-4386-bd33-98bc5bc238cd@5.75.194.13:80?security=reality&encryption=none&pbk=n0ZEgbjhlEmpHtlX0khZNVZV3qsGYYXwPztkgyG2xAA&host=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&headerType=none&fp=chrome&spx=/JOIN_TO_V2Ray-hiddify&type=tcp&sni=tgju.org&sid=53162280ce86#🇩🇪 | @External_Net
+vless://50190347-9a85-4386-bd33-98bc5bc238cd@zzzzz.zz.z.zz.zzzzzzz.mizbandana.org:80?security=reality&encryption=none&pbk=n0ZEgbjhlEmpHtlX0khZNVZV3qsGYYXwPztkgyG2xAA&headerType=none&fp=chrome&spx=/&type=tcp&sni=tgju.org&sid=53162280ce86#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
+vless://501e344a-0b50-42b9-841f-9aa51fbe3e95@panel-feri2.todecentral.info:38495?security=none&encryption=none&headerType=none&type=tcp#@CaV2ray ⚡️

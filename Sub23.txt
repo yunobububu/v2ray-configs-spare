@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://50190347-9a85-4386-bd33-98bc5bc238cd@5.75.194.13:80?security=reality&encryption=none&pbk=n0ZEgbjhlEmpHtlX0khZNVZV3qsGYYXwPztkgyG2xAA&host=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&headerType=none&fp=chrome&spx=/JOIN_TO_V2Ray-hiddify&type=tcp&sni=tgju.org&sid=53162280ce86#🇩🇪 | @External_Net
-vless://50190347-9a85-4386-bd33-98bc5bc238cd@zzzzz.zz.z.zz.zzzzzzz.mizbandana.org:80?security=reality&encryption=none&pbk=n0ZEgbjhlEmpHtlX0khZNVZV3qsGYYXwPztkgyG2xAA&headerType=none&fp=chrome&spx=/&type=tcp&sni=tgju.org&sid=53162280ce86#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
-vless://501e344a-0b50-42b9-841f-9aa51fbe3e95@panel-feri2.todecentral.info:38495?security=none&encryption=none&headerType=none&type=tcp#@CaV2ray ⚡️
 vless://502006fa-a1b0-4a27-986b-1c74834f96da@fr1.netprivate-server.ir:9033?security=none&encryption=none&headerType=http&type=tcp#@V2Graphy_2
 vless://502ce704-dcec-4f92-9489-505c99ce6c89@f10.sarasimano.com:2096?path=/&security=tls&encryption=none&type=ws#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
 vless://502ce704-dcec-4f92-9489-505c99ce6c89@f4.sarasimano.com:2096?path=/&security=tls&encryption=none&type=ws#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
@@ -253,3 +250,6 @@ vless://55b596f8-1a15-4752-b0b5-9198b3680fd7@c1.arshiashop.org:2086?type=ws&path
 vless://55bdd2eb-3afc-441e-87a4-9a49527fd8da@archiveca.arenafile.com:443?path=/downloader/11201&security=tls&encryption=none&host=archive.arenafile.com&type=ws&sni=archive.arenafile.com#Telegram : @Alfa_v2ray_ng 🔥
 vless://55c32ed1-42bc-422c-88f4-bf4f7eb74d9b@37.202.237.244:55094?encryption=none&security=none&type=tcp&headerType=none#[🇩🇪] [Tunnel] Codeclubir ro hemayat kon !
 vless://55c7a8da-b05d-49dd-8211-fa005cc4d5d5@91.107.243.60:18753?mode=gun&security=none&encryption=none&type=grpc#🇩🇪[Telegram:@v2rayng_fars]
+vless://55c8fba8-b7ca-4f8a-ac8d-03c097278162@marz.irannetwork.pw:443?security=tls&alpn=h2,http/1.1&encryption=none&headerType=none&fp=chrome&type=tcp&sni=marz.irannetwork.pw#@Daily_Configs
+vless://55c8fba8-b7ca-4f8a-ac8d-03c097278162@marz.irannetwork.pw:443?security=tls&alpn=h2,http/1.1&encryption=none&headerType=none&fp=chrome&type=tcp&sni=marz.irannetwork.pw#@i10VPN 🚀| با ما متصل بمون⚡
+vless://55f7e4c2-96f5-4b2b-b7f7-485abe4bf504@172.66.40.99:2052?type=ws&path=/@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet&host=dAta.bAckup.hafeZejanEbi.scaptapsi.sNaPtripUppoRt.spaCe.&security=none#@Maznet-46134-2
