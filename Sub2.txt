@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-trojan://253bc477d4e43c209f2d427272968280@36.150.215.203:3270?allowInsecure=1&sni=www.baidu.com#%E6%97%A5%E6%9C%AC3%7C%40ripaojiedian
-trojan://253bc477d4e43c209f2d427272968280@36.150.215.203:40950?allowInsecure=1&sni=www.baidu.com#%E6%97%A5%E6%9C%AC4%7C%40ripaojiedian
 trojan://253bc477d4e43c209f2d427272968280@36.150.215.203:3043?allowInsecure=1&sni=www.baidu.com#%E6%96%B0%E5%8A%A0%E5%9D%A1%7C%40ripaojiedian
 trojan://253bc477d4e43c209f2d427272968280@36.150.215.203:4397?allowInsecure=1&sni=www.baidu.com#%E6%96%B0%E5%8A%A0%E5%9D%A12%7C%40ripaojiedian
 vmess://eyJ2IjogIjIiLCAicHMiOiAi5paw5Yqg5Z2hM3xAcmlwYW9qaWVkaWFuIiwgImFkZCI6ICJ2MzkuaGVkdWlhbi5saW5rIiwgInBvcnQiOiAiMzA4MzkiLCAiYWlkIjogMiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogIiIsICJpZCI6ICJjYmIzZjg3Ny1kMWZiLTM0NGMtODdhOS1kMTUzYmZmZDU0ODQiLCAic25pIjogIiIsICJob3N0IjogImJhaWR1LmNvbSIsICJwYXRoIjogIi9vb29vIn0=
@@ -109,8 +107,6 @@ vmess://eyJhZGQiOiIxNTIuNjcuOC4yMDUiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9z
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.45.85:8880?mode=gun&security=none&encryption=none&authority=/v2rayNplus&type=grpc#@meli_proxyy
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.89.111.250:8880?mode=gun&security=none&encryption=none&authority=/v2rayNplus&type=grpc#@meli_proxyy
 vless://d4e52293-4a82-404c-ac29-93afc006dcbb@45.194.53.52:443?path=%2FTELEGRAM-MARAMBASHI_MARAMBASHI%3Fed%3D512&security=tls&alpn=http%2F1.1&encryption=none&host=crolindd.dearcarlotta.cloudns.org&fp=chrome&type=ws&sni=crolindd.dearcarlotta.cloudns.org#@meli_proxyy
-#¥>±i	/£ùfS
-(ê&Þ$£´b°Ò÷PPÞK<Æ,l¥ÉÈF4Lr£P'VöEø9ªàî¬:^u
 vless://90d7db9b-972b-4073-8738-12cf42124260@104.19.247.78:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=kawaiifreevpn.pages.dev&fp=chrome&type=ws&sni=kawaiifreevpn.pages.dev#%F0%9F%87%AE%F0%9F%87%B3telegram%20%E2%9E%A0%20%40v2rayNG_Matsuri
 vless://a9c9c197-c626-4667-f219-1575f26715ac@tgju.org:80?encryption=none&security=none&type=ws&host=fin.channel.digicyber.click&path=%2Folem%2Fws%3Fed%3D1024#%40Daily_Configs
 vless://a9c9c197-c626-4667-f219-1575f26715ac@www.speedtest.net:80?encryption=none&security=none&type=ws&host=fin.channel.digicyber.click&path=%2Folem%2Fws%3Fed%3D1024#%40Daily_Configs
@@ -253,3 +249,7 @@ hy2://XON4wZ0sXe1YaqFY2FeM7uZY4@122.248.205.111:15221/?insecure=1&sni=bing.com#S
 hy2://Y5kSCRNcOSz5YQUkjehzVXeT2mk@175.41.154.215:19298/?insecure=1&sni=bing.com#SG
 hy2://Yet-Another-Public-Config-1@[2a14:3f87:f001:13::a]:36400/?insecure=1&sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#Channel id: @ShadowProxy66🇳🇱
 hy2://Yet-Another-Public-Config-1@[2a14:3f87:f001:13::a]:36400/?insecure=1&sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#Channel id: @proxy_kafee🇳🇱
+hy2://Yet-Another-Public-Config-1@[2a14:3f87:f001:13::a]:36400/?insecure=1&sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#Channel id: @singbox1🇳🇱
+hy2://a52663f7-bd8e-4553-a5de-ff6403a0ccfc@192.9.165.40:443/?mport=51000-53000&insecure=1&sni=cn.cremedelamer.com#🇦🇺澳大利亚
+hy2://a59be66d-1e59-40ea-b378-ceecd80c3337@45.11.1.62:443/?mport=50000-55000&insecure=1&sni=www.microsoft.com#Channel id: @ShadowProxy66🇯🇵
+hy2://a59be66d-1e59-40ea-b378-ceecd80c3337@45.11.1.62:443/?mport=50000-55000&insecure=1&sni=www.microsoft.com#Channel id: @proxy_kafee🇯🇵

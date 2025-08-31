@@ -3,10 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@www.speedtest.net:8443?path=/&security=tls&encryption=none&host=lease-14.access.name.ng&fp=chrome&type=ws&sni=lease-14.access.name.ng#💎 @AblNet7 💎
-vless://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@www.speedtest.net:8443?path=/&security=tls&encryption=none&host=lease-15.access.name.ng&type=ws&sni=lease-15.access.name.ng#🇬🇧 | @External_Net
-vless://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@www.speedtest.net:8443?path=/&security=tls&encryption=none&host=lease-17.access.name.ng&fp=chrome&type=ws&sni=lease-17.access.name.ng#@IRAN_V2RAY1
-vless://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@www.speedtest.net:8443?path=/&security=tls&encryption=none&host=lease-17.access.name.ng&fp=chrome&type=ws&sni=lease-17.access.name.ng#@V2ray1_Ng
 vless://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@www.speedtest.net:8443?path=/&security=tls&encryption=none&host=lease-17.access.name.ng&fp=chrome&type=ws&sni=lease-17.access.name.ng#🇬🇧 Telegram: @configfree20255
 vless://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@www.speedtest.net:8443?path=/&security=tls&encryption=none&host=lease-17.access.name.ng&fp=chrome&type=ws&sni=lease-17.access.name.ng#🇬🇧 جوین بده کانکت بمونی: @STAPersiaNews
 vless://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@www.speedtest.net:8443?path=/&security=tls&encryption=none&host=lease-17.access.name.ng&fp=chrome&type=ws&sni=lease-17.access.name.ng#🇬🇧@FreakConfig
@@ -253,3 +249,7 @@ vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.67.199.19:443?security=tls&sni=
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.67.73.163:80?security=&type=ws&path=/?ed=2560&host=a.xn--i-sx6a60i.us.kg.&encryption=none#@awlix_ir
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@185.18.184.66:80?path=/?ed=2048@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN&security=none&encryption=none&host=hello.96xckkzx.workers.dev&fp=chrome&type=ws&sni=hello.96xckkzx.workers.dev#@HiByeVPNN👈⚡❤️‍🔥
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@tgju.org:80?path=/?ed=2560&security=none&encryption=none&host=a.xn--i-sx6a60i.us.kg.&type=ws#کانال+ما+در+تلگرام+@Asak_Vpn+🏆
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@tgju.org:80?path=/?ed=2560&security=none&encryption=none&host=a.xn--i-sx6a60i.us.kg.&type=ws#کانال+ما+در+تلگرام+@Asak_Vpn+💛
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@tgju.org:80?path=/?ed=2560&security=none&encryption=none&host=a.xn--i-sx6a60i.us.kg.&type=ws#🌟Telegram:@Asak_Vpn
+vless://d34c7d06-d173-4063-aa86-be8c785ec0db@172.67.222.26:2083?path=/?ed=2048?---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---&security=tls&encryption=none&host=worker-snowy-voice-a7bc.ef24e8570d34.workers.dev&type=ws&sni=worker-snowy-voice-a7bc.ef24e8570d34.workers.dev#☞ 𝗝𝗼𝗶𝗻 ➠ @Viturey
+vless://d365664f-349c-49c9-9292-56cb8ae7f79d@173.245.59.132:8080?path=/@MaSTeRSeRVeR1-@-MaSTeRSeRVeR1@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1?ed=2048&security=&encryption=none&host=masterserver1.nanvrfood.ir.&type=httpupgrade#🇩🇪 All Operator 1 @MaSTeRSeRVeR1
