@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-trojan://253bc477d4e43c209f2d427272968280@36.150.215.203:7177?allowInsecure=1&sni=www.baidu.com#%E7%BE%8E%E5%9B%BD4%7C%40ripaojiedian
 ss://c3M6Ly9ZV1Z6TFRJMU5pMWpabUk2WVcxaGVtOXVjMnR5TURV@18.195.55.29:443#tg%E9%A2%91%E9%81%93%3A%40ripaojiedian%20
 vmess://eyJ2IjogIjIiLCAicHMiOiAi6aaZ5rivM3xAcmlwYW9qaWVkaWFuIiwgImFkZCI6ICIzOC4xNDcuMTg4Ljk2IiwgInBvcnQiOiAiNTE1NzEiLCAiYWlkIjogMCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICJub25lIiwgInRscyI6ICIiLCAiaWQiOiAiNzQwZWM1MTQtZDJiZC00NWJiLWI0MTAtN2VhNWEwNWNkZDg3IiwgInNuaSI6ICIifQ==
 vmess://eyJ2IjogIjIiLCAicHMiOiAi6aaZ5rivdjJ8QHJpcGFvamllZGlhbiIsICJhZGQiOiAiNDcuMjM5LjE4My44NyIsICJwb3J0IjogIjI4NTkwIiwgImFpZCI6IDAsICJzY3kiOiAiYXV0byIsICJuZXQiOiAia2NwIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAiIiwgImlkIjogImQ3NTQ4MWM3LWI1YzgtNDBhOS04MTFhLTAyYjcwOWU3NDgxNiIsICJzbmkiOiAiIn0=
@@ -253,3 +252,4 @@ hy2://b866d83a-d301-4270-b699-40f322bf52fb@154.85.19.63:443/?mport=55000-56000&i
 hy2://b866d83a-d301-4270-b699-40f322bf52fb@89.185.27.133:443/?mport=55000-56000&insecure=1&sni=www.bing.com#🇭🇰香港2
 hy2://c8631767-f45c-4f48-bf19-5405e6d18679@45.136.245.177:33079/?insecure=1&obfs=salamander&obfs-password=NDhhNmY5YTY0MGYzOTgxYQ==#Channel id: @ShadowProxy66🇺🇸
 hy2://c8631767-f45c-4f48-bf19-5405e6d18679@45.136.245.177:33079/?insecure=1&obfs=salamander&obfs-password=NDhhNmY5YTY0MGYzOTgxYQ==#Channel id: @proxy_kafee🇺🇸
+hy2://de8854c7-fa17-4266-ae18-50a9732a0c4e@hk1.1010991.xyz:3001/?insecure=1&sni=hk1.1010991.xyz#🇭🇰香港
