@@ -3,11 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://935c990a-9bcc-484b-86a2-2a402f9ad1d4@grumpy-building.seotoolsforyou.co.uk:80?path=/&security=none&encryption=none&type=ws#💎 @AblNet7 💎
-vless://935c990a-9bcc-484b-86a2-2a402f9ad1d4@grumpy-building.seotoolsforyou.co.uk:80?path=/&security=none&encryption=none&type=ws#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
-vless://936698ea-58bf-4b19-8cd5-ffd73cc44c91@csgo-news.film2serial.cloud:443?flow=&type=grpc&mode=gun&serviceName=6k9LhPdmkFyy7eL4dZlhBC&security=tls&fp=chrome&sni=csgo-news.film2serial.cloud&alpn=h2&allowInsecure=false#Helix
-vless://936698ea-58bf-4b19-8cd5-ffd73cc44c91@csgo-news.film2serial.cloud:443?flow=&type=grpc&mode=gun&serviceName=6k9LhPdmkFyy7eL4dZlhBC&security=tls&fp=chrome&sni=csgo-news.film2serial.cloud&alpn=h2&allowInsecure=false#Helix-Free | 300GB | @Helix_Servers
-vless://9368b093-d790-4096-9d8a-1265e82f9e2f@172.66.47.15:443?path=/Telegram@ShadowProxy66/?ed=2560&security=tls&encryption=none&host=GgGgr.PaGES.dEV&fp=chrome&type=ws&sni=GgGgr.PaGES.dEV#Telegram:@zede_filteri
 vless://9391d3bc-95e3-469c-b371-1a7e493a6404@104.21.72.109:80?path=/ELiV2-RaY---ELiV2-RaY---ELiV2-RaY---ELiV2-RaY?ed=2560&security=none&alpn=h2,http/1.1&encryption=none&host=pamchall.com.&fp=chrome&type=ws&sni=pAmchALL.COm.#@CaV2ray ⚡️
 vless://93ac1876-83d4-4198-9528-83a36d785e97@www.speedtest.net:2086?path=/@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn?ed=2086&security=none&encryption=none&host=cafebazaar.ir.novinsoft.ir.oradoshop.com.persiangsm.ir.digikala.com.abadis.ir.shad.ir.divar.ir.downloadly.com.aparat.com.cafebazar.ir.varzesh3.com.ninisite.com.abadis.ir.bama.ir.p30download.ir.telewebion.bmi.ir.shad.ir.mayket.com.ninisite.top.&type=httpupgrade#@spikevpn👈 جوین بده💯⚡
 vless://93c34b1e-4baf-459c-b6df-55f2807eb6f6@Germany3.amirconfigpanelllll.com:625?security=none&encryption=none&host=zhaket.com&headerType=http&type=tcp#[🇩🇪]@confegraigan
@@ -73,7 +68,6 @@ vless://9570a079-f83f-4454-88d0-884057c57a35@FruItfUl-exchANgE.SeotOolsFORYoU.cO
 vless://9570a079-f83f-4454-88d0-884057c57a35@fruitful-exchange.seotoolsforyou.co.uk:80?encryption=none&security=none&type=ws&path=/#@Daily_Configs
 vless://9570a079-f83f-4454-88d0-884057c57a35@fruitful-exchange.seotoolsforyou.co.uk:80?path=/&security=&encryption=none&type=ws#🇩🇪@FreakConfig
 vless://9570a079-f83f-4454-88d0-884057c57a35@fruitful-exchange.seotoolsforyou.co.uk:80?path=/&security=none&encryption=none&type=ws#
-vless://9570a079-f83f-4454-88d0-884057c57a35@fruitful-exchange.seotoolsforyou.co.uk:80?path=/&security=none&encryption=none&type=ws#@IRan_V2ray1
 vless://9570a079-f83f-4454-88d0-884057c57a35@fruitful-exchange.seotoolsforyou.co.uk:80?path=/&security=none&encryption=none&type=ws#IRAN 662 (@Outline_Vpn) free
 vless://9570a079-f83f-4454-88d0-884057c57a35@fruitful-exchange.seotoolsforyou.co.uk:80?path=/&security=none&encryption=none&type=ws#[🇨🇦]ae_proxy
 vless://9570a079-f83f-4454-88d0-884057c57a35@fruitful-exchange.seotoolsforyou.co.uk:80?path=/&security=none&encryption=none&type=ws#⚡@AblNet7💥💥
@@ -196,7 +190,6 @@ vless://99462fc1-30e0-4180-8a5d-3fb8fffe6a90@91.99.236.193:8880?security=reality
 vless://9953991f-eebe-4140-ce8b-e824adc87436@binex.tv.sedanor.ir:2053?type=ws&path=/telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY-telegram,@BINEXTIFY?ed=2560&host=chess.com&security=none#BinexTify 🌟-qg0dbhlxv
 vless://995855df-a67e-4306-bb2a-a9c5a7bf6431@91.98.73.65:4060?security=reality&encryption=none&pbk=4wqVP925fSFsWZnvk6xAmPi3r2d4M8G9aEAdyHFSMHw&headerType=none&fp=chrome&type=tcp&sni=connectivitycheck.gstatic.com&sid=3052b534d7eb28ec#@Selinc
 vless://995855df-a67e-4306-bb2a-a9c5a7bf6431@hetzner.onlydream.ir:2053?security=reality&encryption=none&pbk=BYvlcW26K2NRpxeqc1bnCU00ksoLiSNxK64lZ7DZLBw&headerType=none&fp=chrome&type=tcp&sni=www.cloudflare.com&sid=f36a8eb73bf631fc#@Selinc
-vless://995aec23-72c3-46f0-b385-ce73e695f939@172.66.40.99:443?path=/telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE?ed=80&security=tls&encryption=none&alpn=h2,http/1.1&host=A249.Mashkestan.coM&fp=chrome&allowinsecure=0&type=ws&sni=A249.Mashkestan.coM#[🇺🇸]@configLINE(5)
 vless://9970aa48-37ce-4217-b525-579e61ab9cfa@104.16.49.221:80?encryption=none&security=none&type=ws&host=holy-bush-cbc8-ppal03.rawej75976.workers.dev&path=/?ed=2560#💎Ch: @pPal03💎جوین بدید💎
 vless://9970aa48-37ce-4217-b525-579e61ab9cfa@104.24.149.17:80?encryption=none&security=none&type=ws&host=holy-bush-cbc8-ppal03.rawej75976.workers.dev&path=/?ed=2560#💎Ch: @pPal03💎جوین بدید💎
 vless://9987a847-5e57-440c-890e-33fd179af6ff@130.185.122.252:28964?type=xhttp&mode=auto&path=/grizzlyvpn?ed=2048@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&security=reality&fp=chrome&sni=www.bing.com&pbk=aaKkZMXLmcOEj1Gt7uEpXU5buAKh9V33PiRwJvuOqXs&sid=5405&spx=/#🇦🇪 @Evay_vpn
@@ -253,3 +246,10 @@ vless://9bdd3d4b-3fe3-4b41-b3bd-fb2d0bcfcf7c@dd14.mehdit.ir:443?path=/&security=
 vless://9bf8204e-76bb-4721-9e4a-218ed6d9ee4a@chat.deepseek.com:80?type=ws&path=/olem/ws?ed=1024&host=fin.channel.digicyber.click&security=none#@melov2ray🇫🇮
 vless://9bf8204e-76bb-4721-9e4a-218ed6d9ee4a@tgju.org:80?type=ws&path=/olem/ws?ed=1024&host=fin.channel.digicyber.click&security=none#@melov2ray🇫🇮
 vless://9bf8204e-76bb-4721-9e4a-218ed6d9ee4a@www.speedtest.net:80?type=ws&path=/olem/ws?ed=1024&host=fin.channel.digicyber.click&security=none#@melov2ray🇫🇮
+vless://9c28e484-55ed-4756-a6dc-64a9ec7141da@specxtech.ticketdatabase.info:15416?mode=auto&path=9c28e484-55ed-4756-a6dc-64a9ec7141da-xh&security=reality&encryption=none&pbk=xxlEy493Vsha05CKs_07jt2MFaxLejTx4Ab1xFNAlno&fp=chrome&type=xhttp&sni=www.yahoo.com&sid=1ed94ed9#🇩🇪@specxtech1
+vless://9c28e484-55ed-4756-a6dc-64a9ec7141da@specxtech.ticketdatabase.info:51566?security=reality&encryption=none&pbk=xxlEy493Vsha05CKs_07jt2MFaxLejTx4Ab1xFNAlno&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.yahoo.com&sid=1ed94ed9#🇩🇪@specxtech2
+vless://9c3087e8-e9b9-4940-c87b-e5ff64da58d2@chat.deepseek.com:80?path=/olem/ws?ed=1024&security=none&encryption=none&host=fin.channel.digicyber.click&type=ws#⏳@v2rayngsupbot
+vless://9c3087e8-e9b9-4940-c87b-e5ff64da58d2@chat.deepseek.com:80?type=ws&path=/olem/ws?ed=1024&host=fin.channel.digicyber.click&security=none#@melov2ray🇫🇮
+vless://9c3087e8-e9b9-4940-c87b-e5ff64da58d2@tgju.org:80?type=ws&path=/olem/ws?ed=1024&host=fin.channel.digicyber.click&security=none#@melov2ray🇫🇮
+vless://9c3087e8-e9b9-4940-c87b-e5ff64da58d2@www.speedtest.net:80?type=ws&path=/olem/ws?ed=1024&host=fin.channel.digicyber.click&security=none#@melov2ray🇫🇮
+vless://9c411878-9ea9-438d-bb65-8d3c122f8028@172.66.40.99:2052?type=ws&path=/@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet&host=dAta.bAckup.hafeZejanEbi.scaptapsi.sNaPtripUppoRt.spaCe.&security=none#@Maznet-46155-2
