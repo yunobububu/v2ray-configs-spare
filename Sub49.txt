@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://e7663c6a-31a6-4ad8-9500-807d48f91249@172.66.40.99:443?path=/admin&security=tls&encryption=none&host=2free2.aparatir.xyz&type=ws&sni=2free2.aparatir.xyz#✅ @vistav2ray  👈👈کانال ما
-vless://e785db67-7bd6-4a87-aa9c-6fec2bcacd90@91.107.155.239:27363?security=reality&encryption=none&pbk=PSm8o6LwJwhPDyB3OcexU2IK3x6U3la9ggdAUwsExy0&headerType=none&fp=chrome&spx=/&type=tcp&sni=journalofbigdata.springeropen.com&sid=30760bb532960552#ب
-vless://e785db67-7bd6-4a87-aa9c-6fec2bcacd90@91.107.155.239:27363?security=reality&encryption=none&pbk=PSm8o6LwJwhPDyB3OcexU2IK3x6U3la9ggdAUwsExy0&headerType=none&fp=chrome&spx=/&type=tcp&sni=journalofbigdata.springeropen.com&sid=30760bb532960552#با ۵۰ تومن سرور اختصاصی بخر راحت شو
 vless://e78a285e-d940-41c0-9a78-70337f1503b0@91.99.117.197:8443?type=grpc&serviceName=/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android/Telegram,@Archive_Android&authority=&security=reality&pbk=X1ZcgEvOoRWwMQHDd4VOVUsVc0clHdcRKwVgjV9VvWs&fp=chrome&sni=www.cdn77.com&sid=&spx=/#🇩🇪𝗚𝗲𝗿𝗺𝗮𝗻𝘆 ➠ همه اپراتورها²
 vless://e79df63b-df2a-4a4d-af71-e229bdf23f39@172.66.40.99:8080?path=/-LiV2ry@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6?ed=2048&security=none&encryption=none&host=G.lightning2025.top&type=ws#@bored_vpn
 vless://e79df63b-df2a-4a4d-af71-e229bdf23f39@172.66.40.99:8080?path=/-LiV2ry@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6?ed=2048&security=none&encryption=none&host=G.lightning2025.top&type=ws#@icv2ray
@@ -253,3 +250,6 @@ vless://ebd609eb-b473-4da2-95d6-52827b40e447@91.107.251.143:6745?security=none&e
 vless://ebd609eb-b473-4da2-95d6-52827b40e447@91.107.251.143:6745?security=none&encryption=none&headerType=none&type=tcp#Telegram : @Alfa_v2ray_ng 🔥
 vless://ebd609eb-b473-4da2-95d6-52827b40e447@91.107.251.143:6745?security=none&encryption=none&headerType=none&type=tcp#[🇩🇪]ae_proxy
 vless://ebd609eb-b473-4da2-95d6-52827b40e447@91.107.251.143:6745?security=none&encryption=none&headerType=none&type=tcp#☞ 𝗝𝗼𝗶𝗻 ➠ @Viturey
+vless://ebe2de6a-6caf-4d57-8275-dbdb3e62d94f@104.17.223.175:80?path=/&security=&encryption=none&host=q1.19KalA.co&type=ws#⚜️Telegram: @IP_CF
+vless://ebe2de6a-6caf-4d57-8275-dbdb3e62d94f@104.26.13.8:80?path=/&security=&encryption=none&host=q1.19KalA.co&type=ws#⚜️Telegram: @IP_CF
+vless://ebe2de6a-6caf-4d57-8275-dbdb3e62d94f@172.67.73.48:443?path=/&security=tls&alpn=h2,http/1.1&encryption=none&host=q1.19KalA.co&fp=chrome&type=ws&sni=q1.19KalA.co#⚜️Telegram: @IP_CF
