@@ -4,6 +4,8 @@
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
 
+vless://d42a7a50-7f33-4846-a620-20aad32c2f5d@world-of.ru:443?security=reality&sni=yahoo.com&fp=chrome&pbk=9QOmx7k0-uCbUrgh7ee9x9qtLIOEVyeYiZI2aiimYEs&sid=71e48a&type=tcp&flow=xtls-rprx-vision&encryption=none#@Rayan_Config%2026
+
 vless://d4e4c02a-d969-47a6-ba0f-3d433fdac206@wa.sfasti.ru:443?security=reality&sni=wa.sfasti.ru&fp=chrome&pbk=J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8&sid=16895459a2c7768d&type=tcp&flow=xtls-rprx-vision&encryption=none#@Rayan_Config%2025
 
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.231:8880?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config%2022
@@ -251,5 +253,3 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.47.255.22:990#%F0%
 ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@23.157.40.101:8008#%F0%9F%87%BA%F0%9F%87%B8US-23.157.40.101-0348
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@203.23.128.33:990#%F0%9F%87%AD%F0%9F%87%B0HK-203.23.128.33-0308
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@192.71.166.100:989#%F0%9F%87%AC%F0%9F%87%B7GR-192.71.166.100-0309
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@154.223.16.212:989#%F0%9F%87%A8%F0%9F%87%B4CO-154.223.16.212-0288
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@154.90.62.168:989#%F0%9F%87%B0%F0%9F%87%B7KR-154.90.62.168-0286
