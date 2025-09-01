@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@94.131.9.244:443/?type=ws&encryption=none&flow=&path=/&security=tls&allowInsecure=1#🇨🇵 France ws+tls (b16)
+vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@94.131.9.244:8443/?type=ws&encryption=none&flow=&path=/&security=tls&allowInsecure=1#🇨🇵 France ws+tls (b16)
+vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?path=/&security=tls&alpn=h3,h2&encryption=none&host=F7yHwCmPgY.mEtAl5.OrG&fp=chrome&type=ws#@v2rayng_fars
+vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?path=/&security=tls&alpn=h3,h2&encryption=none&host=F7yHwCmPgY.mEtAl5.OrG&fp=chrome&type=ws#Telegram : @Alfa_v2ray_ng 🔥
 vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?path=/&security=tls&alpn=h3,h2&encryption=none&host=F7yHwCmPgY.mEtAl5.OrG&fp=chrome&type=ws#🇩🇪[Telegram:@v2rayng_fars]
 vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?path=/&security=tls&alpn=h3,h2&encryption=none&host=F7yHwCmPgY.mEtAl5.OrG&fp=chrome&type=ws#🇱🇮v2rayng (FR)🔐-confegraigan
 vless://a5e0c391-accd-45a7-8bb9-99ffb9b09b16@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?path=/&security=tls&alpn=h3,h2&encryption=none&host=F7yHwCmPgY.mEtAl5.OrG&fp=chrome&type=ws#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
@@ -46,6 +50,7 @@ vless://a804bb53-7504-4f06-96d8-ff56fb71539d@81.12.32.135:32990?security=none&en
 vless://a82def0b-92c5-450b-9fca-7f1b7f932e8e@63.141.128.16:8080?path=/Join-ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&security=none&encryption=none&host=e.jOin.zEdMoDeOn.oNl.&type=ws#@Capoit
 vless://a82def0b-92c5-450b-9fca-7f1b7f932e8e@63.141.128.16:8080?path=/Join-ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&security=none&encryption=none&host=e.jOin.zEdMoDeOn.oNl.&type=ws#@V2BOXV
 vless://a82def0b-92c5-450b-9fca-7f1b7f932e8e@63.141.128.16:8080?path=/Join-ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&security=none&encryption=none&host=e.jOin.zEdMoDeOn.oNl.&type=ws#@bored_vpn
+vless://a82def0b-92c5-450b-9fca-7f1b7f932e8e@63.141.128.16:8080?path=/Join-ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&security=none&encryption=none&host=e.jOin.zEdMoDeOn.oNl.&type=ws#@icv2ray
 vless://a83b75d7-6b87-4201-a12a-8105fad6a8da@www.speedtest.net:2082?path=ð&security=none&encryption=none&host=rAyAn-cOnFiG-TeLeGrAm-cLuB-6.RaYaN-6.ClOuDnS.ClUb&fp=chrome&type=ws#Telegram : @Alfa_v2ray_ng 🔥
 vless://a8749fa0-2f18-4ccd-a6d0-81c996e0fefa@Mopli.mciickoir.ir:9620?security=none&encryption=none&headerType=http&type=tcp#@V2rayNGVPN+<=+کانفیگ+رایگان
 vless://a8749fa0-2f18-4ccd-a6d0-81c996e0fefa@Sd.mciickoir.ir:9620?flow=&type=tcp&headerType=http&host=&path=&security=none#@meli_proxyy
@@ -248,8 +253,3 @@ vless://ac61e5f2-94af-40a3-859a-3a671063920d@159.69.181.251:2087?type=tcp&securi
 vless://ac7ce7a7-22ca-4e33-b6e7-2a043c857d73@172.104.238.58:443?mode=stream-one&path=/wd&security=&encryption=none&type=xhttp#Channel id: @ShadowProxy66 🇩🇪
 vless://ac7ce7a7-22ca-4e33-b6e7-2a043c857d73@172.104.238.58:443?mode=stream-one&path=/wd&security=&encryption=none&type=xhttp#Channel id: @proxy_kafee 🇩🇪
 vless://aca7039a-eb24-404d-94ac-28099c5b9afd@79.127.70.123:2083?security=none&encryption=none&host=Doostihaa.coM&headerType=http&type=tcp#🩵+@Azarakhsh_Proxy+🩷
-vless://acc88aa8-cb11-47d9-8a7e-081049289cb5@chat.deepseek.com:80?type=ws&path=/olem/ws?ed=1024&host=fin.channel.digicyber.click&security=none#@melov2ray🇫🇮
-vless://acc88aa8-cb11-47d9-8a7e-081049289cb5@tgju.org:80?type=ws&path=/olem/ws?ed=1024&host=fin.channel.digicyber.click&security=none#@melov2ray🇫🇮
-vless://acc88aa8-cb11-47d9-8a7e-081049289cb5@www.speedtest.net:80?type=ws&path=/olem/ws?ed=1024&host=fin.channel.digicyber.click&security=none#@melov2ray🇫🇮
-vless://acd867f1-a71b-4a17-a473-2b57930d8678@178.128.231.204:8080?type=tcp&security=reality&fp=chrome&sni=rEfErSion.Com.&pbk=CZWbmrDdvesNCBlbMBuvHsJiR8Hsxmsd8DWDR_2JrjM&sid=8e36c7e79b74a6fa&spx=/@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn#🇨🇦@EVAY_VPN
-vless://ad02ae5c-55a7-4814-a58d-8da260ce7377@www.speedtest.net:80?path=/@CUSTOMIZEROBOT---@CUSTOMIZEROBOT---@CUSTOMIZEROBOT---@CUSTOMIZEROBOT/www.speedtest.net?ed=2080#=@&security=none&encryption=none&host=s1.VPNCUSTOMIZE.dNs-dynamic.neT.&type=ws#@icv2ray
