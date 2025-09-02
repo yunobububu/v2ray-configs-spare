@@ -3,14 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@www.speedtest.net:8443?path=/&security=tls&encryption=none&host=hetzner-4.access.name.ng&fp=chrome&type=ws&sni=hetzner-4.access.name.ng#@v2rayng_fars @Pruuxi
-vless://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@www.speedtest.net:8443?path=/&security=tls&encryption=none&host=hetzner-4.access.name.ng&fp=chrome&type=ws&sni=hetzner-4.access.name.ng#🇨🇵v2rayng (FR)🔐-confegraigan
-vless://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@www.speedtest.net:8443?path=/&security=tls&encryption=none&host=hetzner-6.derberg.name.ng&type=ws&sni=hetzner-6.derberg.name.ng#🇩🇪@FreakConfig
-vless://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@www.speedtest.net:8443?path=/&security=tls&encryption=none&host=hetzner-7.boss.name.ng&type=ws&sni=hetzner-7.boss.name.ng#@Daily_Configs
-vless://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@www.speedtest.net:8443?path=/&security=tls&encryption=none&host=hetzner-7.boss.name.ng&type=ws&sni=hetzner-7.boss.name.ng#@V2rayTun0قطع شدی بیا از این جا بردار ❤️‍🔥
-vless://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@www.speedtest.net:8443?path=/&security=tls&encryption=none&host=hetzner-7.boss.name.ng&type=ws&sni=hetzner-7.boss.name.ng#@configfree_1
-vless://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@www.speedtest.net:8443?path=/&security=tls&encryption=none&host=hetzner-7.boss.name.ng&type=ws&sni=hetzner-7.boss.name.ng#@meli_proxyy
-vless://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@www.speedtest.net:8443?path=/&security=tls&encryption=none&host=hetzner-7.boss.name.ng&type=ws&sni=hetzner-7.boss.name.ng#Telegram : @Alfa_v2ray_ng 🔥
 vless://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@www.speedtest.net:8443?path=/&security=tls&encryption=none&host=hetzner-7.boss.name.ng&type=ws&sni=hetzner-7.boss.name.ng#Telegram: @configfree20255🚀💫 عضو شو قطع نشی
 vless://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@www.speedtest.net:8443?path=/&security=tls&encryption=none&host=hetzner-7.boss.name.ng&type=ws&sni=hetzner-7.boss.name.ng#🇩🇪@FreakConfig
 vless://ccbe6b7c-9264-40c4-8bc1-ef8f6205d7a4@www.speedtest.net:8443?path=/&security=tls&encryption=none&host=hetzner-7.boss.name.ng&type=ws&sni=hetzner-7.boss.name.ng#🇮🇹@SimChin_iR عضو بشید
@@ -253,3 +245,11 @@ vless://d2dc2527-33d5-46f3-f39c-36da72fb1a62@54.37.205.0:59332?security=none&enc
 vless://d2dc2527-33d5-46f3-f39c-36da72fb1a62@54.37.205.0:59332?security=none&encryption=none&headerType=none&type=tcp#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
 vless://d2e3f4a5-b6c7-2345-8901-123456789abc@45.35.126.48:8443?type=tcp&encryption=none&sni=www.speedtest.net&fp=chrome&security=reality&pbk=VWX1234567890abcdef1234567890abcdef#@CaV2ray ⚡️
 vless://d2ec79c6-0319-4792-f2f4-d786df1b2d45@asia7.novahomedesigntips.com:7850?path=/&security=none&encryption=none&type=ws#@Mrconfig_Channel 🩵
+vless://d30b139f-22ca-4896-9ec0-d8e7ddce2135@de.pixvpn.app:8443?mode=gun&security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=chrome&type=grpc&serviceName=grpc-jd&sni=jd.com&sid=41a4cee2c50c4fc3#🇩🇪@FreakConfig
+vless://d33b228d-654d-4dc2-a60e-16cbdd5b3e08@62.212.70.94:2025?security=reality&encryption=none&pbk=Q1a6ooyct6J0bZRpJD02S6PLMOl0HaLWT2ECyMAwQgw&headerType=&fp=chrome&spx=/-@EXPRESSVPN_420---@EXPRESSVPN_420---@EXPRESSVPN_420---@EXPRESSVPN_420---@EXPRESSVPN_420---@EXPRESSVPN_420---@EXPRESSVPN_420---@EXPRESSVPN_420---@EXPRESSVPN_420---@EXPRESSVPN_420---@EXPRESSVPN_420---@EXPRESSVPN_420---@EXPRESSVPN_420---@EXPRESSVPN_420&type=tcp&sni=tgju.org&sid=e9#@EXPRESSVPN_420 کانال ما
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.17.197.1:443?security=tls&sni=a.xn--i-sx6a60i.us.kg&type=ws&path=/?d=2560&host=a.xn--i-sx6a60i.us.kg&encryption=none#@awlix_ir
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.18.43.169:443?security=tls&sni=a.xn--i-sx6a60i.us.kg&type=ws&path=/?ed=2560&host=a.xn--i-sx6a60i.us.kg&encryption=none#@awlix_ir
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.21.38.13:443?security=tls&sni=a.xn--i-sx6a60i.us.kg&type=ws&path=/?ed=2560&host=a.xn--i-sx6a60i.us.kg&encryption=none#@awlix_ir
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.25.113.15:443?security=tls&sni=a.xn--i-sx6a60i.us.kg&type=ws&path=/?ed=2560&host=a.xn--i-sx6a60i.us.kg&encryption=none#@awlix_ir
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.26.14.85:80?path=/@V2ray_Alpha/?ed=2560&security=none&encryption=none&host=a.xn--i-sx6a60i.us.kg.&type=ws#@V2rayNG3
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.26.14.85:80?security=&type=ws&path=/?ed=2560&host=a.xn--i-sx6a60i.us.kg.&encryption=none#@awlix_ir

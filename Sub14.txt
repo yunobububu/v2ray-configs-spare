@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@45.131.4.85:80?path=/193.123.81.105=443&security=none&encryption=none&host=zoomgov.vipren.biz.id&type=ws#@v2ray313 کانالمون ✨
+vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@45.131.4.85:80?path=/193.123.81.105=443&security=none&encryption=none&host=zoomgov.vipren.biz.id&type=ws#@v2ray313 کانالمون 💋
 vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@45.131.4.85:80?path=/193.123.81.105=443&security=none&encryption=none&host=zoomgov.vipren.biz.id&type=ws#@v2ray313 کانالمون 🙅🏻
 vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@45.131.4.85:80?path=/193.123.81.105=443&security=none&encryption=none&host=zoomgov.vipren.biz.id&type=ws#⚜️Telegram: @IP_CF 🇮🇷
 vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@45.131.4.85:80?path=/193.123.81.105=443&security=none&encryption=none&host=zoomgov.vipren.biz.id&type=ws#𝗝𝗼𝗶𝗻 ➠ @PlanB_Proxy | کانال ما 🆔
@@ -155,7 +157,6 @@ vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@www.speedtest.net:2096?encryption=n
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@www.speedtest.net:2096?encryption=none&security=tls&sni=PkO09dA8jF.9pEsC.cOm&type=ws&host=PkO09dA8jF.9pEsC.cOm&path=/&alpn=h2,http/1.1&fp=chrome#new server
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@www.speedtest.net:2096?encryption=none&security=tls&sni=Q03l9EiQiA.9pEsC.cOm&type=ws&host=Q03l9EiQiA.9pEsC.cOm&path=/&alpn=h2,http/1.1&fp=chrome#new server
 vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@www.speedtest.net:2096?encryption=none&security=tls&sni=ZhN5vJ9dY7.9pEsC.cOm&type=ws&host=ZhN5vJ9dY7.9pEsC.cOm&path=/&alpn=h2,http/1.1&fp=chrome#new server
-vless://24a4aa9b-b341-4717-9d4a-00d74c2b84e0@www.speedtest.net:2096?path=/&security=tls&encryption=none&alpn=h2,http/1.1&host=HkPk6Cd2Kj.9PeSc.CoM&fp=chrome&type=ws&sni=HkPk6Cd2Kj.9PeSc.CoM#Telegram:@config_proxy 🔥
 vless://24bbc655-0a77-4438-ab33-8923e5b772de@104.17.26.182:2087?path=/Telegram@FreeConnection_VPN/?ed=2560&security=tls&alpn=h2,http/1.1&encryption=none&host=NeT.rPtMsVmVm.ToP&fp=chrome&type=ws&sni=NeT.RpTmSvMVm.ToP#Telegram : @Alfa_v2ray_ng 🔥
 vless://24f7f8e5-dbe5-4cde-e018-2b74a00b6d69@57.128.178.253:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&sni=en.linceedab.com#کانال+ما+در+تلگرام+@Asak_Vpn+🌟
 vless://24f7f8e5-dbe5-4cde-e018-2b74a00b6d69@57.128.178.253:443?security=tls&encryption=none&alpn=h2,http/1.1&headerType=none&fp=chrome&type=tcp&sni=en.linceedab.com#کانال+ما+در+تلگرام+@Asak_Vpn+💛
@@ -252,4 +253,3 @@ vless://283180d3-8fc0-4dd7-a700-290ce8a778dc@172.66.40.99:8080?type=ws&path=/@Ma
 vless://2844ed48-493d-43ca-a13e-76df8e444de0@194.4.49.217:443?path=/fqogayws&security=tls&encryption=none&fp=chrome&type=ws#Telegram : @Alfa_v2ray_ng 🔥
 vless://2844ed48-493d-43ca-a13e-76df8e444de0@194.4.49.217:443?path=/fqogayws&security=tls&encryption=none&type=ws#@Daily_Configs
 vless://2844ed48-493d-43ca-a13e-76df8e444de0@194.4.49.217:443?path=/fqogayws&security=tls&encryption=none&type=ws#@i10VPN 🚀| با ما متصل بمون⚡
-vless://2844ed48-493d-43ca-a13e-76df8e444de0@194.4.49.217:443?path=/fqogayws&security=tls&encryption=none&type=ws#Telegram:@zede_filteri
