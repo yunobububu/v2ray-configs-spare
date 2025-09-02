@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://41b8c97a-7fac-4191-8922-f58d42a9acf7@172.67.74.133:443?security=tls&encryption=none&type=ws&host=app-stg.gopay.co.id.servpn.my.id&path=/id5?ed=2560/?Telegram:@king_v2raay---Telegram:@king_v2raay---Telegram:@king_v2raay---Telegram:@king_v2raay---Telegram:@king_v2raay---Telegram:@king_v2raay---Telegram:@king_v2raay---Telegram:@king_v2raay---Telegram:@king_v2raay---Telegram:@king_v2raay---Telegram:@king_v2raay---Telegram:@king_v2raay---Telegram:@king_v2raay---Telegram:@king_v2raay---Telegram:@king_v2raay---Telegram:@king_v2raay---Telegram:@king_v2raay---Telegram:@king_v2raay---Telegram:@king_v2raay---Telegram:@king_v2raay---Telegram:@king_v2raay---Telegram:@king_v2raay&sni=app-stg.gopay.co.id.servpn.my.id&fp=chrome#Telegram:@king_v2raay
-vless://41b8c97a-7fac-4191-8922-f58d42a9acf7@app-stg.gopay.co.id.servpn.my.id:443?encryption=none&security=tls&sni=app-stg.gopay.co.id.servpn.my.id&fp=chrome&type=ws&host=app-stg.gopay.co.id.servpn.my.id&path=/id5#@Daily_Configs
-vless://41b8c97a-7fac-4191-8922-f58d42a9acf7@app-stg.gopay.co.id.servpn.my.id:443?encryption=none&security=tls&sni=app-stg.gopay.co.id.servpn.my.id&fp=chrome&type=ws&host=app-stg.gopay.co.id.servpn.my.id&path=/id5/?-Tel-@V2rayAlpha#@nethers_vpn🟢کانفیگ های بیشتر برای تمام نت ها
 vless://41b8c97a-7fac-4191-8922-f58d42a9acf7@app-stg.gopay.co.id.servpn.my.id:443?encryption=none&security=tls&sni=app-stg.gopay.co.id.servpn.my.id&fp=chrome&type=ws&host=app-stg.gopay.co.id.servpn.my.id&path=/id5?ed=2048@#✅ @vistav2ray  👈👈کانال ما
 vless://41b8c97a-7fac-4191-8922-f58d42a9acf7@app-stg.gopay.co.id.servpn.my.id:443?path=/id5/?--VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY--&security=tls&encryption=none&host=app-stg.gopay.co.id.servpn.my.id&fp=chrome&type=ws&sni=app-stg.gopay.co.id.servpn.my.id#☞ 𝗝𝗼𝗶𝗻 ➠ @Viturey | تلگرام 🇺🇳
 vless://41b8c97a-7fac-4191-8922-f58d42a9acf7@app-stg.gopay.co.id.servpn.my.id:443?path=/id5/?-Join---i10VPN---Join---i10VPN---Join---i10VPN---Join---i10VPN&security=tls&encryption=none&host=app-stg.gopay.co.id.servpn.my.id&fp=chrome&type=ws&sni=app-stg.gopay.co.id.servpn.my.id#@i10VPN 🚀| با ما متصل بمون⚡
@@ -253,3 +250,6 @@ vless://45471789-5063-4721-949a-7d3fdaa07b9f@165.227.149.23:49968?security=none&
 vless://45471789-5063-4721-949a-7d3fdaa07b9f@165.227.149.23:49968?security=none&encryption=none&headerType=none&type=tcp#@meli_proxyy
 vless://45471789-5063-4721-949a-7d3fdaa07b9f@165.227.149.23:49968?security=none&encryption=none&headerType=none&type=tcp#All Server ⚡𝐣𝐨𝐢𝐍-@V2rayTun0
 vless://45471789-5063-4721-949a-7d3fdaa07b9f@165.227.149.23:49968?security=none&encryption=none&headerType=none&type=tcp#Irancell--@IRAN_V2RAY1
+vless://45471789-5063-4721-949a-7d3fdaa07b9f@165.227.149.23:49968?security=none&encryption=none&headerType=none&type=tcp#Telegram : @Alfa_v2ray_ng 🔥
+vless://45471789-5063-4721-949a-7d3fdaa07b9f@165.227.149.23:49968?type=tcp#@meli_proxyy
+vless://45471789-5063-4721-949a-7d3fdaa07b9f@165.227.149.23:49968?type=tcp&security=none#کانال ما @MrConfig_Channel🎴

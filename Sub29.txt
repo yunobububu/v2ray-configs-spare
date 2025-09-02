@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://72c0e2d6-638b-4a01-936e-50a40637f1cc@sss46544.tas-bazi.com:443?mode=stream-one&path=/xhttp&security=none&encryption=none&type=xhttp#@meli_proxyy
-vless://72c0e2d6-638b-4a01-936e-50a40637f1cc@sss46544.tas-bazi.com:443?mode=stream-one&path=/xhttp&security=none&encryption=none&type=xhttp#@v2ray26:🇩🇪
-vless://72c0e2d6-638b-4a01-936e-50a40637f1cc@sss46544.tas-bazi.com:443?mode=stream-one&path=/xhttp&security=none&encryption=none&type=xhttp#@vmesskhodam
 vless://72c0e2d6-638b-4a01-936e-50a40637f1cc@sss46544.tas-bazi.com:443?mode=stream-one&path=/xhttp&security=none&encryption=none&type=xhttp#Channel : @Mrsoulb 🏴🏳
 vless://72c0e2d6-638b-4a01-936e-50a40637f1cc@sss46544.tas-bazi.com:443?mode=stream-one&path=/xhttp&security=none&encryption=none&type=xhttp#Channel : @V2rayTun0⛩️
 vless://72c0e2d6-638b-4a01-936e-50a40637f1cc@sss46544.tas-bazi.com:443?mode=stream-one&path=/xhttp&security=none&encryption=none&type=xhttp#r♡yaッ
@@ -253,3 +250,6 @@ vless://789d4f30-c31b-4762-8116-ed42574d5e85@cdn29.saloonak.ir:8443?security=&en
 vless://789d4f30-c31b-4762-8116-ed42574d5e85@cdn29.saloonak.ir:8443?security=none&encryption=none&headerType=none&type=tcp#@Daily_Configs
 vless://789d4f30-c31b-4762-8116-ed42574d5e85@cdn29.saloonak.ir:8443?security=none&encryption=none&headerType=none&type=tcp#@Hddify
 vless://789d4f30-c31b-4762-8116-ed42574d5e85@cdn29.saloonak.ir:8443?security=none&encryption=none&headerType=none&type=tcp#@HiByeVPNN👈⚡❤️‍🔥
+vless://789d4f30-c31b-4762-8116-ed42574d5e85@cdn29.saloonak.ir:8443?security=none&encryption=none&headerType=none&type=tcp#@V2RAYROZ
+vless://789d4f30-c31b-4762-8116-ed42574d5e85@cdn29.saloonak.ir:8443?security=none&encryption=none&headerType=none&type=tcp#@i10VPN 🚀| با ما متصل بمون⚡
+vless://789d4f30-c31b-4762-8116-ed42574d5e85@cdn29.saloonak.ir:8443?security=none&encryption=none&headerType=none&type=tcp#𝗝𝗼𝗶𝗻 ➠ 𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦: @V2Gatee

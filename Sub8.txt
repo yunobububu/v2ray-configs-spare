@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-trojan://Bw5Mz7QkVp@70.34.206.32:443?security=tls&sni=z-v2-077787.kailib.com&allowInsecure=1&type=tcp#@awlix_ir
-trojan://Bw5Mz7QkVp@95.179.245.249:443?security=tls&sni=z-v2-080537.kailib.com&type=tcp#@awlix_ir
-trojan://CXCu72eya8wFeRySSFpDz3CN6jBYac5OIl3q0gSl8xZOADY3EK94pxZanDA3RT@35.77.216.3:443?security=tls&sni=broker.superpokemon.com&allowInsecure=1&type=tcp#@awlix_ir
 trojan://Daily_Configs@162.159.152.2:2053?security=tls&sni=kanale-daily-configs.blackoutconnection.ir&type=ws&host=kanale-daily-configs.blackoutconnection.ir&path=/TELEGRAM:@Daily_Configs?ed=2560&fp=chrome#@Hope_Net-join-us-on-Telegram
 trojan://Daily_Configs@172.66.44.110:2053?security=tls&sni=kanale-daily-configs.blackoutconnection.ir&type=ws&host=kanale-daily-configs.blackoutconnection.ir&path=/TELEGRAM:@Daily_Configs?ed=2560&fp=chrome#@Hope_Net-join-us-on-Telegram
 trojan://FiSo7J6vfS@51.68.13.106:1935?security=tls&alpn=h3,h2,http/1.1&headerType=none&type=tcp&sni=x1fr-ovh.devefun.net#@V2rayNG3
@@ -253,3 +250,6 @@ trojan://wkmY1R4EcP@65.20.115.19:443?security=tls&sni=myket.io#@Hope_Net-join-us
 trojan://wkmY1R4EcP@65.20.115.19:443?security=tls&sni=myket.io#t.me/entryNET/config=1842135869036095
 trojan://xjN4xcuPGg@155.248.205.39:45601?security=tls&type=tcp&sni=f.522226.xyz#@Hope_Net-join-us-on-Telegram
 trojan://xjN4xcuPGg@f.522226.xyz:45601?security=tls&headerType=none&type=tcp#@V2rayNG3
+trojan://xxfJcenVhh@79.137.195.203:443?path=/TELEGRAM----@JKVPN----@JKVPN----@JKVPN----@JKVPN----@JKVPN----@JKVPN----@JKVPN----@JKVPN----@JKVPN----@JKVPN----@JKVPN----@JKVPN----@JKVPN----@JKVPN?ed=2048&security=none&host=joker.ahang-alpha.ir&type=ws#𝗝𝗼𝗶𝗻➠ᴬᴸᴸ²🇳🇱@JKVPN
+trojan://xxoo@us.blazeppn.info:443?security=tls&headerType=none&type=tcp&sni=us.blazeppn.info#@meli_proxyy
+trojan://xxoo@us.blazeppn.info:443?security=tls&headerType=none&type=tcp&sni=us.blazeppn.info#I 809 (@Outline_Vpn) free

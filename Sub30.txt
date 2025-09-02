@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://789d4f30-c31b-4762-8116-ed42574d5e85@cdn29.saloonak.ir:8443?security=none&encryption=none&headerType=none&type=tcp#@V2RAYROZ
-vless://789d4f30-c31b-4762-8116-ed42574d5e85@cdn29.saloonak.ir:8443?security=none&encryption=none&headerType=none&type=tcp#@i10VPN 🚀| با ما متصل بمون⚡
-vless://789d4f30-c31b-4762-8116-ed42574d5e85@cdn29.saloonak.ir:8443?security=none&encryption=none&headerType=none&type=tcp#𝗝𝗼𝗶𝗻 ➠ 𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦: @V2Gatee
 vless://789d4f30-c31b-4762-8116-ed42574d5e85@cdn29.saloonak.ir:8443?security=none&encryption=none&headerType=none&type=tcp#🇩🇪@FreakConfig
 vless://789d4f30-c31b-4762-8116-ed42574d5e85@cdn29.saloonak.ir:8443?security=none&encryption=none&headerType=none&type=tcp&note=Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---#[🇩🇪]t.me/Raiv2mmr
 vless://789d4f30-c31b-4762-8116-ed42574d5e85@cdn29.saloonak.ir:8443?security=none&encryption=none&host=/?BIA_TELEGRAM@MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&type=tcp#@MARAMBASHI 🩵
@@ -253,3 +250,6 @@ vless://813d7c7e-d2ea-460f-9bf7-e6fa6a073b67@www.speedtest.net.cdn.cloudflare.ne
 vless://813d7c7e-d2ea-460f-9bf7-e6fa6a073b67@www.speedtest.net.cdn.cloudflare.net:8080?path=/?ed=2048&security=none&encryption=none&host=TW.kKpopH4Zmc.ZUlaIr.orG&type=ws#@v2ray313 کانالمون ☘️
 vless://813d7c7e-d2ea-460f-9bf7-e6fa6a073b67@www.speedtest.net.cdn.cloudflare.net:8080?path=/?ed=2048&security=none&encryption=none&host=TW.kKpopH4Zmc.ZUlaIr.orG&type=ws#@vmesskhodam
 vless://813d7c7e-d2ea-460f-9bf7-e6fa6a073b67@www.speedtest.net.cdn.cloudflare.net:8080?path=/?ed=2048&security=none&encryption=none&host=TW.kKpopH4Zmc.ZUlaIr.orG&type=ws#All--@IRAN_V2RAY1
+vless://813d7c7e-d2ea-460f-9bf7-e6fa6a073b67@www.speedtest.net.cdn.cloudflare.net:8080?path=/?ed=2048&security=none&encryption=none&host=TW.kKpopH4Zmc.ZUlaIr.orG&type=ws#IRAN 441 (@Outline_Vpn) free
+vless://813d7c7e-d2ea-460f-9bf7-e6fa6a073b67@www.speedtest.net.cdn.cloudflare.net:8080?path=/?ed=2048&security=none&encryption=none&host=TW.kKpopH4Zmc.ZUlaIr.orG&type=ws#IRAN 534 (@Outline_Vpn) free
+vless://813d7c7e-d2ea-460f-9bf7-e6fa6a073b67@www.speedtest.net.cdn.cloudflare.net:8080?path=/?ed=2048&security=none&encryption=none&host=TW.kKpopH4Zmc.ZUlaIr.orG&type=ws#🇨🇵@FreakConfig
