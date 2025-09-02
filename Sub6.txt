@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppdzhHb040MmRjaU54REJkMFJ3QWRM@193.46.56.185:6683#Irancell--@IRAN_V2RAY1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppdzhHb040MmRjaU54REJkMFJ3QWRM@193.46.56.185:6683#TR 🇹🇷 @vpnAndroid2
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppdzhHb040MmRjaU54REJkMFJ3QWRM@193.46.56.185:6683#برای اتصال دائمی جوین شو🍦@Outline_ir
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppdzhHb040MmRjaU54REJkMFJ3QWRM@193.46.56.185:6683#🇹🇷 @FREEV2RNG
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppdzhHb040MmRjaU54REJkMFJ3QWRM@193.46.56.185:6683#🇹🇷𝐣𝐨𝐢𝐍-@𝐅𝐑𝐄𝐄𝐕𝟐𝐑𝐍𝐆
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppdzhHb040MmRjaU54REJkMFJ3QWRM@193.46.56.185:6683#🌐𝐣𝐨𝐢𝐍-@𝐅𝐑𝐄𝐄𝐕𝟐𝐑𝐍𝐆
@@ -22,6 +19,8 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprd2cySllxU1U3cVEwVjFZd2pBZjI3@167.99.169.218
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprd2cySllxU1U3cVEwVjFZd2pBZjI3@167.99.169.218:443#@meli_proxyy
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprd2cySllxU1U3cVEwVjFZd2pBZjI3@167.99.169.218:443#Channel id: @proxy_kafee🇺🇸
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprd2cySllxU1U3cVEwVjFZd2pBZjI3@167.99.169.218:443#🇺🇲@FreakConfig
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsVmZnMDEzTUdRdzNLY1BFQzRKWm44@194.87.45.189:443?note=--Telegram--@NetifyVPN--#t.me/entryNET/config=1842144235393695
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsVmZnMDEzTUdRdzNLY1BFQzRKWm44@194.87.45.189:443?note=--Telegram--@NetifyVPN--#🇪🇸[Telegram:NetifyVpn]
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsYmh6a0ZyalpxVjlvd3dFRkM0dm5r@91.210.57.117:8443#🇩🇰[Telegram:v2rayng_fars]
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg==@18.139.0.110:8313#🇸🇬𝐣𝐨𝐢𝐍-@𝐅𝐑𝐄𝐄𝐕𝟐𝐑𝐍𝐆
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg==@18.139.0.110:8319#@IRAN_V2RAY1
@@ -253,3 +252,4 @@ ss://YWVzLTEyOC1nY206MTAwODY=@160.16.123.124:10087#@HiByeVPNN👈❤️‍🔥�
 ss://YWVzLTEyOC1nY206MTAwODY=@160.16.123.124:10087#@MARAMBASHI 💔🖤
 ss://YWVzLTEyOC1nY206MTAwODY=@160.16.123.124:10087#All-@IRAN_V2RAY1
 ss://YWVzLTEyOC1nY206MTAwODY=@160.16.123.124:10087#برای اتصال دائمی جوین شو🍦@Outline_ir
+ss://YWVzLTEyOC1nY206MTAwODY=@160.16.123.124:10087#𝗝𝗼𝗶𝗻 ➠ 𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦: @V2Gatee
