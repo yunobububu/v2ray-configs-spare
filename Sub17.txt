@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://502ce704-dcec-4f92-9489-505c99ce6c89@f6.sarasimano.com:2096?path=/&security=tls&encryption=none&type=ws#@v2rayng_fars
-vless://502ce704-dcec-4f92-9489-505c99ce6c89@f9.sarasimano.com:2096?path=/&security=tls&encryption=none&type=ws#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
 vless://503b59d2-8d11-4c3d-9e46-391f4b65134c@EXPRESSVPN_420.fAst.hosting-ip.com:80?mode=auto&path=/&security=none&encryption=none&host=p30download.ir&type=xhttp#@EXPRESSVPN_420
 vless://503b59d2-8d11-4c3d-9e46-391f4b65134c@speedtest.net:80?type=xhttp&path=/&host=p30download.ir&mode=auto&security=none#سرور رایگان @HAJIMAMADVPN-6
 vless://504a66e9-9192-482d-9b91-962a4c8e391c@149.28.117.46:443?mode=stream-one&path=/rtgyhjk&security=none&encryption=none&type=xhttp#Telegram | @FNET00📱
@@ -253,3 +251,5 @@ vless://583ceab3-4022-4553-9158-9bedc625ad4e@89.116.180.186:8880?encryption=none
 vless://583ceab3-4022-4553-9158-9bedc625ad4e@92.53.190.177:8880?encryption=none&security=none&sni=Telegram-channel-WangCai2&type=ws&host=ip.langmanshanxi.top&path=/#@AYMH19 کانال تلگرام
 vless://584bb6f2-aaf3-48a6-b154-b03238bb1e07@v2hich.fast.hosting-ip.com:80?path=/@SvnProBot?ed=2560&security=none&encryption=none&host=shad.ir&type=ws#@CaV2ray ⚡️
 vless://5879d109-8c92-448a-801b-3f3989019934@104.17.147.22:443?path=/Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray?ed=2048&security=tls&encryption=none&host=xswrrt.pages.dev&type=ws&sni=pages.dev#@TEHRANARGO
+vless://5879d109-8c92-448a-801b-3f3989019934@172.66.40.99:443?path=/Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray?ed=2048&security=tls&encryption=none&host=hrtfwe.pages.dev&type=ws&sni=pages.dev#Telegram : @Alfa_v2ray_ng 🔥
+vless://5879d109-8c92-448a-801b-3f3989019934@172.66.40.99:443?path=/Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray---Telegram-XV2ray?ed=2048&security=tls&encryption=none&host=xswrrt.pages.dev&type=ws&sni=pages.dev#@TEHRANARGO
