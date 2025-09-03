@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://fbb48289-91ef-4f30-a90e-f6a4c6f7ae38@172.67.73.216:80?encryption=none&security=none&type=ws&host=www.speedtest.net.tax.gov.ir.aparat.com.a.2.jEy.dPdNs.org.&path=/Telegram@vpnjeyTelegram@vpnjeyTelegram@vpnjey#Telegram @vpnjey  🇺🇸🇺🇸
-vless://fbbf3b87-5f9d-4358-8a40-3cf9ab653321@zula.ir:8443?mode=auto&path=/ed?/ooAjjjjjAAdyujh7=8443&security=tls&alpn=h3&encryption=none&host=Main.kasler.lol&fp=chrome&type=xhttp&sni=main.kasler.lol#@ev2rayy mci
-vless://fbbf3b87-5f9d-4358-8a40-3cf9ab653321@zula.ir:8443?mode=auto&path=/ed?/ooAjjjjjAAdyujh7=8443&security=tls&alpn=h3,h2,http/1.1&encryption=none&host=Main.kasler.lol&fp=chrome&type=xhttp&sni=main.kasler.lol#@ev2rayy mtn
 vless://fbbf3b87-5f9d-4358-8a40-3cf9ab653328@zula.ir:8443?mode=auto&path=/ed?/ooAjjjjjAAdyujh7=8443&security=tls&alpn=h3&encryption=none&host=Main.kasler.lol&fp=chrome&type=xhttp&sni=main.kasler.lol#@ev2rayy mci
 vless://fbbf3b87-5f9d-4358-8a40-3cf9ab653328@zula.ir:8443?mode=auto&path=/ed?/ooAjjjjjAAdyujh7=8443&security=tls&alpn=h3,h2,http/1.1&encryption=none&host=Main.kasler.lol&fp=chrome&type=xhttp&sni=main.kasler.lol#@ev2rayy mtn
 vless://fbbf3b87-5f9d-4358-8a40-3cf9ab65332c@zula.ir:8443?mode=auto&path=/ed?/ooAjjjjjAAdyujh7=8443&security=tls&alpn=h3&encryption=none&host=Main.kasler.lol&fp=chrome&type=xhttp&sni=main.kasler.lol#@ev2rayy mci
@@ -253,3 +250,6 @@ vless://👉👉BanV2ray@udhd-isvsu.haratipulan.ir:46980?type=grpc&serviceName=/
 vless://👉👉BanV2ray👈👈@geoglyph.cloudflare.com:2082?type=ws&path=/www.speedtest.net-www.speedtest.net-www.openai.com-www.speedtest.net?ed=3216&host=chanel-fastt.lavazembaranjon.ir&security=none#@BanV2ray 🇫🇮
 vless://👉👉BanV2ray👈👈@geoglyph.cloudflare.com:2082?type=ws&path=/www.speedtest.net-www.speedtest.net-www.openai.com-www.speedtest.net?ed=3216&host=chanel-fastt.lavazembaranjon.ir&security=none#@BanV2ray 🇫🇮 [ All Net ]👆   یک
 vless://👉👉BanV2ray👈👈@geoglyph.cloudflare.com:2095?type=ws&path=/www.speedtest.net-www.speedtest.net-www.speedtest.net-www.openai.com-www.speedtest.net?ed=3216&host=chanel-fastt.lavazembaranjon.ir.&security=none#@BanV2ray 🇫🇮
+vless://👉👉BanV2ray👈👈@notifications.platform.dash.cloudflare.com:2052?path=/www.speedtest.net-www.speedtest.net-www.speedtest.net-www.openai.com-www.speedtest.net?ed=3216&security=none&encryption=none&host=chanel-fastt.lavazembaranjon.ir.&type=ws#@BanV2ray 🇫🇮 2
+vless://👉👉BanV2ray👈👈@notifications.platform.dash.cloudflare.com:2052?type=ws&path=/www.speedtest.net-www.speedtest.net-www.speedtest.net-www.speedtest.net-www.speedtest.net-www.openai.com-www.speedtest.net?ed=18368&host=hdgsh-idbsus-isvshsh.lavazembaranjon.ir.&security=none#@BanV2ray 🇩🇪
+vless://👉👉BanV2ray👈👈@notifications.platform.dash.cloudflare.com:2095?path=/www.speedtest.net-www.speedtest.net-www.speedtest.net-www.openai.com-www.speedtest.net?ed=3216&security=none&encryption=none&host=chanel-fastt.lavazembaranjon.ir.&type=ws#@BanV2ray 🇫🇮 2
