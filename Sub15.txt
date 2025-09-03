@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://42872a28-fdb0-49de-8ea4-a093b0042cec@188.166.150.199:443?path=/ws&security=tls&encryption=none&host=188.166.150.199&fp=chrome&type=ws&sni=zula.ir#𝗝𝗼𝗶𝗻 ➠ 𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦: @V2Gatee
 vless://42a0e2dd-e229-457e-ad56-56615e200c46@159.89.102.25:443?mode=auto&path=/FreeLife&security=reality&encryption=none&pbk=Ss50ROIQ6SHZLT06JF8iIH2pefO70fU41_LVZsweuRc&fp=chrome&spx=/&type=xhttp&sni=daisyui.com&sid=e5ce3799e8#🇩🇪 | @External_Net
 vless://42f36835-730c-4ecc-9daf-20121ae7ba47@104.24.207.192:443?security=tls&sni=gozargah.validbv7996.ir&fp=chrome&type=ws&path=/?ed=2560&host=gozargah.validbv7996.ir&encryption=none#@awlix_ir
 vless://42f36835-730c-4ecc-9daf-20121ae7ba47@190.93.244.221:443?security=tls&sni=gozargah.validbv7996.ir&fp=chrome&type=ws&path=/?ed=2560&host=gozargah.validbv7996.ir&encryption=none#@awlix_ir
@@ -252,4 +253,3 @@ vless://4c2078b8-768c-4b85-8ef2-138b68143158@vpconnect.ahadbala.ir:80?mode=auto&
 vless://4c2078b8-768c-4b85-8ef2-138b68143158@vpconnect.ahadbala.ir:80?mode=auto&path=/&security=none&encryption=none&host=vpnconnects.com&type=xhttp#🇩🇪v2rayng (DE)🔐-confegraigan
 vless://4c266060-28aa-4fd4-8286-86127e16b260@172.234.192.79:2321?security=none&encryption=none&headerType=none&type=tcp#@IRAN_V2RAY1
 vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@amazon-13.cristiano.name.ng:443?security=reality&encryption=none&pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=store.steampowered.com&sid=f5#@HiByeVPNN👈⚡❤️‍🔥
-vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@amazon-13.cristiano.name.ng:443?security=reality&encryption=none&pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=store.steampowered.com&sid=f5#𝗝𝗼𝗶𝗻 ➠ 𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦: @V2Gatee
