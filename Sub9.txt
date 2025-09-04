@@ -3,6 +3,10 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://0fbf4f81-2598-4b6a-a623-0ead4cb9efa8@172.66.146.26:443?path=/Free-CF-Proxy-AD192.3.113.4-19318?ed=2048/?TELEGRAM_CHANEL_JKVPN_JKVPN_JKVPN&security=tls&encryption=none&host=privasi.turah.my.id&fp=chrome&type=ws&sni=privasi.turah.my.id#✅ @vistav2ray  👈👈کانال ما
+vless://0fbf4f81-2598-4b6a-a623-0ead4cb9efa8@172.66.146.26:443?path=/Free-CF-Proxy-AD192.3.113.4-19318?ed=2048/?TELEGRAM_CHANEL_JKVPN_JKVPN_JKVPN&security=tls&encryption=none&host=privasi.turah.my.id&fp=chrome&type=ws&sni=privasi.turah.my.id#𝗝𝗼𝗶𝗻➠⁴@JKVPN
+vless://0fbf4f81-2598-4b6a-a623-0ead4cb9efa8@172.66.146.26:443?path=/Free-CF-Proxy-AD192.3.113.4-19318?ed=2048/?TELEGRAM_CHANEL_ShadowProxy66&security=tls&encryption=none&host=privasi.turah.my.id&fp=chrome&type=ws&sni=privasi.turah.my.id#Channel id: @singbox1 🇨🇦
+vless://0fbf4f81-2598-4b6a-a623-0ead4cb9efa8@172.66.146.26:443?type=grpc&serviceName=Telegram : @singbox1
 vless://0fbf4f81-2598-4b6a-a623-0ead4cb9efa8@172.67.74.133:443?path=/Free-CF-Proxy-AD192.3.113.4-19318?ed=2048@Dropcube--@Dropcube--@Dropcube--@Dropcube--@Dropcube--@Dropcube--@Dropcube&security=tls&encryption=none&host=privasi.turah.my.id&fp=chrome&type=ws&sni=privasi.turah.my.id#@Dropcube
 vless://0fbf4f81-2598-4b6a-a623-0ead4cb9efa8@172.67.74.133:443?path=/Free-CF-Proxy-AD192.3.113.4-19318?ed=2048@Dropcube--@Dropcube--@Dropcube--@Dropcube--@Dropcube--@Dropcube--@Dropcube--@Dropcube--@Dropcube&security=tls&encryption=none&host=privasi.turah.my.id&fp=chrome&type=ws&sni=privasi.turah.my.id#@Dropcube⚡❤️‍🔥
 vless://0fbf4f81-2598-4b6a-a623-0ead4cb9efa8@172.67.74.133:443?path=/Free-CF-Proxy-AD192.3.113.4-19318?ed=2048@Dropcube--@Dropcube--@Dropcube--@Dropcube--@Dropcube--@Dropcube--@Dropcube--@Dropcube--@Dropcube--@Dropcube--@Dropcube--@Dropcube--@Dropcube&security=tls&encryption=none&host=privasi.turah.my.id&fp=chrome&type=ws&sni=privasi.turah.my.id#@Dropcube⚡❤️‍🔥
@@ -249,7 +253,3 @@ vless://16eb47f3-f741-4f2a-92ec-7b846f8103ba@b.nl.cdn.maviks.ru:443?path=/pLmdwS
 vless://1708fb1a-cff1-4532-a837-435af960ee77@185.113.223.65:10321?security=reality&encryption=none&pbk=S-x02lU6w9dJbqgEnchi70h7OoGKSgey7OjVx6cVDDA&headerType=none&fp=chrome&spx=/@skyshieldvpn&type=tcp&sni=google.com&sid=8f4e#@SkyshieldVpn ترکیه
 vless://1708fb1a-cff1-4532-a837-435af960ee77@185.113.223.65:10321?security=reality&encryption=none&pbk=S-x02lU6w9dJbqgEnchi70h7OoGKSgey7OjVx6cVDDA&headerType=none&fp=chrome&type=tcp&sni=google.com&sid=8f4e#@V2rayNGVPN+<=+کانفیگ+رایگان
 vless://1708fb1a-cff1-4532-a837-435af960ee77@185.113.223.65:10321?security=reality&encryption=none&pbk=S-x02lU6w9dJbqgEnchi70h7OoGKSgey7OjVx6cVDDA&headerType=none&fp=chrome&type=tcp&sni=google.com&sid=8f4e#🇹🇷@FreakConfig
-vless://170ba974-6ae5-44ae-dfdc-4675b5643f34@79.137.33.139:16390?security=&encryption=none&headerType=none&type=tcp#🇫🇷𝐣𝐨𝐢𝐍-@𝐅𝐑𝐄𝐄𝐕𝟐𝐑𝐍𝐆
-vless://170ba974-6ae5-44ae-dfdc-4675b5643f34@79.137.33.139:16390?security=none&encryption=none&headerType=none&type=tcp#Telegram : @Alfa_v2ray_ng 🔥
-vless://170ba974-6ae5-44ae-dfdc-4675b5643f34@79.137.33.139:16390?security=none&encryption=none&headerType=none&type=tcp#VayNora
-vless://170ba974-6ae5-44ae-dfdc-4675b5643f34@79.137.33.139:16390?security=none&encryption=none&headerType=none&type=tcp#⚜️Telegram: @IP_CF 🇫🇷
