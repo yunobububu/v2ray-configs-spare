@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://4c585027-6ef2-42ff-899b-06a97b1ee7bb@91.107.159.32:443?security=reality&encryption=none&pbk=WjYNpDmgqI19JN7jmgTW6lAHUGN1YEa4yc9Bwqs9w0Y&headerType=none&fp=chrome&spx=/کانال‌تلگرام@ev2rayy&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=0f8bc395378e80#@ev2rayy
 vless://4c585027-6ef2-42ff-899b-06a97b1ee7bc@91.107.159.32:443?security=reality&encryption=none&pbk=WjYNpDmgqI19JN7jmgTW6lAHUGN1YEa4yc9Bwqs9w0Y&headerType=none&fp=chrome&spx=/کانال‌تلگرام@ev2rayy&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=0f8bc395378e80#@ev2rayy
 vless://4c585027-6ef2-42ff-899b-06a97b1ee7bd@91.107.159.32:443?security=reality&encryption=none&pbk=WjYNpDmgqI19JN7jmgTW6lAHUGN1YEa4yc9Bwqs9w0Y&headerType=none&fp=chrome&spx=/کانال‌تلگرام@ev2rayy&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=0f8bc395378e80#@ev2rayy
 vless://4c835bff-4f4d-4608-bb21-120099089688@104.21.36.57:443?path=/wsv/4c835bff-4f4d-4608-bb21-120099089688&security=tls&encryption=none&type=ws&sni=orange.fullmargintraders.com#@Daily_Configs
@@ -252,4 +253,3 @@ vless://54e38a27-7ee9-4d83-a2de-bdb9dc123a4e@www.speedtest.net:2086?path=/@ZedBa
 vless://54ef4ecf-ff37-436a-be13-95c8a8a1114d@188.42.145.159:443?security=tls&sni=VIrgiNiavPn-nL.pagEs.dEv&type=ws&host=VIrgiNiavPn-nL.pagEs.dEv&path=/security=tls&fp=chrome#[🇳🇱]ae_proxy
 vless://54f6e78c-b497-4db7-ba48-38c4cf81d5ef@188.114.99.16:2053?encryption=none&security=tls&sni=019309B7.XyZ0.PaGeS.dEV&type=ws&host=019309B7.XyZ0.PaGeS.dEV&path=/#@Golestan_VPN - JOIN
 vless://54f7ec07-e994-4861-b951-0a0886439ae4@filmnet.filimnet.com:80/?type=xhttp&path=/cdn/assets?v=12&host=abriconf.global.ssl.fastly.net&mode=packet-up&security=none#@AbriVPN :خرید کانفیگ اختصاصی‌⚡️
-vless://55143323-5ef4-45c2-b8fb-9f7b987589e6@lwndnnw.js87nlw.iwhwkdh87.owjfj87kdk.theiranoflegends.com:883?security=none&encryption=none&host=skyroom.online,gharar.ir,igap.net&headerType=http&type=tcp#@CaV2ray ⚡️

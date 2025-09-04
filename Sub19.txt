@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://55143323-5ef4-45c2-b8fb-9f7b987589e6@lwndnnw.js87nlw.iwhwkdh87.owjfj87kdk.theiranoflegends.com:883?security=none&encryption=none&host=skyroom.online,gharar.ir,igap.net&headerType=http&type=tcp#@CaV2ray ⚡️
 vless://552f2fe8-fb7e-4f07-b4d6-a231f1dfec42@57.128.163.127:33801?security=none&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#☞ 𝗝𝗼𝗶𝗻 ➠ @Viturey
 vless://552f2fe8-fb7e-4f07-b4d6-a231f1dfec42@m13a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#@IRAN_V2RAY1
 vless://552f2fe8-fb7e-4f07-b4d6-a231f1dfec42@m13a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#@ata_connect
@@ -252,4 +253,3 @@ vless://5da52d2d-1ab8-48d0-8421-8354fd6ce7d3@www.visasoutheasteurope.com:443?typ
 vless://5dd18dac-f4f1-480d-baf2-fdbe6165254f@2.188.227.134:2060?type=tcp&security=none#𝒃𝒐𝒍𝒃𝒐𝒍𝒗𝒑𝒏-@bolbolvpn 👈 چنل ما2
 vless://5de46b0d-10fd-4162-8997-5003f9da30e0@172.66.132.196:443?path=/Tel-@V2ray_Alpha=?ed=2560&security=tls&alpn=h3,h2,http/1.1&encryption=none&host=mmd-p9k.pages.dev&fp=chrome&type=ws&sni=mmd-p9k.PagEs.Dev#@Mrconfig_Channel 🩵
 vless://5de6ad92-3282-4457-b4c4-a94dbce499b5@63.141.128.2:8080?path=/Join-ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&security=none&encryption=none&host=b.jOin.zEdMoDeOn.oNl.&type=ws#@bored_vpn
-vless://5de6ad92-3282-4457-b4c4-a94dbce499b5@63.141.128.2:8080?path=/Join-ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&security=none&encryption=none&host=b.jOin.zEdMoDeOn.oNl.&type=ws#@mehrosaboran
