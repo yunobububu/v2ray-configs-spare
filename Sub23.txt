@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://760749cd-62bf-4841-8cd5-dffa086cfe3f@173.245.59.132:8080?path=/@MaSTeRSeRVeR1-@-MaSTeRSeRVeR1@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1?ed=2048&security=&encryption=none&host=masterserver1.nanvrfood.ir.&type=httpupgrade#🇩🇪 All Operator 1 @MaSTeRSeRVeR1
-vless://760749cd-62bf-4841-8cd5-dffa086cfe3f@198.41.216.98:8080?path=/@MaSTeRSeRVeR1-@-MaSTeRSeRVeR1@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1-@MaSTeRSeRVeR1?ed=2048&security=&encryption=none&host=masterserver1.nanvrfood.ir.&type=httpupgrade#🇩🇪 All Operator 2 @MaSTeRSeRVeR1
 vless://7627df5b-8101-4230-dd73-47266d588ccd@77.81.81.69:49822?security=none&encryption=none&headerType=none&type=tcp#🇺🇸[Telegram:v2rayng_fars]
 vless://76321d45-9023-4b87-b070-bf3ce332024e@172.66.40.99:8880?path=/@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec&security=&encryption=none&host=inFo.laLezaRanegomaNandish.mdV.V2.onlineshopbb.org.&type=ws#@v2rayng_fars
 vless://76321d45-9023-4b87-b070-bf3ce332024e@172.66.40.99:8880?path=/@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec----@MdVpnSec&security=none&encryption=none&host=inFo.laLezaRanegomaNandish.mdV.V2.onlineshopbb.org.&type=ws#@v2rayng_fars
@@ -253,3 +251,5 @@ vless://7cbf9bdc-dd7e-43e1-b2dc-04042ef5f1e0@world-of.ru:443?flow=xtls-rprx-visi
 vless://7cd6adff-8849-4fad-b3b3-857721c81477@168.119.48.210:8080?type=ws&path=/@VPNLime&host=fast.com&security=none#Channel: @VPNLime
 vless://7cd6adff-8849-4fad-b3b3-857721c81477@49.13.74.174:8080?type=ws&path=/@VPNLime&host=fast.com&security=none#Channel: @VPNLime
 vless://7cfee10a-57f2-4eb7-a176-b4faebd45c83@qp.vqpv.top:2052?security=none&encryption=none&headerType=none&type=tcp#@v2ray313 کانالمون 🤍
+vless://7cfee10a-57f2-4eb7-a176-b4faebd45c83@qp.vqpv.top:2052?security=none&encryption=none&headerType=none&type=tcp#@v2ray313 کانالمون 🦠
+vless://7d18fc67-1994-4f7e-8ff8-c024223f33bb@indeed.com:443?encryption=none&security=tls&sni=revcloud.migacpi.org&type=ws&host=revcloud.migacpi.org&path=/cbde4058-6b81-432b-8689-dd7ce10e479c#@Daily_Configs
