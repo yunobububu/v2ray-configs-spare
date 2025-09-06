@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.237.140.56:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#𝗝𝗼𝗶𝗻 ➠ @vpnplusee_free | کانال ما
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.158.179.227:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#t.me/entryNET/config=1842533864518360
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.171.4.112:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#t.me/entryNET/config=1842517710857533
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.199.51.132:22224?type=ws&security=tls&path=/telegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#𝗝𝗼𝗶𝗻 ➠ @vpnplusee_free | کانال ما
@@ -252,4 +253,3 @@ vless://0f7e89d6-9f35-4e94-ba4b-509a724dc177@91.99.219.15:443?mode=auto&path=/ds
 vless://0f7e89d6-9f35-4e94-ba4b-509a724dc177@91.99.223.68:443?mode=auto&path=/ds&security=none&encryption=none&type=xhttp#@Selinc
 vless://0f7e89d6-9f35-4e94-ba4b-509a724dc177@91.99.228.179:443?mode=auto&path=/ds&security=&encryption=none&type=xhttp#Telegram : @Dropcube
 vless://0f7e89d6-9f35-4e94-ba4b-509a724dc177@91.99.228.179:443?mode=auto&path=/ds&security=&encryption=none&type=xhttp#𝗝𝗼𝗶𝗻 ➠ @PlanB_Proxy | کانال ما 🆔
-vless://0f7e89d6-9f35-4e94-ba4b-509a724dc177@91.99.228.179:443?mode=auto&path=/ds&security=none&encryption=none&type=xhttp#@i10VPN 🚀| با ما متصل بمون⚡

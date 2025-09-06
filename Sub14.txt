@@ -3,6 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://31cffb7a-a6f1-422b-b156-4360613ff720@172.66.40.99:80?path=/Join-ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&security=none&encryption=none&host=a.joIn.zEdMoDeOn.oNl.&type=ws#🇩🇪v2rayng (DE)🔐-confegraigan
+vless://31e18807-9671-47b9-9dea-6e2f6ecd8c54@5.75.203.66:39216?flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=Google.com&pbk=efkIZIpJH8HUqshKjh6qoI8EC_MkDUR4fk_rjeH2zh0&sid=c0113423&spx=/@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn#🇩🇪@EVAY_VPN
 vless://31e18807-9671-47b9-9dea-6e2f6ecd8c54@5.75.203.66:39216?security=reality&encryption=none&pbk=efkIZIpJH8HUqshKjh6qoI8EC_MkDUR4fk_rjeH2zh0&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=Google.com&sid=c0113423#@ev2rayy
 vless://31ff2698-83eb-415a-9548-e3e387296adc@194.58.66.146:443?security=reality&encryption=none&pbk=suqEZ-Y0ekSa7F_zGFeRhCLIJqZbnmBbnZJ-zYT7iQI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=5c0333ed45b1#Channel id: @ShadowProxy66 🇸🇮
 vless://31ff2698-83eb-415a-9548-e3e387296adc@194.58.66.146:443?security=reality&encryption=none&pbk=suqEZ-Y0ekSa7F_zGFeRhCLIJqZbnmBbnZJ-zYT7iQI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=5c0333ed45b1#Channel id: @proxy_kafee 🇸🇮
@@ -251,5 +253,3 @@ vless://39ca66b9-a34c-4031-a6ce-8846f75d8cb9@app-stg.gopay.co.id.servpn.my.id:44
 vless://39ca66b9-a34c-4031-a6ce-8846f75d8cb9@app-stg.gopay.co.id.servpn.my.id:443?path=/sg10&security=tls&encryption=none&host=app-stg.gopay.co.id.servpn.my.id&type=ws&sni=app-stg.gopay.co.id.servpn.my.id#@Dropcube⚡❤️‍🔥
 vless://39ca66b9-a34c-4031-a6ce-8846f75d8cb9@app-stg.gopay.co.id.servpn.my.id:443?path=/sg10&security=tls&encryption=none&host=app-stg.gopay.co.id.servpn.my.id&type=ws&sni=app-stg.gopay.co.id.servpn.my.id#@Selinc
 vless://39ca66b9-a34c-4031-a6ce-8846f75d8cb9@app-stg.gopay.co.id.servpn.my.id:443?path=/sg10&security=tls&encryption=none&host=app-stg.gopay.co.id.servpn.my.id&type=ws&sni=app-stg.gopay.co.id.servpn.my.id#@i10VPN 🚀| با ما متصل بمون⚡
-vless://39ca66b9-a34c-4031-a6ce-8846f75d8cb9@app-stg.gopay.co.id.servpn.my.id:443?path=/sg10&security=tls&encryption=none&host=app-stg.gopay.co.id.servpn.my.id&type=ws&sni=app-stg.gopay.co.id.servpn.my.id#@v2rayng_fars
-vless://39ca66b9-a34c-4031-a6ce-8846f75d8cb9@app-stg.gopay.co.id.servpn.my.id:443?path=/sg10&security=tls&encryption=none&host=app-stg.gopay.co.id.servpn.my.id&type=ws&sni=app-stg.gopay.co.id.servpn.my.id#@v2rayng_fars @Pruuxi
