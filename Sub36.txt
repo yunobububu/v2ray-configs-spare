@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://e0f36aaf-f710-4327-bbcc-80bf0635e7b2@172.66.40.99:2052?type=ws&path=/@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet&host=υρρσят-多言語-دعم.snaptripupport.space.&security=none#@Maznet-46178-2
-vless://e0f5135c-b407-4530-baab-be4f51cc6027@qwert.blog:443?security=reality&encryption=none&pbk=GldzvpoHVgXvQQWfUVvipXFo2Jl0uyHz8hDgpikibBQ&headerType=none&fp=chrome&spx=/&type=tcp&sni=real.qwert.blog&sid=44baee35266d#@HiByeVPNN👈⚡❤️‍🔥
 vless://e0f5135c-b407-4530-baab-be4f51cc6027@qwert.blog:443?security=reality&encryption=none&pbk=GldzvpoHVgXvQQWfUVvipXFo2Jl0uyHz8hDgpikibBQ&headerType=none&fp=chrome&spx=/&type=tcp&sni=real.qwert.blog&sid=44baee35266d#r♡yaッ
 vless://e0f5135c-b407-4530-baab-be4f51cc6027@qwert.blog:443?security=reality&encryption=none&pbk=GldzvpoHVgXvQQWfUVvipXFo2Jl0uyHz8hDgpikibBQ&headerType=none&fp=chrome&spx=/&type=tcp&sni=real.qwert.blog&sid=44baee35266d#sangarvpn
 vless://e0f5135c-b407-4530-baab-be4f51cc6027@qwert.blog:443?security=reality&encryption=none&pbk=GldzvpoHVgXvQQWfUVvipXFo2Jl0uyHz8hDgpikibBQ&headerType=none&fp=chrome&spx=/&type=tcp&sni=real.qwert.blog&sid=44baee35266d#𝗝𝗼𝗶𝗻 ➠ 𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦: @V2Gatee
@@ -253,3 +251,5 @@ vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.58:8880?mode=gun&security
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.58:8880?mode=gun&security=none&encryption=none&type=grpc#Telegram: @Academi_vpn
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.58:8880?mode=gun&security=none&encryption=none&type=grpc#𝗝𝗼𝗶𝗻 ➠ @PlanB_Proxy | کانال ما 🆔
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.58:8880?mode=gun&security=none&encryption=none&type=grpc#🇺🇲@FreakConfig
+vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.58:8880?security=none&encryption=none&type=grpc#VayNora
+vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.63:8880?encryption=none&security=none&type=grpc#@Golestan_VPN - JOIN
