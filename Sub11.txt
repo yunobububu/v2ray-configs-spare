@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@45.131.4.85:80?path=FREEV2RNG&security=none&encryption=none&host=zoomgov.vipren.biz.id&type=ws#🌐𝐣𝐨𝐢𝐍-@𝐅𝐑𝐄𝐄𝐕𝟐𝐑𝐍𝐆
 vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@45.131.4.85:80?path=FreeV2rng&security=none&encryption=none&host=zoomgov.vipren.biz.id&type=ws#🇮🇷𝐣𝐨𝐢𝐍-@𝐅𝐑𝐄𝐄𝐕𝟐𝐑𝐍𝐆
 vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@45.131.4.85:80?path=𝐅𝐑𝐄𝐄𝐕𝟐𝐑𝐍𝐆&security=&encryption=none&host=zoomgov.vipren.biz.id&type=ws#🇮🇷𝐣𝐨𝐢𝐍-@𝐅𝐑𝐄𝐄𝐕𝟐𝐑𝐍𝐆
 vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@45.131.7.0:80?path=/193.123.81.105=443&security=none&encryption=none&host=zoomgov.vipren.biz.id&type=ws#Join @Dropcube
@@ -148,6 +149,8 @@ vless://275791c2-2fcd-477e-aa34-5fd4aabc0e16@zula.ir:443?security=tls&encryption
 vless://27581f66-e73f-41c2-936f-f52662a663d6@49.13.138.252:10138?type=ws&path=/@FAST78_CHANNEL-TEL--@FAST78_CHANNEL-TEL--@FAST78_CHANNEL-TEL--@FAST78_CHANNEL-JOIN-@FAST78_CHANNEL-TEL--@FAST78_CHANNEL-JOIN-@FAST78_CHANNEL-TEL-@FAST78_CHANNEL-TEL--@FAST78_CHANNEL-JOIN-@FAST78_CHANNEL-TEL--@FAST78_CHANNEL&host=&security=none#📢+سرورای+بیشتر+هر+روز+تو+کانال++👉+@Fast78_Channel
 vless://276a6072-3b0c-4ddb-bb33-ce14fabc1534@91.99.236.124:51479?security=reality&encryption=none&pbk=ywnxBH4IYI83aaL9k0og1Slb9CU-eEhPypH3pXD0VSg&fp=chrome&spx=/&type=grpc&serviceName=@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM&sni=www.cdn77.com#Telegram : @VPN_ROOM 🇩🇪
 vless://278ac6d3-49b0-4a52-ae3c-7f19970942fa@86.104.74.238:443?path=/wflhdtws&security=tls&encryption=none&fp=chrome&type=ws#@HiByeVPNN👈⚡❤️‍🔥
+vless://278ac6d3-49b0-4a52-ae3c-7f19970942fa@86.104.74.238:443?path=/wflhdtws&security=tls&encryption=none&fp=chrome&type=ws#@V2rayNGVPN <= کانفیگ رایگان
+vless://278ac6d3-49b0-4a52-ae3c-7f19970942fa@86.104.74.238:443?path=/wflhdtws&security=tls&encryption=none&fp=chrome&type=ws#t.me/entryNET/config=1842705117287389
 vless://27b61a3e-ef8c-4bc8-923f-f4ac433d1056@157.230.16.250:50395?type=kcp&headerType=none&seed=K1nVjOzkLe&security=none#کانال ما @MrConfig_Channel🎴
 vless://27f7606f-64b6-4a1d-b2c0-b31b51c6a0a4@138.199.239.38:42671?security=none&encryption=none&headerType=none&type=tcp#@bored_vpn
 vless://27f7606f-64b6-4a1d-b2c0-b31b51c6a0a4@138.199.239.38:42671?security=none&encryption=none&headerType=none&type=tcp#@i10VPN 🚀| با ما متصل بمون⚡
@@ -250,6 +253,3 @@ vless://2b25cdb0-ecb2-4caa-910d-b2e5b2309ca3@185.234.66.94:443?path=/tqjkmwws?ed
 vless://2b25cdb0-ecb2-4caa-910d-b2e5b2309ca3@185.234.66.94:443?path=/tqjkmwws?ed=2048@V2Gatee--V2Gatee--V2Gatee--V2Gatee-V2Gatee--V2Gatee--V2Gatee--V2Gatee--V2Gatee--V2Gatee--V2Gatee--V2Gatee&security=tls&encryption=none&fp=chrome&type=ws#𝗝𝗼𝗶𝗻 ➠ 𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦: @V2Gatee
 vless://2b25cdb0-ecb2-4caa-910d-b2e5b2309ca3@185.234.66.94:443?path=/tqjkmwws?ed=2048@V2Gatee--V2Gatee--V2Gatee--V2Gatee-V2Gatee--V2Gatee--V2Gatee--V2Gatee--V2Gatee--V2Gatee--V2Gatee--V2Gatee&security=tls&encryption=none&type=ws#𝗝𝗼𝗶𝗻 ➠ 𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦: @V2Gatee
 vless://2b277eea-66b2-4f3a-b934-46225c1f5e6f@tgju.org:80?path=/?ed&security=none&encryption=none&host=NoDE28.VtNEt.InFO&type=ws#Telegram : @Alfa_v2ray_ng 🔥
-vless://2b277eea-66b2-4f3a-b934-46225c1f5e6f@tgju.org:80?path=/?ed=2048&security=none&encryption=none&host=SeRvER07.VtNEt.InFO&type=ws#@Selinc
-vless://2b277eea-66b2-4f3a-b934-46225c1f5e6f@tgju.org:80?path=/?ed=2048&security=none&encryption=none&host=SeRvER16.VtNEt.InFO&type=ws#All--@IRAN_V2RAY1
-vless://2b277eea-66b2-4f3a-b934-46225c1f5e6f@tgju.org:80?path=/?ed=2048&security=none&encryption=none&host=SeRvER16.VtNEt.InFO&type=ws#🇩🇪@FreakConfig
