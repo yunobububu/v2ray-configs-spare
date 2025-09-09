@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://19b32b55-1547-49db-9ef7-8ca21d580ce3@91.99.97.62:51479?security=reality&encryption=none&pbk=ywnxBH4IYI83aaL9k0og1Slb9CU-eEhPypH3pXD0VSg&fp=chrome&spx=/&type=grpc&serviceName=@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM&sni=www.cdn77.com#Telegram : @VPN_ROOM 🇩🇪
-vless://19c0987b-279f-4add-a9b1-685a0d983098@151.101.3.8:80?type=xhttp&path=/@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam?ed=2048&host=Mahsazxshop.org&mode=auto&security=none#🇩🇪 | XpnTeam - Telegrams-gfpcdhlj
-vless://19d5384c-0a60-441b-8600-3065cba57321@tab2.mgpingmg.shop:8880?security=none&encryption=none&headerType=none&type=tcp#r♡yaッ
 vless://19deefa6-1a61-4466-8515-d24540956959@185.177.127.125:10801?path=/&security=none&encryption=none&host=www.iranserver.com&type=ws#𝗝𝗼𝗶𝗻 ➠ @PlanB_Proxy | کانال ما 🆔
 vless://19f01e85-d38f-4c48-961e-edff33a1b1bd@65.109.178.188:8080?security=reality&encryption=none&pbk=oBjU0gKKR_swevPnSNtabTy9wotc9XbjZQsjGpmzVhA&headerType=none&fp=chrome&spx=/&type=tcp&sni=journalofbigdata.springeropen.com&sid=83d112fa6efe12dc#@FreeConnection_VPN  با ۵۰ هزار تومان اشتراک اختصاصی بخر راحت شو
 vless://19f143e1-95dc-42f6-f4b4-0554988e876d@37.32.10.174:33269/?type=ws&path=/@VPNlime&security=none#Channel: @VPNLime
@@ -78,7 +75,6 @@ vless://1a6fe500-59da-4598-8576-256f06765ffb@ru.sfasti.ru:443?security=reality&e
 vless://1a719865-dc7d-43eb-9e01-44bbcb6c7205@104.16.53.11:8080?path=/&security=&encryption=none=/@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@TEHRANARGO&host=locationbasedservicesalbania-0kami.okatestoka.ir&type=httpupgrade#@TEHRANARGO
 vless://1a719865-dc7d-43eb-9e01-44bbcb6c7205@104.16.53.11:8080?path=/&security=none&encryption=none&host=locationbasedservicesalbania-0kami.okatestoka.ir&type=httpupgrade#@NETMelliAnti
 vless://1a719865-dc7d-43eb-9e01-44bbcb6c7205@104.16.53.11:8080?path=/&security=none&encryption=none&host=locationbasedservicesturkeyadakmepfoqmwedoqimweopdim.okatestoka.ir&type=httpupgrade#@NETMelliAnti
-vless://1a719865-dc7d-43eb-9e01-44bbcb6c7205@104.16.53.11:8080?path=/&security=none&encryption=none&host=locationbasedservicesturkeyadakmepfoqmwedoqimweopdim.okatestoka.ir&type=httpupgrade#𝗝𝗼𝗶𝗻 ➠ @vpnplusee_free | کانال ما
 vless://1a719865-dc7d-43eb-9e01-44bbcb6c7205@104.16.53.11:8080?path=/&security=none&encryption=none&host=okamicsajnklssaklsksa212r2322eaw3e2dwml.okatestoka.ir&type=httpupgrade#@NETMelliAnti
 vless://1a719865-dc7d-43eb-9e01-44bbcb6c7205@104.16.53.11:8080?path=/&security=none&encryption=none&host=xokaminew3aclskmd23eor2enwr.okatestoka.ir&type=httpupgrade#@NETMelliAnti
 vless://1a719865-dc7d-43eb-9e01-44bbcb6c7205@104.16.53.11:8080?path=/&security=none&encryption=none&host=xokaminew3aclskmd23eor2enwr.okatestoka.ir&type=httpupgrade#@i10VPN 🚀| با ما متصل بمون⚡
@@ -253,3 +249,7 @@ vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.112.1:80?path=/?𝐅𝐑𝐄
 vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.96.1:80?path=/193.123.81.105=443&security=&encryption=none&host=zoomgov.vipren.biz.id&type=ws#🇨🇦𝐣𝐨𝐢𝐍-@𝐅𝐑𝐄𝐄𝐕𝟐𝐑𝐍𝐆
 vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.96.1:80?path=/193.123.81.105=443&security=none&encryption=none&host=zoomgov.vipren.biz.id&type=ws#@IRAN_V2RAY1
 vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.96.1:80?path=/193.123.81.105=443&security=none&encryption=none&host=zoomgov.vipren.biz.id&type=ws#@Selinc
+vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.96.1:80?path=/193.123.81.105=443&security=none&encryption=none&host=zoomgov.vipren.biz.id&type=ws#Join @Dropcube
+vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.96.1:80?path=/193.123.81.105=443&security=none&encryption=none&host=zoomgov.vipren.biz.id&type=ws#Telegram : @Alfa_v2ray_ng 🔥
+vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.96.1:80?path=/193.123.81.105=443&security=none&encryption=none&host=zoomgov.vipren.biz.id&type=ws#🇩🇪[Telegram:v2rayng_fars]
+vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@104.21.96.1:80?path=/Join---PlanB_proxy=443&security=none&encryption=none&host=zoomgov.vipren.biz.id&type=ws#Telegram : @Alfa_v2ray_ng 🔥
