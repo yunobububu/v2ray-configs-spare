@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.21.67.12:443?path=/vpnowl-vpnowl-vpnowl-vpnowl=zani.yaemiko.ggff.net&security=tls&alpn=h2&encryption=none&host=carlotta.shoorekeeper.cloudns.org&fp=chrome&type=ws&sni=carlotta.shoorekeeper.cloudns.org#@AblNet7 🇨🇦
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.21.67.12:443?path=/vpnowl-vpnowl-vpnowl-vpnowl=zani.yaemiko.ggff.net&security=tls&alpn=h2&encryption=none&host=carlotta.shoorekeeper.cloudns.org&fp=chrome&type=ws&sni=carlotta.shoorekeeper.cloudns.org#@IP_CF 🇨🇦
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.21.67.12:443?path=/vpnowl-vpnowl-vpnowl-vpnowl=zani.yaemiko.ggff.net&security=tls&alpn=h2&encryption=none&host=carlotta.shoorekeeper.cloudns.org&fp=chrome&type=ws&sni=carlotta.shoorekeeper.cloudns.org#⚜️Telegram: @IP_CF 🇨🇦
 vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.21.67.12:443?path=/vpnowl-vpnowl-vpnowl-vpnowl=zani.yaemiko.ggff.net&security=tls&alpn=h2&encryption=none&host=carlotta.shoorekeeper.cloudns.org&fp=chrome&type=ws&sni=carlotta.shoorekeeper.cloudns.org#🇨🇦𝐣𝐨𝐢𝐍-@𝐅𝐑𝐄𝐄𝐕𝟐𝐑𝐍𝐆
@@ -253,3 +252,4 @@ vless://374c33ca-5b8c-485c-d27e-04570cab6616@www.speedtest.net:2082?path=/@spike
 vless://375ae95a-b25c-4b71-b249-b177706d1093@107.174.20.103:10111?type=tcp&security=none#@confegraigan
 vless://376734bc-4db8-4317-b451-af0262cb01c7@104.21.75.120:2087?path=/Telegram@V2ray_Alpha/=?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=invincible.fafa20.shop&fp=chrome&type=ws&sni=InvInciBLe.FAFa20.sHop#@CaV2ray ⚡️
 vless://376734bc-4db8-4317-b451-af0262cb01c7@172.66.132.196:443?path=/Tel-@V2ray_Alpha=?ed=2560&security=tls&encryption=none&host=INviNCIBle.fAfa20.shOP&type=ws&sni=INviNCIBle.fAfa20.shOP#@Mrconfig_Channel 🩵
+vless://376734bc-4db8-4317-b451-af0262cb01c7@172.67.171.131:2087?path=/FnxOCItzWpgMrgmD/NzguNDYuNTYuNDI=?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=invincible.fafa20.shop&fp=chrome&type=ws&sni=invINCIBLE.FAfa20.SHOp#@Mrconfig_Channel 🩵

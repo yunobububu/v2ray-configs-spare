@@ -3,6 +3,13 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+
+vless://c6eb0c47-9ffb-4240-b300-2e9dd54fdb4a@92.118.232.69:27774?security=&fp=chrome&type=tcp&encryption=none#@Rayan_Config%20137
+
+vless://c6eb0c47-9ffb-4240-b300-2e9dd54fdb4a@92.118.232.72:27774?security=&fp=chrome&type=tcp&encryption=none#@Rayan_Config%20117
+
+vless://c7c922da-ab54-433c-8046-1f9bf9d95c23@185.236.232.136:1001?security=reality&sni=telewebion.com&fp=chrome&pbk=8Gunn8hjWbit5yLtTPcvLph0u2ovHLsGoXX4IJS1EQ0&sid=5fab0deb&type=tcp&encryption=none#@Rayan_Config%2086
+
 vless://c7c922da-ab54-433c-8046-1f9bf9d95c23@185.236.232.237:1001?security=reality&sni=telewebion.com&fp=chrome&pbk=8Gunn8hjWbit5yLtTPcvLph0u2ovHLsGoXX4IJS1EQ0&sid=5fab0deb&type=tcp&encryption=none#@Rayan_Config%2084
 
 vless://ca2ce370-3dab-4420-80bf-5b7dd9b1181b@51.178.42.187:443?security=tls&sni=zula.ir&allowInsecure=1&fp=chrome&type=ws&path=/ws&encryption=none#Rayan%20-%20RVP%20-%20FR%20-%20II%20-%20%F0%9F%9F%A3%20t.me/Rayan_Config
@@ -246,10 +253,3 @@ ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@156.146.40.194:989#%F0%9F%87%B8%F0
 vmess://ewogICAgImFkZCI6ICIxMDcuMTQ5LjEzNC4xNjUiLAogICAgImFpZCI6IDAsCiAgICAiaG9zdCI6ICIiLAogICAgImlkIjogImI5NDc0ODQ3LTg3MjQtNDkxYS1hMDQyLWNmYzI0NWQzNjAyNCIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi9hcmtpP2VkPTIwNDgiLAogICAgInBvcnQiOiA0MDk4MiwKICAgICJwcyI6ICLwn4e68J+HuFVTLTEwNy4xNDkuMTM0LjE2NS01MjA4IiwKICAgICJ0bHMiOiAiIiwKICAgICJ0eXBlIjogImF1dG8iLAogICAgInNlY3VyaXR5IjogImF1dG8iLAogICAgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLAogICAgInNuaSI6ICIiCn0=
 ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@37.143.129.230:989#%F0%9F%87%AB%F0%9F%87%AEFI-37.143.129.230-0251
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.213.23.226:990#%F0%9F%87%B3%F0%9F%87%B4NO-185.213.23.226-0255
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@79.127.233.170:989#%F0%9F%87%A8%F0%9F%87%A6CA-79.127.233.170-0194
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@185.213.23.226:989#%F0%9F%87%B3%F0%9F%87%B4NO-185.213.23.226-0252
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.34.244.68:443#%F0%9F%87%B3%F0%9F%87%B1NL-149.34.244.68-0256
-vmess://ewogICAgImFkZCI6ICIxMDcuMTQ5LjEzNC4xNjUiLAogICAgImFpZCI6IDAsCiAgICAiaG9zdCI6ICIiLAogICAgImlkIjogIjcwN2NlN2E2LTQ0ODktNGVmMC1hYjczLTliM2EyODQwNWMwOCIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi9hcmtpP2VkPTIwNDgiLAogICAgInBvcnQiOiA1ODU1LAogICAgInBzIjogIvCfh7rwn4e4VVMtMTA3LjE0OS4xMzQuMTY1LTUyMTAiLAogICAgInRscyI6ICIiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsCiAgICAic25pIjogIiIKfQ==
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@121.127.46.147:989#%F0%9F%87%B8%F0%9F%87%AASE-121.127.46.147-0253
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.62.164:443#%F0%9F%87%A8%F0%9F%87%ADCH-156.146.62.164-0260
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.62.162:443#%F0%9F%87%A8%F0%9F%87%ADCH-156.146.62.162-0270
