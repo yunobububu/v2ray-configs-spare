@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://784646e5-8e84-4672-8670-efc9cafcd2cc@212.95.34.20:443/?type=ws&encryption=none&flow=&path=/&security=tls&allowInsecure=1#🇩🇪 Germany ws+tls (2cc)
 vless://784646e5-8e84-4672-8670-efc9cafcd2cc@212.95.34.20:443?path=/&security=tls&encryption=none&type=ws#Telegram : @Alfa_v2ray_ng 🔥
 vless://784646e5-8e84-4672-8670-efc9cafcd2cc@212.95.34.20:443?path=/&security=tls&encryption=none&type=ws#t.me/entryNET/config=1842761804163709
 vless://784646e5-8e84-4672-8670-efc9cafcd2cc@212.95.34.20:443?path=/&security=tls&encryption=none&type=ws#t.me/entryNET/config=1842761804177313
@@ -253,3 +252,4 @@ vless://804f6c86-6750-46e7-95fe-556108bf06c6@speedtestcustom.com:80?mode=auto&pa
 vless://804f6c86-6750-46e7-95fe-556108bf06c6@speedtestcustom.com:80?mode=auto&path=/Join-ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&security=none&encryption=none&host=sharrded.global.ssl.fastly.net&type=xhttp#🇩🇪@FreakConfig
 vless://8088c605-e0c2-4774-9ee4-7fa7e47b6112@151.101.67.8:80?mode=auto&path=/Zed&security=none&encryption=none&host=Ryanjames.global.ssl.fastly.net&type=xhttp#🇨🇿 | @EXPRESSVPN_420
 vless://8088c605-e0c2-4774-9ee4-7fa7e47b6112@151.101.67.8:80?mode=auto&path=/Zed&security=none&encryption=none&host=Ryanjames.global.ssl.fastly.net&type=xhttp#🚀کانال تلگرام : injastvpn@
+vless://8096bdcd-e3f9-4d1b-8519-a87066cced1d@Www.speedtest.net:2095?type=httpupgrade&path=/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam?ed=2048&host=www.speednet.teat.iransHeep.Web.tR.&security=none#🇩🇪 | XpnTeam - Telegrams-l5lx93b6
