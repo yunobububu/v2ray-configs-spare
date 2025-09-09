@@ -3,8 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://5d69f7c9-cb5a-4903-99ab-ac97a50d5cca@all.yasharteam.com:500?security=none&type=tcp&headerType=http&path=/&host=speedtest.net#⚡︎ 🇩🇪 𓏺 𝖳𝖢𝖯 𝖧𝖮𝖲𝖳
-vless://5d69f7c9-cb5a-4903-99ab-ac97a50d5cca@all.yasharteam.com:666?security=none&type=tcp&headerType=none&path=&host=#⚡︎ 🇩🇪 𓏺 𝖳𝖢𝖯 𝖭𝖮𝖭𝖤
 vless://5d71b518-9f52-414a-abf2-b806684233be@its.zarashop0.ir:2087?mode=gun&security=tls&alpn=h2&encryption=none&fp=chrome&type=grpc&sni=its.zarashop0.ir#Telegram | @FNET00📱
 vless://5d71b518-9f52-414a-abf2-b806684233be@pic2.zarashop0.ir:2087?mode=gun&security=tls&alpn=h2&encryption=none&fp=chrome&type=grpc&sni=pic2.zarashop0.ir#Telegram | @FNET00📱
 vless://5d72af32-b620-4a7e-8e49-f6a159a20699@az7-sub.serverfreedom.com:20000?security=reality&encryption=none&pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo&headerType=none&fp=chrome&type=tcp&sni=refersion.com#Telegram : @Alfa_v2ray_ng 🔥
@@ -253,3 +251,5 @@ vless://6780a3c0-a98c-4622-b894-8e34167f7b31@104.26.1.108:443?path=/id5?ed=2048J
 vless://6780a3c0-a98c-4622-b894-8e34167f7b31@104.26.1.108:443?path=/id5?ed=2560/?&security=tls&encryption=none&host=blog.ruangguru.com.servpn.my.id&type=ws&sni=blog.ruangguru.com.servpn.my.id#♾️𝗝𝗼𝗶𝗻➠🆔️@V2Ray_hiddify10🆓️🔷️222🌐
 vless://6780a3c0-a98c-4622-b894-8e34167f7b31@104.26.1.108:443?path=/id5?ed=2560/?&security=tls&encryption=none&host=blog.ruangguru.com.servpn.my.id&type=ws&sni=blog.ruangguru.com.servpn.my.id#♾️𝗝𝗼𝗶𝗻➠🆔️@V2Ray_hiddify10🆓️🔷️224🌐
 vless://6780a3c0-a98c-4622-b894-8e34167f7b31@104.26.1.108:443?path=/id5?ed=2560/?---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---&security=tls&encryption=none&host=blog.ruangguru.com.servpn.my.id&type=ws&sni=blog.ruangguru.com.servpn.my.id#☞ 𝗝𝗼𝗶𝗻 ➠ @Viturey
+vless://6780a3c0-a98c-4622-b894-8e34167f7b31@104.26.1.108:443?path=/id5?ed=2560/?---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---VITUREY---&security=tls&encryption=none&host=blog.ruangguru.com.servpn.my.id&type=ws&sni=blog.ruangguru.com.servpn.my.id#☞ 𝗝𝗼𝗶𝗻 ➠ @Viturey
+vless://6780a3c0-a98c-4622-b894-8e34167f7b31@104.26.1.108:443?path=/id5?ed=2560/?Hddify---Hddify---Hddify---Hddify---Hddify---Hddify---Hddify---Hddify---Hddify&security=tls&encryption=none&host=blog.ruangguru.com.servpn.my.id&type=ws&sni=blog.ruangguru.com.servpn.my.id#→ @Hddify
