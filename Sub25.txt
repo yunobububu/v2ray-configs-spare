@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://96b2ced2-bc96-4dcf-f792-2a21f5b58ac6@151.101.3.8:80?mode=auto&path=/@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam?ed=2048&security=&encryption=none&host=Mahsazxshop.org&type=xhttp#t.me/iProxyChannel 12
+vless://96b2ced2-bc96-4dcf-f792-2a21f5b58ac6@151.101.3.8:80?mode=auto&path=/@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam?ed=2048&security=&encryption=none&host=Mahsazxshop.org&type=xhttp#t.me/iProxyChannel 30
+vless://96b2ced2-bc96-4dcf-f792-2a21f5b58ac6@151.101.3.8:80?mode=auto&path=/@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam?ed=2048&security=&encryption=none=@confiig_hub---@confiig_hub---@confiig_hub---@confiig_hub---@confiig_hub---@confiig_hub---@confiig_hub---@confiig_hub---@confiig_hub&host=Mahsazxshop.org&type=xhttp#@confiig_hub
 vless://96b2ced2-bc96-4dcf-f792-2a21f5b58ac6@151.101.3.8:80?type=xhttp&path=/@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam?ed=2048&host=Mahsazxshop.org&mode=auto&security=none#🇩🇪 | XpnTeam - Telegrams-hgqeleif
 vless://96be492b-3388-4693-be03-9caefe6dfff5@46.62.128.241:8443?security=reality&encryption=none&pbk=r3FLw76bxhgit74mzJTglRM-ujPZ9f-HemByQ-uZqms&host=mci.ir&headerType=none&fp=chrome&type=tcp&sni=refersion.com&sid=27e6b66aa77662fb#Telegram : @Alfa_v2ray_ng 🔥
 vless://96be492b-3388-4693-be03-9caefe6dfff5@91.98.38.6:8443?security=reality&encryption=none&pbk=r3FLw76bxhgit74mzJTglRM-ujPZ9f-HemByQ-uZqms&host=mci.ir&headerType=none&fp=chrome&type=tcp&sni=refersion.com&sid=27e6b66aa77662fb#𝗝𝗼𝗶𝗻 ➠ @PlanB_Proxy | کانال ما 🆔
@@ -93,7 +96,6 @@ vless://9abe19f4-a3ea-4a00-bb52-121c0da7a33a@azizisearch.com:2095?path=/&securit
 vless://9ac0168d-dffd-44bf-87cb-ad16055ca8cc@tab1.mgpingmg.shop:8880?encryption=none&security=none&type=tcp&headerType=none#@Daily_Configs
 vless://9ac0168d-dffd-44bf-87cb-ad16055ca8cc@tab1.mgpingmg.shop:8880?security=&encryption=none&headerType=none&type=tcp#@DropCube⚡❤️‍🔥
 vless://9ac0168d-dffd-44bf-87cb-ad16055ca8cc@tab1.mgpingmg.shop:8880?security=none&encryption=none&headerType=none&type=tcp#@Selinc
-vless://9ac0168d-dffd-44bf-87cb-ad16055ca8cc@tab1.mgpingmg.shop:8880?security=none&encryption=none&headerType=none&type=tcp#🇩🇪@FreakConfig
 vless://9ac0168d-dffd-44bf-87cb-ad16055ca8cc@tab1.mgpingmg.shop:8880?type=tcp&headerType=none&security=none#[🇩🇪]ae_proxy
 vless://9aeec840-1c63-4836-b085-f5480a51d858@185.146.173.117:2095?path=/telegram-radixvpn,telegram-radixvpn,telegram-radixvpn,telegram-radixvpn,telegram-radixvpn,telegram-radixvpn?ed=2560&security=&encryption=none&host=gggooooooooooooooooooogggoooooolimaaaaaaaaaagoooooooli.torob.com.myloveiran.site.&type=httpupgrade#@Mrconfig_Channel 🩵
 vless://9af68224-c0ba-4323-a86c-f095b88a26e8@tt1.hennessypro.site:4001?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#کانال+تلگرام+AYMH19@
@@ -251,5 +253,3 @@ vless://Parsashonam-299@185.146.173.39:8880?encryption=none&security=none&type=h
 vless://Parsashonam-299@185.146.173.39:8880?path=/Parsashonam-Parsashonam-Parsashonam/?ed=2056&security=&encryption=none&host=De.Parsashonam.CfD.&type=httpupgrade#Telegram : @Dropcube
 vless://Parsashonam-299@185.146.173.39:8880?path=/Parsashonam-Parsashonam-Parsashonam/?ed=2056&security=&encryption=none&host=De.Parsashonam.CfD.&type=httpupgrade#t.me/iProxy_Channel 17
 vless://Parsashonam-299@185.146.173.39:8880?path=/Parsashonam-Parsashonam-Parsashonam/?ed=2056&security=none&encryption=none&host=De.Parsashonam.CfD.&type=httpupgrade#Telegram : @Alfa_v2ray_ng 🔥
-vless://Parsashonam-299@[2a01:4f8:1c1a:dc2b::1]:8888?security=none&encryption=none&headerType=none&type=tcp#@V2RAYNG_1378
-vless://Parsashonam-300@[2a01:4f8:1c1a:dc2b::1]:8888?security=none&encryption=none&headerType=none&type=tcp#𝗝𝗼𝗶𝗻 ➠ @PlanB_Proxy | کانال ما 🆔
