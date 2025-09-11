@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://f3af923e-ecfe-46d5-9c27-4ff95f739afe@91.99.142.198:443?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#t.me/iProxy_Channel 13
 vless://f3af923e-ecfe-46d5-9c27-4ff95f739afe@91.99.142.198:443?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#t.me/iProxy_Channel 8
 vless://f3af923e-ecfe-46d5-9c27-4ff95f739afe@91.99.142.198:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#@v2ray313 کانالمون 🥲
 vless://f3af923e-ecfe-46d5-9c27-4ff95f739afe@91.99.142.198:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#All-@IRAN_V2RAY1
@@ -253,3 +252,4 @@ vless://fd26fb23-ac3a-489e-bed0-2fae23817105@FASTSHOVPNTELEGRAM2.vinamarketcente
 vless://fd28cfbd-232f-4549-ae7f-55647ebdfada@www.speedtest.net:80?path=/@CUSTOMIZEROBOT---@CUSTOMIZEROBOT---@CUSTOMIZEROBOT---@CUSTOMIZEROBOT/www.speedtest.net?ed=2080&security=none&encryption=none&host=s1.VPNCUSTOMIZE.dNs-dynamic.neT.&type=ws#@v2rayng_fars🇩🇪
 vless://fd3e360e-8062-474b-89cf-60e89fe98792@gozarfreebot.niniweblog.org:1532?security=reality&encryption=none&pbk=je4uYCrtNGS3LBJfenTpUCN0SZ6TVFfXLzvgzlf5SFw&headerType=none&fp=chrome&spx=/&type=tcp&sni=refersion.com&sid=c84890a0dbd04aa9#🇺🇦 v2rayng (DE)🔐-confegraigan
 vless://fd8be803-c16f-4d8f-9dcd-cbad92be1100@js.document.lat:80?mode=auto&path=/&security=none&encryption=none&extra={"scMaxEachPostBytes": "1000000", "scMaxConcurrentPosts": 100, "scMinPostsIntervalMs": 30, "xPaddingBytes": "100-1000", "noGRPCHeader": false}&host=imam-ali.global.ssl.fastly.net.&type=xhttp#@CaV2ray ⚡️
+vless://fd9a3396-e9a4-45b5-93b9-a0bed3f8b309@172.66.132.196:443?path=/Tel-@V2ray_Alpha=?ed=2560&security=tls&encryption=none&fp=chrome&type=ws&sni=r6.sanam.dpdns.org#@Mrconfig_Channel 🩵

@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://e60ac179-ff5e-4c01-88be-1d221cb8e61a@172.66.40.99:8080?path=/@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet&security=none&encryption=none&host=υρρσят-多言語-دعم.snaptripupport.space.&type=ws#🇩🇪@FreakConfig
 vless://e60ac179-ff5e-4c01-88be-1d221cb8e61a@172.66.40.99:8080?type=ws&path=/@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet&host=υρρσят-多言語-دعم.snaptripupport.space.&security=none#@Maznet-46177-1
 vless://e6236ebc-7334-4bed-977f-0c20bcdfcc00@104.16.77.87:443?path=/&security=tls&encryption=none&host=barayeiranmahsang.ghormehsabzi.dpdns.org&type=ws&sni=barayeiranmahsang.ghormehsabzi.dpdns.org#Telegram : @Alfa_v2ray_ng 🔥
 vless://e6236ebc-7334-4bed-977f-0c20bcdfcc00@104.18.26.90:443?path=/?ed=#TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512&security=tls&alpn=h3,h2&encryption=none&host=barayeiranmahsang.ghormehsabzi.dpdns.org&fp=chrome&type=ws&sni=barayeiranmahsang.ghormehsabzi.dpdns.org#t.me/iProxy_Channel 21
@@ -253,3 +252,4 @@ vless://ec7de7e0-3f09-4ef4-8a34-e441917d65fa@repo-mobile.org:2096?path=/proxyip=
 vless://ec8a65ad-aafc-4095-9b8c-ea10890ca629@154.92.9.46:443?encryption=none&security=tls&sni=simorgh.hpcode.ir&fp=chrome&type=ws&host=simorgh.hpcode.ir&path=/Javid-SHAH-KingRezaPahlavi/?ed=2560#@Golestan_VPN - JOIN
 vless://ec8a65ad-aafc-4095-9b8c-ea10890ca629@154.92.9.46:443?path=/Javid-SHAH-KingRezaPahlavi/?ed=2560&security=tls&alpn=h2,http/1.1&encryption=none&host=simorgh.hpcode.ir&fp=chrome&type=ws&sni=simorgh.hpcode.ir#@CaV2ray ⚡️
 vless://ec8a65ad-aafc-4095-9b8c-ea10890ca629@154.92.9.46:443?path=/Javid-SHAH-KingRezaPahlavi/?ed=2560&security=tls&encryption=none&host=simorgh.hpcode.ir&fp=chrome&type=ws&sni=simorgh.hpcode.ir#@CaV2ray ⚡️
+vless://ec906c46-8a02-4148-f560-364d5579a0cf@104.17.147.22:2052?path=/@vmessorg----@vmessorg-----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg?ed=2480&security=none&encryption=none&host=Vmessorg.paradoxone.ir&type=ws#@bored_vpn
