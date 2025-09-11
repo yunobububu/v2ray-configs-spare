@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@45.131.4.85:80?path=𝐅𝐑𝐄𝐄𝐕𝟐𝐑𝐍𝐆&security=&encryption=none&host=zoomgov.vipren.biz.id&type=ws#🇮🇷𝐣𝐨𝐢𝐍-@𝐅𝐑𝐄𝐄𝐕𝟐𝐑𝐍𝐆
 vless://2036e2c3-18a5-4eed-9db4-f91a7f02c7d5@45.131.7.0:80?path=/193.123.81.105=443&security=none&encryption=none&host=zoomgov.vipren.biz.id&type=ws#Join @Dropcube
 vless://2049f149-9bae-4527-b60d-30b8dbd6dc60@Tab2.MGpingMG.shop:8880?security=none&encryption=none&host=Join---i10VPN---Join---i10VPN---Join---i10VPN---Join---i10VPN&headerType=none&type=tcp#@i10VPN 🚀| با ما متصل بمون⚡
 vless://2054405e-70ff-40a2-ae27-16b63d72390a@dedicated-development.seotoolsforyou.co.uk:80?path=/&security=none&encryption=none&type=ws#💎 @AblNet7 💎
@@ -252,4 +253,3 @@ vless://2bcfbfba-b446-4ad5-93ad-72af9e008f61@70.34.248.173:444?path=/free/1.177.
 vless://2bcfbfba-b446-4ad5-93ad-72af9e008f61@92.243.74.23:2096?path=/free/1.177.76.215:10026&security=tls&alpn=h3&encryption=none&host=tcp.biz.id&fp=chrome&type=ws&sni=tcp.biz.id#Channel id: @singbox1 🇰🇭
 vless://2bcfbfba-b446-4ad5-93ad-72af9e008f61@icook.tw:443?path=/free/1.177.76.215:10026&security=tls&alpn=h3&encryption=none&host=tcp.biz.id&fp=chrome&type=ws&sni=tcp.biz.id#@i10VPN 🚀| با ما متصل بمون⚡
 vless://2c102887-2209-42c3-ffb1-35a5ddd831a9@104.26.11.194:80?flow=&type=ws&host=joinbdebe.vmessorg.ir&path=/@vmessorg----@vmessorg-----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg?ed=2480&security=none#🇩🇪 Telegram @SRCVPN
-vless://2c102887-2209-42c3-ffb1-35a5ddd831a9@cumhuriyet.com.tr:80?flow=&type=ws&host=Vmessorg.paradoxone.ir&path=/@vmessorg----@vmessorg-----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg?ed=2480&security=none#@vmessorg
