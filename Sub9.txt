@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://0d0782a3-2c62-4936-b893-5790188778ea@104.19.144.33:443?path=/?𝐅𝐑𝐄𝐄𝐕𝟐𝐑𝐍𝐆&security=tls&alpn=h3,h2&encryption=none&host=WjHqY539h6.V2dArK1.iNfO&fp=chrome&type=ws#🇨🇦𝐣𝐨𝐢𝐍-@𝐅𝐑𝐄𝐄𝐕𝟐𝐑𝐍𝐆
-vless://0d0782a3-2c62-4936-b893-5790188778ea@104.19.144.33:8443?path=/&security=tls&alpn=h3,h2&encryption=none&host=03Pz2UaTr4.GiGa1.OrG&fp=chrome&type=ws#🇨🇦𝐣𝐨𝐢𝐍-@𝐅𝐑𝐄𝐄𝐕𝟐𝐑𝐍𝐆
-vless://0d0782a3-2c62-4936-b893-5790188778ea@104.19.144.33:8443?path=/?𝐅𝐑𝐄𝐄𝐕𝟐𝐑𝐍𝐆&security=tls&alpn=h3,h2&encryption=none&host=0FwUb7BcVt.GiGa3.OrG&fp=chrome&type=ws#🇨🇦𝐣𝐨𝐢𝐍-@𝐅𝐑𝐄𝐄𝐕𝟐𝐑𝐍𝐆
 vless://0d0782a3-2c62-4936-b893-5790188778ea@104.19.144.33:8443?path=/?𝐅𝐑𝐄𝐄𝐕𝟐𝐑𝐍𝐆&security=tls&alpn=h3,h2&encryption=none&host=QsSiJf7PbV.gIgA3.oRg&fp=chrome&type=ws#🇨🇦𝐣𝐨𝐢𝐍-@𝐅𝐑𝐄𝐄𝐕𝟐𝐑𝐍𝐆
 vless://0d0f0fea-64be-46fb-bb98-f8d5f5740752@104.21.80.1:443?path=/8fyir2diSmB8lAKc/NDQuMjI0LjI0LjkxLDE4LjE4My4xNTguMjEx&security=tls&alpn=http/1.1&encryption=none&host=schqqn0yhrrs34qn3a2k4i6g9xap1tph.pages.dev&type=ws&sni=SchQqn0yHRRS34QN3a2k4i6G9xap1TpH.pAgEs.dEV#t.me/iProxy_Channel 14
 vless://0d2b6505-c554-43db-95f0-0b51bac41f48@199.232.208.18:80?mode=auto&path=/msproxyx&security=none&encryption=none&host=aliirancel12.global.ssl.fastly.net&type=xhttp#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
@@ -253,3 +250,6 @@ vless://142dd8b5-0b9e-4018-a961-2370d50cc435@185.215.228.90:20118?security=none&
 vless://1451591f-16c6-4fb1-ac11-4867a4f50e72@161.35.202.165:55093?security=none&type=tcp&headerType=none&path=&host=#⚡ [🇩🇪] [Direct] CodeClubiR-Join-us
 vless://1451591f-16c6-4fb1-ac11-4867a4f50e72@37.202.237.244:55094?security=none&type=tcp&headerType=none&path=&host=#[🇩🇪] [Tunnel] [1] CodeClubiR-Join-us
 vless://148709e4-402b-48dd-8892-ed39b55ea45c@104.18.26.90:80?path=/&security=none&encryption=none&host=barayeiranmahsang.loseyourself.dpdns.org&type=ws#@Golestan_VPN 👈 چنل
+vless://148709e4-402b-48dd-8892-ed39b55ea45c@104.18.26.90:80?path=/?ed=2560&security=&encryption=none&host=barayeiranmahsang.loseyourself.dpdns.org&fp=chrome&type=ws&sni=barayeiranmahsang.loseyourself.dpdns.org#@injastvpn
+vless://148709e4-402b-48dd-8892-ed39b55ea45c@104.18.26.90:80?path=/?ed=2560&security=none&encryption=none&host=barayeiranmahsang.loseyourself.dpdns.org&fp=chrome&type=ws&sni=barayeiranmahsang.loseyourself.dpdns.org#🚀کانال تلگرام : injastvpn@
+vless://148709e4-402b-48dd-8892-ed39b55ea45c@104.18.26.90:80?path=@vpnserverrr&security=none&encryption=none&host=barayeiranmahsang.loseyourself.dpdns.org&type=ws#🚀کانال تلگرام : injastvpn@

@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://148709e4-402b-48dd-8892-ed39b55ea45c@104.18.26.90:80?path=/?ed=2560&security=&encryption=none&host=barayeiranmahsang.loseyourself.dpdns.org&fp=chrome&type=ws&sni=barayeiranmahsang.loseyourself.dpdns.org#@injastvpn
-vless://148709e4-402b-48dd-8892-ed39b55ea45c@104.18.26.90:80?path=/?ed=2560&security=none&encryption=none&host=barayeiranmahsang.loseyourself.dpdns.org&fp=chrome&type=ws&sni=barayeiranmahsang.loseyourself.dpdns.org#🚀کانال تلگرام : injastvpn@
-vless://148709e4-402b-48dd-8892-ed39b55ea45c@104.18.26.90:80?path=@vpnserverrr&security=none&encryption=none&host=barayeiranmahsang.loseyourself.dpdns.org&type=ws#🚀کانال تلگرام : injastvpn@
 vless://148709e4-402b-48dd-8892-ed39b55ea45c@172.67.56.112:80?path=/BaRAyeIran?ed=2560&security=none&encryption=none&host=entezar.loseyourself.dpdns.org&type=ws#@CaV2ray ⚡️
 vless://148ab94f-a243-4125-b0cc-464686fb9388@ir2.servertopia.top:4555?type=tcp&security=none#🇮🇷join @Evay_vpn🚀
 vless://148ab94f-a243-4125-b0cc-464686fb9388@ir2.servertopia.top:4555?type=tcp&security=none#🇮🇷join @Evay_vpn🚀  🛍برای کانفیگ های بیشتر جوین بشید :  @Evay_vpn | @Evay_vpn @Evay_vpn | @Evay_vpn @Evay_vpn
@@ -253,3 +250,6 @@ vless://1bb67568-99ca-42cb-a196-c87bf76948a8@104.18.26.90:2096?path=/dbjfngws&se
 vless://1bbf3b87-5f9d-4358-8a40-3cf9ab65332c@Zula.ir:8443?mode=auto&path=/ed?/ooAjjjjjAAdyujh7=8443&security=tls&alpn=h3&encryption=none&host=har.harchi.monster&fp=chrome&type=xhttp&sni=har.harchi.monster#@ev2rayy mci
 vless://1bbf3b87-5f9d-4358-8a40-3cf9ab65332c@Zula.ir:8443?mode=auto&path=/ed?/ooAjjjjjAAdyujh7=8443&security=tls&alpn=h3,h2,http/1.1&encryption=none&host=har.harchi.monster&fp=chrome&type=xhttp&sni=har.harchi.monster#@ev2rayy mtn
 vless://1bbf3b87-5f9d-4358-8a40-3cf9ab65332c@zula.ir:8443?mode=auto&path=/ed?/ooAjjjjjAAdyujh7=8443&security=tls&alpn=h3&encryption=none&host=Main.kasler.lol&fp=chrome&type=xhttp&sni=main.kasler.lol#@ev2rayy mci
+vless://1bbf3b87-5f9d-4358-8a40-3cf9ab65332c@zula.ir:8443?mode=auto&path=/ed?/ooAjjjjjAAdyujh7=8443&security=tls&alpn=h3&encryption=none&host=Main.kasler.lol&fp=chrome&type=xhttp&sni=main.kasler.lol#@ev2rayy mtn
+vless://1bbf3b87-5f9d-4358-8a40-3cf9ab653388@Zula.ir:8443?mode=auto&path=/ed?/ooAjjjjjAAdyujh7=8443&security=tls&alpn=h3&encryption=none&host=har.harchi.monster&fp=chrome&type=xhttp&sni=har.harchi.monster#@ev2rayy mci
+vless://1bbf3b87-5f9d-4358-8a40-3cf9ab653388@Zula.ir:8443?mode=auto&path=/ed?/ooAjjjjjAAdyujh7=8443&security=tls&alpn=h3,h2,http/1.1&encryption=none&host=har.harchi.monster&fp=chrome&type=xhttp&sni=har.harchi.monster#@ev2rayy mtn
