@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://12b9f991-3e67-46f5-938f-7430bfb1adc4@fr-node.vipclubiran.ir:47193?security=reality&encryption=none&pbk=Q9KrxctP_L5fT1sL_sQLejDpNn7KdH1b-wZ_GR0UtX4&headerType=none&fp=chrome&type=tcp&sni=refersion.com&sid=f414e49bc35be542#🇨🇵@FreakConfig
 vless://12b9f991-3e67-46f5-938f-7430bfb1adc4@us-node.vipclubiran.ir:47193?security=reality&encryption=none&pbk=Q9KrxctP_L5fT1sL_sQLejDpNn7KdH1b-wZ_GR0UtX4&headerType=none&fp=chrome&type=tcp&sni=refersion.com&sid=f414e49bc35be542#🇺🇲@FreakConfig
 vless://12c11e60-d800-46f3-9230-f3d63d79c986@188.114.98.68:80?path=/@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast-@V2ngFast?ed=2048&security=&encryption=none&host=v2ngfast.nanvrfood.ir.&type=httpupgrade#🇩🇪 @V2ngFast
 vless://12d5ffb5-4d83-4631-c3e4-fd87b8b1a843@151.101.3.8:80?type=xhttp&path=/@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam?ed=2048&host=Mahsazxshop.org&mode=auto&security=none#🇩🇪 | XpnTeam - Telegrams-oyjleyb3
@@ -252,4 +253,3 @@ vless://1f5cfb7a-c03e-4779-b91f-a24e442e2a8f@sss80133.tas-bazi.com:443?mode=stre
 vless://1f5cfb7a-c03e-4779-b91f-a24e442e2a8f@sss80133.tas-bazi.com:443?mode=stream-one&path=/asd&security=none&encryption=none&type=xhttp#All-@IRAN_V2RAY1
 vless://1f5cfb7a-c03e-4779-b91f-a24e442e2a8f@sss90869.tas-bazi.com:443?mode=stream-one&path=/asd&security=none&encryption=none&type=xhttp#@V2RAYNG_1378
 vless://1f5cfb7a-c03e-4779-b91f-a24e442e2a8f@sss90869.tas-bazi.com:443?mode=stream-one&path=/asd&security=none&encryption=none&type=xhttp#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
-vless://1f8626cd-5c2e-4887-b906-75396cde1423@EVAY_VPN.fast.hosting-ip.com:80?type=xhttp&mode=auto&host=p30download.ir&path=/?ed=2048@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn&security=none#🇩🇪 | @Evay_vpn
