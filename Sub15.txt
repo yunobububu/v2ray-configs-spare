@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://6f690965-3be3-43bb-9331-3ead6efb20aa@104.18.26.90:80?path=/?ed&security=none&encryption=none&host=sib.sibzamini.dpdns.org&type=ws#🚀کانال تلگرام : injastvpn@
 vless://6f690965-3be3-43bb-9331-3ead6efb20aa@104.18.26.90:80?path=/?ed=#=?ed=2560&security=none&encryption=none&host=sib.sibzamini.dpdns.org&type=ws#🚀کانال تلگرام : injastvpn@
 vless://6f690965-3be3-43bb-9331-3ead6efb20aa@104.18.26.90:80?path=/?ed=2560&security=none&encryption=none&host=sib.sibzamini.dpdns.org&type=ws#@Mrconfig_Channel 🩵
 vless://6f690965-3be3-43bb-9331-3ead6efb20aa@104.18.26.90:80?path=/?ed=2560&security=none&encryption=none&host=sib.sibzamini.dpdns.org&type=ws#🚀کان
@@ -253,3 +252,4 @@ vless://78e3cff7-75e1-4418-9db0-b3a00aece703@104.17.148.22:2052?path=/@vmessorg-
 vless://78e3cff7-75e1-4418-9db0-b3a00aece703@104.26.4.112:2052?path=/@vmessorg----@vmessorg-----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg?ed=2480&security=none&encryption=none&host=Vmessorg.paradoxone.ir&type=ws#@bored_vpn
 vless://78e3cff7-75e1-4418-9db0-b3a00aece703@numberland.ir:2052?flow=&type=ws&host=Vmessorg.paradoxone.ir&path=/@vmessorg----@vmessorg-----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg?ed=2480&security=none#@vmessorg
 vless://78e3cff7-75e1-4418-9db0-b3a00aece703@www.speedtest.net:2052?flow=&type=ws&host=Vmessorg.paradoxone.ir&path=/@vmessorg----@vmessorg-----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg?ed=2480&security=none#@vmessorg
+vless://79265bcd-e650-42de-ab50-83fbc9089a18@172.66.40.99:80?path=/Join-ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON&security=none&encryption=none&host=f.jOin.zEdMoDeOn.oNl.&type=ws#@bored_vpn
