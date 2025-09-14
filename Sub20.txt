@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://a59152d5-6421-4719-9e07-460dabe5b608@51.89.118.126:80?mode=gun&security=&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#🇩🇪@FreakConfig
 vless://a59152d5-6421-4719-9e07-460dabe5b608@51.89.118.126:80?mode=gun&security=none&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#Telegram : @Alfa_v2ray_ng 🔥
 vless://a59152d5-6421-4719-9e07-460dabe5b608@51.89.118.126:80?mode=gun&security=none&encryption=none&type=grpc&serviceName=ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON#🇩🇪@FreakConfig
 vless://a5b6c7d8-e9f0-5678-1234-456789abcdef@51.82.89.185:443?type=tcp&encryption=none&sni=fast.com&fp=chrome&security=reality&pbk=XYZ9876543210fedcba9876543210fed#@CaV2ray ⚡️
@@ -252,4 +253,3 @@ vless://b21e6bf5-a65c-4d07-9d8d-c8f1b7e6b8c5@1.ariyanln.com:5051?mode=auto&path=
 vless://b24185c0-f815-48c8-b93c-ae82f7c8e493@5.75.204.151:2087?security=none&encryption=none&headerType=none&type=tcp#🇩🇪@FreakConfig
 vless://b24185c0-f815-48c8-b93c-ae82f7c8e493@5.75.204.151:8443?security=none&encryption=none&headerType=none&type=tcp#Telegram : @Alfa_v2ray_ng 🔥
 vless://b24185c0-f815-48c8-b93c-ae82f7c8e493@5.75.204.151:85?security=none&encryption=none&headerType=none&type=tcp#🇩🇪@FreakConfig
-vless://b243c2ae-83cf-4721-f777-72895c68183d@cumhuriyet.com.tr:80?type=ws&host=join-to-Vmessorg.sabadyt.ir&path=/@vmessorg----@vmessorg-----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg----@vmessorg?ed=2480&security=none#@ogsvpnbot خرید سرور
