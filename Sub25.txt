@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://30f2d443-af46-4dd6-83c9-b5e17299ebd2@104.26.15.69:2096?encryption=none&security=tls&sni=carlotta.shoorekeeper.cloudns.org&alpn=http%2F1.1&fp=randomized&type=ws&host=carlotta.shoorekeeper.cloudns.org&path=%2Fproxyip%3Dzani.yaemiko.ggff.net#%F0%9F%9A%A9%20CF%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40v2ray_youtube%20%5B1%5D
 vless://598d2298-5e1f-4d07-bc4b-6d1949693852@162.19.250.117:25921?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40v2ray_youtube%20%5B2%5D
 vmess://eyJ2IjoiMiIsImFkZCI6IjIwOS4xMjYuODQuMTg5IiwicG9ydCI6IjQ0MyIsImlkIjoiMmM5ODExNjQtOWI5My00YmNhLTk0ZmYtYjc4ZDNmODQ5OGQ3IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwiaG9zdCI6IjIwOS4xMjYuODQuMTg5IiwicGF0aCI6Ilwvdm1lc3N3cyIsInRscyI6IiIsInNuaSI6IiIsImFscG4iOiIiLCJmcCI6IiIsInBzIjoiXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4IFVTIHwgXHVkODNkXHVkZDEzIFZNRVNTIHwgQHYycmF5X3lvdXR1YmUgWzNdIn0
 vless://e807354d-c97b-4afb-88d0-f6cb3121954a@fqm.mhdizeb.cfd:2053?type=grpc&serviceName=&security=reality&fp=firefox&pbk=k6KsDDNr7BL2Kd4fHtEVLx2yUZNLgFcWo39AwmL1jRg&sni=www.pubg.com&sid=795f7e17&spx=%2Famomahdi#%E2%9D%94%20XX%20%7C%20%F0%9F%94%92%20VLESS%20%7C%20%40v2rayang201%20%5B7%5D
@@ -252,4 +253,3 @@ vless://401374e6-df77-41fb-f638-dad8184f175b@102.177.189.251:443?mode=gun&securi
 vless://401374e6-df77-41fb-f638-dad8184f175b@102.177.189.251:443?mode=gun&security=tls&alpn=h2&encryption=none&fp=chrome&type=grpc&sni=pqh23v4.hiddendom.shop#%3E%3E%40ultrasurf_12%3A%3AUS
 vless://401374e6-df77-41fb-f638-dad8184f175b@94.247.142.103:443?mode=gun&security=tls&encryption=none&type=grpc&sni=pqh23v5.hiddendom.shop#%3E%3E%40outlinev2rayng%3A%3AUS
 hy2://dongtaiwang.com@208.87.243.187:22222/?insecure=1&sni=www.bing.com#%3E%3E%40shadowproxy66%3A%3AUS
-vless://401374e6-df77-41fb-f638-dad8184f175b@141.193.213.214:443?mode=gun&security=tls&encryption=none&type=grpc&sni=pqh23v5.hiddendom.shop#%3E%3E%40FreakConfig%3A%3AUS
