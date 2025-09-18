@@ -3,6 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://6897c181-24b1-4880-8660-e6c5c7ee13c7@92.60.78.221:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.tradingview.com&fp=chrome&pbk=pkIWxbuPAasjatPaHnAaTnCxVj1RkDFsJEWpLUTOcWY&sid=9917d2350096&type=tcp&headerType=none#@AYMH19 کانال تلگرام
+vless://6899393a-9311-45f3-b657-ffd1689bb725@Subfourteen.iranfreedomserver.com:7005?security=reality&encryption=none&pbk=VkxXfuqbYbk_b_KzkphMsR4apMZXAcfnWKAErqyghlY&headerType=none&fp=chrome&type=tcp&sni=refersion.com#@CaV2ray ⚡️
+vless://68adadb6-8159-4b39-9d6b-d3bc72b78e66@www.speedtest.net:8880?path=/@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config-@Alfred_Config?ed=2048&security=&encryption=none&host=www.speedtest.net.amin-app.ir&type=httpupgrade#🇩🇪@Alfred_Config
 vless://68b48eeb-5770-4eb3-9b77-deeb77a41ccf@104.17.147.22:80?path=/Telegram@V2ray_Alpha/?ed=2560&security=none&encryption=none&host=varzesh3.varzesh.dpdns.org&fp=chrome&type=ws&sni=varzesh3.varzesh.dpdns.org#@CaV2ray ⚡️
 vless://68b48eeb-5770-4eb3-9b77-deeb77a41ccf@172.66.138.99:80?path=/?ed=2570&security=none&encryption=none&host=varzesh3.varzesh.dpdns.org&type=ws#@CaV2ray ⚡️
 vless://68e6dee9-9448-49ba-a3b6-1cbcc7d5f199@m76a.vip784.com:33801?security=none&encryption=none&host=varzesh3.ir&headerType=http&type=tcp#@Hddify
@@ -250,6 +253,3 @@ vless://784646e5-8e84-4672-8670-efc9cafcd2cc@212.95.34.32:443/?type=ws&encryptio
 vless://784646e5-8e84-4672-8670-efc9cafcd2cc@212.95.34.4:443/?type=ws&encryption=none&flow=&path=/&security=tls&allowInsecure=1#🇩🇪 Germany ws+tls (2cc)
 vless://784646e5-8e84-4672-8670-efc9cafcd2cc@212.95.34.4:443?path=/&security=tls&encryption=none&type=ws#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
 vless://784646e5-8e84-4672-8670-efc9cafcd2cc@212.95.34.4:443?path=/?ed=2048@V2Gatee--V2Gatee--V2Gatee--V2Gatee-V2Gatee--V2Gatee--V2Gatee--V2Gatee--V2Gatee--V2Gatee--V2Gatee--V2Gatee--V2Gatee--V2Gatee--V2Gatee&security=tls&encryption=none&type=ws#𝗝𝗼𝗶𝗻 ➠ 𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦: @V2Gatee
-vless://784646e5-8e84-4672-8670-efc9cafcd2cc@212.95.34.5:443/?type=ws&encryption=none&flow=&path=/&security=tls&allowInsecure=1#🇩🇪 Germany ws+tls (2cc)
-vless://784646e5-8e84-4672-8670-efc9cafcd2cc@212.95.34.6:443/?type=ws&encryption=none&flow=&path=/&security=tls&allowInsecure=1#🇩🇪 Germany ws+tls (2cc)
-vless://784646e5-8e84-4672-8670-efc9cafcd2cc@212.95.34.6:443?path=/&security=tls&encryption=none&type=ws#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
