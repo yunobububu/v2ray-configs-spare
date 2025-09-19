@@ -3,6 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
+vless://3e7f67de-648e-4871-b51a-a225214d41ee@8.208.53.56:443?allowInsecure=1&sni=evt.ilovepdf.com&fp=chrome&security=tls#GB_speednode_0012
 vless://6035325d-399a-5148-9126-29cedfd5966a@185.39.207.121:443?allowInsecure=0&sni=outlook.office.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#GR_speednode_0013
 trojan://1640ef52-2db0-44ab-b3f3-8690b762ebc9@165.154.112.107:12000?allowInsecure=1&sni=aliyun.com#HK_speednode_0014
 vless://3e7f67de-648e-4871-b51a-a225214d41ee@147.45.51.160:443?allowInsecure=1&sni=api.company-target.com&fp=chrome&security=tls#IT_speednode_0018
@@ -252,4 +253,3 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2Yzc2YTBmMS01YzY4LTRhYTEtYWNlMy1jMGZmNmQ3MzJ
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2ZDhlYjY1Ny0zZDRlLTQ5ZDktYWMxNi0yOTY4YzVlOGQxYTM=@114.46.85.6:10076#🇹🇼[🔐 @AblNet7  ] ss-TW
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2ZjdmYzRlYS1iZWY0LTRlZWMtYWU1NC1kNzE4Nzc3ZWJjOTQ=@36.232.76.84:10139#@HiByeVPNN👈⚡❤️‍🔥
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2ZjdmYzRlYS1iZWY0LTRlZWMtYWU1NC1kNzE4Nzc3ZWJjOTQ=@36.234.115.149:10003#@HiByeVPNN👈⚡❤️‍🔥
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3MmNiMjBiNi0xOWQxLTQ5ZjMtODg3Yi04MDEzMzFlOTMzNjk=@118.170.234.61:10041#🇹🇼[🔐 @AblNet7 ] ss-TW
