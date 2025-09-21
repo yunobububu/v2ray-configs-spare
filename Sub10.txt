@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://502ce704-dcec-4f92-9489-505c99ce6c89@172.66.40.99:2096?path=/&security=tls&encryption=none&fp=chrome&type=ws&sni=D10.ALanHIAHo.cOm#Channel : @vpnserverrr🏴🏳
 vless://502ce704-dcec-4f92-9489-505c99ce6c89@172.66.40.99:2096?path=/&security=tls&encryption=none&host=D20.alaNhIAhO.coM&type=ws&sni=D20.alaNhIAhO.coM#@IRAN_V2RAY1
 vless://502ce704-dcec-4f92-9489-505c99ce6c89@172.66.40.99:2096?path=/&security=tls&encryption=none&host=D20.alaNhIAhO.coM&type=ws&sni=D20.alaNhIAhO.coM#@Selinc
 vless://502ce704-dcec-4f92-9489-505c99ce6c89@172.66.40.99:2096?path=/&security=tls&encryption=none&host=D20.alaNhIAhO.coM&type=ws&sni=D20.alaNhIAhO.coM#@i10VPN 🚀| با ما متصل بمون⚡
@@ -253,3 +252,4 @@ vless://5d2eb11f-0138-490d-9781-f9cfb60c1766@margate2.superip.ir:3006?type=xhttp
 vless://5d2eb11f-0138-490d-9781-f9cfb60c1766@mstr.fastly80.hosting-ip.com:80?path=/admin&security=none&encryption=none&host=Gn8656.io&type=ws#@vpnserverrr
 vless://5d2eb11f-0138-490d-9781-f9cfb60c1766@mstr.fastly80.hosting-ip.com:80?path=/admin?ed=2048@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN&security=&encryption=none&host=Gn8656.io&type=ws#@HiByeVPNN👈⚡❤️‍🔥
 vless://5d2eb11f-0138-490d-9781-f9cfb60c1766@mstr.fastly80.hosting-ip.com:80?path=/admin?ed=2048@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN&security=none&encryption=none&host=Gn8656.io&type=ws#@HiByeVPNN👈⚡❤️‍🔥
+vless://5d2eb11f-0138-490d-9781-f9cfb60c1766@mstr.fastly80.hosting-ip.com:80?path=/admin?ed=2048@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN--@HiByeVPNN&security=none&encryption=none&host=Gn8656.io&type=ws#Allـ@Iran_v2ray1
