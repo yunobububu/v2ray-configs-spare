@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://26182dea-6433-4169-8a47-57f1d43eafe2@zula-game.karaj-game-farsi.ir:443?type=grpc&serviceName=/@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM----------@VPN_ROOM--------@VPN_ROOM&authority=&security=reality&pbk=UUYC2_gNNVUIpGrNghmPKdJZRwbF0elm-cpKW8W2cWU&fp=chrome&sni=www.cdn77.com&sid=&spx=/#Telegram : @VPN_ROOM🇩🇪
 vless://261c4457-9d81-45a8-b519-b704d642d077@speedtest.net:80?mode=auto&path=/?ed=2560&security=none&encryption=none&host=iran.book.library.ir&type=xhttp#۳۰ گیگ ۹۵ تومن بخ
 vless://261c4457-9d81-45a8-b519-b704d642d077@speedtest.net:80?mode=auto&path=/?ed=2560&security=none&encryption=none&host=iran.book.library.ir&type=xhttp#۳۰ گیگ ۹۵ تومن بخر راحت شو
 vless://2650893f-269a-417e-8881-a852970f336a@Free.Connection.rptmsvmvm.top:8080?security=reality&encryption=none&pbk=b2B8-RSRh4QIIvs3UiqbWmz_50oSm8vSANP0km-MygA&headerType=none&fp=chrome&spx=/&type=tcp&sni=journalofbigdata.springeropen.com&sid=c7c386c0#با ۵۰ تومن سرور اختصاصی بخر راحت شو
@@ -253,3 +252,4 @@ vless://35372035-3320-4438-a035-312035342031@57.129.15.177:8442?encryption=none&
 vless://353ae6e9-b8b8-41eb-bf45-cd2bcd9adb61@193.151.147.139:1991?security=none&encryption=none&host=bama.ir&headerType=http&type=tcp#@CaV2ray ⚡️
 vless://353ae6e9-b8b8-41eb-bf45-cd2bcd9adb61@rose1.camellia2.shop:1991/?encryption=none&host=bama.ir&type=tcp&headerType=http#@Geek_Spot
 vless://3575bdad-99d2-4742-a3ed-c7fc7bdaa60d@172.67.223.232:443?security=tls&encryption=none&type=ws&host=MARgBarsefASEd-MOlA-CHapI-MOJaheD.PAGes.deV&path=/Telegram@V2ray_Alpha/?ed=2048&sni=maRgBarSEFASEd-molA-cHApI-moJaHED.PaGeS.Dev&fp=chrome&alpn=h2,http/1.1#Awlix_ir
+vless://35a0361a-c0d4-42e0-9022-b3c9f647837d@167.235.67.79:11260/?encryption=none&host=fast.com&type=tcp&headerType=http#@Geek_Spot

@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-vless://TELEGRAM-NUFiLTER@test.fast.hosting-ip.com:80?mode=auto&path=/telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER?ed=80&security=none&encryption=none&host=Aame.global.ssl.fastly.net&type=xhttp#@CaV2ray ⚡️
 vless://TELEGRAM-NUFiLTER@test.fast.hosting-ip.com:80?mode=auto&path=/telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER?ed=80&security=none&encryption=none&host=asebemee.global.ssl.fastly.net&type=xhttp#@CaV2ray ⚡️
 vless://Tel: V2ray1_Ng@91.107.181.28:2050?mode=gun&security=reality&encryption=none&authority=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&pbk=ezDK7fd9ieu1_0tDnmurxVheIpDpXofzBRovR8nCtTI&fp=chrome&spx=/&type=grpc&sni=journalofbigdata.springeropen.com&sid=3078f8f691b6b4#🇩🇪 | @External_Net
 vless://Telegram---SRCVPN@91.107.129.66:3080?type=grpc&serviceName=&authority=-@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN---@SRCVPN&security=reality&pbk=ezDK7fd9ieu1_0tDnmurxVheIpDpXofzBRovR8nCtTI&fp=chrome&sni=journalofbigdata.springeropen.com&sid=3078f8f691b6b4&spx=/#🇩🇪 Telegram @SRCVPN
@@ -253,3 +252,4 @@ vless://b4938593-bc8a-48ee-afc5-5b479caf8f5b@www.speedtest.net:8443?type=httpupg
 vless://b4a4d764-5a3c-437a-a5e0-1c248831dbf9@135.181.38.189:20128?security=none&encryption=none&headerType=none&type=tcp#@Dropcube
 vless://b4a4d764-5a3c-437a-a5e0-1c248831dbf9@135.181.38.189:20128?security=none&encryption=none&headerType=none&type=tcp#WiFi-@IRAN_V2RAY1
 vless://b4b29c24-445e-4b9f-99e7-6d50607c39cb@www.speedtest.net:80/?type=ws&path=/@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--@ZedBaz_vpn--&host=zed.wtezar.site&security=none#@ZedBaz_vpn1
+vless://b4b8aa1f-77d2-4851-a5a4-f78886f3e997@138.124.186.201:443?security=reality&encryption=none&pbk=BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.bing.com#@AblNet7 🇮🇷 نت ملی

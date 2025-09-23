@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/epodonios/V2ray-config
 #profile-web-page-url: https://github.com/epodonios/V2ray-config
-ss://YWVzLTEyOC1nY206MTAwODZAMTUzLjEyMS41MS4yMTQ6MTAwODc=#v2cross.com
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNBQDQ1Ljg3LjE3NS45Mjo4MDgw#v2cross.com
 vmess://eyJhZGQiOiI0Ny44My4xNi4yOSIsImFpZCI6IjAiLCJob3N0IjoiIiwiaWQiOiI2MDIyNzJjMC0xOTE2LTQxZmUtOWI1My1mMWVmZDE0OWY5YmYiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjMwMjk4IiwicHMiOiJ2MmNyb3NzLmNvbSIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9```
 hysteria2://TELEGRAM-ID-mrknowsit.TELEGRAM-ID-mrknowsit@repuestoslibertad.cl.repuestoslibertad.cl:2084?security=tls&obfs=salamander&obfs-password=ed5s8665dsss&insecure=0#TELEGRAM-ID-free_vpv0088```
